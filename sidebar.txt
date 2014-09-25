@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ceb:home|Door43 (ceb)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[ceb:obs|Open Bible Stories (ceb)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ceb|d43-ceb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ceb/archive/master.zip|d43-ceb.zip]]
+
+**Recent Changes**
+{{changes>ns = ceb}}
+
+**Latest Status**
+{{page>en:uwadmin:ceb:obs:status}}
+
