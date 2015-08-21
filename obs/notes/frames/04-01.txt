@@ -1,28 +1,20 @@
-<h2>One People [04-01]</h2>
+===== One People [04-01] =====
 
-<div class="level2">
-<p><img alt="obs-en-04-01.jpg" class="media" src="/lib/exe/fetch.php?tok=48da41&amp;media=https%3A%2F%2Fapi.unfoldi ngword.org%2Fobs%2Fjpg%2F1%2Fen%2F360px%2Fobs-en-04-01.jpg" title="obs-en-04-01.jpg" /></p>
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-<p><b>Many years after the flood</b>, there were <b>again many people</b> in the world, and they all spoke the <b>same language</b>. Instead of filling the earth as <b>God</b> had commanded, they gathered together and built <b>a city</b>.</p>
-</div>
+**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
+===== Important Terms: =====
 
-<h2>Important Terms:</h2>
+  * **[[:en:obe:kt:god|God]]**
+===== Translation Notes: =====
 
-<div class="level2">
-<ul>
-	<li class="level1"><b><a class="wikilink1" href="/doku.php?id=en:obe:kt:god" title="en:obe:kt:god">God</a></b></li>
-</ul>
-</div>
+  * **many years after the flood**
+ - Many generations had passed since the end of the flood.
+  * **again many people**
+ - Noah's family multiplied into enough people to fill a city.
+  * **same language**
+ - This means there was only one language, so they could all understand each other.
+  * **a city**
+ - It is best to use a general word for "city" since the text does not give a specific name.
 
-<h2>Translation Notes:</h2>
-
-<div class="level2">
-<ul>
-	<li class="level1"><b>many years after the flood</b> - Many generations had passed since the end of the flood.</li>
-	<li class="level1"><b>again many people</b> - Noah&#39;s family multiplied into enough people to fill a city.</li>
-	<li class="level1"><b>same language</b> - This means there was only one language, so they could all understand each other.</li>
-	<li class="level1"><b>a city</b> - It is best to use a general word for &quot;city&quot; since the text does not give a specific name.</li>
-</ul>
-
-<p><b><a class="wikilink1" href="/doku.php?id=en:obs:notes:frames:03-16" title="en:obs:notes:frames:03-16">&lt;&lt;</a> | <a class="wikilink1" href="/doku.php?id=en:obs:notes:04" title="en:obs:notes:04">Up</a> | <a class="wikilink1" href="/doku.php?id=en:obs:notes:frames:04-02" title="en:obs:notes:frames:04-02">&gt;&gt;</a></b></p>
-</div>
+**[[:en:obs:notes:frames:03-16|<<]] | [[:en:obs:notes:04|Up]] | [[:en:obs:notes:frames:04-02|>>]]**
