@@ -5,8 +5,8 @@
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
 ===== Important Terms: =====
 
-  * **[[:en:obe:kt:god|God]]**
-  * **[[:en:obe:kt:good|good]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:good|good]]**
 ==== Translation Notes: ====
 
   * **God said**
@@ -24,4 +24,4 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
   * **creation**
 - This word is used here to refer to the six-day period during which God made everything that exists.
 
-**[[:en:obs:notes:frames:01-01|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-03|>>]]**
+**[[:ceb:obs:notes:frames:01-01|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-03|>>]]**
