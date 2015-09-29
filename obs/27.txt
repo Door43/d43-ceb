@@ -1,20 +1,23 @@
-====== 27. The Story of the Good Samaritan ======
+====== Ang istorya sa maayo nga Samaritanhon ======
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg}}
 
-One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal life?" Jesus answered, "What is written in God's law?"
+Usa ka adlaw,miduol ang usa ka tawo nga hanas sa balaod sa mga hudio aron pagasulayan si Hesus ug nangutana, "mag-tutudlo, unsay akong himoon aron maka-angkon ko ug kinabuhi nga walay katapusan?" mitubag si Hesus unsay nahisulat sa balaod sa Dios?
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg}}
 
-The law expert replied that God's law says, "Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself." Jesus answered, "You are correct! Do this and you will live."
+Mitubag ang hanas sa balaod, nga ang balaod sa Dios naga-ingon, higug-maa ang Dios sa tibuuk mong kasing-kasing, kalag, kusog ug huna-huna, ug higoog-maa ang imong silingan sama sa pag-higogma  nimo sa imong kaugalingon. Mitubag si Hesus,"tinood kana, himoa kini ug ikaw mabuhi."
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg}}
 
-But the law expert wanted to prove that he was righteous, so he asked, "Who is my neighbor?"
+Apan gusto sa hanas sa balaod nga pamatud-an nga siya matarong mao nga, gipangutana niya si Hesus. "kinsa man akong silingan?"
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg}}
@@ -25,7 +28,7 @@ Jesus answered the law expert by telling a story. "There was a Jewish man who wa
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg}}
 
-"While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away."
+"Samtang ga lakaw kining tawhana, gitulis siya sa usa grupo sa mga tulisan. gikuha nila tanan nga anaa kaniya ug gibun-og nila siya ug maayo hangtod nga hapit na siyang mamatay. ug gibiyaan nila kini."
 
 
 
@@ -63,6 +66,6 @@ Jesus answered the law expert by telling a story. "There was a Jewish man who wa
 
 Then Jesus asked the law expert, "What do you think? Which one of the three men was a neighbor to the man who was robbed and beaten?" He replied, "The one who was merciful to him." Jesus told him, "You go and do the same."
 
-//A Bible story from: Luke 10:25-37//
 
 
+// A Bible story from: Luke 10:25-37 //
