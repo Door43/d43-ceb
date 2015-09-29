@@ -59,7 +59,7 @@ Bisan kinsa nga musopak sa balaud sa Dios mudala ug mananap atubangan sa halaran
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg}}
 
-The people all agreed to obey the laws that God had given them, to worship only God, and to be his special people. But a short time after they promised to obey God, they sinned terribly.
+ang tanang katawhan nagkauyon sa patumanon ang balaod nga gihatag sa Dios kanila, sa pag simba ug usa ka Dios, ug sila ang panasahing katawhan. apan sa mubong panahun, human nga sila nisaad sa Dios sa pag sunod kaniya, nagpaakasala sila pag-ayo.
 
 
 
@@ -93,4 +93,4 @@ Moses climbed the mountain again and prayed that God would forgive the people. G
 
 
 
-// A Bible story from: Exodus 19-34 //
+// Exodus 19-34 //
