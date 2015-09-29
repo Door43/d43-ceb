@@ -1,8 +1,10 @@
-====== 10. The Ten Plagues ======
+====== Ang napulo ka hampak ======
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg}}
 
-Moses and Aaron went to Pharaoh. They said, "This is what the God of Israel says, 'Let my people go!'" Pharaoh did not listen to them. Instead of letting the Israelites go free, he forced them to work even harder! 
+Didto si Moses ug Aaron kang Pharaon.  sila niingun," kine mao ang gisulti sa Dios ngadto sa Israel, ' Palakta ang akung katawhan!''' si Pharaon wala naminaw  kanila. Nga unta tugutan ang Israelita nga mulakawng gawasnun,  gipugus nuon niya sila sa pagtrabaho ug bug-at!
 
 
 
@@ -26,7 +28,7 @@ God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg}}
 
-So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh called Moses and Aaron and told them that if they stopped the plague, the Israelites could leave Egypt. When Moses prayed, God removed all the flies from Egypt. But Pharaoh hardened his heart and would not let the people go free.
+Unya ang Dios nagpadalag laing katalagman nga tagnuk, laing katalagman nga mga langaw. si Pharaun nagtawag kang Moses ug Aaron ug giingnan nga kung ilang pahunungun ang katalagman, Ang Israelita makkahimo na sa paggawas sa Ehipto. Samtang si Moses nag-ampo, Gipapahaawa sa Dios ang tanang mga langaw diha sa Ehipto. Apan si Pharaon nagpabilin nga tig-ag kasingkasing ug wala mutugot nga makagawas ang katawhan,
 
 
 
@@ -70,6 +72,6 @@ Then God sent darkness that lasted for three days. It was so dark that the Egypt
 
 Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh's mind.
 
-//A Bible story from: Exodus 5-10//
 
 
+// A Bible story from: Exodus 5-10 //
