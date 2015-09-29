@@ -1,7 +1,8 @@
-====== 9. God Calls Moses ======
+====== Gitawag si Moses sa Dios ======
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg}}
-
 
 After Joseph died, all of his relatives stayed in Egypt. They and their descendants continued to live there for many years and had many children. They were called the Israelites.
 
@@ -9,20 +10,19 @@ After Joseph died, all of his relatives stayed in Egypt. They and their descenda
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg}}
 
-
-After hundreds of years, the number of Israelites had become very large. The Egyptians no longer remembered Joseph and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the Pharaoh who was ruling Egypt at that time made the Israelites slaves to the Egyptians.
+Human sa gatusan ka katuigan, ang kadaghanun sa Israelita nahimo pang mas  ni daghan dile. ang Ehiptohanun wala na nahinumdum kang Jose, sa tanan niyang gihimo sa pag tabang kanila, nahaluk sila sa mga Isrselita kay mas daghan man sila kay kanila,  mao nga si Pharaon anang panahuna gihimo niya nga ang Israelita mag silbe sa Ehiptohanun,
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg}}
 
-The Egyptians forced the Israelites to build many buildings and even whole cities. The hard work made their lives miserable, but God blessed them, and they had even more children.
+Gipugus sa mga Ehiptohanun ang mga Israelita sa pag tukud ug daghang ug dagkung mga balay ug bisan ang tibuok nga siyudad, Ang kahagu nila sa pag buhat nakahimo nilag misirable. apan ang Dios nagpanalangin nila, ug nidaghan pagiud ang  ilang mga anak.
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg}}
 
-Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the Nile River.
+nakita ni Pharaon nga ang Israelita nagkadaghan nag anak, hinungdan nga nagsugo siya nga ipapatay ang tanang mga bata nga lalaki sa Israelita unya ilabay sa suba sa Nale,
 
 
 
@@ -90,6 +90,6 @@ Moses asked, "What if the people want to know who sent me, what should I say?" G
 
 Moses was afraid and did not want to go to Pharaoh because he thought he could not speak well, so God sent Moses' brother, Aaron, to help him. God warned Moses and Aaron that Pharaoh would be stubborn.
 
-//A Bible story from: Exodus 1-4//
 
 
+// A Bible story from: Exodus 1-4 //
