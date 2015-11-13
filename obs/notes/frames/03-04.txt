@@ -1,9 +1,10 @@
-===== Building the Boat [03-04] =====
+===== Ang paghimo sa sakayan [03-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
-**Noah obeyed God**. He and his three sons built the boat just the way God had told them. It took many years to build the boat, because it was so big. **Noah warned** the people about the flood that was coming and told them to **turn to God**, but they did not believe him.
-===== Important Terms: =====
+Gisunod ni Noe ang Dios. Gihimo niya ang sakayan kauban sa iyang tulo ka anak nga lalaki sumala sa ingon sa Dios. Pila ka tuig ni nila gihimo kay dako ni kaayo . Gipasid-an ni Noe ang mga tawo bahin sa umaabot nga lunop ug giingnan niya sila nga dili na magpakasala ug motuo sa Dios, apan wala sila motuo niya
+
+===== Mahinungdanon nga mga pulong: =====
 
   *
 
@@ -14,12 +15,9 @@
   *
 
 **[[https://door43.org/en/obe/kt/god|God]]**
+
 ===== Translation Notes: =====
 
-  *
-
-**Noah warned** - Noah told everyone that God planned to destroy the world because of sin.
-  *
-
-**turn to God** - This means that they should stop sinning and start obeying God.
-**[[https://door43.org/ceb/obs/notes/frames/03-03|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-05|>>]]**
+  * **Gipasid-an ni Noe**  – gisultihan ni Noe ang tanan nga mga tawo sa plano sa Dios nga gub-on ang kalibotan tungod sa ilang mga sala.
+  * **Dili na magpakasala ug motuo  sa Dios**  – moundang na sila sa pagpakasala ug mosunod na sa Dios.
+ **[[https://door43.org/ceb/obs/notes/frames/03-03|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-05|>>]]**
