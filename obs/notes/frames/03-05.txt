@@ -1,9 +1,10 @@
-===== Loading the Boat [03-05] =====
+===== Ang pagsulod na sa sakayan [03-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&}}
 
-**God** also commanded **Noah** and his family to gather enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
-===== Important Terms: =====
+Gisugo pud sa Dios si Noe ug iyang pamilya nga magtigum ug kalan-on para sa ilang kaugalingon ug para sa mga mananap. Kadtong naandam na tanan, giingnan siya sa Dios nga panahon na nga siya, iyang asawa, tulo ka anak nga lalaki, ilang mga asawa, nga mosulod na sa sakayan. Walo sila nga misulod sa sakayan.
+
+===== Mahinungdanon nga mga pulong: =====
 
   *
 
@@ -11,6 +12,7 @@
   *
 
 **[[https://door43.org/en/obe/other/noah|Noah]]**
+
 ===== Translation Notes: =====
 
 //(There are no notes for this frame.)//
