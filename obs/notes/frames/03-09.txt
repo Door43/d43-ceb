@@ -1,22 +1,16 @@
-===== The Rain Stopped [03-09] =====
+===== Niundang ang ulan [03-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
-After **the rains stopped**, the boat floated on the water for five months, and during this time the water started going down. Then one day the **boat rested** on the top of a mountain, but the world was still covered with water. After **three more months**, the tops of the **mountains were visible**.
-===== Important Terms: =====
+Sukad niundang ang ulan, lima pa ka bulan nga naglutaw lutaw ang sakayan. Mao pud ni nga panahon nga naghinay hinay ug hubas ang tubig. Usa ka adlaw, nakapatong na ang sakayan sa ibabaw sa bukid apan natabonan pa gihapon ang kalibotan ug tubig. Nilabay ang tulo ka bulan ug makit-an na ang tumoy sa bukid.
+
+===== Mahinungdanon nga mga pulong: =====
 
 ===== Translation Notes: =====
 
+  * **niundang ang ulan**  - nihunong ang ulan
+  * **nakapatong na ang sakayan sa ibabaw sa bukid - ** tungod sa kataas sa tubig, naglutaw-lutaw ang sakayan bisan pa sa ibabaw sa mga bukid. Sa dihang nihubas na ang tubig, niubos pud ang sakayan uban sa tubig ug napatong sa ibabaw sa bukid
   *
 
-**the rains stopped** – This could be translated as, “it stopped raining.”
-  *
-
-**boat rested** - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
-  *
-
-**three more months** - During the next three months, the water continued to go down.
-  *
-
-**mountains were visible** - Other ways to translate this would be, “were showing” or, “appeared” or, “could be seen.” It may be more clear to say, “After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains.
-**[[https://door43.org/ceb/obs/notes/frames/03-08|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-10|>>]]**
+**Nilabay ang tulo ka bulan**  -naghinay hinay ug hubas ang tubig sulod sa tulo ka bulan
+ **[[https://door43.org/ceb/obs/notes/frames/03-08|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-10|>>]]**
