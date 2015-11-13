@@ -1,9 +1,10 @@
-===== The Animals Came [03-06] =====
+===== Ang Pag-abot sa mga mananap [03-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&}}
 
-**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**.
-===== Important Terms: =====
+Nagpadala ang Dios ug mga mananap nga apil sa pagsulod sa sakayan. Usa ka pares (lalaki ug babaye) sa tanan nga mananap ug langgam. Lakip pud ang pito ka pares sa mga mananap nga pwede gamiton sa paghalad. Kadtong diha na sila tanan sa sakayan, gi sirado na sa Dios ang pultahan niini.
+
+===== Mahinungdanon nga mga pulong: =====
 
   *
 
@@ -14,15 +15,10 @@
   *
 
 **[[https://door43.org/en/obe/other/sacrifice|sacrifices]]**
+
 ===== Translation Notes: =====
 
-  *
-
-**God sent** - Noah did not need to find the animals. God sent them to him.
-  *
-
-**used for sacrifices** - For some languages it may be better to say something like, “animals that were acceptable to sacrifice to God.” God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  *
-
-**God himself closed the door** - This emphasizes that it was God who shut the door.
+  * **Nagpadala ang Dios**  – dili si Noe ang nangita sa mga mananap nga isakay sa sakayan. Ang Dios mismo ang nagpadala kang Noe.
+  * **gamiton sa paghalad**  – sa panahon ni Noe, kinahanglan maghalad ang mga tawo ug mananap para sa Dios apan pipila lang nga mananap ang puwede ihalad sa Dios.
+  * **Gisirado sa Dios ang pultahan**  -  kini nagpatugbaw nga ang Dios mismo ang nagsirado sa pultahan.
 **[[https://door43.org/ceb/obs/notes/frames/03-05|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-07|>>]]**
