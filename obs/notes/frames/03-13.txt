@@ -1,9 +1,10 @@
-===== Leaving the Boat [03-13] =====
+===== Ang paggawas sa sakayan [03-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat.
-===== Important Terms: =====
+Human sa duha ka bulan, niingon ang Dios kang Noe,“ Pwede na mo mogawas sa sakayan. Ikaw, imong pamilya ug ang tanan nga mga mananap. Panaghan kamo, panagsanay ug pun-a ang tibuok kalibotan”. Ug nigawas si Noe ug iyang pamilya sa sakayan.
+
+===== Mahinungdanon nga mga pulong: =====
 
   *
 
@@ -11,15 +12,10 @@
   *
 
 **[[https://door43.org/en/obe/other/noah|Noah]]**
+
 ===== Translation Notes: =====
 
-  *
-
-**Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  *
-
-**Have many children** – To make sure it is clear that this was God's command and desire, you could say, “You must have many children.” or, “I want you to have many children.”
-  *
-
-**fill the earth** - If this is not clear, it may be necessary to say, “and fill the earth with people” or, “so that there will be many people living on the earth.”
-**[[https://door43.org/ceb/obs/notes/frames/03-12|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-14|>>]]**
+  * **Human sa duha ka bulan**  – duha ka bulan sukad gipalupad ni Noe ang salapati
+  * **Panaghan kamo**  – buot sa Dios kang Noe nga daghan iyang anak
+  * **pun-a ang tibuok kalibotan –**aron daghang tawo ang mopuyo sa kalibotan
+ **[[https://door43.org/ceb/obs/notes/frames/03-12|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-14|>>]]**
