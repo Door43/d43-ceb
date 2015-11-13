@@ -1,63 +1,61 @@
-====== 3. The Flood ======
-
-
+====== 3. Ang Lunop ======
 
 **Katibuk-an:**
 
 Nidaghan na ang mga tawo sukad sa pagmugna sa kalibotan, ug sama kang Adan ug Eba, sal-an pud sila. Nahimo silag dautan ug mapintas mao nang nakahukom ang Dios nga gub-on ang kalibotan pinaagi sa lunop. Apan nahimuot ang Dios kang Noe. Matarong siya bisan pa ug nagpuyo siya kauban sa mga dautan. Gisugo sa Dios si Noe nga maghimo ug dako nga sakayan aron maluwas siya ug iyang pamilya sa lunop.
 
+===== Paghubad sa istorya: =====
 
-===== Translate the Story =====
-
-Click on the images below to translate each frame of the story.
+I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya.
 
 [[:ceb:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&200}}]]\\
-Sin Increased [03-01]\\
+Nahimong dautan ug mapintas ang mga tawo sa kalibotan [03-01]\\
 \\
 [[:ceb:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&200}}]]\\
-Noah Found Grace [03-02]\\
+Nahimuot ang Dios kang Noe [03-02]\\
 \\
 [[:ceb:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&200}}]]\\
-The Big Boat [03-03]\\
+Ang dako nga sakayan [03-03]\\
 \\
 [[:ceb:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&200}}]]\\
-Building the Boat [03-04]\\
+Ang paghimo sa sakayan [03-04]\\
 \\
 [[:ceb:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&200}}]]\\
-Loading the Boat [03-05]\\
+Ang pagsulod na sa sakayan [03-05]\\
 \\
 [[:ceb:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&200}}]]\\
-The Animals Came [03-06]\\
+Ang pag-abot sa mga mananap [03-06]\\
 \\
 [[:ceb:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&200}}]]\\
-The Rain Began [03-07]\\
+Nisugod na ang ulan [03-07]\\
 \\
 [[:ceb:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&200}}]]\\
-Safe from the Flood [03-08]\\
+Luwas sila Noe sa lunop [03-08]\\
 \\
 [[:ceb:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&200}}]]\\
-The Rain Stopped [03-09]\\
+Niundang na ang ulan [03-09]\\
 \\
 [[:ceb:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&200}}]]\\
-The Raven [03-10]\\
+Ang uwak [03-10]\\
 \\
 [[:ceb:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&200}}]]\\
-The Dove [03-11]\\
+Ang salapati [03-11]\\
 \\
 [[:ceb:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
-Dry Land [03-12]\\
+Nihubas na ang tubig sa yuta [03-12]\\
 \\
 [[:ceb:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&200}}]]\\
-Leaving the Boat [03-13]\\
+Nigawas si Noe ug iyang pamilya sa sakayan [03-13]\\
 \\
 [[:ceb:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&200}}]]\\
-Noah's Sacrifice [03-14]\\
+Ang halad ni Noe sa Dios [03-14]\\
 \\
 [[:ceb:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&200}}]]\\
-God's Promise [03-15]\\
+Ang saad sa Dios [03-15]\\
 \\
 [[:ceb:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&200}}]]\\
-The Rainbow [03-16]\\
-//A Bible story from: Genesis 6-8//
+Ang bangaw  [03-16]
 
-**[[:ceb:obs:notes:02|<< Previous]] | [[:ceb:obs:notes:04|Next >>]]**
+//Istorya gikan sa Biblia: Genesis 6-8//
+
+**[[:ceb:obs:notes:02|<< Nahauna]] | [[:ceb:obs:notes:04|Sunod >>]]**
