@@ -1,25 +1,22 @@
-===== The Passover [38-01] =====
+===== Ang Pista sa Paglabay sa Anghel [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
+Kada tuig, mag saulog ang mga Judio ug Pista sa Paglabay sa Anghel. Selebrasyon ni sa pag luwas sa Dios sa ilang mga katigulangan sa pagkaulipon sa Ehipto kaniadto nga panahon. Human sa tulo ka tuig nga si Jesus nagsugod ug pangwali ug pagtudlo sa publiko, gisultian niya ang mga sumusunod nga gusto niya isaulog ang Pista sa Pan nga Walay Patubo ug Pista sa Paglabay sa Anghel sa Jerusalem kauban nila. Giingnan pud niya sila nga didto siya pat-yon.
 
-  * **[[:ceb:obe:other:jew]]**
-  * **[[:ceb:obe:kt:passover]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:save]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:preach]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:other:jerusalem]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:jew|Jew, Jewish]]**
+  * **[[:ceb:obe:kt:passover|Passover]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:save|save]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:other:preach|preach]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
 ===== Translation Notes: =====
 
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
-
+  * **Kaniadto nga panahon**  -  pila ka gatos ka tuig sa unang panahon
 **[[:ceb:obs:notes:frames:37-11|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-02|>>]]**
