@@ -8,6 +8,8 @@ Samtang gisaulog ang Pista sa Paglabay sa Anghel sa Jerusalem, nagplano ang mga 
 
 I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&199x110}}
+
 Pista sa Paglabay sa Anghel [38-01]
 
 [[:ceb:obs:notes:frames:38-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?nolink&200}}]]\\
