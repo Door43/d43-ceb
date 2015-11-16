@@ -1,25 +1,22 @@
-===== This Is My Blood [38-05] =====
+===== Mao ni Akong Dugo [38-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink&}}
 
-Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of the New Covenant** that **is poured out for the forgiveness of sins**. Do this to **remember me** every time you drink it.”
-===== Important Terms: =====
+Unya gikuha ni Jesus ang kopa ug miingon, “ Inom mo ani. Mao kini ang akong dugo nga giula nga nagapamatuod sa bag-o nga kasabotan aron sa paypasaylo sa mga sala sa mga tawo. Buhata ni para maka hinumdum mo sa ako kada inom ninyo niini.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:blood]]**
-  * **[[:ceb:obe:kt:newcovenant]]**
-  * **[[:ceb:obe:kt:forgive]]**
-  * **[[:ceb:obe:kt:sin]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:blood|blood]]**
+  * **[[:ceb:obe:kt:newcovenant|New Covenant]]**
+  * **[[:ceb:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
 ===== Translation Notes: =====
 
-  * **a cup** - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
-  * **Drink this** - That is, "Drink what is in this cup" or, "Drink from this cup." The drink in the cup was made from grapes so that it had a deep red color.
-  * **blood of the New Covenant** - This could be translated as, "blood that makes the New Covenant possible" or, "blood that is the basis for the New Covenant."
-  * **is poured out** - This could be translated as, "will run out of my body" or, "I will bleed out."
-  * **for the forgiveness of sins** - That is, "so that God can completely forgive people for all of their sins."
-  * **remember me** - That is, "celebrate me" or, "commemorate me." It could also be translated as, "especially focus on me" or, "remind you of me."
-
-
+  * **Kopa**  – kopa nga puno ug bino / kopa nga puno sa ilimnon nga ginama gikan sa ubas.
+  * **Inom mo ani**  – imnon nila ang bino nga ginama gikan sa ubas
+  * **akong dugo nga gi-ula nga nagapamatuod sa bag-o nga kasabotan**
+  * **Giula **– dugo nga mogawas sa lawas ni Hesus
+  * **Pagpasaylo sa mga sala sa mga tawo **– hingpit nga pagpasaylo sa Dios sa atong mga sala
+  * **Maka hinumdum mo sa ako **- pahinumdum sa ato nga tungod sa giula nga dugo ni Hesus, gipasaylo nata sa Dios sa atong mga sala
 **[[:ceb:obs:notes:frames:38-04|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-06|>>]]**
