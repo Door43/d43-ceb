@@ -1,21 +1,18 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== 30 nga salapi [38-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
+Gipanguluhan sa pangulong pari, gibayaran nila si Judas ug 30 nga salapi para magluib kang Jesus. Ang propesiya sa mga propeta kaniadto nahitabo na. Nisugot si Judas, gidawat ang kwarta ug nilakaw. Nag hunahuna na siya ug higayon sa pagtabang kanila nga madakop si Jesus.
 
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:other:judasiscariot]]**
-  * **[[:ceb:obe:kt:betray]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:prophet]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+  * **[[:ceb:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ceb:obe:kt:betray|betray, betrayer]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 ===== Translation Notes: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
-
+  * **30 nga salapi **– upat ka adlaw nga sweldo ang usa ka salapi
 **[[:ceb:obs:notes:frames:38-02|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-04|>>]]**
