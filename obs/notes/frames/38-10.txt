@@ -1,19 +1,16 @@
-===== Peter's Promise [38-10] =====
+===== Ang saad ni Pedro kang Hesus [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
-===== Important Terms: =====
+Unya miingon si Pedro kang Jesus, “Bisag mamatay pa ko, dili gyud ka nako ilimod.” Mao usab kini ang gisulti sa tanan niya nga mga sumusunod.
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:kt:disciple]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
 ===== Translation Notes: =====
 
-  * **deny you** - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
-
-
+  * **ilimod**  -  isalikway
 **[[:ceb:obs:notes:frames:38-09|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-11|>>]]**
