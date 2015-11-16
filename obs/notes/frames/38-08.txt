@@ -1,24 +1,21 @@
-===== You Will Be Scattered [38-08] =====
+===== Magkatibulaag ang mga sumusunod [38-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
+Human sa ilang pag-pangaon, niadto si Jesus ug iyang mga sumsunod sa Bukid sa mga Olibo. Miingon si Jesus, “Karon gabii, tanan kamo mobiya kanako. Nahisulat, “Patyon ko ang magbalantay ug magkatibulaag ang mga karnero.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:other:shepherd]]**
-  * **[[:ceb:obe:other:sheep]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
+  * **[[:ceb:obe:other:shepherd|shepherd, to shepherd]]**
+  * **[[:ceb:obe:other:sheep|sheep, ram, ewe]]**
 ===== Translation Notes: =====
 
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
-
+  * **Bukid sa mga Olibo **– kabungtoran nga puno ug kahoy nga olibo sa gawas lang sa Jerusalem
+  * **Mobiya nako**  – talikdan/ biyaan ko ninyo
+  * **Nahisulat**  – naa sa kasulatan sa Dios o gisulat na ni sa mga propeta sa Dios kaniadto nga mahitabo ang pagkamatay ni Hesus sa krus ug ang pagbiya sa iyang mga sumusunod kaniya
+  * **Pat-yon ko**
+  * **Ang magbalantay ug ang mga karnero**  -  dili gamiton ang ngalan nga “Hesus” ug “mga sumusunod” kay wala pa mahibawi sa propeta nga nagsulat ani ang ngalan ni Hesus
+  * **Magkatigbulaag**  -  biyaan nila si Hesus ug moadto na sila sa nagkalain-lain nga lugar
 **[[:ceb:obs:notes:frames:38-07|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-09|>>]]**
