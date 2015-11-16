@@ -1,19 +1,17 @@
-===== Satan Entered Judas [38-07] =====
+===== Nisulod si satanas kang Hudas [38-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?nolink&}}
 
-After **Judas** took the bread, **Satan entered into him**. **Judas left and went** to help the **Jewish** leaders arrest Jesus. **It was nighttime**.
-===== Important Terms: =====
+Human gikuha ni Judas ang pan, nisulod si Satanas sa iyaha. Nilakaw siya ug nitabang sa mga pangulo sa mga Judio nga madakop si Jesus. Nahitabo ni sa gabii.
 
-  * **[[:ceb:obe:other:judasiscariot]]**
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:other:jew]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ceb:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:ceb:obe:other:jew|Jew, Jewish]]**
 ===== Translation Notes: =====
 
-  * **Satan entered into him.** - That is, "Satan went into him" or, "Satan took control of him."
-  * **Judas left and went** - Some languages may prefer to say, "Judas left the meal and went" or, "Judas left the room and went outside."
-
-
+  * **nisulod si Satanas sa iyaha**  – kontrolado na ni Satanas si Hudas (iyang kaisipan ug kasingkasing)
+  * **Judas left and went**  - Some languages may prefer to say, "Judas left the meal and went" or, "Judas left the room and went outside."
+  * **Nilakaw siya**  – nigawas siya sa kan-anan /sa balay
 **[[:ceb:obs:notes:frames:38-06|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-08|>>]]**
