@@ -1,23 +1,20 @@
-===== Judas Betrayed Jesus [38-14] =====
+===== Miluib si Hudas kang Hesus [38-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
-**Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
-===== Important Terms: =====
+Kuyog ni Judas ang mga lider sa mga Judio, mga sundalo ug daghan nga mga tawo. Nagdala sila ug mga espada ug mga bunal. Niduol si Judas kang Jesus ug miingon, “Kumusta ka, Mangtutudlo?” ug iya ning gihag-kan. Timaan ni para sa mga lider sa mga Judio kung kinsa ang ilang dakpon. Unya miingon si Jesus,” Judas, luiban mo ba ako pinaagi sa usa ka halok?”
 
-  * **[[:ceb:obe:other:judasiscariot]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:teacher]]**
-  * **[[:ceb:obe:kt:betray]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:teacher|teacher, Teacher]]**
+  * **[[:ceb:obe:kt:betray|betray, betrayer]]**
 ===== Translation Notes: =====
 
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **Niduol**
+  * **“Kumusta ka, Mangtutudlo,” **
+  * **Timaan**  - sinyas
+  * **luiban mo ba ako pinaagi sa usa ka halok?**  – mo traydor ba ka nako pinaagi sa usa ka halok?
 **[[:ceb:obs:notes:frames:38-13|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-15|>>]]**
