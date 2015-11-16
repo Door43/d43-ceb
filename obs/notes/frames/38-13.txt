@@ -1,19 +1,16 @@
-===== The Disciples Slept [38-13] =====
+===== Natulog ang mga sumusunod [38-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-**After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
+Kada human niya ug ampo, maabtan niya ang iyang mga sumusunod nga natulog. Sa ikatulo niyang pag balik, miingon si Jesus,” Mata na! Ania na ang mangluib kanako.”
 
-  * **[[:ceb:obe:other:pray]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:betray]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:pray|pray, prayer]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
+  * **[[:ceb:obe:kt:betray|betray, betrayer]]**
 ===== Translation Notes: =====
 
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:ceb:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **Kada human niya ug ampo**  – ang pag-ampo nga ““Amahan, kung mahimo ayaw lang ipadangat kining umaabot nako nga pag-antos. Apan kung wala nay lain nga paagi nga mapasaylo ang sala sa mga tawo, ang imong kabubut-on ang matuman.”
 **[[:ceb:obs:notes:frames:38-12|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-14|>>]]**
