@@ -1,20 +1,17 @@
-===== The Betrayer [38-06] =====
+===== Si Hudas [38-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink&}}
 
-Then **Jesus** said to the **disciples**, “One of you will **betray** me.” The disciples were shocked, and asked who would do such a thing. Jesus said, “The person to whom I give this piece of bread **is the betrayer**.” Then he gave the bread to **Judas**.
-===== Important Terms: =====
+Unya miingon si Jesus,”Usa ninyo ang magluib kanako.” Nakurat ang mga sumusunod ug nangutana nga kinsa man ang maka buhat ani! Miingon si Jesus, “Ang tawo nga akong tagaan sa pan mao ang magluib kanako.” Unya iyang gihatag ang pan kang Judas.
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:betray]]**
-  * **[[:ceb:obe:other:judasiscariot]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
+  * **[[:ceb:obe:kt:betray|betray, betrayer]]**
+  * **[[:ceb:obe:other:judasiscariot|Judas Iscariot]]**
 ===== Translation Notes: =====
 
-  * **give this piece of bread** - That is, "hand this piece of bread."
-  * **is the betrayer** - This could also be translated as, "will betray me" or, "is the one who will betray me."
-
-
+  * **akong tagaan sa pan**
+  * **mao ang magluib kanako**
 **[[:ceb:obs:notes:frames:38-05|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-07|>>]]**
