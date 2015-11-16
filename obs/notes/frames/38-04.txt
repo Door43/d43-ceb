@@ -1,24 +1,21 @@
-===== This Is My Body [38-04] =====
+===== Mao ni Akong Lawas [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
-===== Important Terms: =====
+Gisaulog ni Jesus kauban ang iyang mga sumsunod ang Pista sa Pan nga Walay Patubo ug Pista sa Paglabay sa Anghel didto sa Jerusalem. Kadtong nangaon na sila, nikuha si Jesus ug pan ug iya ning gipikas-pikas. Miingon siya, “Pagkuha mo ug kan-a, mao kini ang akong lawas nga gihatag kaninyo. Buhata ni para maka hinumdum mo sa ako.” Nagpakita ni sa mga sumusunod nga ang lawas ni Jesus ma sakripisyo para sa ilaha.
 
-  * **[[:ceb:obe:other:jerusalem]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:passover]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:other:sacrifice]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:passover|Passover]]**
+  * **[[:ceb:obe:kt:disciple|disciple]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
 ===== Translation Notes: =====
 
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * **gisaulog**
+  * **nikuha si Hesus ug pan - nikuha ug tibuok nga pan**
+  * **Gipikas-pikas**  – gitunga;gibahin-bahin
+  * **Gihatag kaninyo**
+  * **Buhata ni para maka hinumdum mo sa ako**  -  pahinumdum sa pagkamatay ni Hesus sa krus
 **[[:ceb:obs:notes:frames:38-03|<<]] | [[:ceb:obs:notes:38|Up]] | [[:ceb:obs:notes:frames:38-05|>>]]**
