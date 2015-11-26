@@ -1,19 +1,18 @@
-===== Are You the Son of God? [39-03] =====
+===== Ikaw ba ang Anak sa Dios? [39-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&}}
 
-Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, are you the **Messiah**, the **Son of the living God**?”
-===== Important Terms: =====
+\\
+Mitan-aw ang pangulong pari kang Jesus ug miingon,” Ingna mi, ikaw ba ang Mesiyas nga Anak sa Buhi nga Dios?”
 
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ceb:obe:kt:sonofgod|Son of God, the Son]]**
 ===== Translation Notes: =====
 
-  * **Finally** - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
-
+NONE
 
 **[[:ceb:obs:notes:frames:39-02|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-04|>>]]**
