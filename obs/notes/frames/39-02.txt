@@ -1,22 +1,17 @@
-===== The False Witnesses [39-02] =====
+===== Ang mga Testigo nga Gasulti ug Bakak Batok kang Hesus [39-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
+Sa sulod sa balay, gisugdan na ug pangutana si Jesus sa mga pangulo sa nga Judio. Daghan ang mitestigo ug mga bakak batok kaniya apan wala magkatugma ang ilang mga gipanulti mao nang dili mapa matud-an nga sad-an si Jesus. Si Jesus hilom lang ug walay gisulti.
 
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:witness]]**
-  * **[[:ceb:obe:kt:guilt]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:witness|witness, eyewitness]]**
+  * **[[:ceb:obe:kt:guilt|guilt, guilty]]**
 ===== Translation Notes: =====
 
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
+•   gisugdan na ug pangutana si Hesus sa mga pangulo sa nga Judio – nag tapok ang mga pangulo sa Judio ug mga pari ug ilang gipangutana si Hesus aron mapamatud-an nga sad-an siya \\ •   Daghan ang mitestigo ug mga bakak batok kaniya – dili tinood ang mga gipanulti nila bahin kang Hesus \\ •   wala magkatugma ang ilang mga gipanulti – nagkalain lain ang ilang mga gipanulti bahin kang Hesus \\ •   mapa matud-an nga sad-an si Hesus – nga nakasala si Hesus \\
 
 **[[:ceb:obs:notes:frames:39-01|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-03|>>]]**
