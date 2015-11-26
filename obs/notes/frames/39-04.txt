@@ -1,27 +1,21 @@
-===== I Am the Son of God [39-04] =====
+===== Ako ang Anak sa Dios [39-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
-Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
-===== Important Terms: =====
+Mitubag si Jesus,” “O, ako, ug makita ninyo nga maglingkod ko kauban ang Dios ug mobalik gikan sa langit.” Nasuko ang pangulong pari ug gigisi niya ang iyang sanina. Misinggit siya, “Dili na kinahanglan ang mga testigo! Nakadungog mo nga miingon siya nga siya Anak sa Dios. Unsay man inyong hukom?
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:heaven]]**
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:witness]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-  * **[[:ceb:obe:kt:judge]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:witness|witness, eyewitness]]**
+  * **[[:ceb:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:ceb:obe:kt:judge|judge, judgment]]**
 ===== Translation Notes: =====
 
-  * **I am** - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:ceb:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
-  * **seated with God** - This could be translated as, "reigning with God." Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be seated with God, Jesus claimed that he had authority to rule with the Father.
-  * **seated with God and coming from heaven** - This could be translated as, "sitting beside God and then coming from heaven."
-  * **tore his clothes in anger** - The Jews would tear their clothes to show grief or anger. If tearing the clothes means something else in your language, you may want to substitute a phrase such as, "he was extremely angry."
-  * **What is your judgment?** - That is, "What is your decision?" or, "Tell us what have you decided: Is he innocent or guilty?" The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God.
-
+•   O, Ako -  pasabot nga siya (si Hesus) ang Mesiyas ug Anak sa Dios; nga siya ang Dios \\ •   maglingkod ko kauban ang Dios –maghari kauban ang Dios;  \\ •   maglingkod ko kauban ang Dios ug mobalik gikan sa langit – maglingkod tupad sa Dios ug mobalik gikan sa langit \\ •   Ug nasuko ang pangulong pari ug gigisi niya ang iyang sanina – usahay ipakita sa usa ka Judio ang iyang pagkasubo o pagkasuko pinaagi sa paggisi sa iyang sanina \\ •   Unsay man inyong hukom? – unsa may inyong desisyon? O Inosente ba  siya o sad-an? Gusto gyud sa mga pari nga mapamatud-an nga sad-an si Hesus sa iyang pag-angkon nga Anak siya sa Dios \\
 
 **[[:ceb:obs:notes:frames:39-03|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-05|>>]]**
