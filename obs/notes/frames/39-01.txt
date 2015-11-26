@@ -1,19 +1,14 @@
-===== The House of the High Priest [39-01] =====
+===== Balay sa Pangulong Pari [39-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}x
 
-It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-===== Important Terms: =====
+Tunga-tunga na sa gabii ug gidala sa mga sundalo si Jesus sa balay sa pangulong pari aron siya pangutan-on. Misunod si Pedro pero layo ra siya sa ilaha. Gisulod si Jesus sa balay apan nagpabilin ra si Pedro sa gawas ug nigang-gang sa kayo.
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:other:peter]]**
+===== Mahinungdanon nga mga pulong: =====
 
-
-===== Translation Notes: =====
-
-  * **the middle of the night** - This expression means, "halfway through the night" or, "very late at night."
-  * **to question him** - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+  * **[[:ceb:obe:other:peter|Peter, Simon Peter, Cephas]]**
+===== Translation Notes: \\ ** •   Tunga-tunga na sa gabii – gabii na kaayo \\ •   Pangutan-on – gisukit sukit si Hesus ug pangutana aron makakita sila ug sala niya **   =====
 
 **[[:ceb:obs:notes:frames:38-15|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-02|>>]]**
