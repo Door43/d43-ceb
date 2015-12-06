@@ -1,21 +1,18 @@
-===== They Mocked Jesus [39-05] =====
+===== Gibugalbugalan Nila si Hesus [39-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
-The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
-===== Important Terms: =====
+Tanan nga mga lider sa mga Judio mitubag,”Angay siya patyon!” Dayon ilang gitaptapan si Jesus, giluwaan, gisumbag, ug gibugal-bugalan.
 
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:mock]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:other:mock|mock, ridicule]]**
 ===== Translation Notes: =====
 
-  * **they blindfolded Jesus** - That is. "they covered Jesus' eyes so that he could not see."
-  * **spit on him** - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-
+•  Gitap-tapan si Hesus – gitakuban iyang mga mata ug panapton aron dili makakita \\ •  Gi luwaan – gi luwaan nila si Hesus para mainsulto siya; giluwaan nila si Hesus kay naglagot sila niini
 
 **[[:ceb:obs:notes:frames:39-04|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-06|>>]]**
