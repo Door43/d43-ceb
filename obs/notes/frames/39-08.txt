@@ -1,22 +1,18 @@
-===== Judas Killed Himself [39-08] =====
+===== Naghikog si Hudas [39-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-**Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
+Nilakaw si Pedro ug mihilak siya pagayo. Nahibawan ni Judas nga gi-hukman si Jesus nga pat-yon. Naguol kaayo siya ug nag hikog.
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:other:judasiscariot]]**
-  * **[[:ceb:obe:kt:betray]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:jesus]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ceb:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ceb:obe:kt:betray|betray, betrayer]]**
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
+•   mihilak siya pagayo – mihilak nga naay pagkasubo/pagbasol \\ •   Hudas – ang nagluib kang Hesus \\ •   gi-hukman si Jesus nga pat-yon – nga si Hesus sal-an ug kinahanglan mamatay \\
 
 **[[:ceb:obs:notes:frames:39-07|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-09|>>]]**
