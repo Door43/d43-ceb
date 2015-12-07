@@ -1,21 +1,18 @@
-===== Jesus and Pilate [39-09] =====
+===== Si Hesus ug si Pilato [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
+Sunod nga adlaw, sayo pa sa buntag, gidala si Jesus didto kang Pilato, ang Romano nga gobernador. Nagdahum sila nga mahukman si Jesus nga sad-an ug ipapatay. Nangutana si Pilato kang Jesus,” Ikaw ba ng hari sa mga Judio?”
 
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:pilate]]**
-  * **[[:ceb:obe:other:rome]]**
-  * **[[:ceb:obe:kt:kingofthejews]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:other:pilate|Pilate]]**
+  * **[[:ceb:obe:other:rome|Rome, Roman]]**
+  * **[[:ceb:obe:kt:kingofthejews|King of the Jews]]**
 ===== Translation Notes: =====
 
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
+•   Romano nga gobernador – si Pilato nga usa ka Romano nga opisyal ang gibutang nga tagadumala sa Judea \\ •   mahukman si Jesus nga sad-an ug ipapatay – naay katungod si Pilato nga maghukom kang Hesus kay siya man ang gobernador. Puwede niya ipapatay o buhian si Hesus. Wala may katungod ang mga pangulo sa mga Judio nga ipapatay ang usa ka tawo tungod lang kay sal-an siya. \\
 
 **[[:ceb:obs:notes:frames:39-08|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-10|>>]]**
