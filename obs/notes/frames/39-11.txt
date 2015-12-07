@@ -1,21 +1,18 @@
-===== He Is Not Guilty [39-11] =====
+===== Walay Sala si Hesus [39-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-===== Important Terms: =====
+Pagkahuman niyag pakigsulti kang Jesus, migawas siya didto sa katawhan ug miingon,”Wala koy nakit-an nga sala niining tawhana.” Apan ang mga lider sa mga Judio ug ang mga katawhan naninggit,”Ilansang siya sa krus!” Nitubag si Pilato,” Wala man siyay sala.” Apan gipakusgan pa gayod nilag singgit. Sa ikatulong higayon miingon si Pilato, “Wala siyay sala.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:pilate]]**
-  * **[[:ceb:obe:kt:guilt]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:crucify]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ceb:obe:other:pilate|Pilate]]**
+  * **[[:ceb:obe:kt:guilt|guilt, guilty]]**
+  * **[[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ceb:obe:kt:crucify|crucify]]**
 ===== Translation Notes: =====
 
-  * **I find no guilt in this man** - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
-  * **He is not guilty** - That is, "He has done nothing wrong!"
-
+•   ”Wala koy nakit-an nga sala niining tawhana.” – “Gisusi na ni nako siya, apan wala koy nakita nga sala niya.” \\ •   “Wala siyay sala.” – “Wala siyay gibuhat nga daotan.” \\
 
 **[[:ceb:obs:notes:frames:39-10|<<]] | [[:ceb:obs:notes:39|Up]] | [[:ceb:obs:notes:frames:39-12|>>]]**
