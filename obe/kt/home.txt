@@ -1,9 +1,9 @@
-====== OBE Key Terms ======
+====== List of the Key Terms in the OBE Directory ======
 
-Link to [[:ceb:obe:other:home|OBE Other Terms]] \\ 
-Link to [[:ceb:obe:home|All OBE Terms]]
+Link to [[:ceb:obe:other:home]] \\ 
+Link to [[:ceb:obe:home]]
 
+<nspages ceb:obe:kt -title -exclude:home -textPages="">
 
-<nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
 
 ~~NOCACHE~~
