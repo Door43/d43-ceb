@@ -3,47 +3,26 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&0}}
 
 **In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
+
 ===== Important Terms: =====
 
-  *
+  * **[[ceb:obe:kt:god]]**
+  * **[[ceb:obe:kt:life]]**
+  * **[[ceb:obe:kt:good]]**
+  * **[[ceb:obe:kt:evil]]**
+  * **[[ceb:obe:other:adam]]**
+  * **[[ceb:obe:kt:death]]**
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
 
-**[[https://door43.org/en/obe/kt/life|life]]**
-  *
-
-**[[https://door43.org/en/obe/kt/good|good]]**
-  *
-
-**[[https://door43.org/en/obe/kt/evil|evil]]**
-  *
-
-**[[https://door43.org/en/obe/other/adam|Adam]]**
-  *
-
-**[[https://door43.org/en/obe/kt/death|die]]**
 ==== Translation Notes: ====
 
-  *
+  * **in the middle** - The central location emphasizes the importance of the two trees.
+  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
+  * **tree of life** - Anyone who ate fruit from this tree would never die.
+  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
+  * **knowledge** - To know or understand by personal experience.
+  * **good and evil** - Evil is the opposite of good. Just as “good” refers to what is pleasing to God, “evil” refers to everything that is not pleasing to God.
+  * **die** - In this instance, he would die both physically and spiritually.
 
-**in the middle** - The central location emphasizes the importance of the two trees.
-  *
 
-**garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  *
-
-**tree of life** - Anyone who ate fruit from this tree would never die.
-  *
-
-**tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  *
-
-**knowledge** - To know or understand by personal experience.
-  *
-
-**good and evil** - Evil is the opposite of good. Just as “good” refers to what is pleasing to God, “evil” refers to everything that is not pleasing to God.
-  *
-
-**die** - In this instance, he would die both physically and spiritually.
-**[[https://door43.org/ceb/obs/notes/frames/01-10|<<]] | [[https://door43.org/ceb/obs/notes/01|Up]] | [[https://door43.org/ceb/obs/notes/frames/01-12|>>]]**
+**[[ceb/obs/notes/frames/01-10|<<]] | [[ceb/obs/notes/01|Up]] | [[ceb/obs/notes/frames/01-12|>>]]**
