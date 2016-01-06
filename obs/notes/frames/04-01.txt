@@ -8,13 +8,9 @@
   * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **many years after the flood**
- - Many generations had passed since the end of the flood.
-  * **again many people**
- - Noah's family multiplied into enough people to fill a city.
-  * **same language**
- - This means there was only one language, so they could all understand each other.
-  * **a city**
- - It is best to use a general word for "city" since the text does not give a specific name.
+  * **many years after the flood** - Many generations had passed since the end of the flood.
+  * **again many people** - Noah's family multiplied into enough people to fill a city.
+  * **same language** - This means there was only one language, so they could all understand each other.
+  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
 
 **[[:ceb:obs:notes:frames:03-16|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-02|>>]]**
