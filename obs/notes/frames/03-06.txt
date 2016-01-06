@@ -6,19 +6,14 @@ Nagpadala ang Dios ug mga mananap nga apil sa pagsulod sa sakayan. Usa ka pares 
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/noah|Noah]]**
-  *
-
-**[[https://door43.org/en/obe/other/sacrifice|sacrifices]]**
+  * **[[ceb:obe:kt:god]]**
+  * **[[ceb:obe:other:noah]]**
+  * **[[ceb:obe:other:sacrifice]]**
 
 ===== Translation Notes: =====
 
   * **Nagpadala ang Dios**  – dili si Noe ang nangita sa mga mananap nga isakay sa sakayan. Ang Dios mismo ang nagpadala kang Noe.
   * **gamiton sa paghalad**  – sa panahon ni Noe, kinahanglan maghalad ang mga tawo ug mananap para sa Dios apan pipila lang nga mananap ang puwede ihalad sa Dios.
   * **Gisirado sa Dios ang pultahan**  -  kini nagpatugbaw nga ang Dios mismo ang nagsirado sa pultahan.
-**[[https://door43.org/ceb/obs/notes/frames/03-05|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-07|>>]]**
+
+**[[ceb/obs/notes/frames/03-05|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-07|>>]]**
