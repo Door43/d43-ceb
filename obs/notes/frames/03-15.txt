@@ -6,21 +6,11 @@ Niingon ang Dios, “Nagsaad ko nga dili na nako itunglo ang yuta tungod sa mga 
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|promise]]**
-  *
-
-**[[https://door43.org/en/obe/kt/curse|curse]]**
-  *
-
-**[[https://door43.org/en/obe/kt/evil|evil]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|sinful]]**
+  * **[[ceb:obe:kt:god]]**
+  * **[[ceb:obe:kt:promise]]**
+  * **[[ceb:obe:kt:curse]]**
+  * **[[ceb:obe:kt:evil]]**
+  * **[[ceb:obe:kt:sin]]**
 
 ===== Translation Notes: =====
 
@@ -28,4 +18,5 @@ Niingon ang Dios, “Nagsaad ko nga dili na nako itunglo ang yuta tungod sa mga 
   * **itunglo ang yuta**  – naay kasakit ug pag-antos sa kalibotan tungod sa sala
   * **ang kalibotan **– ang kalibotan ug tanan nga nagpuyo nini.
   * **sal-an na sila sukad pa sa pagkabata -  ** ang tawo makasasala na sukad pa sa pagkabata ug makasala sa tibuok nilang kinabuhi
- **[[https://door43.org/ceb/obs/notes/frames/03-14|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-16|>>]]**
+ 
+**[[ceb/obs/notes/frames/03-14|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-16|>>]]**
