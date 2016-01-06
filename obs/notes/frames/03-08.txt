@@ -6,12 +6,10 @@ Namatay tanan, gawas lang sa mga tawo ug mga mananap nga naa sa sakayan. Luwas u
 
 ===== Mahinungdanon nga pulong: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/death|died]]**
+  * **[[ceb:obe:kt:death]]**
 
 ===== Translation Notes: =====
 
-* //(There are no notes for this frame.)//
+  * //(There are no notes for this frame.)//
 
-**[[https://door43.org/ceb/obs/notes/frames/03-07|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-09|>>]]**
+**[[ceb/obs/notes/frames/03-07|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-09|>>]]**
