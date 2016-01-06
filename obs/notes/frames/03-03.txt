@@ -6,14 +6,11 @@ Ang sukod sa sakayan mao ni: 140 metros ang katas-on, 23 metros ang kalapdon, 13
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/noah|Noah]]**
+  * **[[ceb:obe:kt:god]]**
+  * **[[ceb:obe:other:noah]]**
 
 ===== Translation Notes: =====
 
   * **Ang sakayan **– dako ni nga sakayan nga maka karga ug walo ka tawo, usa ka pares sa tanan nga klase nga mananap, ug ilang kalan-on para sa usa ka tuig
-**[[https://door43.org/ceb/obs/notes/frames/03-02|<<]] | [[https://door43.org/ceb/obs/notes/03|Up]] | [[https://door43.org/ceb/obs/notes/frames/03-04|>>]]**
+
+**[[ceb/obs/notes/frames/03-02|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-04|>>]]**
