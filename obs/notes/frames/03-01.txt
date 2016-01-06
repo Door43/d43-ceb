@@ -6,7 +6,7 @@ Nilabay ang dugay nga panahon, nidaghan na ang mga tawo sa kalibutan. Nahimo na 
 
 ===== Mahinungdanon nga pulong: =====
 
-  * **Dios**
+  * **[[:ceb:obe:kt:god]]**
 
 ===== Translation Notes: =====
 
@@ -14,4 +14,5 @@ Nilabay ang dugay nga panahon, nidaghan na ang mga tawo sa kalibutan. Nahimo na 
   * **Dautan ug mapintas**  – grabe na ang pag pakasala sa mga tawo
   * **Nakahukom na ang Dios nga gub-on ang kalibotan**  – dili ni gapasabot nga gub-on sa Dios ang tanan nga kalibotan kundili ang mga tawo lang nga nagrebelde kaniya lakip ang mga mananap sa yuta ug mga langgam
   * **Lunop**  – lalom nga tubig nga motabon sa kalibotan, maski sa mga lugar nga kasagaran uga, sama sa pinakataas nga bukid
- **[[https://door43.org/ceb/obs/notes/frames/02-12|<<]] | Itaas | [[https://door43.org/ceb/obs/notes/frames/03-02|>>]]**
+
+ **[[ceb/obs/notes/frames/02-12|<<]] | [[:ceb:obs:notes:02|Up]]  | [[/ceb/obs/notes/frames/03-02|>>]]**
