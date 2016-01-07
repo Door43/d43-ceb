@@ -1,0 +1,51 @@
+====== Numbers 03:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Appoint them to \add help\add* Aaron and his two sons. I have chosen them from all the Israelite people to do that.
+\v 10 Appoint Aaron and his two sons to do the work that priests do. But anyone else who comes close to the Sacred Tent \add to do that work\add* must be executed."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Appoint them to help Aaron and his two sons. I have chosen them from all the Israelite people to do that.
+\v 10 Appoint Aaron and his two sons to do the work that priests do. But anyone else who comes close to the sacred tent to do that work must be executed."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 You must give the Levites to Aaron and his sons. They are wholly given to help him serve the people of Israel.
+\v 10 You must appoint Aaron and his sons as priests, but any foreigner who comes near must be put to death."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ceb:obe:other:aaron]]
+  * [[ceb:obe:other:serve]]
+  * [[:ceb:obe:kt:appoint]]
+  * [[ceb:obe:kt:priest]]
+  * [[:ceb:obe:other:foreigner]]
+  * [[ceb:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **You must give** - Here the word "You" refers to Moses.
+  * **They are wholly given** - AT: "I have given them entirely" (See: [[:ceb:ta:vol2:translate:figs_activepassive]])
+  * **but any foreigner who comes near** - AT: "but any foreigner who comes near the tabernacle" (See: [[:ceb:ta:vol1:translate:figs_explicit]])
+  * **must be put to death** - AT: "you must kill" or "must die" (See: [[:ceb:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:ceb:bible:questions:comprehension:num:03|Numbers Chapter 03 Comprehension Questions]]**
+**[[:ceb:bible:notes:num:03:07|<<]] | [[:ceb:bible:notes:num:03:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

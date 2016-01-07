@@ -1,0 +1,62 @@
+====== Deuteronomy 08:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "You must faithfully obey all the commandments that I am giving you today. If you do that, you will live \add a long time\add*, you will become very numerous, and you will occupy the land that Yahweh solemnly promised your ancestors that he would give \add to you\add*.
+\v 2 And do not forget how Yahweh our God led us as we traveled through the desert during these past forty years. He \add caused you to have many problems\f + \ft Or: difficulties \f*\add*, because he wanted to cause you to realize that you needed to trust him and not yourselves. And he wanted to test you, to find out what you intended to do [IDI], whether you would obey his commandments or not.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "You must faithfully obey all the commandments that I am giving you today. If you do that, you will live a long time, you will become very numerous, and your people will occupy the land that Yahweh solemnly promised your ancestors that he would give to you.
+\v 2 And do not forget how Yahweh our God led us as we traveled through the desert during these past forty years. He caused you to have many problems, because he wanted to cause you to realize that you needed to trust him and not yourselves. And he wanted to test you, to find out what you intended to do, whether you would obey his commandments or not.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 8
+\p
+\v 1 You must keep all the commands that I am giving you today, so that you may live and multiply, and go in and possess the land that Yahweh swore to your fathers.
+\v 2 You will call to mind all the way that Yahweh your God has led you these forty years in the wilderness, in order that he might humble you, that he might test you to know what was in your heart, as to whether you would keep his commandments or not.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ceb:obe:other:command]]
+  * [[ceb:obe:kt:life]]
+  * [[:En:obe:other:multiply]]
+  * [[ceb:obe:other:possess]]
+  * [[ceb:obe:kt:promisedland]]
+  * [[:ceb:obe:kt:yahweh]]
+  * [[:ceb:obe:other:oath]]
+  * [[:ceb:obe:other:father]]
+  * [[ceb:obe:kt:god]]
+  * [[ceb:obe:other:biblicaltimeyear]]
+  * [[:ceb:obe:other:desert]]
+  * [[:ceb:obe:other:humble]]
+  * [[:ceb:obe:kt:test]]
+  * [[ceb:obe:other:know]]
+  * [[:ceb:obe:other:heart]]
+
+===== Translation Notes: =====
+
+Moses is still talking to the people of Israel.
+
+  * **to know** - "to reveal" or "to show"
+  * **what was in your heart** - The heart is a symbol of a person's character. AT: "what kind of people you are" or "how you would behave." (See: [[ceb:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:ceb:bible:questions:comprehension:deu:08|Deuteronomy Chapter 08 Comprehension Questions]]**
+**[[:ceb:bible:notes:deu:07:25|<<]] | [[:ceb:bible:notes:deu:08:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish multiply}}
+
+~~NOCACHE~~

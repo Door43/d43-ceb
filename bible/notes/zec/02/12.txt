@@ -1,0 +1,52 @@
+====== Zechariah 02:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add The people of\add* Judah will be a very special part of his sacred land\f + \ft Or: country \f*, and Jerusalem will again be the city that he has chosen.
+\v 13 Everyone, everywhere, should be silent in the presence of Yahweh, because he again will come down from the sacred place where he lives in heaven \add to do great things for us\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 The people of Judah will be a very special part of his own land, and Jerusalem will again be the city that he has chosen.
+\v 13 Everyone, everywhere, should be silent in the presence of Yahweh, because he is about to come down again from where he lives in heaven to do great things for us.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 For Yahweh will inherit Judah as his rightful possession in the holy land
+\q and will once again choose Jerusalem for himself.
+\q
+\v 13 Be silent, all flesh, before Yahweh, for he has been roused from out of the heavens!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ceb:obe:kt:yahweh|Yahweh]]
+  * [[:ceb:obe:kt:inherit|inherit, inheritance]]
+  * [[:ceb:obe:other:kingdomofjudah|kingdom of Judah, Judah]]
+  * [[:ceb:obe:other:possess|possess, possession]]
+  * [[:ceb:obe:kt:holy|holy, holiness]]
+  * [[:ceb:obe:other:jerusalem|Jerusalem]]
+  * [[:ceb:obe:kt:flesh|flesh]]
+  * [[:ceb:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+
+===== Translation Notes: =====
+
+  * **Yahweh will inherit ... in the holy land** - AT: "Yahweh will make Judah his personal portion of the holy land. (See: [[ceb:ta:vol1:translate:figs_metaphor]])
+  * **all flesh** - Yahweh refers to all living creatures by calling them flesh. Flesh is something that is common among all living creatures. (See: [[:ceb:ta:vol2:translate:figs_synecdoche]])
+  * **been roused out of the heavens** - This phrase refers to Yahweh being caused to take action on earth.
+  * **roused** - to be woken up or made more alert
+
+===== Links: =====
+
+  * **[[:ceb:bible:questions:comprehension:zec:02|Zechariah Chapter 02 Comprehension Questions]]**
+**[[:ceb:bible:notes:zec:02:10|<<]] | [[:ceb:bible:notes:zec:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
