@@ -7,5 +7,3 @@
 Bienvenue à Open Bible Stories! Sentez vous libre de traduire cette page ainsi que les histoires (en incluant les titres) ci-dessous. Si vous avez besoin d'aide [[:contact|demandez !]]
 
 {{page>ceb:obs:stories}}
-
-{{page>en:obs:active}}
