@@ -1,5 +1,3 @@
-
-
   - [[:ceb:obs:01|Ang Pag-pamuhat]]
   - [[:ceb:obs:02|Ang pagsolod sa sala sa kalibutan.]]
   - [[:ceb:obs:03|Ang Lunop]]
