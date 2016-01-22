@@ -1,112 +1,57 @@
-[[:ceb:obs:01]]
-[[:ceb:obs:02]]
-[[:ceb:obs:03]]
-[[:ceb:obs:04]]
-[[:ceb:obs:05]]
-[[:ceb:obs:06]]
-[[:ceb:obs:07]]
-[[:ceb:obs:08]]
-[[:ceb:obs:09]]
-[[:ceb:obs:10]]
-[[:ceb:obs:11]]
-[[:ceb:obs:12]]
-[[:ceb:obs:13]]
-[[:ceb:obs:14]]
-[[:ceb:obs:15]]
-[[:ceb:obs:16]]
-[[:ceb:obs:17]]
-[[:ceb:obs:18]]
-[[:ceb:obs:19]]
-[[:ceb:obs:20]]
-[[:ceb:obs:21]]
-[[:ceb:obs:22]]
-[[:ceb:obs:23]]
-[[:ceb:obs:24]]
-[[:ceb:obs:25]]
-[[:ceb:obs:26]]
-[[:ceb:obs:27]]
-[[:ceb:obs:28]]
-[[:ceb:obs:29]]
-[[:ceb:obs:30]]
-[[:ceb:obs:31]]
-[[:ceb:obs:32]]
-[[:ceb:obs:33]]
-[[:ceb:obs:34]]
-[[:ceb:obs:35]]
-[[:ceb:obs:36]]
-[[:ceb:obs:37]]
-[[:ceb:obs:38]]
-[[:ceb:obs:39]]
-[[:ceb:obs:40]]
-[[:ceb:obs:41]]
-[[:ceb:obs:42]]
-[[:ceb:obs:43]]
-[[:ceb:obs:44]]
-[[:ceb:obs:45]]
-[[:ceb:obs:46]]
-[[:ceb:obs:47]]
-[[:ceb:obs:48]]
-[[:ceb:obs:49]]
-[[:ceb:obs:50]]
+[[:ceb:obs:01]]\\
+[[:ceb:obs:02]]\\
+[[:ceb:obs:03]]\\
+[[:ceb:obs:04]]\\
+[[:ceb:obs:05]]\\
+[[:ceb:obs:06]]\\
+[[:ceb:obs:07]]\\
+[[:ceb:obs:08]]\\
+[[:ceb:obs:09]]\\
+[[:ceb:obs:10]]\\
+[[:ceb:obs:11]]\\
+[[:ceb:obs:12]]\\
+[[:ceb:obs:13]]\\
+[[:ceb:obs:14]]\\
+[[:ceb:obs:15]]\\
+[[:ceb:obs:16]]\\
+[[:ceb:obs:17]]\\
+[[:ceb:obs:18]]\\
+[[:ceb:obs:19]]\\
+[[:ceb:obs:20]]\\
+[[:ceb:obs:21]]\\
+[[:ceb:obs:22]]\\
+[[:ceb:obs:23]]\\
+[[:ceb:obs:24]]\\
+[[:ceb:obs:25]]\\
+[[:ceb:obs:26]]\\
+[[:ceb:obs:27]]\\
+[[:ceb:obs:28]]\\
+[[:ceb:obs:29]]\\
+[[:ceb:obs:30]]\\
+[[:ceb:obs:31]]\\
+[[:ceb:obs:32]]\\
+[[:ceb:obs:33]]\\
+[[:ceb:obs:34]]\\
+[[:ceb:obs:35]]\\
+[[:ceb:obs:36]]\\
+[[:ceb:obs:37]]\\
+[[:ceb:obs:38]]\\
+[[:ceb:obs:39]]\\
+[[:ceb:obs:40]]\\
+[[:ceb:obs:41]]\\
+[[:ceb:obs:42]]\\
+[[:ceb:obs:43]]\\
+[[:ceb:obs:44]]\\
+[[:ceb:obs:45]]\\
+[[:ceb:obs:46]]\\
+[[:ceb:obs:47]]\\
+[[:ceb:obs:48]]\\
+[[:ceb:obs:49]]\\
+[[:ceb:obs:50]]\\
 
 
 
-
-
-
-  - [[:ceb:obs:01|Ang Pag-pamuhat]]
-  - [[:ceb:obs:02|Ang pagsolod sa sala sa kalibutan.]]
-  - [[:ceb:obs:03|Ang Lunop]]
-  - [[:ceb:obs:04|God’s Covenant with Abraham]]
-  - [[:ceb:obs:05|Ang anak nga gisaad]]
-  - [[:ceb:obs:06|Ang dios maayo kang Isaac]]
-  - [[:ceb:obs:07|Gipanalanginan si Jacob]]
-  - [[:ceb:obs:08|Giluwas sa Dios si Jose ug iyang panimalay]]
-  - [[:ceb:obs:09|Gitawag si Moses sa Dios]]
-  - [[:ceb:obs:10|Ang napulo ka hampak]]
-  - [[:ceb:obs:11|Ang pasaylo]]
-  - [[:ceb:obs:12|Ang Pagbiya/ Ang Exodus.]]
-  - [[:ceb:obs:13|Kasabutan sa Dios uban ang israel]]
-  - [[:ceb:obs:14|ang pag lakaw nila sa kamingawan]]
-  - [[:ceb:obs:15|Ang yuta nga saad]]
-  - [[:ceb:obs:16|The Deliverers]]
-  - [[:ceb:obs:17|God’s Covenant with David]]
-  - [[:ceb:obs:18|The Divided Kingdom]]
-  - [[:ceb:obs:19|The Prophets]]
-  - [[:ceb:obs:20|The Exile and Return]]
-  - [[:ceb:obs:21|God Promises the Messiah]]
-  - [[:ceb:obs:22|The Birth of John]]
-  - [[:ceb:obs:23|The Birth of Jesus]]
-  - [[:ceb:obs:24|John Baptizes Jesus]]
-  - [[:ceb:obs:25|Satan Tempts Jesus]]
-  - [[:ceb:obs:26|Jesus Starts His Ministry]]
-  - [[:ceb:obs:27|Ang istorya sa maayo nga Samaritanhon]]
-  - [[:ceb:obs:28|The Rich Young Ruler]]
-  - [[:ceb:obs:29|The Story of the Unmerciful Servant]]
-  - [[:ceb:obs:30|Jesus Feeds Five Thousand People]]
-  - [[:ceb:obs:31|Jesus Walks on Water]]
-  - [[:ceb:obs:32|Jesus Heals a Demon-Possessed Man & a Sick Woman]]
-  - [[:ceb:obs:33|The Story of the Farmer]]
-  - [[:ceb:obs:34|Jesus Teaches Other Stories]]
-  - [[:ceb:obs:35|The Story of the Compassionate Father]]
-  - [[:ceb:obs:36|The Transfiguration]]
-  - [[:ceb:obs:37|Jesus Raises Lazarus from the Dead]]
-  - [[:ceb:obs:38|Ang Pagluib Kang Jesus]]
-  - [[:ceb:obs:39|Si Jesus Sa Hukmanan]]
-  - [[:ceb:obs:40|Gilansang Sa Krus Si Jesus]]
-  - [[:ceb:obs:41|Ang Pagkabanhaw ni Jesus]]
-  - [[:ceb:obs:42|Ang Pagbalik ni Jesus sa Langit]]
-  - [[:ceb:obs:43|Ang Mga Sumusunod Ni Jesus Sa Jerusalem]]
-  - [[:ceb:obs:44|Ang Pag-ayo Ni Pedro Ug Juan Sa Bakol]]
-  - [[:ceb:obs:45|Si Esteban Ug Si Felipe]]
-  - [[:ceb:obs:46|Nahimong Magtutuo Si Pablo]]
-  - [[:ceb:obs:47|Si Pablo Ug Silas Sa Philippi]]
-  - [[:ceb:obs:48|Si Jesus ang Gisaad Nga Mesiyas]]
-  - [[:ceb:obs:49|Ang bag-ong kasabutan sa Dios]]
-  - [[:ceb:obs:50|Jesus Returns]]
-
-  - 
-  -   * [[:ceb:obs:front-matter|Front Matter]]
+  * [[:ceb:obs:front-matter|Front Matter]]
   * [[:ceb:obs:back-matter|Back Matter]]
   * [[:ceb:obs:app_words|Mobile App Words]]
 
