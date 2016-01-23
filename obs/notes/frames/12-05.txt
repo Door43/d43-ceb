@@ -16,9 +16,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **God will fight for you today and save you** - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
-  * **move** – Some languages will be more specific and say, "walk."
-
-
+  * **Ang Dios makig-away ug magluwas kaninyo - ** Mahimo usab kining pagahubaron nga, “Pildihon sa Dios ang mga Ehiptohanon karong adlawa alang kaninyo ug dili gayod sila makapanghilabot kaninyo.”
+  * **Mopadayon - ** Sa ubang mga pinulongan aron mahimo kini nga klaro, mahimong moingon, “lakaw.”
 **[[:ceb:obs:notes:frames:12-04|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-06|>>]]**
