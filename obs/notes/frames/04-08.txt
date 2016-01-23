@@ -17,7 +17,6 @@
 
 ===== Translation Notes: =====
 
-  * **Many years** - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky** - This expression means that Abram's descendants will be so many that no one can count them all.
-
-**[[ceb/obs/notes/frames/04-07|<<]] | [[ceb/obs/notes/04|Up]] | [[ceb/obs/notes/frames/04-09|>>]]**
+  * **paglabay sa mga katuigan - ** sa pipila ka mga tuig nga milabay sukad nga ang Dios unang misaad kang Abram nga aduna siya'y anak nga umaabot.
+  * **sama kadaghan sa mga bituon sa langit - ** Kini ang ilhanan nga ang kaliwat ni Abraham modaghan ug walay bisan isa nga makaihap kanila.
+**[[:ceb:obs:notes:frames:04-07|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-09|>>]]**
