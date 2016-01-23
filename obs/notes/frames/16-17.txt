@@ -18,8 +18,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **Nagbalik-balik lang kini nga panghitabo**  - Mahubad usab kini nga, “kining mga butanga nagbalik-balik ug kahitabo” o “kining mga butanga nahitabo sa makadaghan nang higayon.”
 **[[:ceb:obs:notes:frames:16-16|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-18|>>]]**
