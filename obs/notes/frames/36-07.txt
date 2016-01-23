@@ -13,7 +13,5 @@
 
 ===== Translation Notes: =====
 
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Kining istorya sa Bibliya gikan sa- ang mga kasayuran  niining istoryaha maykalahian sa ubang mga gihubad nga bibliya//.
 **[[:ceb:obs:notes:frames:36-06|<<]] | [[:ceb:obs:notes:36|Up]] | [[:ceb:obs:notes:frames:37-01|>>]]**
