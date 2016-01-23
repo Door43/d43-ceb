@@ -1,17 +1,12 @@
 ====== Uria ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
 Si Uria usa ka matarong nga tawo ug usa sa pinakamaayo nga mga sundalo ni David.
 
   * Naa siyay maanyag kaayo nga asawa nga ginganlan ug Batseba.
-  *
-
-Nakapanapaw si David sa asawa ni Uria, ug nagsabak siya sa anak ni David.
-
-  *
-
-Gipapatay ni David si Uria sa gubat aron makalingkawas siya sa iyang sala. Unya giminyoan dayon ni David si Batseba.
+  * Nakapanapaw si David sa asawa ni Uria, ug nagsabak siya sa anak ni David.
+  * Gipapatay ni David si Uria sa gubat aron makalingkawas siya sa iyang sala. Unya giminyoan dayon ni David si Batseba.
 
 (Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
@@ -21,14 +16,10 @@ Gipapatay ni David si Uria sa gubat aron makalingkawas siya sa iyang sala. Unya 
 
 {{topic>:en:bible?uriah&nocomments}}
 
-
 ===== Examples from the Bible stories: =====
 
-  ***[[:ceb:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:ceb:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah**  back from the battle and told him to go be with his wife. But **Uriah**  refused to go home while the rest of the soldiers were in battle. So David sent **Uriah**  back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
+  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]** After **Uriah**  was killed, David married Bathsheba.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
