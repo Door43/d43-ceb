@@ -11,9 +11,8 @@ But there was a **crafty snake** in the garden. He asked the woman, “**Did God
 
 ==== Translation Notes: ====
 
-  * **crafty**  - Clever and sly, with the intent to deceive.
-  * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden. 
-  
-**[[ceb/obs/notes/frames/02-01|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-03|>>]]**
+  * **maro**- Nagtago ug nagpakaaron-ingnon, uban sa tuyo nga mao ang pagpahisalaag.
+  * **Bitin**- Taas kini, walay tiil, yutan-ong binuhat nga karon nagalihok pinaagi sa pagkamang gamit ang iyang tiyan. Ang tinuod, sa dili madugay ipadayag niini nga istorya nga ang bitin mao si Satanas.
+  * **Giingnan ba gayod kamo sa Dios**  - Ang bitin nangutana sa babaye kon nag-ingon ba gayod ang Dios nga dili sila pakan-on sa bunga sa kahoy sa tanaman. Apan siya nagpakaaron-ingnon, tungod kay gusto niya nga magduha-duha ang babaye sa iyang hunahuna. Gusto usab niya nga magduha-duha ang babaye sa pagkamaayo sa Dios.
+  * **bunga sa bisan unsa nga kahoy- ** Bunga sa tanan nga mga nagkalain-laing mga kahoy gikan sa tanaman.
+**[[:ceb:obs:notes:frames:02-01|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-03|>>]]**
