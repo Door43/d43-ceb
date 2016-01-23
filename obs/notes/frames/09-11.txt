@@ -14,8 +14,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **wilderness** - See how you translated this in **[[:ceb:obs:notes:frames:09-10|[09-10]]]**.
-
-
+  * **kamingawan  - ** Lapad ug luag ang kamingawan ug batoon kini ug uga nga yuta. Dili maayo ang yuta niini alang sa mga tanom, ug gamay lang ang mga tawo nga mopuyo niini. **[[:ceb:obs:notes:frames:09-10|[09-10]]]**.
 **[[:ceb:obs:notes:frames:09-10|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-12|>>]]**
