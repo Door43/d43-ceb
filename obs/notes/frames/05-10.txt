@@ -19,11 +19,9 @@ Then **God** said to **Abraham**, “Because you were willing to give me everyth
 
 ===== Translation Notes: =====
 
-
-  * **your only son** - See explanation in **[[:ceb:obs:notes:frames:05-08|[05-08]]]**.
-  * **the stars in the sky** - See explanation in **[[:ceb:obs:notes:frames:04-08|[04-08]]]**.
-  * **all the families of the world** - Here, "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children.
-  * **blessed through your family** - Here, "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **bugtong anak nga lalaki**  - Tan-awa ang pagpasabot niini sa [05-08]
+  * **mga bituon sa kalangitan**  - Tan-awa ang pagpasabot niini sa [04-05]
+  * **tanang pamilya sa tibuok kalibotan**
+  - Ang "tanang pamilya" dinhi nga gihisgotan, nagpasabot sa dagkong pundok sa katawhan sa kalibotan, ug dili sa matag pares sa mga ginikanan ug mga anak.
+  * **mapanalanginan pinaagi sa imong mga kaliwat**  - Ang "kaliwat" dinhi nga gihisgotan, nagpasabot sa daghang kaliwatan ni Abraham. Ang umaabot nga mga henerasyon sa kalibotan mahimong mapanalanginan pinaagi sa mga kaliwat ni Abraham. Ang pinakamaayo nga panalangin muabot sa mga mosunod nga mga henerasyon pinaagi sa usa ka piniling sulugoon sa Dios nga mao ang Mesiyas.
 **[[:ceb:obs:notes:frames:05-09|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:06-01|>>]]**
