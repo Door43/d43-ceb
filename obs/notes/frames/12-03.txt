@@ -16,9 +16,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **After a short time** – Probably at least two days had gone by. For that to be clear, it may be translated as, "After a few days" or, "A few days after the Israelites left Egypt."
-  * **changed their minds** - This phrase means, "began to think differently than they had before." Some languages may not have this same expression, and will express the meaning in a direct way.
-
-
+  * **Human sa mubo nga panahon - ** Siguro mga duha ka adlaw na ang milabay. Aron mahimo kining klaro, mahimo kining hubaron nga, “Paglabay sa pila ka mga adlaw” o, “Paglabay sa pila ka mga adlaw human mibiya ang mga Israelita gikan sa Ehipto.”
+  * **ausab ang hunahona - ** Kini nagpasabot nga, “nagsugod na sila sa paghunahona ug lahi kay sa una nilang gihunahona.” Kung ang ubang mga pinulongan walay sama niini nga pagpahayag, mahimo nila kining ipahayag sa direkta nga paagi.
 **[[:ceb:obs:notes:frames:12-02|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-04|>>]]**
