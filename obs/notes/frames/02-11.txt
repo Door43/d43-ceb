@@ -15,10 +15,9 @@
 
 ==== Translation Notes: ====
 
-  * **ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  * **you will die**  - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  * **return to dirt**  - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  * **Eve, which means 'life-giver'**  - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  * **mother of all people**  - This means that she would be the female ancestor of all people. Some languages say “she would be the grandmother of all people.” 
-
-**[[ceb/obs/notes/frames/02-10|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-12|>>]]**
+  * **tinunglo na ang yuta**- Isip silot sa pagsupak ni Adan, ang yuta dili na mohatag ug maayong abot. Kinahanglan nga motrabaho pag-ayo si Adan aron makakuha ug igong pagkaon.
+  * **Mamatay mo**- Ang bugti nga silot sa ilang pagkamasinupakon mao ang kamatayon. Ang espirituhanong kamatayon mao ang atong pagkahimulag gikan sa Dios. Ang lawasnong kamatayon mao usab ang atong pagkahimulag gikan sa atong lawas.
+  * **mobalik sa lapok**- Gihimo sa Dios si Adan gikan sa lapok o yuta, ug gihatagan niya kini ug kinabuhi. Isip resulta sa sala, ang iyang kinabuhi bawion gikan kaniya ug ang iyang lawas mobalik pag-usab ngadto sa yuta.
+  * **Eva, nga nagpasabot "nagahatag ug kinabuhi"**- Ang Dios naghatag ug kinabuhi kang Adan ug Eva, ug kini napasa usab ngadto sa tanang tawo pinaagi sa pagpanganak.
+  * **inahan sa tanang katawhan**- Kini nagpasabot nga siya gayod ang babaye nga gigikanan sa tanang katawhan. Sa ubang pinulongan nagaingon, "siya mao ang apohan sa tanang katawhan."
+**[[:ceb:obs:notes:frames:02-10|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-12|>>]]**
