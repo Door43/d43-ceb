@@ -1,4 +1,4 @@
-====== 20. **Ang Pagkabihag ug Pagpauli**  ======
+====== 20. Ang Pagkabihag ug Pagpauli ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?direct&}}
 
@@ -18,7 +18,7 @@ Unya gipapuy-an sa mga taga-Asiria ug mga langyaw ang yuta sa Canaan. Nagbuhat u
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?direct&}}
 
-Nakita sa katawhan sa Juda nga gisilotan sa Dios ang gingharian sa Israel tungod kay wala sila mituo ug mituman kaniya.  Apan gisimba pa gihapon nila ang mga dios-dios apil ang mga dios-dios sa taga-Canaan. Nagpadala ang Dios ug mga propeta nga mopasidaan kanila, apan wala sila maminaw.
+Nakita sa katawhan sa Juda nga gisilotan sa Dios ang gingharian sa Israel tungod kay wala sila mituo ug mituman kaniya. Apan gisimba pa gihapon nila ang mga dios-dios apil ang mga dios-dios sa taga-Canaan. Nagpadala ang Dios ug mga propeta nga mopasidaan kanila, apan wala sila maminaw.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?direct&}}
 
@@ -52,4 +52,4 @@ Gamhanan ang gingharian sa Persia apan maluluy-on usab sa mga tawo nga ilang nas
 
 Pag-abot nila didto, giayo nila ang Templo ug ang paril palibot sa siyudad. Bisan ug nasakop gihapon sila sa ubang tawo, nakapuyo gihapon sila sa Yutang Saad ug nagasimba didto sa Templo.
 
-// Istorya gikan sa Biblia: 2 Hari 17; 24-25; 2 Cronicas 36; Esdras 1-10; Nehemias 1-13//
+//Istorya gikan sa Biblia: 2 Hari 17; 24-25; 2 Cronicas 36; Esdras 1-10; Nehemias 1-13//
