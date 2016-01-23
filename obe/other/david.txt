@@ -1,20 +1,30 @@
 ====== David ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-David was the second king of Israel and he loved and served God. He was the main writer of the book of Psalms.
+Si David mao ang ikaduhang hari sa Israel ug nag-alagad siya sa Dios nga matinud-anon. Siya ang nagsulat sa libro sa Salmo.
 
-  * When David was still a young boy caring for his family's sheep, God chose him to become the next king of Israel. 
-  * David became a great fighter and led the Israelite army in battles against their enemies. His defeat of Goliath the Philistine is well-known.
-  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
-  * David sinned against God, but he repented and God forgave him.
-  * Jesus, the Messiah, is called the "Son of David" because he is a descendant of King David. 
+  * Gipili sa Dios si David nga mahimong hari sa dihang bata pa siya ug nagaatiman pa sa mga karnero sa iyang pamilya.
+  *
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+Nahimong banggiitang sundalo si David ug gipangulohan niya ang mga sundalong Israelita sa pagpakigbatok sa ilang mga kaaway.
 
-(See also: [[:En:obe:other:goliath]], [[:En:obe:other:philistines]], [[:ceb:obe:other:saul]])
+  *
 
+Gustong patyon ni Saul si David, apan giprotektahan siya sa Dios ug gihimo siyang hari human mamatay si Saul.
+
+  *
+
+Nagpakasala sa Dios si David, apan naghinulsol siya ug gipasaylo siya sa Dios.
+
+  *
+
+Si Jesus nga Mesiyas, kaliwat siya ni David, ug tungod niini gitawag siya nga “Anak ni David.”
+
+(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
+
+(Tan-awa usab: [[:en:obe:other:goliath|Goliat]], [[:en:obe:other:philistines|Pilistihanon]], [[:ceb:obe:other:saul|Saul (OT)]])
 
 ===== Bible References: =====
 
