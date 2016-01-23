@@ -14,10 +14,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:ceb:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
-
-
+  * **32,000 ka mga sundalo nga mga Israelita ang mikuyog kang Gideon - ** Ang ubang pinulongan kinahanglan siguro nga mogamit niining han-ay sa mga pulong sa sinugdanan
+  * **sama niini nga paagi**  - “Gitawag ni Gideon ang mga Israelita sa pagkuyog kaniya sa pagpakig-away sa mga Midianhon.” Tan-awa ang **[[:ceb:obs:notes:frames:16-08|[16-08]]]**
+  * **daghan ra sila kayo**  - Nag-ingon ang Dios nga daghan ra kaayo kining mga sundalo alang sa gubat. Kung modaog sa pagpakiggubat kining daghang kasundalohan, maghunahuna sila nga midaog sila sa gubat tungod sa ilang kaugalingong kusog, dili na nila masayran nga ang Dios ang nagbuhat niini.
+  * **ug 300 ang nabilin nga sundalo**  - mahimo kining hubaron nga, “Busa gipapauli ni Gideon ang ubang kasundalohan ug 300 nalang ang nabilin”.
 **[[:ceb:obs:notes:frames:16-09|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-11|>>]]**
