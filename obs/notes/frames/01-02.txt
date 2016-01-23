@@ -9,10 +9,9 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
   * **[[:ceb:obe:kt:good]]**
 ==== Translation Notes: ====
 
-  * **God said** - God created light by means of a simple verbal command.
-  * **let there be** - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light** - This was a special light that God created–the sun was not created until later.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation** - This word is used here to refer to the six-day period during which God made everything that exists.
-
+  * **Miingon ang Dios**  – Gihimo sa Dios ang kahayag pinaagi lamang sa pulong o mando.
+  * **mahimo ang**!” – Mando kini nga nahitabo dayon tungod sa pasulti sa Dios. Maayo pa kining hubaron pinaagi sa pahayag nga nagpakita nga mahitabo gayod ang angayang mahitabo. Pananglitan, mahimo kining hubaron nga, “Miingon ang Dios, mahimo ang kayahag.”
+  * **kahayag** – Usa kini ka pinasahi nga kahayag nga gihimo sa Dios - dili kini adlaw kay wala paman himoa sa Dios ang adlaw niining tungora.
+  * **maayo**  – Kini nga pulong gigamit kanunay sa tibuok istorya sa Pagpamuhat. Nagahatag kini ug kabug-aton nga nakapahimuot sa Dios ang matag hugna sa iyang pagpamuhat, ug natuman ang iyang mga plano ug tumong.
+  * **Pagpamuhat sa Dios** – Kini nga pulong gigamit sa paghisgot sa unom ka adlaw nga pagbuhat sa Dios sa tanang butang.
 **[[:ceb:obs:notes:frames:01-01|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-03|>>]]**
