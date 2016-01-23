@@ -13,9 +13,7 @@
 
 ==== Translation Notes: ====
 
-  * **garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[ceb/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
-  * **talked with God** - The word for “talk” should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  * **shame** - The feeling that comes with knowing we have sinned or that we fall short in some way.
-
-
-**[[ceb/obs/notes/frames/01-16|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-02|>>]]**
+  * **tanaman- ** Mao kini ang pinasahi nga pinili nga mga kahoy ug mga tanom nga giandam sa Dios alang kang Adan ug Eva aron mapuslan ug makuhaan nila ug pagkaon. Managsama kini sa pulong nga gigamit sa [01-11], ug tan-awa kung giunsa nimo kini paghubad didto.
+  * **Nakigsulti sa Dios- ** Ang pulong nga //nakigsulti//, sama ra usab sa paggamit sa pulong nga n//akig-istorya // sa buhing binuhat. Ang Dios naggamit ug lawas aron makahimo siya sa pagpakigsulti sa tawo, lalaki man o babaye. Ang gigamit nga pulong nga nakig-istorya//,//  nagpasabot kini nga nag-atubangay nga nagsulti.
+  * **Kaulaw- ** Mao kini ang pagbati nga atong bation kung atong mahibaloan nga kita nakasala o kaha napakyas sa bisan unsa nga paagi. Sa wala pa misulod ang sala sa kalibotan, walay pagbati sa kaulaw bahin sa pagkahubo.
+**[[:ceb:obs:notes:frames:01-16|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-02|>>]]**
