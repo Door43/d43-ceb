@@ -14,7 +14,6 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 
 ==== Translation Notes: ====
 
-  * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad. 
-
-**[[ceb/obs/notes/frames/02-03|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-05|>>]]**
+  * **mahisama kamo kaniya**- Ang lalaki ug babaye gihimo sama sa panagway sa Dios. Ang bitin nag-ingon nga ang babaye mahisama sa Dios kung siya makahibalo sa daotan. Hinuon, ang Dios dili gusto nga ang babaye makaangkon niini nga kahibalo.
+  * **makahibalo sa maayo ug daotan**- Mao kini ang pagkasayod sa kaugalingong kasinatian kung unsang mga butanga ang maayo ug butang nga dili maayo, o pagkasayod sa bisan unsang butang nga maayo ug dautan.
+**[[:ceb:obs:notes:frames:02-03|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-05|>>]]**
