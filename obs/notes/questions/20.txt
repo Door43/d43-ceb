@@ -1,28 +1,12 @@
 ====== Istorya #20: Ang Pagkabihag ug Pagbalik ======
 
-
-
 **Mga Pangutana sa Pagsusi ug mga Tubag:**
-
-
-
-
 
 Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-
-
-
-
   -
 
-Unsa ang gipasidaan sa mga propeta ngadto sa mga tawo?
-
-
-
-      *
-
-Giingnan sila ang maghinulsol ug mosimba sa Dios
+Unsa ang gipasidaan sa mga propeta ngadto sa mga tawo? \\ Giingnan sila ang maghinulsol ug mosimba sa Dios
 
 
 
@@ -32,28 +16,394 @@ Giingnan sila ang maghinulsol ug mosimba sa Dios
 
 
 
- //. [20-01]//
-  - **How did the people respond to the message from the prophets?**
-      * //The people refused to obey. [20-01]//
-  - **What enemy destroyed the kingdom of Israel?**
-      * //The Assyrian Empire. [20-02]//
-  - **Who were the Samaritans?**
-      * //The descendants of the Israelites who married the foreigners brought to the land by the Assyrians. [20-04]//
-  - **Did the people of the kingdom of Judah obey God when they saw how he had punished the kingdom of Israel?**
-      * //No, they continued worshiping idols. [20-05]//
-  - **Who did the king of Judah agree to serve?**
-      * //King Nebuchadnezzar of Babylon. [20-06]//
-  - **When the king of Judah rebelled, what did Nebuchadnezzar’s soldiers do to him?**
-      * //They killed the king’s sons in front of him, made him blind, and took him away to die in prison in Babylon. [20-08]//
-  - **What do we call the period of time when God’s people were forced to leave the Promised Land?**
-      * //The Exile. [20-09]//
-  - **What did God promise to the people during the Exile?**
-      * //God promised that after seventy years, they would return to the Promised Land. [20-10]//
-  - **Who was the king who defeated the Babylonians?**
-      * //King Cyrus of the Persian Empire. [20-11]//
-  - **What order did King Cyrus give concerning the Jews?**
-      * //Any Jew who wanted to return to Judah could go there. [20-12]//
-  - **What did the Jews do when they returned to Jerusalem?**
-      * //They rebuilt the Temple and the wall around the city. [20-13]//
-**[[:en:obs:notes:questions:19|<< ]] | [[:en:obs:notes:questions:21| >>]]**
 
+  - Unsa
+
+ang gibuhat sa mga tawo sa pagkadungog nila sa mensahe sa mga propeta
+
+
+
+ //**?**//      *
+
+Wala sila mituman
+
+
+
+
+
+.
+
+
+
+ // [20-01]//
+  -
+
+Unsa nga gingharian ang miguba sa gingharian sa Israel
+
+
+
+ **?**
+      *
+
+Ang gingharian sa
+
+
+
+
+
+Asiria.
+
+
+
+ // [20-02]//
+  -
+
+Kinsa man ang mga
+
+
+
+
+
+Samaritan
+
+
+
+
+
+hon
+
+
+
+
+
+?
+
+
+
+      *
+
+Kaliwat sila sa mga
+
+
+
+
+
+Israelit
+
+
+
+
+
+a
+
+
+
+
+
+
+
+
+
+nga naminyo ug mga langyaw nga gidala sa mga taga-
+
+
+
+
+
+Asirian
+
+
+
+
+
+ngadto sa ilang yuta
+
+
+
+
+
+.
+
+
+
+ // [20-04]//
+  -
+
+Gituman ba sa mga tawo sa gingharian sa Juda ang Dios sa dihang nakita na nila kon giunsa niya pagsilot ang gingharian sa Israel?
+
+
+
+      *
+
+Wala
+
+
+
+
+
+,
+
+
+
+
+
+nagpadayon hinuon sila sa pagsimba sa mga dios-dios
+
+
+
+
+
+.
+
+
+
+ // [20-05]//
+  -
+
+Kinsa ang
+
+
+
+
+
+giuyonan
+
+
+
+
+
+nga
+
+
+
+
+
+alagaran
+
+
+
+
+
+sa hari sa Juda?
+
+
+
+      *
+
+Si Hari
+
+
+
+
+
+Nebucadnezar
+
+
+
+
+
+sa Babilonia.
+
+
+
+ // [20-06]//
+  -
+
+Sa dihang nagrebelde ang hari sa Juda, unsa man ang gibuhat sa mga sundalo ni
+
+
+
+
+
+Nebuchadnezzar
+
+
+
+
+
+ngadto kaniya
+
+
+
+
+
+?
+
+
+
+      *
+
+Gipatay nila ang iyang mga anak nga lalaki sa iyang atubangan, ug gibutahan siya, ug gidala siya sa Babilonia aron mamatay didto sa prisohan
+
+
+
+
+
+.
+
+
+
+ // [20-08]//
+  -
+
+Unsa ang ingalan nato sa panahon nga gipugos ang mga katawhan sa Dios sa pagbiya sa Yutang Saad?
+
+
+
+      *
+
+Ang Pagkabihag
+
+
+
+
+
+.
+
+
+
+ // [20-09]//
+  -
+
+Unsa ang gisaad sa Dios sa mga tawo panahon sa Pagkabihag
+
+
+
+
+
+?
+
+
+
+      *
+
+Nagsaad ang Dios nga pagkahuman sa 70 ka tuig, makabalik na sila sa Yutang Saad
+
+
+
+
+
+.
+
+
+
+ // [20-10]//
+  -
+
+Kinsa ang hari nga nagpildi sa mga taga-Babilonia
+
+
+
+
+
+?
+
+
+
+      *
+
+Si Hari
+
+
+
+
+
+Cyrus
+
+
+
+
+
+sa
+
+
+
+
+
+emperyo
+
+
+
+
+
+sa Persia
+
+
+
+
+
+.
+
+
+
+ // [20-11]//
+  -
+
+Unsa ang mando ni Hari
+
+
+
+
+
+Cyrus
+
+
+
+
+
+alang sa mga Judio?
+
+
+
+      *
+
+Makauli sa Juda ang tanang Judio nga gusto na nga mouli
+
+
+
+
+
+.
+
+
+
+ // [20-12]//
+  -
+
+Unsa ang gibuhat sa mga Judio sa dihang nakauli na sila sa
+
+
+
+
+
+Jerusalem?
+
+
+
+      *
+
+Giusab nila pagbuhat ang
+
+
+
+
+
+Templ
+
+
+
+
+
+o ug ang pader libot sa siyudad
+
+
+
+
+
+.
+
+
+
+ // [20-13]//
+
+**[[:en:obs:notes:questions:19|<< ]] | [[:en:obs:notes:questions:21| >>]]**
