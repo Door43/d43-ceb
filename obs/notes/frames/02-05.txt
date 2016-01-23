@@ -11,7 +11,6 @@ The woman saw that the fruit was beautiful and looked delicious. She also wanted
 
 ==== Translation Notes: ====
 
-  * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-  * **who was with her**  - This is important information because it shows that the man was present when the woman made the decision to eat the fruit. 
-  
-**[[ceb/obs/notes/frames/02-04|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-06|>>]]**
+  * **maalamon**- Ang babaye gusto nga makabaton ug panghunahuna ug pagsabot nga sama sa bitin, ug sama sa naangkon sa Dios.
+  * **nga kauban niya**- Kini mahinungdanong masayran tungod kay kini nagpakita nga ang lalaki anaa sa dihang ang babaye nagdesisyon sa pagkaon sa bunga.
+**[[:ceb:obs:notes:frames:02-04|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-06|>>]]**
