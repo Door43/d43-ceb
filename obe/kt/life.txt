@@ -6,39 +6,19 @@ Naay duha ka paagi nga paggamit sa pulong nga “kinabuhi” diha sa Biblia - �
 
 === 1. Lawasnong kinabuhi ===
 
-  *
-
-Ang lawasnong kinabuhi mao ang espirito nga nagpuyo sa lawas sa tawo. Gihuypan sa Dios ug kinabuhi ang lawas ni Adan, ug nahimo siyang buhing binuhat.
-
-  *
-
-Ang “kinabuhi” nagapasabot usab sa kinabuhi sa tawo, sama niini “daghan ang naluwas nga kinabuhi.”
-
-  *
-
-Usahay ang pulong nga “kinabuhi” nagapasabot sa kahimtang sa tawo, sama niini, “nagkagidlay nga kinabuhi,” ug nagapasabot usab kini nga katas-on sa kinabuhi, sama niini, “sa kataposan sa iyang kinabuhi.”
-
+  * Ang lawasnong kinabuhi mao ang espirito nga nagpuyo sa lawas sa tawo. Gihuypan sa Dios ug kinabuhi ang lawas ni Adan, ug nahimo siyang buhing binuhat.
+  * Ang “kinabuhi” nagapasabot usab sa kinabuhi sa tawo, sama niini “daghan ang naluwas nga kinabuhi.”
+  * Usahay ang pulong nga “kinabuhi” nagapasabot sa kahimtang sa tawo, sama niini, “nagkagidlay nga kinabuhi,” ug nagapasabot usab kini nga katas-on sa kinabuhi, sama niini, “sa kataposan sa iyang kinabuhi.”
   * It can also refer to a person's lifespan as in the expression, "the end of his life."
-  *
-
-Ang “pagkinabuhi” nagapasabot nga buhi o nagapuyo sa bisan asa nga lugar u nabuhi pa sama sa, "nabuhi pa ang akong inahan" ug "nagkinabuhi sila sa siyudad."
-
+  * Ang “pagkinabuhi” nagapasabot nga buhi o nagapuyo sa bisan asa nga lugar u nabuhi pa sama sa, "nabuhi pa ang akong inahan" ug "nagkinabuhi sila sa siyudad."
   * Ang kabaliktaran sa “kinabuhi” mao ang “kamatayon.”
 
 === 2. Espiritohanong kinabuhi ===
 
   * Ang tawo adunay espiritohanong kinabuhi kon motuo siya kang Jesus ug hatagan siya sa Dios sa kinabuhi nga bag-o ug magpuyo ang Balaang Espiritu kaniya.
-  *
-
-Ang espiritohanong kinabuhi nagapasabot sa pakig-uban sa tawo sa Dios.
-
-  *
-
-Kini nga kinabuhi ginatawag usab nga “kinabuhing walay kataposan” ug nagapasabot nga wala kini kahumanan.
-
-  *
-
-Ang kabaliktaran sa espiritohanong kinabuhi mao ang espiritohanong kamatayon, ug nagapasabot nga panagbulag sa tawo ug sa Dios ug adunay silot nga matagamtaman nga walay kataposan.
+  * Ang espiritohanong kinabuhi nagapasabot sa pakig-uban sa tawo sa Dios.
+  * Kini nga kinabuhi ginatawag usab nga “kinabuhing walay kataposan” ug nagapasabot nga wala kini kahumanan.
+  * Ang kabaliktaran sa espiritohanong kinabuhi mao ang espiritohanong kamatayon, ug nagapasabot nga panagbulag sa tawo ug sa Dios ug adunay silot nga matagamtaman nga walay kataposan.
 
 ===== Translation Suggestions: =====
 
@@ -50,7 +30,7 @@ Ang kabaliktaran sa espiritohanong kinabuhi mao ang espiritohanong kamatayon, ug
   * When the Bible text talks about being alive spiritually. "Life" could be translated as "spiritual life" or "eternal life," depending on the context.
   * The concept of spiritual life could also be translated by a phrase that means, "God making us alive in our spirits" or "new life by God's Spirit" or "being made alive in our inner self."
 
-(See also: [[:ceb:obe:kt:death]], [[:En:obe:kt:eternity]])
+(See also: [[:ceb:obe:kt:death|death, die, dead]], [[:en:obe:kt:eternity|everlasting, eternal, eternity]])
 
 ===== Bible References: =====
 
@@ -64,7 +44,7 @@ Ang kabaliktaran sa espiritohanong kinabuhi mao ang espiritohanong kamatayon, ug
   * **[[:ceb:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
   * **[[:ceb:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
   * **[[:ceb:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  * **[[:ceb:obs:notes:frames:44-05|[44-05]]]** "You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
+  * **[[:ceb:obs:notes:frames:44-05|[44-05]]]**"You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
