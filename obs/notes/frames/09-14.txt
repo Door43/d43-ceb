@@ -17,11 +17,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **the people** - See "my people" in **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name** - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
-
-
+  * **ang katawhan - ** Tan-awa ang, "akong katawhan sa " **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
+  * **AKO MAO AKO - ** Kini nga paghulagway nagpakita nga ang Dios lang ang makapasundayag sa iyang kaugalingon, ug dili pinaagi sa bisan unsa nga atong nahibaloan, ug dili siya ikatandi ni bisan kinsa.
+  * **Ako - ** Kining ngalana nagapasundayag pag-ayo nga ang Dios lang gayod ang kanunay nga nabuhi, ug magpabilin siya sa walay kinutoban.
+  * **akong ngalan - ** Ang ngalan nga gisulti sa Dios kang Moises ug sa tanang katawhan sa Israel mao ang "Yahweh," nga magkaanggid sa, "Ako" ug nagpasabot kini nga, "Siya."
 **[[:ceb:obs:notes:frames:09-13|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-15|>>]]**
