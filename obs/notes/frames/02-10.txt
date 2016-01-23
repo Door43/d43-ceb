@@ -10,6 +10,5 @@
 
 ==== Translation Notes: ====
 
-  * **childbirth very painful**  - Some languages may need to express this as a verb. You could say, “I will cause you to have much more pain when you give birth to children.” 
-
-**[[ceb/obs/notes/frames/02-09|<<]] | [[ceb/obs/notes/02|Up]] | [[ceb/obs/notes/frames/02-11|>>]]**
+  * **sakit kaayo ang imong pagpanganak**- Sa uban nga pinulongan kinahanglan nga kini mapakita nga sakit gayod. Mamahimo ka nga moingon, "Himoon ko nga sakit kaayo ang imong pagpanganak."
+**[[:ceb:obs:notes:frames:02-09|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-11|>>]]**
