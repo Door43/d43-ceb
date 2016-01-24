@@ -18,12 +18,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **Malachi** - Malachi was the last prophet in the Old Testament.
-  * **foretold** - This could be translated as, "predicted" or, "prophesied." It means to tell something that will happen in the future. Malachi spoke God's message to the people 400 years before the Messiah came.
-  * **prophesied** – In this context, "prophesied" has the same meaning as "foretold" and "predicted" since it means the prophet told something that would happen far in the future.
-  * **the Messiah would be born from a virgin** - Another way to say this would be, "a virgin would give birth to the Messiah."
-  * **Micah** - Micah was an Old Testament prophet of God who, like Isaiah, spoke his messages from God almost 800 years before the Messiah came.
-
-
+  * **Malaquias**  - Si Malaquias ang kataposang propeta sa Daang Kasabotan.
+  * Gisulti na daan: Mahimo kining hubaron nga, “gitagna” o “gipropesiya.” Nagpasabot kini nga ipahibalo kung unsa man ang mahitabo sa umaabot. Gisulti ni Malaquias ang mensahe sa Dios ngadto sa mga tawo sa 400 pa ka tuig ayha moabot ang Mesiyas.
+  * **Gipropesiya**  - Dinhi nga istorya, managsama lang ang ipasabot sa “gipropesiya” ug “gisulti na” ug “gitagna” tungod kay nagpasabot kini nga gisulti sa propeta kung unsa ang mahitabo sa umaabot.
+  * **matawo ang Mesiyas sa babayeng ulay**  - Sa ubang pagkasulti, “ang Ulay manganak ug Mesiyas.”
+  * **Miqueas**  - Si Miqueas mao ang propeta sa Dios sa Daang Kasabotan, nga nagpropesiya usab sama kang Isaias, sa mga 800 ka tuig sa wala pa moabot ang Mesiyas.
 **[[:ceb:obs:notes:frames:21-08|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:21-10|>>]]**
