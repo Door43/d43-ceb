@@ -16,11 +16,9 @@
 
 ===== Translation Notes: =====
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
-
+  * **wala madugay**  - Dili klaro kon dugay na ba kini human sa pagkahimugso ni Jesus sa dihang nakita sa mga maalamon nga tawo ang bituon, pero niabot siguro sila ug duha ka tuig sa pagpangandam aron manglakaw ug moadto sa Betlehem.
+  * **maalamong mga tawo -**  Ang “maalamong mga tawo” basin mga hanas ug nagtuon sa mga bituon. Basin ug naa sila'y basahon sa Daang Kasabotan nga gisulat sa mga propeta mahitungod sa matawo nga Mesiyas.
+  * **kahibulongan nga bituon**  - Ang bituon nga ilang nakita, dili sama sa bituon nga kasagaran natong makita. Nagpakita kadto nga bituon sa panahon nga natawo si Jesus.
+  * **Nasabtan nila**  - Mahimo nga dugangan kini ug, “sa pagtuon niining mga maalamon, ilang nasabtan” kon hubaron sa ubang mga pinulongan.
+  * **ang balay**  - Wala na sila nagpuyo didto sa puy-anan sa mga hayop kon asa nahimugso ang bata, kondili nibalhin na sila.
 **[[:ceb:obs:notes:frames:23-08|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-10|>>]]**
