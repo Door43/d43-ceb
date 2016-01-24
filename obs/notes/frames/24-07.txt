@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
-
-
+  * **dili ko takos sa pagbawtismo nimo**  - Mahimong kining hubaron nga, “Dili ako maayong tawo aron makabawtismo kanimo” o “Makasasala ako, mao nga dili ko mobawtismo kanimo.”
+  * **mao na ang maayo nato nga buhaton -**  Mahimo kining hubaron nga, “kini ang insaktong butang nga himoon” o “kini ang gusto sa Dios nga akong buhaton.”
 **[[:ceb:obs:notes:frames:24-06|<<]] | [[:ceb:obs:notes:24|Up]] | [[:ceb:obs:notes:frames:24-08|>>]]**
