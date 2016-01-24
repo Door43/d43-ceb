@@ -14,13 +14,10 @@
 
 ===== Translation Notes: =====
 
-  * (The angel continued speaking.)
-  * **wrapped in pieces of cloth** - The custom of that time was to tightly wrap newborn babies in long strips of cloth. It may be necessary to say, "wrapped in long strips of cloth, in the customary way."
-  * **feeding trough** - That is, "animal feeding box." Also see how you translated this in **[[:ceb:obs:notes:frames:23-05|[23-05]]]**.
-  * **filled with angels** - This means that there were so many angels that they seemed to fill the sky.
-  * **Glory to God** - This can also be translated as, "Let us all give glory to God!" or, "Our God deserves all glory and honor!" or, "We all give glory to God!"
-  * **peace on earth** - Another way to say this would be, "may there be peace on earth."
-  * **the people he favors** - This might be translated as, "people that God looks upon with favor, delight, or good will."
-
-
+  * **giputos ug panapton**  - Ang kasagarang ginabuhat kaniadto sa ilang panahon, mao nga ginaputos sa taas nga panapton ang mga bata nga bag-o lang gianak. Kinahanglan siguro nga hubaron kini nga “giputos sa taas nga panapton, nga kasagaran nilang buhaton.”
+  * **Pasungan**  - Mao kini ang, “kahon nga pakan-an sa mga hayop.” Tan-awa usab kon giunsa paghubad sa **[[:en:obs:notes:frames:23-05|[23-05]]]**.
+  * **napuno ug mga anghel **- Nagpasabot kini nga daghan kaayo ang mga anghel nga murag nakapuno sa langit.
+  * **Himayaon ang Dios -** Mahimo usab kining hubaron nga “Atong ihatag sa Dios ang tanang himaya!” o “Ang atong Dios takos sa himaya ug kadungganan!” o “Atong ihatag sa Dios ang himaya!”
+  * **kalinaw sa kalibotan -**  Ang uban nga paghubad niini mao ang “adunay kalinaw sa kalibotan.”
+  * **mga tawo nga iyang gikaloy-an**  - Mahimo kining hubaron nga “mga katawhan nga gikaluy-an, gikahimut-an, ug gusto sa Dios.”
 **[[:ceb:obs:notes:frames:23-06|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-08|>>]]**
