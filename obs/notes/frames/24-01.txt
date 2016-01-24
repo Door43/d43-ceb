@@ -13,11 +13,9 @@
 
 ===== Translation Notes: =====
 
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
-
-
+  * **kamingawan**  - Mao kini ang “deserto” o “awaaw nga lugar, ug sama sa desirto.” Pipila lamang ka mga tawo ang magpuyo niining lugara.
+  * **dugos**  - Mao kini ang dugos nga gikan sa mga putyokan nga nabuhi sa kamingawan; wala kini giatiman sa mga tawo. Kon sabton sa mga tawo nga inatiman kining dugos, maayo nga dugangan ug pulong nga “halas.”
+  * **dulon**  - Dako kini gamay sa mga insekto nga galukso-lukso ug adunay pako, ug sama kini sa apan-apan. Adunay mga tawo nga nagpuyo sa kamingawan nga mokaon sa mga dulon.
+  * **buhok sa kamelyo -**  Ang kamelyo usa ka mananap nga gahig buhok ug mahimong himoon nga sanina. Mahimo kining hubaron nga “gahi nga buhok sa mananap.”
+  * **ug hinimo gikan sa buhok sa kamelyo**  - Mao kini ang “dagko nga mga sinina nga gihimo gikan sa buhok sa kamelyo.” Dili kini dali madaot nga sanina didto sa kamingawan sama sa uban nga dali ra madaot.
 **[[:ceb:obs:notes:frames:23-10|<<]] | [[:ceb:obs:notes:24|Up]] | [[:ceb:obs:notes:frames:24-02|>>]]**
