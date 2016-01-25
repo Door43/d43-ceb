@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **himoang pan kining mga bato -**  Mahimo usab kining hubaron nga “himoa kining mga bato nga pan” o “himoa kining mga bato nga paan sa kahibulongang paagi.”
+  * **Pan**  - Mahimo kining hubaron nga “pagkaon” ngadto sa ubang mga pinulongan nga dili pan ang kasagarang ginakaon. Ang pan mao ang kasagarang ginakaon sa mga Judio nga tribo.
 **[[:ceb:obs:notes:frames:25-01|<<]] | [[:ceb:obs:notes:25|Up]] | [[:ceb:obs:notes:frames:25-03|>>]]**
