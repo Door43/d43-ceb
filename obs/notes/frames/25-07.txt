@@ -15,10 +15,8 @@
 
 ===== Translation Notes: =====
 
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:ceb:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
-
+  * **Palayo kanako -**  Mahimo kining hubaron nga “biyai ko” o “pasagdi ko nga mag-inusara.”
+  * **Ang pulong sa Dios, nagsugo sa mga tawo nga nag-ingon, 'Ang Ginoo lang nga imong Dios maoy simbaha, ug siya lang ang imong alagaran.'**  - Mahimo kining isulat sa diretso nga paagi, “'Diha sa pulong sa Dios, gimandoan niya kita nga kinahanglan simbahon ug alagaran nato ang Ginoong Dios, nga maoy nagdumala kanato.”
+  * **Ginoo nga imong Dios**  - Hubara kini sama sa **[[:en:obs:notes:frames:25-05|[25-05]]]**.
+  * **Ug siya lang ang imong alagaran -**  Mao kini ang ubang paagi sa pagsulti niini “Siya lamang gayod ang imong alagaran.”
 **[[:ceb:obs:notes:frames:25-06|<<]] | [[:ceb:obs:notes:25|Up]] | [[:ceb:obs:notes:frames:25-08|>>]]**
