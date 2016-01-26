@@ -22,10 +22,8 @@
 
 ===== Translation Notes: =====
 
-  * **believe in him** - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
-  * **be baptized** - This could also be translated as, "have someone baptize you" or, "let them baptize you."
-  * **believe that** - This can also be translated as, "acknowledge that" or, "agree that."
-  * **take away** - See note on **[[:ceb:obs:notes:frames:49-11|[49-11]]]**.
-
-
+  * **pagtuo kaniya -**  Mahubad usab kini nga, “itugyan kaniya” o, “itugyan kaniya kay siya ang moluwas kanimo” o, “itugyan ang imong tibuok nga kinabuhi kaniya.”
+  * **pagpabawtismo -**  Mahubad kini nga, “nga adunay mobawtismo kanimo” o, “itugot nga bawtismohan ka nila.”
+  * **Mituo ka ba nga -**  Mahubad kini, “imong giila nga” o, “miuyon ka nga.”
+  * **pagkuha -**  Tan-awa sa sinulat sa **[[:ceb:obs:notes:frames:49-11|[49-11]]]**.
 **[[:ceb:obs:notes:frames:49-13|<<]] | [[:ceb:obs:notes:49|Up]] | [[:ceb:obs:notes:frames:49-15|>>]]**
