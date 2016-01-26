@@ -1,23 +1,19 @@
 ===== The Slave Girl [47-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
 **Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
 ===== Important Terms: =====
 
-  * **[[:ceb:obe:other:paul]]**
-  * **[[:ceb:obe:other:silas]]**
-  * **[[:ceb:obe:other:pray]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:demonpossessed]]**
-  * **[[:ceb:obe:kt:demon]]**
-  * **[[:ceb:obe:kt:lord]]**
-
-
+  * **[[:ceb:obe:other:paul|Paul, Saul]]**
+  * **[[:ceb:obe:other:silas|Silas, Silvanus]]**
+  * **[[:ceb:obe:other:pray|pray, prayer]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:kt:demonpossessed|demon-possessed]]**
+  * **[[:ceb:obe:kt:demon|demon, evil spirit, unclean spirit]]**
+  * **[[:ceb:obe:kt:lord|lord, master, sir]]**
 ===== Translation Notes: =====
 
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **iyang agalon:**  Niining panghitabo, mahubad usab nga, “ang tag-iya kaniya.”
+  * **pagpanagna:**  Nagpasabot kini nga, “usa ka tawo nga nga mosulti sa ubang tawo mahitungod sa mahitabo kanila sa umaabot nga panahon.”
 **[[:ceb:obs:notes:frames:47-02|<<]] | [[:ceb:obs:notes:47|Up]] | [[:ceb:obs:notes:frames:47-04|>>]]**
