@@ -13,9 +13,7 @@
 
 ===== Translation Notes: =====
 
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:ceb:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
-
+  * **hanas sa balaod **- Tan-awa kung gi-unsa kining pulong paghubad sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**.
+  * (ang murag panganod nga paglarawan sa litrato nagpasabot nga nag-istorya si Jesus ug dili na kinahanglan isulti ang kaagi niining kalihokan.)
+  * **Gikan sa Jerusalem paingon sa Jericho** – Sa ubang pinulongan mahimo kining hubaron sama niini, “gikan sa siyudad sa Jerusalem paingon sa siyudad sa Jerico” o, “gikan sa lungsod sa Jerusalem paingon sa lungsod sa Jericho.”
 **[[:ceb:obs:notes:frames:27-03|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:27-05|>>]]**
