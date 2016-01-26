@@ -12,12 +12,8 @@
 
 ===== Translation Notes: =====
 
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:ceb:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:ceb:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
-**[[:ceb:obs:notes:frames:29-08|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:30-01|>>]]**
+  * **Human niini miingon si Jesus **- Sa uban nga mga pinulongan adunay gidugang niini, “...sa iyang mga tinun-an.”
+  * **kini **- Nagpasabot ang “kini” sa paagi sa hari sa pagsilot sulugoon nga wala nagpasaylo sa iyang kauban sa **[[:ceb:obs:notes:frames:29-08|[29-08]]]**.
+  * **Amahan sa langit **- Nagpasabot kini nga, “ang akong Amahan nga anaa sa langit.” Gisulti ni Jesus ang iyang nga relasyon sa Dios Amahan.
+  * **iyang isigkatawo **- Tan-awa ang **[[:ceb:obs:notes:frames:29-01|[29-01]]]** kung giunsa kini paghubad.
+  * **sa kinasingkasing**-  Nagpasabot kini nga, “tinud-anay” o, “tinuoray” o, “tinud-on” o, “matinud-anon.”
