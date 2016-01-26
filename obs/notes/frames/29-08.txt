@@ -14,11 +14,8 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:ceb:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * **Gipatawag … ang sulugoon **- Nagpasabot kini nga, “gimandoan niya ang sulugoon nga moadto kaniya” o, “gisugo niya ang iyang mga magbalantay nga dad-on ang sulugoon kaniya.”
+  * **nagpakiluoy ka kanako**- Mahimo kini nga hubaron sama niini, “nangaliyupo kanako” o, “nangayo dayon ka ug kalooy kanako,” o, "nanghangyo kanako nga kaloy-an dayon ta ka.”
+  * **wala nimo buhata ang gihimo nako kanimo **- Nagpasabot kini nga, “imo usab unta nga gipasaylo ang nakautang kanimo, sama sa pagpasaylo nako kanimo.”
+  * **gipapriso **- Nagpasabot kini nga, “gimandoan niya ang mga magbalantay nga isulod siya sa prisohan.” Mahubad usab kini sama sa **[[:ceb:obs:notes:frames:29-06|[29-06]]]**.
 **[[:ceb:obs:notes:frames:29-07|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:29-09|>>]]**
