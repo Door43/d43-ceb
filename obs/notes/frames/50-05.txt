@@ -12,9 +12,7 @@
 
 ===== Translation Notes: =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
-
+  * **maayong binhi -**  Kini nga binhi usa ka liso sa trigo. Kung kini nga matang sa liso dili ninyo mailhan sa inyong pinulongan, mas maayo nga gamiton ang pulong nga “binhi.” Kung walay pulong alang niini mas maayo nga mogamit ug matang sa liso nga kapareha niini, ug moingon, “maayong binhi sama sa humay.”
+  * **binhi sa sagbot - ** Ang binhi sa sagbot nga gitanom motubo sama sa tag-as nga sagbot apan dili makaon ug walay pulos.
+  * **trigo –**Nagpasabot kini nga, “binhi sa trigo.” Ang trigo usa ka matang sa liso nga motubo sama sa sagbot. Aduna kini liso nga gigamit sa mga tawo aron himoong pagkaon.
 **[[:ceb:obs:notes:frames:50-04|<<]] | [[:ceb:obs:notes:50|Up]] | [[:ceb:obs:notes:frames:50-06|>>]]**
