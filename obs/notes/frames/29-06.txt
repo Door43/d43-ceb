@@ -10,10 +10,7 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:ceb:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:ceb:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
-
-
+  * **kauban nga sulugoon**- Hubaron kini sama sa **[[:ceb:obs:notes:frames:29-05|[29-05]]]**.
+  * **miluhod**- Kining pulong sama sa buot ipasabot sa **[[:ceb:obs:notes:frames:29-04|[29-04]]]**.
+  * **gipapriso niya hinuon ang iyang kauban nga sulugoon**- Mahimo usab nga hubaron sama niini, “gipapriso ang tawo.” Ang pulong nga “gipapriso” usa kini ka pinugsanay nga pamaagi nga ang usa ka tawo nangusog gayod sa pagpasulod sa tawo nga prisohon.
 **[[:ceb:obs:notes:frames:29-05|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:29-07|>>]]**
