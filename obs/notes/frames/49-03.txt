@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
-
+  * **matuod nga magtutudlo -** Nagpasabot kini nga, “ang mahinungdanong magtutudlo” o, “ang labing maayong magtutudlo.”
+  * **Sama sa -**  Nagpasabot kini nga, "pariha ug bili niini” o, “pariha sila.”
 **[[:ceb:obs:notes:frames:49-02|<<]] | [[:ceb:obs:notes:49|Up]] | [[:ceb:obs:notes:frames:49-04|>>]]**
