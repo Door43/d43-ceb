@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **Usa ka adlaw**  – Kini nga mga pulong nagahisgot ug usa ka kaagi nga milabay sa dugay na nga panahon, apan wala maghisgot kung kanus-a kini nahitabo. Kadaghanan sa mga pinulongan adunay samang pamaagi sa pagsugod sa usa ka tinuod nga istorya.
+  * **Gerasa:**  Ang mga tawo nga nagpuyo sa Gerasa sa sidlakan bahin sa dagat sa Galilea, mga kaliwat usab sila sa mga Judio, apan gamay lang ang atong nahibal-an nga detalye mahitungod kanila.
 **[[:ceb:obs:notes:frames:31-08|<<]] | [[:ceb:obs:notes:32|Up]] | [[:ceb:obs:notes:frames:32-02|>>]]**
