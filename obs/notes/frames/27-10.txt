@@ -10,11 +10,9 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
-
+  * (mipadayon si Jesus ug istorya.)
+  * **modayon sa iyang lakaw** – Mahimo usab kining hubaron nga, “mipadayon sa iyang panaw ngadto sa iyang padulngan.”
+  * **gabantay**- Nagpasabot kini nga, “ang midumala.” Mahimo usab nga ang nagdumala mao usab ang tag-iya sa balay katulganan.
+  * **Atimana siya**- Sa ubang pinulongan mahimo usab kining ingnon nga, “palihog atimana siya ug maayo” aron maklaro nga usa kini ka pamalihog ug dili mando.
+  * **bayran ang magasto** – pwede usab kining hubaron nga, “bayran ka” o, “bayran ang salapi” o, “bayran ra na.”
 **[[:ceb:obs:notes:frames:27-09|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:27-11|>>]]**
