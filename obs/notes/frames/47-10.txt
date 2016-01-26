@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **tigbantay sa prisohan:**  Nagpasabot kini nga, “opisyal nga maoy gitahasan sa pagbantay sa prisohan.”
+  * **mi: S**a uban nga pinulongan aduna silay pinasahi nga pamaagi sa maong pulong nga “kami” ug ug nagpasabot kini nga wala giapil ang tawo nga gisultian. Dinhi nga panghitabo ang  “mi” nagpasabot nga walay labot ang nagbantay sa prisohan, kay “kita” ang gamiton kon apil siya. Si Silas lang ug Pablo ug ang uban mga piniriso ang gihisgotan nini.
 **[[:ceb:obs:notes:frames:47-09|<<]] | [[:ceb:obs:notes:47|Up]] | [[:ceb:obs:notes:frames:47-11|>>]]**
