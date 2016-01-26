@@ -1,18 +1,16 @@
 ===== The Treasure in the Field [34-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
 “The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
 ===== Important Terms: =====
 
-  * **[[:ceb:obe:kt:kingdomofgod]]**
-  * **[[:ceb:obe:kt:joy]]**
-
-
+  * **[[:ceb:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
+  * **[[:ceb:obe:kt:joy|joy, joyful]]**
 ===== Translation Notes: =====
 
   * **bahandi**- Nagpasabot nga, “usa ka butang nga bililhon kaayo.”
-  * **gibalhin ug lubong** – Mahimong usab nga dugangan ug, “aron walay si bisan kinsa ang makakita sa maong bahandi.”
-  * **Nalipay kaayo **– Usa ka paagi sa pagsulti niini mao, “malipayon gayod” o,  “nanghinam-hinam.”
+  * **gibalhin ug lubong**  – Mahimong usab nga dugangan ug, “aron walay si bisan kinsa ang makakita sa maong bahandi.”
+  * **Nalipay kaayo **– Usa ka paagi sa pagsulti niini mao, “malipayon gayod” o, “nanghinam-hinam.”
   * **mapalit niya ang yuta **– Sa uban ilang dugangan ug, “aron maiya ang bahandi.”
 **[[:ceb:obs:notes:frames:34-03|<<]] | [[:ceb:obs:notes:34|Up]] | [[:ceb:obs:notes:frames:34-05|>>]]**
