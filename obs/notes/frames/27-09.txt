@@ -10,10 +10,8 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * (mipadayon si Jesus ug istorya.)
+  * **sa iyang asno** – Kinahanglan nga maklaro nga ang “iya” nagpasabot sa Samaritanhon.
+  * **balay nga abanganan**  – Nagpasabot kini nga, “balay katulganan.” Usa kini ka balay nga pahulayan ug kan-anan alang sa mga nagapanaw sa layong dapit.
+  * **iyang giatiman **– mahimo kining hubaron sama, “mipadayon siya ug atiman kaniya.”
 **[[:ceb:obs:notes:frames:27-08|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:27-10|>>]]**
