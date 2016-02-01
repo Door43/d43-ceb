@@ -1,19 +1,17 @@
-===== Two Trees [01-11] =====
+===== Ang Duha ka Kahoy [01-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
+Sa taliwala sa maong tanaman, adunay gitanom ang Dios nga duha ka pinasahi nga mga kahoy - ang kahoy sa kinabuhi, ug ang kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. Giingnan sa Dios si Adan nga mahimo niyang kan-on ang tanang bunga sa kahoy sa tanaman, gawas sa bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. Kon iya kining pagakan-on, mamatay siya.
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:life]]**
-  * **[[ceb:obe:kt:good]]**
-  * **[[ceb:obe:kt:evil]]**
-  * **[[ceb:obe:other:adam]]**
-  * **[[ceb:obe:kt:death]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+  * **[[:ceb:obe:kt:good|good, goodness]]**
+  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ceb:obe:other:adam|Adam]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
 ==== Translation Notes: ====
 
   * **sa taliwala**  – Mao kini ang kinataliwad-an nga dapit sa tanaman diin makita ang duha ka kahoy nga mahinungdanon.
@@ -21,6 +19,6 @@
   * **kahoy sa kinabuhi**  –Si bisan-kinsa nga mokaon sa bunga niining kahoya dili gayod mamatay.
   * **kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan**  – Ang bunga niining kahoya mahimo nga makaabli sa hunahuna sa tawo aron masayod unsay maayo ug unsay daotan.
   * **Kahibalo**  – Mao kini ang pagsuta o pagsabot sa bisan unsa pinaagi sa kaagi o kasinatian.
-  * **maayo ug daotan** – Ang daotan mao ang baliktad sa maayo. Ang “maayo” naghisgot kung unsay makapahimuot sa Dios, ang “daotan” naghisgot sa tanang butang nga dili makapahimuot sa Dios.
-  * **mamatay** – Niining tungora, mamatay siya sa iyang lawasnon ug espirituhanon nga bahin sa iyang kinabuhi.
+  * **maayo ug daotan**  – Ang daotan mao ang baliktad sa maayo. Ang “maayo” naghisgot kung unsay makapahimuot sa Dios, ang “daotan” naghisgot sa tanang butang nga dili makapahimuot sa Dios.
+  * **mamatay**  – Niining tungora, mamatay siya sa iyang lawasnon ug espirituhanon nga bahin sa iyang kinabuhi.
 **[[:ceb:obs:notes:frames:01-10|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-12|>>]]**
