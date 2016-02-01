@@ -1,21 +1,18 @@
-===== Fill the Earth [01-15] =====
+===== “Pagsanay kamo ug pun-a ninyo ang tibuok kalibotan.” [01-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&}}
 
-**God made** man and woman **in his own image**. He **blessed** them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was **very good**, and he was very pleased with all of it. This all happened on the sixth day of **creation**.
+Gihimo sa Dios ang lalaki ug babaye sama sa iyang dagway. Gipanalanginan ug giingnan niya sila, “Pagsanay kamo ug pun-a ninyo ang tibuok kalibotan.” Nakita sa Dios nga maayo kaayo ang tanan niyang gihimo. Nalipay siya ug maayo sa tanan niyang gihimo. Nahitabo kining tanan sulod sa unom ka adlaw nga pagpamuhat.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:bless]]**
-  * **[[ceb:obe:kt:good]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ceb:obe:kt:good|good, goodness]]**
 ==== Translation Notes: ====
 
-  * **Gihimo sa Dios** – Gihimo sa Dios ang lalaki ug babaye pinaagi sa iyang kamot o kaugalingon.
-  * **sama sa iyang dagway** – Ang dagway usa ka panagway sa tawo o butang. Gibuhat ang tawo sama sa dagway sa Dios ug kini nagpasabot nga ang tawo nahisama o adunay kalambigitan sa mga kalidad o kinaiya sa Dios, apan wala makatupong o dili gayod sama kaniya.
-  * **maayo kaayo** –Labaw pa kini sa, “maayo” nga gihisgotan sa miaging mga adlaw. Ang “maayo kaayo” nagpasabot sa tibuok nga pagpamuhat, dili lang ang paghimo sa lalaki ug babaye. Nahimo ang tanan uyon sa tumong sa Dios sa paghimo sa mga butang nga angay mahimo.
-  * **pagpamuhat** – Ang unom ka adlaw sa pagpamuhat diin gihimo sa Dios ang tanan.
+  * **Gihimo sa Dios**  – Gihimo sa Dios ang lalaki ug babaye pinaagi sa iyang kamot o kaugalingon.
+  * **sama sa iyang dagway**  – Ang dagway usa ka panagway sa tawo o butang. Gibuhat ang tawo sama sa dagway sa Dios ug kini nagpasabot nga ang tawo nahisama o adunay kalambigitan sa mga kalidad o kinaiya sa Dios, apan wala makatupong o dili gayod sama kaniya.
+  * **maayo kaayo**  –Labaw pa kini sa, “maayo” nga gihisgotan sa miaging mga adlaw. Ang “maayo kaayo” nagpasabot sa tibuok nga pagpamuhat, dili lang ang paghimo sa lalaki ug babaye. Nahimo ang tanan uyon sa tumong sa Dios sa paghimo sa mga butang nga angay mahimo.
+  * **pagpamuhat**  – Ang unom ka adlaw sa pagpamuhat diin gihimo sa Dios ang tanan.
 **[[:ceb:obs:notes:frames:01-14|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-16|>>]]**
