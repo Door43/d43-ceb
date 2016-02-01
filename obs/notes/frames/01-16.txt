@@ -1,24 +1,21 @@
-===== God Rested [01-16] =====
+===== Mipahulay ang Dios sa Ikapito nga Adlaw [01-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&}}
 
-When **the seventh day** came, **God** had **finished his work**. So **God rested** from all he had been doing. He **blessed the seventh day** and **made it holy**, because on this day he rested from his work. This is how God created **the universe** and everything in it.
+Sa ikapito na ka adlaw, nahuman na sa Dios ang iyang buluhaton. Busa mipahulay siya ug gipanalanginan niya ang ikapito nga adlaw ug gihimo niya kining balaan tungod kay mipahulay siya nining adlawa. Ingon niana ang pagpamuhat sa Dios sa kalibotan ug sa langit, ug sa tanan nga anaa niini.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:bless]]**
-  * **[[ceb:obe:kt:holy]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ceb:obe:kt:holy|holy, holiness]]**
 ==== Translation Notes: ====
 
-  * **ikapito nga adlaw** – Mao kini ang sunod nga adlaw human sa unom ka adlaw nga pagpamuhat.
-  * **nahuman sa iyang buluhaton** – Nahuman sa Dios ang pagpamuhat. Apan nagbuhat gihapon siya ug uban pang mga buluhaton.
+  * **ikapito nga adlaw**  – Mao kini ang sunod nga adlaw human sa unom ka adlaw nga pagpamuhat.
+  * **nahuman sa iyang buluhaton**  – Nahuman sa Dios ang pagpamuhat. Apan nagbuhat gihapon siya ug uban pang mga buluhaton.
   * **mipahulay siya**– Ang Dios “mipahulay” ug kini nagpasabot nga mihunong na siya sa pagpamuhat tungod kay nahuman na ang tanan. Wala kini magpasabot nga gikapoy ang Dios, o dili na makapadayon.
   * **gipanalanginan niya ang ikapito nga adlaw**– Adunay pinasahi nga plano ang Dios alang sa ikapito nga adlaw, ug sa mosunod nga ikapito nga adlaw.
   * **gihimo niya kining balaan**  – Nagpasabot nga “gilahi” sa Dios kining adlawa ingon nga pinasahi nga adlaw. Dili kini sama sa unom ka adlaw sa usa ka semana kay kinahanglan nga walay motrabaho niining adlawa.
-  * **Kalibotan ug sa langit** – Naapil na niini ang tanang butang nga gibuhat sa Dios sa langit ug sa yuta; ang mga butang nga makita ug dili makita.
+  * **Kalibotan ug sa langit**  – Naapil na niini ang tanang butang nga gibuhat sa Dios sa langit ug sa yuta; ang mga butang nga makita ug dili makita.
   * //Ang mga kasayoran niining istoryaha naay kalahian sa ubang mga hubad nga bibliya.//
 **[[:ceb:obs:notes:frames:01-15|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:02-01|>>]]**
