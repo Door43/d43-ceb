@@ -1,23 +1,22 @@
-===== God Made Adam [01-10] =====
+===== Gibuhat sa Dios si Adan [01-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
-So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
+Ug mikuha ang Dios ug lapok, ug gihulma niya kini nga tawo. Gihoypan niya kini aron hatagan ug kinabuhi. Adan ang pangalan niining maong tawo. Gihimoan sa Dios ug tanaman si Adan aron pagapuy-an ug atimanon niya.
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:life]]**
-  * **[[ceb:obe:other:adam]]**
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+  * **[[:ceb:obe:other:adam|Adam]]**
 ==== Translation Notes: ====
 
   * **mikuha ug lapok**- Gihimo sa Dios ang tawo gikan sa lapok o abog nga gikan sa yuta. Ang pulong nga “lapok” dili sama sa pulong nga kasagarang gigamit kon mohisgot ug “yuta.”
-  * **gihulma** – Kini nga pulong nagpadayag nga mismo ang Dios maoy naghimo sa tawo, ug mahimo kini nga itandi sa tawo nga makahimo usab ug mga butang pinaagi sa iyang mga kamot. Kinahanglan nga mogamit ka ug pulong nga lahi sa gigamit nimo sa pulong nga “pagbuhat.” Timan-i nga lahi kini nga pamaagi sa Dios sa pagbuhat sa tanang butang pinaagi sa iyang sulti o mando.
-  * **tawo** – Ang lalaki lang ang gihimo niining tungora; gihimo ang babaye sa laing panahon ug sa laing pamaagi.
+  * **gihulma**  – Kini nga pulong nagpadayag nga mismo ang Dios maoy naghimo sa tawo, ug mahimo kini nga itandi sa tawo nga makahimo usab ug mga butang pinaagi sa iyang mga kamot. Kinahanglan nga mogamit ka ug pulong nga lahi sa gigamit nimo sa pulong nga “pagbuhat.” Timan-i nga lahi kini nga pamaagi sa Dios sa pagbuhat sa tanang butang pinaagi sa iyang sulti o mando.
+  * **tawo**  – Ang lalaki lang ang gihimo niining tungora; gihimo ang babaye sa laing panahon ug sa laing pamaagi.
   * **gihuypan aron hatagan ug kinabuhi **– Kini nagpadayag sa suod ug personal nga relasyon sa Dios ngadto sa tawo sa dihang siya mismo ang naghatag ug kinabuhi kang Adan. Maitandi kini kon giunsa pagginhawa sa tawo.
-  * **kinabuhi** – Niining tungora, gihoypan sa Dios ang tawo sa lawasnon ug espirituhanong kinabuhi.
-  * **Adan** – Ang ngalan nga Adan sama usab sa pulong nga “tawo,” nga gigamit sa Daang Kasabotan, ug nahisama usab sa pulong nga “lapok” diin siya gikan.
+  * **kinabuhi**  – Niining tungora, gihoypan sa Dios ang tawo sa lawasnon ug espirituhanong kinabuhi.
+  * **Adan**  – Ang ngalan nga Adan sama usab sa pulong nga “tawo,” nga gigamit sa Daang Kasabotan, ug nahisama usab sa pulong nga “lapok” diin siya gikan.
   * **tanaman**  - Usa kini ka dapit nga adunay mga klasi-klasing mga tanom ug mga kahoy aron mamunga ug makahatag ug nindot nga palibot.
   * atimanon– Atimanon ang tanaman, gunahan, ug bisbisan, anihon ang mga bunga, tamnan, ug uban pa.
 
