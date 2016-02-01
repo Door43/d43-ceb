@@ -1,16 +1,16 @@
-===== God Created Sky [01-03] =====
+===== Gibuhat sa Dios ang Langit [01-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
-On **the second day** of creation, **God spoke** and **created** the **sky** above the earth. He made the sky by separating the water above from the water below.
-===== Important Terms: =====
+Sa ikaduhang adlaw sa pagpamuhat sa Dios, nagsulti siya ug nahimo ang langit ibabaw sa kalibotan. Gihimo niya kini pinaagi sa pagbahin sa tubig nga anaa sa ibabaw ug sa tubig nga anaa sa ilalom.
 
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga mga Pulong: =====
+
+  * **[[:ceb:obe:kt:god|God]]**
 ==== Translation Notes: ====
 
-  * **the second day** - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **God spoke** - God created the sky by speaking a command.
-  * **created** - God made the sky out of nothing.
-  * **sky** - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-
+  * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
+  * **God spoke**  - God created the sky by speaking a command.
+  * **created**  - God made the sky out of nothing.
+  * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
 **[[:ceb:obs:notes:frames:01-02|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-04|>>]]**
