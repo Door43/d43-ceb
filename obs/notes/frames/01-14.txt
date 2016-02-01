@@ -1,20 +1,18 @@
-===== Adam Met Eve [01-14] =====
+===== Nagkita si Adan ug si Eba [01-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&}}
 
-When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her be called '**Woman**,' for she was **madefrom Man**.” This is why **a man leaves** his father and mother and **becomes one** with his wife.
+Sa pagkakita ni Adan kaniya, miingon siya, “Sa kataposan nia na gayod ang sama kanako. Pagataw-gon siya ug babaye kay gihimo man siya gikan sa lalaki.” Mao kini ang hinungdan nga ang lalaki mobiya sa iyang ginikanan aron mahiusa siya sa iyang asawa.
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:other:adam]]**
-
-
+  * **[[:ceb:obe:other:adam|Adam]]**
 ==== Translation Notes: ====
 
   * **Sa kataposan **– Kini nga pulong nagpasabot sa kahinam ni Adan tungod kay dugay na siyang naghulat sa maong binuhat nga babaye.
   * **Sama kanako **– Ang babaye tawo usab sama kang Adan, bisan tuod ug adunay silay mga kalahian sa usag-usa.
-  * **babaye** – Kini nga pulong naghisgot sa tawo nga pares sa lalaki o dili lalaki.
-  * **gikan sa lalaki** – Ang babaye gihimo gikan sa lawas ni Adan.
-  * **Ang lalaki mobiya** –Naghulagway kini nga dili makausa lang mahitabo kon dili kanunay bisan sa umaabot nga panahon. Si Adan walay inahan o amahan, apan ang tanang lalaki human niining tungora aduna nay mga ginikanan.
-  * **mahiusa** – Ang bana ug asawa kinahanglan magkahiusa ug magminahalay. Kini nga relasyon kinahanglan nga molabaw sa ilang relasyon sa ubang mga taw.
+  * **babaye**  – Kini nga pulong naghisgot sa tawo nga pares sa lalaki o dili lalaki.
+  * **gikan sa lalaki**  – Ang babaye gihimo gikan sa lawas ni Adan.
+  * **Ang lalaki mobiya**  –Naghulagway kini nga dili makausa lang mahitabo kon dili kanunay bisan sa umaabot nga panahon. Si Adan walay inahan o amahan, apan ang tanang lalaki human niining tungora aduna nay mga ginikanan.
+  * **mahiusa**  – Ang bana ug asawa kinahanglan magkahiusa ug magminahalay. Kini nga relasyon kinahanglan nga molabaw sa ilang relasyon sa ubang mga taw.
 **[[:ceb:obs:notes:frames:01-13|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-15|>>]]**
