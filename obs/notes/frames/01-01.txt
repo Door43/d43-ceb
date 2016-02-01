@@ -1,20 +1,21 @@
-===== The Beginning [01-01] =====
+===== Ang Sinugdanan [01-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
-This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
-===== Important Terms: =====
+Mao kini ang sinugdanan sa tanang butang. Gibuhat sa Dios ang kalibotan ug ang langit, ug ang tanan nga anaa niini sulod sa unom ka adlaw. Pagkahuman sa Dios pagbuhat sa kalibotan, ngitngit pa ug walay sulod, ug wala pay naporma nga bisan unsa. Apan ang Espiritu sa Dios anaa sa ibabaw sa tubig.
 
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
+===== Mahinungdanon nga mga Pulong: =====
+
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
 ==== Translation Notes: ====
 
-  * **ang sinugdanan** – Nagpasabot kini nga, “ang sinugdanan sa tanang butang,”  sa wala pa ang tanan gawas sa Dios.
+  * **ang sinugdanan**  – Nagpasabot kini nga, “ang sinugdanan sa tanang butang,” sa wala pa ang tanan gawas sa Dios.
   * **gibuhat**- Ang buot ipasabot niini nga gihimo gikan sa wala.
   * **ang kalibotan ug ang langit**– Nalakip niini ang tanan nga gihimo sa Dios dinhi sa yuta ug sa kalangitan. Lakip na ang tanang Makita ug dili Makita nga mga butang.
-  * **kalibotan** – ang buot ipasabot sa pulong nga “kalibotan,” mao ang kalibotan nga pinoy-anan sa mga tawo.
-  * **ngitngit** – Ngitngit kini kaayo. Wala pa gayoy kahayag, kay wala paman naghimo ug kahayag ang Dios niining tungora.
+  * **kalibotan**  – ang buot ipasabot sa pulong nga “kalibotan,” mao ang kalibotan nga pinoy-anan sa mga tawo.
+  * **ngitngit**  – Ngitngit kini kaayo. Wala pa gayoy kahayag, kay wala paman naghimo ug kahayag ang Dios niining tungora.
   * **walay sulod**- Wala pay gihimo ang Dios niining tungora gawas sa yuta nga napuno ug tubig.
   * **wala pay naporma**- Wala pa gayoy naporma- ang tanan napuno ug tubig.
-  * **Ispiritu sa Dios** – Ang Ispiritu sa Dios, usahay ginatawag nga Balaang Ispiritu, anaa na kini sa sinugdanan, ug naglihok aron himuon ang tanan nga angayang himuon sa tibuok kalibotan.
+  * **Ispiritu sa Dios**  – Ang Ispiritu sa Dios, usahay ginatawag nga Balaang Ispiritu, anaa na kini sa sinugdanan, ug naglihok aron himuon ang tanan nga angayang himuon sa tibuok kalibotan.
 **[[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-02|>>]]**
