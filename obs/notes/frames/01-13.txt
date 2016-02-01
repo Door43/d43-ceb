@@ -1,20 +1,17 @@
-===== God Made Eve [01-13] =====
+===== Gibuhat sa Dios si Eba [01-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&}}
 
-So **God** made **Adam** fall into **a deep sleep**. Then God **took one of Adam's ribs and made** it into **a woman** and **brought her to him**.
+Tungod niini, gipakatulog ug maayo sa Dios si Adan. Ug mikuha ang Dios ug usa ka gusok ni Adan, ug gihimo niya kini nga babaye ug gidala ngadto kaniya.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:other:adam]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:adam|Adam]]**
 ==== Translation Notes: ====
 
-  * **Gipakatulog ug maayo** – Nahinanok kini pag-ayo ug dili kay sama lang sa kasagaran nga pagkatulog.
+  * **Gipakatulog ug maayo**  – Nahinanok kini pag-ayo ug dili kay sama lang sa kasagaran nga pagkatulog.
   * **mikuha ang Dios ug usa ka gusok ni Adan, ug gihimo**  – Ang mga lihok sa Dios sa pagkuha sa gusok ni Adan ug paghulma niini nga babaye, nagapasabot sa iyang kaugalingong pagtrabaho ug dili lang sa sulti o mando.
-  * **babaye** – Siya ang unang babaye, usa ka babayeng bersion sa tawo nga nawala hangtud karon.
+  * **babaye**  – Siya ang unang babaye, usa ka babayeng bersion sa tawo nga nawala hangtud karon.
   * **gidala ngadto kang Adan**  – Ang Dios mismo ang nagpaila-ila sa babaye ngadto sa lalaki. Gipakita sa Dios ang babaye kang Adan, ug gihanyag niya kini sama sa usa ka gasa.
 **[[:ceb:obs:notes:frames:01-12|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-14|>>]]**
