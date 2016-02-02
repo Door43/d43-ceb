@@ -1,48 +1,49 @@
 ====== 2. Ang Pagsulod sa Sala sa Kalibotan ======
 
-===== Overview: =====
+===== Katibuk-an: =====
 
-God created a perfect world for Adam and Eve, but they were not satisfied. They ate the only fruit that was forbidden. This brought sin and suffering into the world. They immediately became fearful and ashamed, and were separated from God. Therefore, God removed them from the garden so they would not live forever in that sinful condition.
+Gihimo sa Dios ang kalibotan nga hingpit para kang Adan ug Eba apan wala sila ma tagbaw niini. Ila gihapon gikaon ang bunga sa kahoy nga ginadili sa Dios. Tungod ani, nakasala sila ug nisulod ang kasakit sa kalibotan. Nahadlok, naulaw ug nabuwag sila sa Dios. Busa, gipapahawa si Adan ug Eba sa tanaman sa Eden.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya: ======
 
-Click on the images below to translate each frame of the story.
+I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:02-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&200}}]]\\
-A Perfect World [02-01]\\
+Hingpit nga Kalibotan [02-01]\\
 \\
 [[:ceb:obs:notes:frames:02-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&200}}]]\\
-The Snake [02-02]\\
+Ang Tuso nga Bitin [02-02]\\
 \\
 [[:ceb:obs:notes:frames:02-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&200}}]]\\
-Do Not Touch [02-03]\\
+Bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan  [02-03]\\
 \\
 [[:ceb:obs:notes:frames:02-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&200}}]]\\
-The Lie [02-04]\\
+Ang Bakak [02-04]\\
 \\
 [[:ceb:obs:notes:frames:02-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&200}}]]\\
-Disobedience [02-05]\\
+Kamasupilon [02-05]\\
 \\
 [[:ceb:obs:notes:frames:02-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&200}}]]\\
-Open Eyes [02-06]\\
+Nasinati ang Kaulaw [02-06]\\
 \\
 [[:ceb:obs:notes:frames:02-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&200}}]]\\
-Where Are You? [02-07]\\
+Asa man ka? [02-07]\\
 \\
-[[:ceb:obs:notes:frames:02-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?nolink&200}}]]\\
-The Blame [02-08]\\
+[[:ceb:obs:notes:frames:02-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?nolink&200}}]]
+
+Ang Pagbasol [02-08]\\
 \\
 [[:ceb:obs:notes:frames:02-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&200}}]]\\
-God Cursed the Snake [02-09]\\
+Gitunglo sa Dios ang Bitin [02-09]\\
 \\
 [[:ceb:obs:notes:frames:02-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?nolink&200}}]]\\
-God Cursed the Woman [02-10]\\
+Gitunglo sa Dios ang Babaye [02-10]\\
 \\
 [[:ceb:obs:notes:frames:02-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&200}}]]\\
-God Cursed the Man [02-11]\\
+Gitunglo sa Dios ang Lalaki [02-11]\\
 \\
 [[:ceb:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
-Out of the Garden [02-12]\\
-//A Bible story from: Genesis 3//
+Gipapahawa sila sa tanaman sa Eden [02-12]\\
+//Istorya gikan sa : Genesis 3//
 
-**[[:ceb:obs:notes:01|<< Previous]] | [[:ceb:obs:notes:03|Next >>]]**
+**[[:ceb:obs:notes:01|<< Nahauna]] | [[:ceb:obs:notes:03|Sunod >>]]**
