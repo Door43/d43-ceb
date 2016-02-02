@@ -1,20 +1,16 @@
-===== God Will Provide [05-07] =====
+===== Maghatag ang Dios [05-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink}}
+Milakaw si Abraham ug si Isaac padulong sa lugar nga halaran. Unya nangutana si Isaac, “Amahan naa naman ta'y kahoy nga pangsugnod alang sa halad, apan asa man ang nating karnero?” Mitubag si Abraham, “Anak, ang Dios maghatag sa ihalad nga nating karnero.”
 
-As **Abraham** and **Isaac walked to the place of sacrifice**, Isaac asked, “Father, we have **wood for the sacrifice**, but where is **the lamb**?” Abraham replied, “**God** will provide the lamb for the sacrifice, my son.” 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:kt:lamb]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **milakaw padulong sa lugar nga halaran**  - Giingnan sa Dios si Abraham nga ihalad si Isaac didto sa pinasahi nga bukid nga moabot ug tulo ka adlaw kon kini pagalakwon gikan sa ilang gipuy-an.
