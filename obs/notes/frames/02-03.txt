@@ -1,17 +1,15 @@
-===== Do Not Touch [02-03] =====
+===== Bunga sa Kahoy nga Makahatag ug Kahibalo kon unsa ang Maayo ug Daotan [02-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’”
+Mitubag ang babaye, “Makahimo kami pagkaon sa tanang bunga sa kahoy sa tanaman, gawas sa bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. Ang Dios miingon, 'Kon mokaon kamo sa bunga sa kahoy o bisan mohikap man lang niini, mamatay kamo.' ”
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:good]]**
-  * **[[ceb:obe:kt:evil]]**
-  * **[[ceb:obe:kt:death]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:good|good, goodness]]**
+  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
 ==== Translation Notes: ====
 
   * **bunga**- Wala kita nasayod kung unsang klasiha kini sa prutas. Ang ato lang nasayran nga kini gikan nianang kahoya. Apan ang maayo niini nga atong nganlan ug prutas, ug dili lang kay ngalan sa usa ka klasi sa prutas.
