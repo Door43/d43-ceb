@@ -1,19 +1,18 @@
-===== Out of the Garden [02-12] =====
+===== Gipapahawa sila sa tanaman sa Eden [02-12] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-Then **God** said, “Now that the human beings have become **like us by knowing good and evil**, they must not be allowed to eat the **fruit** of the **tree of life** and live forever.” So God sent **Adam** and **Eve** away from the beautiful garden. God placed large, powerful **angels** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
+Miingon ang Dios, “Karon kay sama na kanato ang mga tawo nga nakahibalo sa maayo ug daotan, kinahanglan nga dili sila makakaon sa bunga sa kahoy nga maghatag ug kinabuhi ug mabuhi sa walay kataposan.” Busa gipapahawa sila sa tanaman sa Eden. Unya gibutangan sa Dios ang agianan sa tanaman sa Eden ug gamhanang mga anghel aron walay makakaon sa bunga sa kahoy nga maghatag ug kinabuhi.
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:good]]**
-  * **[[ceb:obe:kt:evil]]**
-  * **[[ceb:obe:kt:life]]**
-  * **[[ceb:obe:other:adam]]**
-  * **[[ceb:obe:other:eve]]**
-  * **[[ceb:obe:kt:angel]]**
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:good|good, goodness]]**
+  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+  * **[[:ceb:obe:other:adam|Adam]]**
+  * **[[:ceb:obe:other:eve|Eve]]**
+  * **[[:ceb:obe:kt:angel|angel, archangel]]**
 ===== Translation Notes: =====
 
   * **sama na kanato nga nakahibalo sa maayo ug daotan**- Dinhi niining pulonga nagpakita sa bag-ong paagi nga si Adan ug si Eva mahisama sa Dios. Tungod kay sila nakasala, sila nakahibalo sa daotan ug makasinati niini. Mahimo nga moingon ka nga, "Tungod kay karon sila nakahibalo na sa maayo ug dautan."
