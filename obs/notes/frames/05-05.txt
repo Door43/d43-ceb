@@ -1,21 +1,17 @@
-===== Birth of Isaac [05-05] =====
+===== Isaac [05-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink}}
+Nianang adlawa, gituli ni Abraham ang tanang mga lalaki sa iyang panimalay. Paglabay sa pipila ka katuigan, nag-idad na si Abraham ug 100 ug nag-idad na usab si Sarai ug 90, unya nanganak siya sa anak nila kang Abraham. Ginganlan nila kini'g Isaac kay sugo kini sa Dios.
 
-That day **Abraham circumcised all the males in his household**. About a year later, when Abraham was 100 years old and **Sarah** was 90, Sarah gave birth to Abraham's **son**. They named him **Isaac** as **God** had told them to do. 
+Mahinungdanon nga mga Pulong:
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:circumcise]]**
-  * **[[:ceb:obe:other:sarah]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:circumcise|circumcise, circumcision]]**
+  * **[[:ceb:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **ang tanang mga lalaki sa iyang panimalay **- Kini nagpasabot nga, "tanang kalalakihan o lalaki nga sakop ni Abraham apil na ang mga batan-on ug tigulang nga mga sulugoon."
