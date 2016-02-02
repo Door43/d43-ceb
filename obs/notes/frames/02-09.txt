@@ -1,16 +1,14 @@
-===== God Cursed the Snake [02-09] =====
+===== Gitunglo sa Dios ang Bitin [02-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
-**God** said to the snake, “**You are cursed**! You will slide on your belly and eat dirt. You and the woman will **hate each other**, and your children and her children will hate each other, too. The **woman’s descendant** will **crush your head**, and you will **wound his heel**.”
+Ang Dios miingon sa bitin, “Tinunglo ka! Magkamang ka ug mokaon ug abog. Ikaw ug ang babaye magkaaway kamo, ug ang imong mga anak ug ang iyang mga anak magdinumtanay usab. Dugmokon sa kaliwat sa babaye ang imong ulo, ug paakon mo usab ang iyang tikod.”
 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:curse]]**
-  * **[[ceb:obe:other:descendant]]**
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:curse|curse, cursed]]**
+  * **[[:ceb:obe:other:descendant|descendant]]**
 ===== Translation Notes: =====
 
   * **Tinunglo ka**- Kini ginahubad nga,"Gitunglo ko ikaw" o "Ang dakong kadaot moabot kanimo." Ayaw paggamit ug pulong nga nagpasabot ug salamangka.
