@@ -1,26 +1,22 @@
-===== The Blessing [05-10] =====
+===== Ang Panalangin [05-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink}}
+Ang Dios nag-ingon kang Abraham, “Tungod kay andam ka man mohatag sa bisan unsang butang nga naa kanimo, bisan pa ang imong bugtong anak nga lalaki, mosaad ako nga panalanginan ko ikaw. Modaghan ang imong mga kaliwat sama sa mga bituon sa kalangitan. Tungod kay nagmatinumanon ka kanako, ang tanang pamilya sa tibuok kalibotan, mapanalanginan pinaagi sa imong mga kaliwat.”
 
-Then **God** said to **Abraham**, “Because you were willing to give me everything, even **your only son**, I **promise** to **bless** you. Your **descendants** will be more than **the stars in the sky**. Because you have **obeyed** me, **all the families of the world** will be **blessed through your family**.” 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:bless]]**
-  * **[[:ceb:obe:other:descendant]]**
-  * **[[:ceb:obe:other:obey]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:kt:promise|promise]]**
+  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ceb:obe:other:descendant|descendant]]**
+  * **[[:ceb:obe:other:obey|obey, obedient, obedience]]**
 ===== Translation Notes: =====
 
   * **bugtong anak nga lalaki**  - Tan-awa ang pagpasabot niini sa [05-08]
   * **mga bituon sa kalangitan**  - Tan-awa ang pagpasabot niini sa [04-05]
-  * **tanang pamilya sa tibuok kalibotan - ** Ang "tanang pamilya" dinhi nga gihisgotan, nagpasabot sa dagkong pundok sa katawhan sa kalibotan, ug dili sa matag pares sa mga ginikanan ug mga anak.
+  * **tanang pamilya sa tibuok kalibotan - **  Ang "tanang pamilya" dinhi nga gihisgotan, nagpasabot sa dagkong pundok sa katawhan sa kalibotan, ug dili sa matag pares sa mga ginikanan ug mga anak.
   * **mapanalanginan pinaagi sa imong mga kaliwat**  - Ang "kaliwat" dinhi nga gihisgotan, nagpasabot sa daghang kaliwatan ni Abraham. Ang umaabot nga mga henerasyon sa kalibotan mahimong mapanalanginan pinaagi sa mga kaliwat ni Abraham. Ang pinakamaayo nga panalangin muabot sa mga mosunod nga mga henerasyon pinaagi sa usa ka piniling sulugoon sa Dios nga mao ang Mesiyas.
 **[[:ceb:obs:notes:frames:05-09|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:06-01|>>]]**
