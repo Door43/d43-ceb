@@ -1,20 +1,19 @@
-===== God Blessed Abram [04-06] =====
+===== Gipanalanginan sa Dios si Abram [04-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}
 
-When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I will give to you and your **descendants all the land that you can see as an inheritance**”. **Then Abram settled in the land**.
-===== Important Terms: =====
+Pag-abot ni Abram sa Canaan, giingnan siya sa Dios “Tan-awa ang imong palibot. Ihatag nako kanimo ug sa imong mga kaliwat ingon nga panulundon ang tanang yuta nga maabtan sa imong panan-aw.” Unya didto na nagpuyo si Abram.
 
-  * **[[ceb:obe:other:abraham]]**
-  * **[[ceb:obe:other:canaan]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:other:descendant]]**
-  * **[[ceb:obe:kt:inherit]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:descendant|descendant]]**
+  * **[[:ceb:obe:kt:inherit|inherit, inheritance, heritage, heir]]**
 ===== Translation Notes: =====
 
-  * **ang tanang yuta nga maabtan sa imong panan-aw - ** kung si Abram motindog sa bungtod, makita niya ang grabi ka kalapad nga hawan. Sa ubay-ubay na nga panahon ang Ginoo misaad kang Abram ug sa iyang mga kaliwat nga ihatag ang tibouk nga yuta sa Canaan.
-  * **ingon nga panulondon - ** nagsaad ang Ginoo nga ihatag ang yuta kang Abram ug sa iyang mga kaliwat ingon nga ang Amahan mohatag ug yuta ug katungdanan didto sa iyang anak.
-  * **Unya didto na nagpuyo si Abram - ** nagpuyo didto si Abram uban niadtong tanan nga mikuyog kaniya.
+  * **ang tanang yuta nga maabtan sa imong panan-aw - **  kung si Abram motindog sa bungtod, makita niya ang grabi ka kalapad nga hawan. Sa ubay-ubay na nga panahon ang Ginoo misaad kang Abram ug sa iyang mga kaliwat nga ihatag ang tibouk nga yuta sa Canaan.
+  * **ingon nga panulondon - **  nagsaad ang Ginoo nga ihatag ang yuta kang Abram ug sa iyang mga kaliwat ingon nga ang Amahan mohatag ug yuta ug katungdanan didto sa iyang anak.
+  * **Unya didto na nagpuyo si Abram - **  nagpuyo didto si Abram uban niadtong tanan nga mikuyog kaniya.
 **[[:ceb:obs:notes:frames:04-05|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-07|>>]]**
