@@ -1,21 +1,17 @@
-===== The Sacrifice [05-08] =====
+===== Ang Paghalad [05-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink}}
+Sa dihang didto na sila sa dapit nga halaran, gigapos ni Abraham ang iyang anak nga si Isaac, ug gipahigda niya sa altar. Iya na untang patyon ang iyang anak, apan miingon ang Dios, “Hunong! Ayaw pasakiti ang bata! Ako nang nasayran karon nga duna ka'y kahadlok kanako, tungod kay wala mo gidalo ang imong bugtong anak nga lalaki.”
 
-When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaac** and laid him on an **altar**. He was about to **kill his son** when **God** said, “**Stop! Do not hurt the boy**! Now I know that **you fear me** because you did not keep **your only son** from me.” 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:other:altar]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:other:altar|altar]]**
+  * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **patyon ang iyang anak**  - Dili gusto ang Dios sa tawo nga ihalad. Gusto makita sa Dios nga gihigugma ni Abraham ang Dios labaw kay sa paghigugma niya sa iyang kaugalingong anak, ug tumanon niya ang Dios bisan gisultihan siya niini nga ihatag niya pagbalik ang iyang anak ngadto sa Dios.
