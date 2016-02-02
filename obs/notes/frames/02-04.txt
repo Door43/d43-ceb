@@ -1,17 +1,16 @@
-===== The Lie [02-04] =====
+===== Ang Bakak [02-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
-The snake responded to the woman, “That is not **true**! You will not **die**. **God** just knows that as soon as you eat it, you will be **like God** and will **understand good and evil** like he does.”
+Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay, kay nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa maayo ug daotan.”
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:true]]**
-  * **[[ceb:obe:kt:death]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:good]]**
-  * **[[ceb:obe:kt:evil|]]**
-
+  * **[[:ceb:obe:kt:true|true, truth]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:good|good, goodness]]**
+  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
 ==== Translation Notes: ====
 
   * **mahisama kamo kaniya**- Ang lalaki ug babaye gihimo sama sa panagway sa Dios. Ang bitin nag-ingon nga ang babaye mahisama sa Dios kung siya makahibalo sa daotan. Hinuon, ang Dios dili gusto nga ang babaye makaangkon niini nga kahibalo.
