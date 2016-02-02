@@ -1,19 +1,15 @@
-===== The Ram [05-09] =====
+===== Karnero [05-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink}}
+Sa dapit nga gikahimutangan ni Abraham, dunay usa ka laking karnero nga nasabod sa usa ka gamay'ng kahoy. Gihatag sa Dios ang karnero aron iyang ihalad puli kang Isaac. Nalipay pag-ayo si Abraham sa dihang naghalad siya sa maong karnero.
 
-Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:other:isaac]]**
-
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
 ===== Translation Notes: =====
 
   * **laking karnero **- Ang laking karnero usa ka turo nga karnero. Ang mga karnero usa sa mga hayop nga mahimong gamiton sa katawhan aron ihalad ngadto sa Dios.
