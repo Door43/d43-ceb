@@ -1,18 +1,17 @@
-===== Many Languages [04-03] =====
+===== Nagkalain-lain nga Pinulongan [04-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
-So **God changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.”
-===== Important Terms: =====
+Busa giilisan sa Dios ang ilang pinulongan ug nagkalain-laing mga pinulongan ug iya silang gipatibulaag sa tibuok kalibotan. Ang siyudad nga ilang gibuhat gitawag ug Babel, nga nagpasabot, nalibog.
 
-  * **[[ceb:obe:kt:god]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **giilisan ang ilang pinulongan - S**a kalit lang, sa kalit lang ang Dios nag hatag  milaggrosong paaginagkalainlaing sinultihan aron dili na nila masabtan ang usag-usa.
-  * **Nagkalain-laing mga pinulongan - ** busa sa  ka dako nga grupo sa katawhan nga nagsulti sa usa ka pinulongan, karon adunay daghang gagmay nga grupo sa katawhan nagsulti sila, ilang lain-lain nga sinultihan.
-  * **Iyang gipatibulaag - ** Sa dihang giusab sa Ginoo ang ilang sinultihan, iya kining katuyuan aron ang mga grupo sa katawhan magkatibulaag sa kalibotan ug ang matag grupo nanglakaw sa nagkadaiyang lugar.
+  * **giilisan ang ilang pinulongan - S**a kalit lang, sa kalit lang ang Dios nag hatag milaggrosong paaginagkalainlaing sinultihan aron dili na nila masabtan ang usag-usa.
+  * **Nagkalain-laing mga pinulongan - **  busa sa ka dako nga grupo sa katawhan nga nagsulti sa usa ka pinulongan, karon adunay daghang gagmay nga grupo sa katawhan nagsulti sila, ilang lain-lain nga sinultihan.
+  * **Iyang gipatibulaag - **  Sa dihang giusab sa Ginoo ang ilang sinultihan, iya kining katuyuan aron ang mga grupo sa katawhan magkatibulaag sa kalibotan ug ang matag grupo nanglakaw sa nagkadaiyang lugar.
   * **Babel**  - Wala kita masayod sa insakto nga nahimutangan sa maong siyudad, apan nasulod kini sa lugar nga gitawag ug karaang Middle East.
-  * **Nalibog**  -  Nagpasabot kini nga gilibog ang mga tawo o “nagsagol” sa dihang giilisan sa Dios ug daghan ang ilang pinulongan ug dili na magkasinabot.
+  * **Nalibog**  - Nagpasabot kini nga gilibog ang mga tawo o “nagsagol” sa dihang giilisan sa Dios ug daghan ang ilang pinulongan ug dili na magkasinabot.
 **[[:ceb:obs:notes:frames:04-02|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-04|>>]]**
