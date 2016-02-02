@@ -1,19 +1,17 @@
-===== A Perfect World [02-01] =====
+===== Hingpit nga Kalibotan [02-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
 
-**Adam** and his wife were very happy living in the beautiful **garden** **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
-===== Important Terms: =====
+Si Adan ug ang iyang asawa malipayon kaayo nga nagpuyo sa tanaman sa Eden nga gihimo sa Dios alang kanila. Managsama sila nga walay mga sanina. Apan wala sila mobati ug kaulaw tungod kay wala pa may sala nga nakasulod sa kalibotan. Ug kanunay silang nagalakaw sa tanaman sa Eden ug nakigsulti sa Dios.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:other:adam]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:sin]]**
-
-
+  * **[[:ceb:obe:other:adam|Adam]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
 ==== Translation Notes: ====
 
-  * **tanaman- ** Mao kini ang pinasahi nga pinili nga mga kahoy ug mga tanom nga giandam sa Dios alang kang Adan ug Eva aron mapuslan ug makuhaan nila ug pagkaon. Managsama kini sa pulong nga gigamit sa [01-11], ug tan-awa kung giunsa nimo kini paghubad didto.
-  * **Nakigsulti sa Dios- ** Ang pulong nga //nakigsulti//, sama ra usab sa paggamit sa pulong nga n//akig-istorya // sa buhing binuhat. Ang Dios naggamit ug lawas aron makahimo siya sa pagpakigsulti sa tawo, lalaki man o babaye. Ang gigamit nga pulong nga nakig-istorya//,//  nagpasabot kini nga nag-atubangay nga nagsulti.
-  * **Kaulaw- ** Mao kini ang pagbati nga atong bation kung atong mahibaloan nga kita nakasala o kaha napakyas sa bisan unsa nga paagi. Sa wala pa misulod ang sala sa kalibotan, walay pagbati sa kaulaw bahin sa pagkahubo.
+  * **tanaman- **  Mao kini ang pinasahi nga pinili nga mga kahoy ug mga tanom nga giandam sa Dios alang kang Adan ug Eva aron mapuslan ug makuhaan nila ug pagkaon. Managsama kini sa pulong nga gigamit sa [01-11], ug tan-awa kung giunsa nimo kini paghubad didto.
+  * **Nakigsulti sa Dios- **  Ang pulong nga //nakigsulti//, sama ra usab sa paggamit sa pulong nga n//akig-istorya //  sa buhing binuhat. Ang Dios naggamit ug lawas aron makahimo siya sa pagpakigsulti sa tawo, lalaki man o babaye. Ang gigamit nga pulong nga nakig-istorya//,//  nagpasabot kini nga nag-atubangay nga nagsulti.
+  * **Kaulaw- **  Mao kini ang pagbati nga atong bation kung atong mahibaloan nga kita nakasala o kaha napakyas sa bisan unsa nga paagi. Sa wala pa misulod ang sala sa kalibotan, walay pagbati sa kaulaw bahin sa pagkahubo.
 **[[:ceb:obs:notes:frames:01-16|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-02|>>]]**
