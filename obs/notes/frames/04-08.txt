@@ -1,22 +1,21 @@
-===== No Son [04-08] =====
+===== Walay Anak si Abram [04-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
-**Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised**again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed**God's promise. God declared that Abram was **righteous** because he believed in God's promise.
-===== Important Terms: =====
+Paglabay sa daghang mga katuigan, wala gihapon makaanak ang magtiayon nga si Abram ug Sarai. Gisultian pag-usab sa Dios si Abram ug gisaaran na usab nga makabaton ug anak ug mga kaliwat nga sama kadagdan sa mga bituon sa langit. Mituo si Abram sa saad sa Dios. Giisip sa Dios nga matarong si Abram tungod kay mituo siya sa iyang saad.
 
-  * **[[ceb:obe:other:abraham]]**
-  * **[[ceb:obe:other:sarah]]**
-  * **[[ceb:obe:kt:son]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:promise]]**
-  * **[[ceb:obe:other:descendant]]**
-  * **[[ceb:obe:kt:believe]]**
-  * **[[ceb:obe:kt:righteous]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:promise|promise]]**
+  * **[[:ceb:obe:other:descendant|descendant]]**
+  * **[[:ceb:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ceb:obe:kt:righteous|righteous, righteousness]]**
 ===== Translation Notes: =====
 
-  * **paglabay sa mga katuigan - ** sa pipila ka mga tuig nga milabay sukad nga ang Dios unang misaad kang Abram nga aduna siya'y anak nga umaabot.
-  * **sama kadaghan sa mga bituon sa langit - ** Kini ang ilhanan nga ang kaliwat ni Abraham modaghan ug walay bisan isa nga makaihap kanila.
+  * **paglabay sa mga katuigan - **  sa pipila ka mga tuig nga milabay sukad nga ang Dios unang misaad kang Abram nga aduna siya'y anak nga umaabot.
+  * **sama kadaghan sa mga bituon sa langit - **  Kini ang ilhanan nga ang kaliwat ni Abraham modaghan ug walay bisan isa nga makaihap kanila.
 **[[:ceb:obs:notes:frames:04-07|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-09|>>]]**
