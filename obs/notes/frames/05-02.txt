@@ -1,20 +1,16 @@
-===== Ishmael Was Born [05-02] =====
+===== Ismael [05-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink}}
+Busa gipangasawa ni Abram si Hagar, ug nakabaton siya ug anak nga lalaki, ug ginganlan siya ni Abram ug Ismael. Apan nasina si Sarai kang Hagar. Sa dihang trise na ka tuig ang idad ni Ismael, nakigsulti pag-usab ang Dios kang Abram.
 
-So** Abram married Hagar**. Hagar had a baby boy, and Abram named him **Ishmael**. But **Sarai became jealous of Hagar**. When Ishmael was thirteen years old, **God** again spoke to Abram. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:hagar]]**
-  * **[[:ceb:obe:other:ishmael]]**
-  * **[[:ceb:obe:other:sarah]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:hagar|Hagar]]**
+  * **[[:ceb:obe:other:ishmael|Ishmael]]**
+  * **[[:ceb:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **gipangasawa **- Nahimong kaipon - ikaduhang asawa ni Abram si Hagar sa ubos nga kahimtang. Si Hagar nagpabilin nga sulugoon ni Sarai.
