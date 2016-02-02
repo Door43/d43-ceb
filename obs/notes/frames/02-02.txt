@@ -1,18 +1,16 @@
-===== The Snake [02-02] =====
+===== Ang Tuso nga Bitin [02-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?”
+Apan adunay tuso nga bitin taliwala sa tanaman sa Eden. Gipangutana niya ang babaye “Giingnan ba gayod kamo sa Dios nga dili pakan-on sa bunga sa bisan unsa nga kahoy sa tanaman sa Eden?”
 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[ceb:obe:kt:god]]**
-
+  * **[[:ceb:obe:kt:god|God]]**
 ==== Translation Notes: ====
 
   * **maro**- Nagtago ug nagpakaaron-ingnon, uban sa tuyo nga mao ang pagpahisalaag.
   * **Bitin**- Taas kini, walay tiil, yutan-ong binuhat nga karon nagalihok pinaagi sa pagkamang gamit ang iyang tiyan. Ang tinuod, sa dili madugay ipadayag niini nga istorya nga ang bitin mao si Satanas.
   * **Giingnan ba gayod kamo sa Dios**  - Ang bitin nangutana sa babaye kon nag-ingon ba gayod ang Dios nga dili sila pakan-on sa bunga sa kahoy sa tanaman. Apan siya nagpakaaron-ingnon, tungod kay gusto niya nga magduha-duha ang babaye sa iyang hunahuna. Gusto usab niya nga magduha-duha ang babaye sa pagkamaayo sa Dios.
-  * **bunga sa bisan unsa nga kahoy- ** Bunga sa tanan nga mga nagkalain-laing mga kahoy gikan sa tanaman.
+  * **bunga sa bisan unsa nga kahoy- **  Bunga sa tanan nga mga nagkalain-laing mga kahoy gikan sa tanaman.
 **[[:ceb:obs:notes:frames:02-01|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-03|>>]]**
