@@ -1,18 +1,17 @@
-===== God Cursed the Man [02-11] =====
+===== Gitunglo sa Dios ang Lalaki [02-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&}}
 
-**God** said to the man, “You listened to your wife and **disobeyed** me. Now the **ground is cursed**, and you will need to work hard to grow food. Then **you will die**, and your body will **return to dirt**.” The man named his wife **Eve**, **which means** “**life-giver**,” because she would become the **mother of all people**. And God clothed **Adam** and Eve with animal skins.
+Ang Dios miingon sa lalaki, “Tungod kay naminaw ka sa imong asawa ug misupak kanako, karon tinunglo na ang yuta, ug kinahanglan maghago ka sa pag-uma aron kamo makakaon. Unya mamatay mo, ug ang inyong lawas mobalik sa lapok.” Ug ginganlan ni Adan ang iyang asawa ug “Eva” nga nagpasabot, “naghatag ug kinabuhi,” tungod kay siya man ang mahimong inahan sa tanang katawhan. Ug ang Dios naghimo ug sanina alang ni Adan ug Eva gikan sa mga panit sa hayop.
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:other:disobey]]**
-  * **[[ceb:obe:kt:curse]]**
-  * **[[ceb:obe:kt:death]]**
-  * **[[ceb:obe:other:eve]]**
-  * **[[ceb:obe:other:adam]]**
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ceb:obe:kt:curse|curse, cursed]]**
+  * **[[:ceb:obe:kt:death|death, die, dead]]**
+  * **[[:ceb:obe:other:eve|Eve]]**
+  * **[[:ceb:obe:other:adam|Adam]]**
 ==== Translation Notes: ====
 
   * **tinunglo na ang yuta**- Isip silot sa pagsupak ni Adan, ang yuta dili na mohatag ug maayong abot. Kinahanglan nga motrabaho pag-ayo si Adan aron makakuha ug igong pagkaon.
