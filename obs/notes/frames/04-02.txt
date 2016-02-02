@@ -1,19 +1,18 @@
-===== The Tower [04-02] =====
+===== The Tore [04-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}
 
-They were very **proud**, and they did not care about what **God** said. They even began building a **tall tower to reach heaven**. God saw that if they all kept working together to do **evil**, they could do many more **sinful** things.
-===== Important Terms: =====
+Mga hambugero kaayo sila, ug wala nila panumbalinga ang gisulti sa Dios. Nagsugod sila ug buhat ug taas nga tore nga mosangko sa langit. Nakita sa Dios nga kon mopadayon silang tanan sa pagbuhat ug daotan, basin ug daghan pa ang daotang mga butang nga ilang mabuhat.
 
-  * **[[ceb:obe:other:proud]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:heaven]]**
-  * **[[ceb:obe:kt:evil]]**
-  * **[[ceb:obe:kt:sin]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:proud|proud, pride, prideful]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
 ===== Translation Notes: =====
 
-  * **Taas nga tore nga mosangko sa langit - ** Kini nga istruktura hilabihan ka taas ug ang tumoy niini anaa na sa kawanangan.
-  * **Langit - ** Kini mahubad usab isip “kawanangan”.
+  * **Taas nga tore nga mosangko sa langit - **  Kini nga istruktura hilabihan ka taas ug ang tumoy niini anaa na sa kawanangan.
+  * **Langit - **  Kini mahubad usab isip “kawanangan”.
 **[[:ceb:obs:notes:frames:04-01|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-03|>>]]**
