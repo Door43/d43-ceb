@@ -1,22 +1,18 @@
-===== Test of Faith [05-06] =====
+===== Pagsulay sa Iyang Pagtuo [05-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink}}
+Samtang nidako na si Isaac, gisulayan sa Dios ang pagtuo ni Abraham sa pag-ingon, “Dad-a ang imong bugtong anak, ug patya siya ug ihalad kanako.” Ug gituman kini ni Abraham ug nangandam na siya aron ihalad si Isaac sa Dios.
 
-When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Take Isaac, your only **son**, and **kill him** as a **sacrifice** to me.” Again Abraham **obeyed** God and **prepared to sacrifice** his son. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:faith]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:other:obey]]**
-
-
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:faith|faith]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:other:obey|obey, obedient, obedience]]**
 ===== Translation Notes: =====
 
   * **gisulayan sa Dios ang pagtuo ni Abraham**  - Gusto sa Dios nga ipakita ni Abraham nga siya matinud-anon nga motuman sa Dios, nga iyang buhaton ang bisan unsa nga ipahimo sa Dios kaniya.
