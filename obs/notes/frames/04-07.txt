@@ -1,19 +1,18 @@
-===== Melchizedek [04-07] =====
+===== Melkizedek [04-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}
 
-One day, **Abram** met **Melchizedek**, the **priest** of **God Most High**. Melchizedek **blessed** Abram and said, “May God Most High who **owns heaven and earth** bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
-===== Important Terms: =====
+Usa ka adlaw, nagkita si Abram ug si Melkizedek nga pari sa Labing Gamhanan nga Dios. Gipanalanginan ni Melkizedek si Abram ug miingon, “Panalanginan ka Abram sa Labing Gamhanan nga Dios nga maoy tag-iya sa langit ug sa yuta.” Unya gihatagan ni Abram si Melkizededk sa ikanapulo sa tanan niyang katigayonan.
 
-  * **[[ceb:obe:other:abraham]]**
-  * **[[ceb:obe:kt:priest]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:bless]]**
-  * **[[ceb:obe:kt:heaven]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:priest|priest, priesthood]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ceb:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
 ===== Translation Notes: =====
 
-  * **Melkizedek - ** si Melkisidik gihatagan ug katungod sa relihiyon sa Canaan nga modawat ug moprisinta ug halad didto sa Dios.
-  * **Ang Dios nga Labing Gamhanan - ** Ang mga tawo sa Canaan nagsimba sa daghan nga mga dios-dios. Ang pangalan, “Labing halangdong Dios” buot pasabot nga ang Dios nga gisimba ni Melkisidik mao ang labing gamhanan labaw sa tanan, ug sama ra nga ang Dios nga gisimba ni Abraham.
+  * **Melkizedek - **  si Melkisidik gihatagan ug katungod sa relihiyon sa Canaan nga modawat ug moprisinta ug halad didto sa Dios.
+  * **Ang Dios nga Labing Gamhanan - **  Ang mga tawo sa Canaan nagsimba sa daghan nga mga dios-dios. Ang pangalan, “Labing halangdong Dios” buot pasabot nga ang Dios nga gisimba ni Melkisidik mao ang labing gamhanan labaw sa tanan, ug sama ra nga ang Dios nga gisimba ni Abraham.
 **[[:ceb:obs:notes:frames:04-06|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-08|>>]]**
