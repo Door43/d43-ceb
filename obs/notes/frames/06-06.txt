@@ -1,23 +1,18 @@
-===== Two Nations [06-06] =====
+===== Duha ka Nasod [06-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink}}
+Giingnan sa Dios si Rebeca, “Duha ka nasod ang moabot gikan sa duha nimo ka anak nga anaa sa imong sabakan. Mag-away silang duha, ug ang magulang nga lalaki maoy magsilbi sa iyang manghod.”
 
-**God** told **Rebekah**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older son** will **serve the younger one**.” 
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:rebekah]]**
-  * **[[:ceb:obe:kt:son]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:rebekah|Rebekah]]**
+  * **[[:ceb:obe:kt:son|son]]**
 ===== Translation Notes: =====
 
-  * **gikan sa duha nimo ka anak - ** Nagpasabot kini nga, "gikan sa mga kaliwatan sa duha ka anak nga lalaki."
-  * **Mag-away silang duha - ** Gikan sa duha ka anak nga lalaki magagikan ang mga nasod, ug gikan kanila mapadayon ang ilang panag-away. Itandi sa [06-05].
-  * **ang magulang nga lalaki - ** Bisan ug kaluha ang mga bata, ang unang mogawas mao ang mahimo nga magulang.
+  * **gikan sa duha nimo ka anak - **  Nagpasabot kini nga, "gikan sa mga kaliwatan sa duha ka anak nga lalaki."
+  * **Mag-away silang duha - **  Gikan sa duha ka anak nga lalaki magagikan ang mga nasod, ug gikan kanila mapadayon ang ilang panag-away. Itandi sa [06-05].
+  * **ang magulang nga lalaki - **  Bisan ug kaluha ang mga bata, ang unang mogawas mao ang mahimo nga magulang.
   * **magsilbi sa iyang manghod –**Mahimo usab kining hubaron nga, "Buhaton sa magulang nga anak ang isulti sa manghod nga anak, nga gusto niyang ipahimo kaniya."
 **[[:ceb:obs:notes:frames:06-05|<<]] | [[:ceb:obs:notes:06|Up]] | [[:ceb:obs:notes:frames:06-07|>>]]**
