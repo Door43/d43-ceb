@@ -1,22 +1,18 @@
-===== The Boys Grew Up [07-01] =====
+===== Nidako na ang Kaluha [07-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
+Sa dagko na ang mga bata, gusto ni Jacob sa balay lang siya kanunay, apan gusto ni Esau ang pagpangayam. Gihigugma ni Rebeca si Jacob, ug gihigugma usab ni Isaac si Esau.
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:jacob]]**
-  * **[[:ceb:obe:other:esau]]**
-  * **[[:ceb:obe:other:rebekah]]**
-  * **[[:ceb:obe:other:isaac]]**
-
-
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ceb:obe:other:esau|Esau]]**
+  * **[[:ceb:obe:other:rebekah|Rebekah]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
 ===== Translation Notes: =====
 
-  * **Gusto ... sa balay lang siya kanunay ... gusto usab ... ang pagpangayam - ** Sa ubang pinulongan, mogamit sila ug pulong nga "gusto" lahi siya dinhi ug lahi pud ang "gugma" gigamit sa "gihigugma ni Rebeca si Jacob." Pananglitan, mahimo usab kining hubaron nga sama sa, "ganahan siya nga magpabilin sa balay"...ganahan siya nga mangayam," o "pilion ang pagpabilin sa balay ... pilion ang pagpangayam."
+  * **Gusto … sa balay lang siya kanunay … gusto usab … ang pagpangayam - **  Sa ubang pinulongan, mogamit sila ug pulong nga "gusto" lahi siya dinhi ug lahi pud ang "gugma" gigamit sa "gihigugma ni Rebeca si Jacob." Pananglitan, mahimo usab kining hubaron nga sama sa, "ganahan siya nga magpabilin sa balay"…ganahan siya nga mangayam," o "pilion ang pagpabilin sa balay … pilion ang pagpangayam."
   * **sa balay lang –**aduna kini kalambigitan sa tibuok palibot sa pinuy-anan sa ilang pamilya. Si Jacob, ganahan siya nga magpabilin kanunay sa ilang tolda nga ilang gipuy-an. Sa uban nga pinulongan adunay lahi nga pulong nga gamiton alang sa ,"sa balay lang."
   * **Gihigugma ni Rebeca si Jacob, ug gihigugma usab ni Isaac si Esau –**mahimo usab kining hubaron nga, "ginapalabi ni Rebeca si Jacob, ug ginapalabi ni Isaac si Esau." Wala kini nagpasabot nga si Rebeca ug Isaac wala mahigugma sa ilang mga anak, kondili duna lamang silay paborito.
 **[[:ceb:obs:notes:frames:06-07|<<]] | [[:ceb:obs:notes:07|Up]] | [[:ceb:obs:notes:frames:07-02|>>]]**
