@@ -1,20 +1,16 @@
-===== Finding Rebekah [06-02] =====
+===== Si Rebeca [06-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink}}
+Human sa taas nga panaw sa yuta kon asa nagpuyo ang mga paryente ni Abraham, gitultolan sa Dios ang sulugoon ngadto kang Rebeca. Apo siya sa igsoon ni Abraham.
 
-After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:other:rebekah]]**
-
-
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:other:rebekah|Rebekah]]**
 ===== Translation Notes: =====
 
-  * **apo siya sa igsoon ni Abraham - ** Aron mapasabot kini pag-ayo, anak siya sa anak sa igsoon ni Abraham. Sa uban nga pagkasulti, ang iyang lolo igsoon ni Abraham.
+  * **apo siya sa igsoon ni Abraham - **  Aron mapasabot kini pag-ayo, anak siya sa anak sa igsoon ni Abraham. Sa uban nga pagkasulti, ang iyang lolo igsoon ni Abraham.
 **[[:ceb:obs:notes:frames:06-01|<<]] | [[:ceb:obs:notes:06|Up]] | [[:ceb:obs:notes:frames:06-03|>>]]**
