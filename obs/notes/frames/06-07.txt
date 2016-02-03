@@ -1,23 +1,19 @@
-===== Twins Were Born [06-07] =====
+===== Nanganak si Rebeca ug Kaluha nga Lalaki [06-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink}}
+Unya nanganak si Rebeca ug kaluha nga bata. Ang magulang nga batang lalaki nga unang migawas, pulahon ug balhiboon, ug ginganlan siya'g Esau. Unya migawas usab ang manghod nga lalaki nga miggunit sa tikod ni Esau, ug ginganlan siya'g Jacob.
 
-When **Rebekah's babies were born**, **the older son** came out **red** and **hairy**, and they named him **Esau**. Then **the younger son** came out holding on to Esau's heel, and they named him **Jacob**. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:rebekah]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:esau]]**
-  * **[[:ceb:obe:other:jacob]]**
-
-
+  * **[[:ceb:obe:other:rebekah|Rebekah]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:other:esau|Esau]]**
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
 ===== Translation Notes: =====
 
-  * **nanganak si Rebeca ug kaluha nga bata - ** Sa ubang pinulongan adunay ubang paagi sa pagsulti niini nga idiretso na sama sa, "nakita sila ni Rebeca ug gikuha sila," o "sa dihang gidala sila ni Rebeca ngadto sa kahayag."
-  * **Ang magulang nga batang lalaki ... ug ang manghod nga lalaki –**Mahimo usab kining  hubaron nga, "Ang unang anak nga lalaki nga migawas"...ang ikaduhang anak nga lalaki nga migawas." Ipaklaro sa paghubad nga ang "magulang" ug ang "manghod" nagpasabot gihapon nga kaluha sila.
+  * **nanganak si Rebeca ug kaluha nga bata - **  Sa ubang pinulongan adunay ubang paagi sa pagsulti niini nga idiretso na sama sa, "nakita sila ni Rebeca ug gikuha sila," o "sa dihang gidala sila ni Rebeca ngadto sa kahayag."
+  * **Ang magulang nga batang lalaki … ug ang manghod nga lalaki –**Mahimo usab kining hubaron nga, "Ang unang anak nga lalaki nga migawas"…ang ikaduhang anak nga lalaki nga migawas." Ipaklaro sa paghubad nga ang "magulang" ug ang "manghod" nagpasabot gihapon nga kaluha sila.
   * **pulahon - N**agpasabot kini nga ang iyang panit pulahon ug ang balhibo nga anaa sa iyang lawas pula usab.
   * **Balhiboon –**balhiboon kaayo si Esau. Mahimo nga ingnon nimo, "pulahon ang lawas sa magulang nga anak, ug daghan kaayo siya ug balhibo."
 **[[:ceb:obs:notes:frames:06-06|<<]] | [[:ceb:obs:notes:06|Up]] | [[:ceb:obs:notes:frames:07-01|>>]]**
