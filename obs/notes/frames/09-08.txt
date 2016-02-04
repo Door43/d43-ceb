@@ -1,23 +1,18 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== Gikulata sa Ehiptohanon ang Israelitang Sulugoon [09-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+Usa ka adlaw, sa dihang ulitawo na si Moises, nakita niya ang Ehiptohanon nga nangulata sa usa ka Israelitang sulugoon, ug iya ning gisulayan ug luwas.
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:save]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:kt:save|save, safe]]**
 ==== Translation Notes: ====
 
-  * **ulitawo  - ** Ubang paagi sa pagsulti niini mao ang, "nagdako na ug ulitawo na."
-  * **sama niya nga Israelita - N**aghisgot kini sa Israelita nga ulipon. Ang pulong nga "sama" nagpasabot nga si Moises usa gayod ka Israelita.
-  * Bisan tuod ang anak sa Ehiptuhanon nga Paraon maoy nagpadako kang Moises, apan nahinumdoman ra gihapon ni Moises nga usa siya ka tinuod nga Israelita.
-
+  * **ulitawo - **  Ubang paagi sa pagsulti niini mao ang, "nagdako na ug ulitawo na."
+  * **sama niya nga Israelita - N**aghisgot kini sa Israelita nga ulipon. Ang pulong nga "sama" nagpasabot nga si Moises usa gayod ka Israelita. Bisan tuod ang anak sa Ehiptuhanon nga Paraon maoy nagpadako kang Moises, apan nahinumdoman ra gihapon ni Moises nga usa siya ka tinuod nga Israelita.
 **[[:ceb:obs:notes:frames:09-07|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-09|>>]]**
