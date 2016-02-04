@@ -1,15 +1,16 @@
-===== The Famine [08-10] =====
+===== Ang Tinggutom [08-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
-===== Important Terms: =====
+Misamot ang hulaw dili lang sa Ehipto, kon dili miabot usab sa Canaan diin nagpuyo si Jacob ug ang iyang pamilya.
 
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:other:jacob]]**
+===== Mahinungdanon nga mga Pulong: =====
+
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: ====
 
-  * **Ehipto, kon dili miabot usab sa Canaan - ** Sa uban nga pinulongan mahimong klaro o maayo ang pagkasulti kon sama niini, "ang nasod Ehipto, apan ang yuta usab sa Canaan."
-  * **Misamot pag-ayo ang hulaw - ** Ang gutom misamot kaayo. Gamay na lang ang pagkaon ug daghan ang katawhan sa gawas sa Ehipto ang gipanggutom.
+  * **Ehipto, kon dili miabot usab sa Canaan - **  Sa uban nga pinulongan mahimong klaro o maayo ang pagkasulti kon sama niini, "ang nasod Ehipto, apan ang yuta usab sa Canaan."
+  * **Misamot pag-ayo ang hulaw - **  Ang gutom misamot kaayo. Gamay na lang ang pagkaon ug daghan ang katawhan sa gawas sa Ehipto ang gipanggutom.
 **[[:ceb:obs:notes:frames:08-09|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-11|>>]]**
