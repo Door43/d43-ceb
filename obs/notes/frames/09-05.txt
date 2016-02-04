@@ -1,17 +1,13 @@
-===== The Birth of Moses [09-05] =====
+===== Si Moises [09-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink}}
+Dihay babayeng Israelita nga nanganak ug batang lalaki. Gitago niya ug sa ang iyang bana ang bata kutob sa ilang nahimo.
 
-A certain **Israelite** woman gave birth to a baby boy. She and her husband hid the baby **for as long as they could**.
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **kutob sa ilang nahimo - ** Ilang gitagoan ang bata gikan sa mga Ehiptohanon hangtod nga lisod na kaayo kining itago sa ilang balay.
+  * **kutob sa ilang nahimo - **  Ilang gitagoan ang bata gikan sa mga Ehiptohanon hangtod nga lisod na kaayo kining itago sa ilang balay.
 **[[:ceb:obs:notes:frames:09-04|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-06|>>]]**
