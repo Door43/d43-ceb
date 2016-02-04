@@ -1,18 +1,15 @@
-===== Moses in the Wilderness [09-11] =====
+===== Ang Kinabuhi ni Moises sa Kamingawan [09-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink}}
+Nahimong magbalantay si Moises sa mga karnero didto sa kamingawan nga layo sa Ehipto. Naminyo siya didto ug nakabaton sila ug duha ka anak.
 
-**Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:shepherd]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:shepherd|shepherd, to shepherd]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **kamingawan  - ** Lapad ug luag ang kamingawan ug batoon kini ug uga nga yuta. Dili maayo ang yuta niini alang sa mga tanom, ug gamay lang ang mga tawo nga mopuyo niini. **[[:ceb:obs:notes:frames:09-10|[09-10]]]**.
+  * **kamingawan - **  Lapad ug luag ang kamingawan ug batoon kini ug uga nga yuta. Dili maayo ang yuta niini alang sa mga tanom, ug gamay lang ang mga tawo nga mopuyo niini. **[[:ceb:obs:notes:frames:09-10|[09-10]]]**.
 **[[:ceb:obs:notes:frames:09-10|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-12|>>]]**
