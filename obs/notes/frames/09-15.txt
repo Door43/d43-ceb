@@ -1,21 +1,18 @@
-===== Aaron Helped Moses [09-15] =====
+===== Si Aaron [09-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink}}
+Nahadlok si Moises ug dili siya moadto kang Paraon tungod kay naghunahuna siya nga dili siya makahibalo manulti. Busa gipaubanan sa Dios si Moises kang Aaron nga iyang igsoon, aron nga makatabang kaniya. Gipasidan-an sa Dios si Moises ug si Aaron nga mag matinumanon gayod ang Paraon..
 
-**Moses was afraid and did not want to go to Pharaoh** because he thought he could not speak well, so **God** sent **Moses’ brother**, **Aaron**, to help him. God warned Moses and Aaron that Pharaoh would be **stubborn**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:aaron]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
 ==== Translation Notes: ====
 
-  * **Nahadlok ... ug dili siya moadto - ** Nasayod si Moises nga si Paraon nagtinguha sa pagpatay kaniya, ug dili pud siya motuo nga mahimo niya ang  gusto sa Dios nga ipahimo kaniya.
-  * **Aaron nga iyang igsoon - ** Si Aaron tinuod nga igsoon ni Moises gikan sa Israelinhong inahan ug amahan. Si Aaron magulang ni Moises sa pipila ka tuig.
-  * **magpagahi sa iyang ulo - ** Kini nagpasabot nga si Paraon mosupak sa pagtuman sa Dios. Ug makahimo ka sa pagdugang niini, ''magpagahi sa iyang ulo ug dili maminaw (o motuman)."
+  * **Nahadlok … ug dili siya moadto - **  Nasayod si Moises nga si Paraon nagtinguha sa pagpatay kaniya, ug dili pud siya motuo nga mahimo niya ang gusto sa Dios nga ipahimo kaniya.
+  * **Aaron nga iyang igsoon - **  Si Aaron tinuod nga igsoon ni Moises gikan sa Israelinhong inahan ug amahan. Si Aaron magulang ni Moises sa pipila ka tuig.
+  * **magpagahi sa iyang ulo - **  Kini nagpasabot nga si Paraon mosupak sa pagtuman sa Dios. Ug makahimo ka sa pagdugang niini, ''magpagahi sa iyang ulo ug dili maminaw (o motuman)."
 **[[:ceb:obs:notes:frames:09-14|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:10-01|>>]]**
