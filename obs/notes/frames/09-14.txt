@@ -1,24 +1,21 @@
-===== The Name of God [09-14] =====
+===== Ang Ngalan sa Dios [09-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink}}
+Unya nangutana si Moises, “Unsa may akong itubag kung mangutana ang katawhan kung kinsay nagsugo kanako?” Miingon ang Dios, “AKO MAO AKO. Ingna sila nga ang nagsugo kanimo mao si Ako. Unya ingna usab sila nga Ako si Yahweh, ang Dios sa inyong katigulangan nga si Abraham, Isaac ug Jacob. Mao kini ang akong ngalan sa kahangtoran.”
 
-**Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and **Jacob**.' This is **my name** forever.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:other:jacob]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: ====
 
-  * **ang katawhan - ** Tan-awa ang, "akong katawhan sa " **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
-  * **AKO MAO AKO - ** Kini nga paghulagway nagpakita nga ang Dios lang ang makapasundayag sa iyang kaugalingon, ug dili pinaagi sa bisan unsa nga atong nahibaloan, ug dili siya ikatandi ni bisan kinsa.
-  * **Ako - ** Kining ngalana nagapasundayag pag-ayo nga ang Dios lang gayod ang kanunay nga nabuhi, ug magpabilin siya sa walay kinutoban.
-  * **akong ngalan - ** Ang ngalan nga gisulti sa Dios kang Moises ug sa tanang katawhan sa Israel mao ang "Yahweh," nga magkaanggid sa, "Ako" ug nagpasabot kini nga, "Siya."
+  * **ang katawhan - **  Tan-awa ang, "akong katawhan sa " **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
+  * **AKO MAO AKO - **  Kini nga paghulagway nagpakita nga ang Dios lang ang makapasundayag sa iyang kaugalingon, ug dili pinaagi sa bisan unsa nga atong nahibaloan, ug dili siya ikatandi ni bisan kinsa.
+  * **Ako - **  Kining ngalana nagapasundayag pag-ayo nga ang Dios lang gayod ang kanunay nga nabuhi, ug magpabilin siya sa walay kinutoban.
+  * **akong ngalan - **  Ang ngalan nga gisulti sa Dios kang Moises ug sa tanang katawhan sa Israel mao ang "Yahweh," nga magkaanggid sa, "Ako" ug nagpasabot kini nga, "Siya."
 **[[:ceb:obs:notes:frames:09-13|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-15|>>]]**
