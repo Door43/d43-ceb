@@ -1,24 +1,20 @@
-===== Pharaoh's Dream [08-06] =====
+===== Ang Damgo ni Paraon [08-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
+Nilabay nalang ang duha ka tuig, na priso gihapon si Jose, bisag inosente siya. Usa ka gabii, ang Paraon nga hari sa mga Ehiptohanon, dunay duha ka damgo nga nakahasol kaniya pag-ayo, ug walay usa sa iyang mga magtatambag ang nakahibalo sa buot ipasabot sa maong damgo.
 
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
+===== Mahinunganon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:josephot]]**
-  * **[[:ceb:obe:kt:innocent]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:dream]]**
-
-
+  * **[[:ceb:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ceb:obe:kt:innocent|innocent]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:king|king]]**
+  * **[[:ceb:obe:other:dream|dream]]**
 ==== Translation Notes: ====
 
-  * **nakahasol kaniya pag-ayo. - ** Nagpasabot kini nga mibati ug kahadlok ug kalibog ang hari, tungod sa iyang nakita sa iyang damgo.
-  * **iyang mga magtatambag - ** Kining tawhana adunay pinasahing gahom ug kasagaran nga makahubad sa mga damgo. Ang uban nga pagpasabot niini mao ang, "maalamong mga tawo.''
-  * **buot ipasabot sa maong damgo - ** Ang katawhan sa Ehipto nagtuo nga ang damgo mensahe gikan sa Dios nga nagsulti kung unsay mahitabo sa umaabot. Gigamit sa Dios si Paraon nga magdamgo aron sa pagsulti kaniya kun unsa ang mahitabo sa umaabot.
+  * **nakahasol kaniya pag-ayo. - **  Nagpasabot kini nga mibati ug kahadlok ug kalibog ang hari, tungod sa iyang nakita sa iyang damgo.
+  * **iyang mga magtatambag - **  Kining tawhana adunay pinasahing gahom ug kasagaran nga makahubad sa mga damgo. Ang uban nga pagpasabot niini mao ang, "maalamong mga tawo.''
+  * **buot ipasabot sa maong damgo - **  Ang katawhan sa Ehipto nagtuo nga ang damgo mensahe gikan sa Dios nga nagsulti kung unsay mahitabo sa umaabot. Gigamit sa Dios si Paraon nga magdamgo aron sa pagsulti kaniya kun unsa ang mahitabo sa umaabot.
 **[[:ceb:obs:notes:frames:08-05|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-07|>>]]**
