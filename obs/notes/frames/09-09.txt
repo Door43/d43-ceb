@@ -1,20 +1,15 @@
-===== Moses Killed an Egyptian [09-09] =====
+===== Gipatay ni Moises ang Ehiptohanon [09-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink}}
+Sa dihang nakita ni Moises nga walay nagtan-aw, gipatay niya ang Ehiptohanon, ug iya kining gilubong. Apan adunay diay nakakita sa gihimo ni Moises.
 
-When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-
- * //(There are no notes for this frame.)// 
-
+* //(There are no notes for this frame.)//
 
 **[[:ceb:obs:notes:frames:09-08|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-10|>>]]**
