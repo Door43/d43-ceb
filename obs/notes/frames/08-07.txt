@@ -1,23 +1,19 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== Ang Paghubad ni Jose sa Damgo ni Paraon [08-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
+Ang Dios naghatag kang Jose ug abilidad sa paghubad sa mga damgo, mao nga gipakuha siya sa hari gikan sa prisohan. Gihubad ni Jose ang damgo sa hari nga nag-ingon, “Magpadala ang Dios ug pito ka tuig nga abunda sa ani, ug mosunod niini ang pito ka tuig nga tinghulaw.”
 
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.” 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:josephot]]**
-  * **[[:ceb:obe:other:dream]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ceb:obe:other:dream|dream]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
 ==== Translation Notes: ====
 
-  * **paghubad sa damgo - ** Ang ''paghubad'' mao ang pagsulti kun unsa ang ipasabot sa usa ka butang. Mao nga si Jose misulti sa katawhan kun unsa ang ipasabot sa damgo.
-  * **gipakuha siya sa hari - ** Ang laing paagi sa pagsulti niini, "Gisugo niya ang iyang sulugoon sa pagdala kang Jose ngadto kaniya."
-  * **Magpadala ang Dios - ** Ang Dios mao ang maghimo nga ang ilang ani moabot ug pito ka tuig, ug pagkahuman niana iya silang paanihon ug diyotay lang aron ang mga tawo ug mga hayop walay insakto nga pagkaon.
-  * **Tinghulaw - ** Ang mga tanaman ug ang mga kaumahan gamay na lang ang abot, ug wala nay insaktong pagkaon ang katawhan ug mga kahayopan.
+  * **paghubad sa damgo - **  Ang ''paghubad''  mao ang pagsulti kun unsa ang ipasabot sa usa ka butang. Mao nga si Jose misulti sa katawhan kun unsa ang ipasabot sa damgo.
+  * **gipakuha siya sa hari - **  Ang laing paagi sa pagsulti niini, "Gisugo niya ang iyang sulugoon sa pagdala kang Jose ngadto kaniya."
+  * **Magpadala ang Dios - **  Ang Dios mao ang maghimo nga ang ilang ani moabot ug pito ka tuig, ug pagkahuman niana iya silang paanihon ug diyotay lang aron ang mga tawo ug mga hayop walay insakto nga pagkaon.
+  * **Tinghulaw - **  Ang mga tanaman ug ang mga kaumahan gamay na lang ang abot, ug wala nay insaktong pagkaon ang katawhan ug mga kahayopan.
 **[[:ceb:obs:notes:frames:08-06|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-08|>>]]**
