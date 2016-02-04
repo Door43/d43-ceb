@@ -1,22 +1,18 @@
-===== Joseph, the Favorite Son [08-01] =====
+===== Si Jose, Ang Paborito nga Anak [08-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink}}
+Paglabay sa daghang mga katuigan, sa dihang tigulang na kaayo si Jacob, gisugo niya ang iyang pinalangga nga anak nga si Jose, sa pagduaw sa iyang mga igsoon nga nag-atiman sa ilang mga hayopan.
 
-Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:jacob]]**
-  * **[[:ceb:obe:other:josephot]]**
-
-
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ceb:obe:other:josephot|Joseph (OT)]]**
 ==== Translation Notes: ====
 
-  * **gisugo - ** Kining pulonga nagpasabot, nga si Jacob nag-ingon kang Jose nga ''lakaw,'' ug si Jose milakaw.
+  * **gisugo - **  Kining pulonga nagpasabot, nga si Jacob nag-ingon kang Jose nga ''lakaw,''  ug si Jose milakaw.
   * **pinalangga nga anak –**Mahimo usab kining hubaron nga, "mahal kaayo niya ang usa sa iyang mga anak labaw sa uban niyang mga anak."
-  * **pagduaw - ** Nagpasabot kini nga, "si Jose gipalakaw sa pagsuta kung maayo ba ang tanan sa ang iyang mga igsoon." Sa uban nga pagkasulti niini mahimong sama niini, "sa pagtan-aw sa iyang mga igsoon kung atua pa ba sila didto.''
-  * **mga igsoon - ** Kini mao ang mga lalaki nga igsoon ni Jose.
-  * **nag-atiman sa ilang mga kahayopan. - ** Tungod kay dugay na sila sukad sa ilang paggikan sa pipila na ka adlaw, mahimo nga sama niini ang imong pagsulti, "nga nangadto sa layo aron pag-atiman sa ilang mga kahayopan."
+  * **pagduaw - **  Nagpasabot kini nga, "si Jose gipalakaw sa pagsuta kung maayo ba ang tanan sa ang iyang mga igsoon." Sa uban nga pagkasulti niini mahimong sama niini, "sa pagtan-aw sa iyang mga igsoon kung atua pa ba sila didto.''
+  * **mga igsoon - **  Kini mao ang mga lalaki nga igsoon ni Jose.
+  * **nag-atiman sa ilang mga hayopan. - **  Tungod kay dugay na sila sukad sa ilang paggikan sa pipila na ka adlaw, mahimo nga sama niini ang imong pagsulti, "nga nangadto sa layo aron pag-atiman sa ilang mga hayopan."
 **[[:ceb:obs:notes:frames:07-10|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-02|>>]]**
