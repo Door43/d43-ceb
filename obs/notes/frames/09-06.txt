@@ -1,19 +1,14 @@
-===== Moses in a Basket [09-06] =====
+===== Gibutang Si Moises sa Basket [09-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink}}
+Sa dihang dili na makaantigo sa pagtago ang mga ginikanan sa batang lalaki, ila na lang kining gihimoan ug basket nga molutaw ug gibutang nila kini sa kasagbotan daplin sa Suba sa Nilo, aron maluwas siya sa kamatayon. Ang iyang magulang nga babaye nagbantay kaniya aron tan-awon kon unsay mahitabo kaniya.
 
-When the boy's parents could no longer hide him, they put him in a **floating basket among the reeds along the edge of the Nile River** in order to save him from being killed. His older sister watched to see what would happen to him.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:nileriver]]**
-
-
+  * **[[:ceb:obe:other:nileriver|Nile River, River of Egypt]]**
 ==== Translation Notes: ====
 
-
- * //(There are no notes for this frame.)// 
-
+* //(There are no notes for this frame.)//
 
 **[[:ceb:obs:notes:frames:09-05|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-07|>>]]**
