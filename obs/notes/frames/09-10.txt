@@ -1,18 +1,15 @@
-===== Moses Fled from Egypt [09-10] =====
+===== Nilayas si Moises sa Ehipto [09-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+Sa pagkadungog sa Paraon sa gihimo ni Moises, iya ning gipapatay. Apan milayas si Moises sa Ehipto ug niadto siya sa kamingawan diin siya luwas sa mga sundalo ni Paraon.
 
-When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **kamingawan - ** Lapad ug luag ang kamingawan ug batoon kini ug uga nga yuta. Dili maayo ang yuta niini alang sa mga tanom, ug gamay lang ang mga tawo nga mopuyo niini.
+  * **kamingawan - **  Lapad ug luag ang kamingawan ug batoon kini ug uga nga yuta. Dili maayo ang yuta niini alang sa mga tanom, ug gamay lang ang mga tawo nga mopuyo niini.
 **[[:ceb:obs:notes:frames:09-09|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-11|>>]]**
