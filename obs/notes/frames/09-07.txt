@@ -1,20 +1,17 @@
-===== Pharaoh's Daughter [09-07] =====
+===== Ang Babaye nga Anak Ni Paraon [09-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink}}
+Nakita sa anak sa Paraon ang basket ug gitan-aw niya ang sulod, ug nakita niya ang bata. Gisagop niya ingon nga iyang kaugalingong anak. Gipaatiman niya ang bata sa Israelitang babaye apan wala siya makahibalo nga siya diay maoy inahan sa bata. Sa dihang dako na ang bata ug dili na kinahanglan ug gatas sa iyang inahan, gibalik niya kini sa anak sa Paraon nga maoy nagngalan kaniya'g Moises.
 
-A daughter of **Pharaoh** saw the basket and looked inside. When she saw the baby, she **took him as her own son**. She hired an **Israelite** woman **to nurse him** without realizing the woman was the baby’s own mother. When the child was old enough that he no longer needed his mother's milk, she returned him to Pharaoh’s daughter, who named him **Moses**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:moses]]**
-
-
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:kt:son|son]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
 ==== Translation Notes: ====
 
   * **Gisagop niya siya ingon nga iyang kaugalingong anak –**Usa siya ka prinsesa. Sa dihang gihimo niya siya nga anak, nahimo usab siyang prinsipe sa Ehipto.
-  * **Gipaatiman niya ang bata - ** Ubang paagi sa pagsulti niini mao ang, "gipasuso niya ang bata."
+  * **Gipaatiman niya ang bata - **  Ubang paagi sa pagsulti niini mao ang, "gipasuso niya ang bata."
 **[[:ceb:obs:notes:frames:09-06|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-08|>>]]**
