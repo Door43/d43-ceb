@@ -1,20 +1,16 @@
-===== The Brothers Bought Food [08-11] =====
+===== Nipalit ug Pagkaon ang mga Igsoon ni Jose [08-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+Gipaadto ni Jacob sa Ehipto ang iyang kamagulangang mga anak aron sa mamalit ug pagkaon. Una sila namalit ug pagkaon, nagkaistorya si Jose ug ang iyang mga igsoon pero wala sila makaila kang Jose. Apan si Jose nakaila kanila.
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:jacob]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:josephot]]**
-
-
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:josephot|Joseph (OT)]]**
 ==== Translation Notes: ====
 
-  * **kamagulangang mga anak - ** Kini mao ang mga magulang ni Jose nga nagbaligya kaniya aron mahimong  ulipon.
-  * **Wala makaila kang Jose - ** Wala nila mailhi nga si Jose diay kadto, tungod kay si Jose hamtong na man, dili sama sa ulahing pagkakita nila kaniya. Ug nagsinina siya ingon nga usa ka pangulo sa Ehipto.
+  * **kamagulangang mga anak - **  Kini mao ang mga magulang ni Jose nga nagbaligya kaniya aron mahimong ulipon.
+  * **Wala makaila kang Jose - **  Wala nila mailhi nga si Jose diay kadto, tungod kay si Jose hamtong na man, dili sama sa ulahing pagkakita nila kaniya. Ug nagsinina siya ingon nga usa ka pangulo sa Ehipto.
 **[[:ceb:obs:notes:frames:08-10|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-12|>>]]**
