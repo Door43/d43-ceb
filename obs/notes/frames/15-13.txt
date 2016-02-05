@@ -13,7 +13,7 @@
   * **[[:ceb:obe:kt:covenant]]**
   * **[[:ceb:obe:kt:god]]**
   * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:sinai]]**
+  * **[[:ceb:obe:other:sinai]]**
   * **[[:ceb:obe:kt:promise]]**
   * **[[:ceb:obe:kt:faithful]]**
   * **[[:ceb:obe:kt:lawofmoses]]**
