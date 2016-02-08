@@ -1,18 +1,15 @@
-===== Pharaoh's Hard Heart [10-09] =====
+===== Wala Gihapon Mitugot ang Paraon nga Molakaw ang mga Israelita  [10-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?nolink}}
+Apan si Paraon nakasala pag-usab ug nagpagahi sa iyang kasingkasing. Dili siya mutugot nga ang mga Israelita makalakaw nga gawasnon.
 
-But **Pharaoh sinned** again and **hardened his heart**. He would not let the **Israelites** go free.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **nagpagahi sa iyang kasingkasing - ** Tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
+  * **nagpagahi sa iyang kasingkasing - **  Tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
 **[[:ceb:obs:notes:frames:10-08|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-10|>>]]**
