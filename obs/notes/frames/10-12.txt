@@ -1,20 +1,17 @@
-===== Pharaoh Refused to Listen [10-12] =====
+===== Wala Gayud Naminaw si Paraon [10-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink}}
+Bisan ug nahoman na kining siyam ka mga katalagman, nagpabilin si Paraon nga nagpagahi ug wala niya palakwa nga gawasnon ang mga Israelita. Tungod kay wala gayod naminaw si Paraon, nagplano ang Dios ug kataposang hampak nga maoy makapausab sa hunahona ni Paraon.
 
-Even after **these nine plagues**, **Pharaoh** still refused to let the **Israelites** go free. **Since Pharaoh would not listen**, **God** planned to send one last plague. **This would change Pharaoh’s mind**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:god|God]]**
 ==== Translation Notes: ====
 
-  * **siyam ka mga katalagman - ** Nagpasabot kini nga, “ang siyam ka mga panghitabo nga gitugot sa Dios.”
-  * **Tungod kay wala gayod naminaw si Paraon - ** Nagpasabot kini nga, “tungod kay wala buhata ni Paraon ang gusto sa Dios,” o “tungod kay si Paraon wala nagtuman sa Dios.”
+  * **siyam ka mga katalagman - **  Nagpasabot kini nga, “ang siyam ka mga panghitabo nga gitugot sa Dios.”
+  * **Tungod kay wala gayod naminaw si Paraon - **  Nagpasabot kini nga, “tungod kay wala buhata ni Paraon ang gusto sa Dios,” o “tungod kay si Paraon wala nagtuman sa Dios.”
   * **makapausab sa hunahona ni Paraon - **  Sa lain nga pagkasulti, “Ang kataposan nga katalagman nga maoy mopausab sa panghunahuna ni Paraon mahitungod sa Dios ug mahimong gawasnon ang mga Israelita nga mobiya sa Ehipto.”
 **[[:ceb:obs:notes:frames:10-11|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:11-01|>>]]**
