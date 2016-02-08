@@ -1,22 +1,19 @@
-===== The Frogs [10-04] =====
+===== Nagpadala ang Dios ug mga Baki sa tibuok Ehipto [10-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink}}
+Nagpadala ang Dios ug baki sa tibuok Ehipto, ug naghangyo si Paraon kang Moises nga kuhaon ang mga baki. Apan sa nangamatay na ang tanang mga baki, nagpagahi si Paraon sa iyang kasingkasing nga dili ipagawas ang mga Israelita sa Ehipto.
 
-**God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:beg]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:beg|beg, beggar]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **Nagpadala ang Dios ug baki sa tibuok Ehipto - ** Kini nagpasabot nga, “Ang Dios maoy hinongdan nga daghan ang mga baki nga migawas sa Ehipto.”
-  * **nagpagahi si Paraon sa iyang kasingkasing - ** Siya nahimong nagmagahi sa iyang kasingkasing ug misopak sa Dios.
+  * **Nagpadala ang Dios ug baki sa tibuok Ehipto - **  Kini nagpasabot nga, “Ang Dios maoy hinongdan nga daghan ang mga baki nga migawas sa Ehipto.”
+  * **nagpagahi si Paraon sa iyang kasingkasing - **  Siya nahimong nagmagahi sa iyang kasingkasing ug misopak sa Dios.
 **[[:ceb:obs:notes:frames:10-03|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-05|>>]]**
