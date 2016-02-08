@@ -1,19 +1,16 @@
-===== The Water Became Blood [10-03] =====
+===== Nahimong Dugo ang Tubig sa Suba sa Nilo [10-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+Gihimo sa Dios nga dugo ang Suba sa Nilo, apan si Paraon nagpabilin nga dili musugot nga makalakaw ang mga Israelita.
 
-**God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:nileriver]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:nileriver|Nile River, River of Egypt]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **Gihimong gugo ang Suba sa Nilo - ** Sa uban nga mga pinulongan kinahanglan nga moingon. “Himoa ang tubig sa Nilo nga dugo.” Imbis nga adunay dugo sa tubig sa suba, mao nga nangamatay ang mga isda ug wala nay mainom nga tubig ang mga tawo.
+  * **Gihimong gugo ang Suba sa Nilo - **  Sa uban nga mga pinulongan kinahanglan nga moingon. “Himoa ang tubig sa Nilo nga dugo.” Imbis nga adunay dugo sa tubig sa suba, mao nga nangamatay ang mga isda ug wala nay mainom nga tubig ang mga tawo.
 **[[:ceb:obs:notes:frames:10-02|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-04|>>]]**
