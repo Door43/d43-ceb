@@ -1,24 +1,21 @@
-===== The Gnats and the Flies [10-05] =====
+===== Nagpadala ang Dios ug mga Tagnok ug Langaw [10-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink}}
+Unya ang Dios nagpadalag laing katalagman nga mga tagnok, ug mga langaw. Gitawag ni Paraon si Moises ug si Aaron ug nag-ingon nga kung ilang pahunungon ang katalagman, makahimo na sa pagbiya sa Ehipto ang mga Israelita. Samtang si Moises nag-ampo, gipapahawa sa Dios ang tanang mga langaw diha sa Ehipto. Apan nagpagahi si Paraon sa iyang kasingkasing ug wala mitugot nga makagawas ang katawhan.
 
-So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh** called **Moses** and **Aaron** and told them that if they stopped the plague, the **Israelites** could leave Egypt. When Moses prayed, God removed all the flies from **Egypt**. But Pharaoh **hardened his heart** and would not let the people go free.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **ang Dios nagpadalag laing katalagman - ** Mahubad usab kini nga, “Ang Dios maoy hinongdan nga naay katalagman,” o, “Ang Dios maoy hinongdan sa katalagman (nga tagnok) nga lukopon ang yuta sa Ehipto.”
-  * **Tagnok - ** Usa kini ka gagmay nga insekto nga mamaak nga magpanon sa paglupad, saba kini nga mobatog sa mga katawhan ug sa tanan nga mananap sa Ehipto.
-  * **Langaw - ** Dili kaayo kini dagko nga insektong molupad, saba usab kini nga makahatag ug disturbo, daghan kaayo kini nga naglupad ug milukop sa tanan, misulod sa balay sa mga Ehiptohanon.
-  * **nagpagahi si Paraon sa iyang kasingkasing - ** Tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
+  * **ang Dios nagpadalag laing katalagman - **  Mahubad usab kini nga, “Ang Dios maoy hinongdan nga naay katalagman,” o, “Ang Dios maoy hinongdan sa katalagman (nga tagnok) nga lukopon ang yuta sa Ehipto.”
+  * **Tagnok - **  Usa kini ka gagmay nga insekto nga mamaak nga magpanon sa paglupad, saba kini nga mobatog sa mga katawhan ug sa tanan nga mananap sa Ehipto.
+  * **Langaw - **  Dili kaayo kini dagko nga insektong molupad, saba usab kini nga makahatag ug disturbo, daghan kaayo kini nga naglupad ug milukop sa tanan, misulod sa balay sa mga Ehiptohanon.
+  * **nagpagahi si Paraon sa iyang kasingkasing - **  Tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
 **[[:ceb:obs:notes:frames:10-04|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-06|>>]]**
