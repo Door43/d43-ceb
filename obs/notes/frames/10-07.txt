@@ -1,20 +1,17 @@
-===== The Painful Sores [10-07] =====
+===== Midangat sa Tanan nga Ehiptohanon ang Sakit sa Panit [10-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink}}
+Unya ang Dios nag-ingon kang Moises, “Pagkohag abu ug isabwag sa hangin atobangan ni Paraon. Pagkahoman niana, ang sakit sa panit modangat sa tibuok nga Ehiptohanon, apan dili maapil ang mga Israelita.” Apan gipagahi gihapon sa Dios ang kasingkasing ni Paraon, ug wala siya mitugot nga ang Israelita molakaw nga gawasnon.
 
-Then **God** told **Moses** to throw ashes into the air in front of **Pharaoh**. When he did, painful skin sores appeared on the **Egyptians**, but not on the **Israelites**. **God hardened Pharaoh's heart**, and Pharaoh would not let the Israelites go free.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **gipagahi gihapon sa Dios ang kasingkasing ni Paraon - ** Ang Dios nihimo kang Paraon nga magmagahi ang iyang ulo, tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
+  * **gipagahi gihapon sa Dios ang kasingkasing ni Paraon - **  Ang Dios nihimo kang Paraon nga magmagahi ang iyang ulo, tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
 **[[:ceb:obs:notes:frames:10-06|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-08|>>]]**
