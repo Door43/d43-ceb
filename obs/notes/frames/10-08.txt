@@ -1,25 +1,22 @@
-===== The Hail [10-08] =====
+===== Nagpadala ang Dios ug Yelo sa Ehipto [10-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
+Human niana, nagpadala ang Dios ug yelo nga makadaot sa mga tanom sa Ehipto ug mopatay sa tanan nga naa sa gawas. Gipatawag ni Paraon si Moises ug si Aaron ug nag-ingon kanila, “Nakasala ako. Makalakaw na kamo.” Mao nga nag-ampo si Moises, ug niondang ang yelo gikan sa kawanangan.
 
-**After that**, **God sent hail** that destroyed most of the crops in **Egypt** and killed anybody who went outside. **Pharaoh** called **Moses** and **Aaron** and told them, “I have **sinned**. **You may go**.” So Moses **prayed**, and the hail stopped falling from the sky.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:other:pray]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ceb:obe:other:pray|pray, prayer]]**
 ==== Translation Notes: ====
 
-  * **Human niana - ** Nagpasabot kini nga, “human nahimo sa Dios ang sakit sa panit sa tibuok Ehiptohanon.”
-  * **nagpadala ang Dios ug yelo - ** Nagpadala ang Dios ug yelo gikan sa langit.
-  * **Yelo - ** Ang yelo sama sa usa ka tibugol nga ice nga mahulog gikan sa panganod sama sa ulan. Kining tibugol nga ice donay gagmay ug donay dagko usab. Ang dako nga ice mahimong sakit ug makapatay kung mahulogan ka niini.
-  * **Makalakaw na kamo - ** Ang pulong nga “kamo,” nagpasabot kini kang Moses, Aaron ug sa mga Israelita.
+  * **Human niana - **  Nagpasabot kini nga, “human nahimo sa Dios ang sakit sa panit sa tibuok Ehiptohanon.”
+  * **nagpadala ang Dios ug yelo - **  Nagpadala ang Dios ug yelo gikan sa langit.
+  * **Yelo - **  Ang yelo sama sa usa ka tibugol nga ice nga mahulog gikan sa panganod sama sa ulan. Kining tibugol nga ice donay gagmay ug donay dagko usab. Ang dako nga ice mahimong sakit ug makapatay kung mahulogan ka niini.
+  * **Makalakaw na kamo - **  Ang pulong nga “kamo,” nagpasabot kini kang Moses, Aaron ug sa mga Israelita.
 **[[:ceb:obs:notes:frames:10-07|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-09|>>]]**
