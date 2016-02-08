@@ -1,18 +1,15 @@
-===== The Locusts [10-10] =====
+===== Nagpadala ang Dios ug Dulon sa Tibuok Ehipto [10-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink}}
+Unya ang Dios nagpadala ug dulon sa tibuok Ehipto. Ang dulon nikaon sa tanang mga tanom nga wala nagoba sa ulan nga yelo.
 
-So **God** caused **swarms of locusts** to come over **Egypt**. These **locusts** ate all the crops that the **hail** had not destroyed.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **nagpadala ug dulon - ** Ang apan-apan o dulon mag-uban kini sila ug panglupad sa dako nga panon, ug modaot kini sa lapad nga kaumahan ug sa tanan nga mga tanom nga maoy ginakohaan sa ilang pagkaon.
-  * **Yelo - ** Kining yelo sama kini ug porma ug ice nga mahulog gikan sa panganod o sama usab sa ulan.
+  * **nagpadala ug dulon - **  Ang apan-apan o dulon mag-uban kini sila ug panglupad sa dako nga panon, ug modaot kini sa lapad nga kaumahan ug sa tanan nga mga tanom nga maoy ginakohaan sa ilang pagkaon.
+  * **Yelo - **  Kining yelo sama kini ug porma ug ice nga mahulog gikan sa panganod o sama usab sa ulan.
 **[[:ceb:obs:notes:frames:10-09|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-11|>>]]**
