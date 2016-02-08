@@ -1,27 +1,22 @@
-===== Let My People Go! [10-01] =====
+===== “Tugoti ang akong Katawhan sa Paglakaw!”[10-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink}}
+Unya miadto si Moises ug si Aaron kang Paraon ug miingon, “Ang Dios sa Israel nag-ingon, 'Tugoti ang akong katawhan sa paglakaw!' ” Apan wala naminaw si Paraon kanila. Wala niya tugoti ang mga Israelita nga molakaw nga gawasnon, iya hinuon silang gipugos sa mga bug-at nga trabaho!
 
-**Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **Kang Paraon - ** Aron mahimo kini nga klaro, “Sa palasyo ni Paraon makig-istrya.”
-  * **Dios sa Israel - ** Mahubad usab kini sama niini,  “Ang Dios, maoy nagpili sa Israelita aron mahimo niyang katawhan,” o “Ang Dios maoy nagdumala sa katawhan sa Israel,” o “Ang Dios mao lang gayod ang simbahon sa Israel.”
-  * **Tugoti ang akong katawhan sa paglakaw - ** Sa lain nga pagkasulti, “Tugoti ang akong katawhan nga molakaw nga gawasnon,” o, “molakaw nga gawasnon” o, “Himoa nga gawasnon ang akong katawhan nga mobiya sa Ehipto.”
-  * **Akong katawhan - ** Tan-awa ang “Akong katawhan” sa **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
-  * **Pamati kamo - ** Mahubad usab kini nga, “paminaw,” o, “gitoman.”
+  * **Kang Paraon - **  Aron mahimo kini nga klaro, “Sa palasyo ni Paraon makig-istrya.”
+  * **Dios sa Israel - **  Mahubad usab kini sama niini, “Ang Dios, maoy nagpili sa Israelita aron mahimo niyang katawhan,” o “Ang Dios maoy nagdumala sa katawhan sa Israel,” o “Ang Dios mao lang gayod ang simbahon sa Israel.”
+  * **Tugoti ang akong katawhan sa paglakaw - **  Sa lain nga pagkasulti, “Tugoti ang akong katawhan nga molakaw nga gawasnon,” o, “molakaw nga gawasnon” o, “Himoa nga gawasnon ang akong katawhan nga mobiya sa Ehipto.”
+  * **Akong katawhan - **  Tan-awa ang “Akong katawhan” sa **[[:ceb:obs:notes:frames:09-13|[09-13]]]**.
+  * **Pamati kamo - **  Mahubad usab kini nga, “paminaw,” o, “gitoman.”
 **[[:ceb:obs:notes:frames:09-15|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-02|>>]]**
