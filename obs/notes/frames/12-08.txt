@@ -1,17 +1,14 @@
-===== Israel Crossed the Sea [12-08] =====
+===== Nitabok sa Tunga sa Dagat ang mga Israelita  [12-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink}}
+Ang mga Israelita naglakaw sa tunga sa dagat nga uga ang agianan ug dihay pader nga tubig sa ilang isigkakilid.
 
-The **Israelites marched** through the sea on dry ground **with a wall of water on either side of them**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-  * **Naglakaw - ** Mahubad usab kini nga, “naglakaw,” o, “nag-adto.”
-  * **ug dihay pader nga tubig sa ilang isigkakilid - ** Mahubad usab kini nga, “ug ang tubig sa ilang isigkakilid nagtindog pataas ug tul-id sama sa pader.”
+  * **Naglakaw - **  Mahubad usab kini nga, “naglakaw,” o, “nag-adto.”
+  * **ug dihay pader nga tubig sa ilang isigkakilid - **  Mahubad usab kini nga, “ug ang tubig sa ilang isigkakilid nagtindog pataas ug tul-id sama sa pader.”
 **[[:ceb:obs:notes:frames:12-07|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-09|>>]]**
