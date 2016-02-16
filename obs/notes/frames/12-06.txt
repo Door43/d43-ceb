@@ -1,19 +1,16 @@
-===== Darkness over the Egyptians [12-06] =====
+===== Ang Haliging Panganod [12-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink}}
+Unya gibutang sa Dios ang haliging panganod taliwala sa mga Israelita ug mga Ehiptohanon aron dili makita sa mga Ehiptohanon ang mga Israelita.
 
-Then **God** moved the **pillar of cloud** and placed it between the **Israelites** and the **Egyptians** so the Egyptians **could not see** the Israelites.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **haliging panganod - ** Tan-awa kung gi-unsa nimo paghubad kining pulonga sa **[[:ceb:obs:notes:frames:12-02|[12-02]]]**
-  * **dili Makita - ** Hilabihan gayod kadako ug kabaga sa haliging panganod hinongdan nga dili na makita sa mga Ehiptohanon ang mga Israelita.
+  * **haliging panganod - **  Tan-awa kung gi-unsa nimo paghubad kining pulonga sa **[[:ceb:obs:notes:frames:12-02|[12-02]]]**
+  * **dili Makita - **  Hilabihan gayod kadako ug kabaga sa haliging panganod hinongdan nga dili na makita sa mga Ehiptohanon ang mga Israelita.
 **[[:ceb:obs:notes:frames:12-05|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-07|>>]]**
