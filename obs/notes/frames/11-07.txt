@@ -1,18 +1,14 @@
 ===== Sorrow in Egypt [11-07] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink&}}
 
 Every **Egyptian** firstborn male died, **from the firstborn of the prisoner in jail**, **to the firstborn of Pharaoh**. Many people in **Egypt** were crying and wailing because of their deep sadness.
 ===== Important Terms: =====
 
-
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:pharaoh]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **gikan sa anak sa piniriso, ngadto sa kinamagulangang anak ni Paraon - ** Mao kini ang paagi sa pag-ingon nga nangamatay ang tanan nilang kinamagulangang anak nga lalaki-gikan sa anak sa pinakaubos nga tawo hangtod sa pinakaimportante nga tawo, apil na ang anaa sa tungatunga.
+  * **gikan sa anak sa piniriso, ngadto sa kinamagulangang anak ni Paraon - **  Mao kini ang paagi sa pag-ingon nga nangamatay ang tanan nilang kinamagulangang anak nga lalaki-gikan sa anak sa pinakaubos nga tawo hangtod sa pinakaimportante nga tawo, apil na ang anaa sa tungatunga.
 **[[:ceb:obs:notes:frames:11-06|<<]] | [[:ceb:obs:notes:11|Up]] | [[:ceb:obs:notes:frames:11-08|>>]]**
