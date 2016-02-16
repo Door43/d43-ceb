@@ -1,24 +1,21 @@
-===== An Annual Feast [12-14] =====
+===== Tinuig nga Pagsaulog sa Pagsaylo [12-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+Ang Dios nagmando sa mga Israelita sa pagsaulog sa Pagsaylo sa matag tuig aron sa paghinumdom sa kadaogan nga gihatag sa Dios kanila gikan sa Ehiptohanon ug sa pagluwas kanila gikan sa pagkaulipon. Nagasaulog sila pinaagi sa pag-ihaw ug hingpit nga nating karnero, ug kaonon nila kini uban sa pan nga walay patubo.
 
-**God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:passover]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:lamb]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:passover|Passover]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:kt:lamb|lamb, Lamb of God]]**
 ==== Translation Notes: ====
 
-  * **Pagsaylo - ** Mahubad , "ang pagsaylo nga boluhaton," o "ang pagsalyo mao ang pagsaulog" o, "ang pagsaylo sa panihapon."
-  * **paghinumdom sa kadaogan nga gihatag sa Dios - ** kini ginahubad nga, "kanunay nagapahinumdom sa ilang kaugalingon kung gi-unsa sa Dios pagpildi ang kaaway. Ang pulong, "paghinumdom," wala lang kini nagpasabot nga dili malimot; nag pasabot usa kini ka maayo nga paghandom sa tanan.
-  * **Hngpit nga nating karnero - ** Ang pulong, "hingpit" nagpasabot kini sa karnero walay sakit o bisan nga dili maayo nga naa niini. Sa laing paagi sa pagsulti niini mahimo nga, "ang insaktong himsog ug maayog barog nga nating karnero.
-  * **pan nga walay patubo. - ** sa laing paagi sa pagsulti niini, "waay patubo nga pan." Tan-awa gi-unsa nimo kini paghubad sa **[[:ceb:obs:notes:frames:11-03|[11-03]]]**.
+  * **Pagsaylo - **  Mahubad , "ang pagsaylo nga boluhaton," o "ang pagsalyo mao ang pagsaulog" o, "ang pagsaylo sa panihapon."
+  * **paghinumdom sa kadaogan nga gihatag sa Dios - **  kini ginahubad nga, "kanunay nagapahinumdom sa ilang kaugalingon kung gi-unsa sa Dios pagpildi ang kaaway. Ang pulong, "paghinumdom," wala lang kini nagpasabot nga dili malimot; nag pasabot usa kini ka maayo nga paghandom sa tanan.
+  * **Hngpit nga nating karnero - **  Ang pulong, "hingpit" nagpasabot kini sa karnero walay sakit o bisan nga dili maayo nga naa niini. Sa laing paagi sa pagsulti niini mahimo nga, "ang insaktong himsog ug maayog barog nga nating karnero.
+  * **pan nga walay patubo. - **  sa laing paagi sa pagsulti niini, "waay patubo nga pan." Tan-awa gi-unsa nimo kini paghubad sa **[[:ceb:obs:notes:frames:11-03|[11-03]]]**.
 **[[:ceb:obs:notes:frames:12-13|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:13-01|>>]]**
