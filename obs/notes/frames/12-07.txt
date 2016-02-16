@@ -1,17 +1,14 @@
-===== Moses Divided the Sea [12-07] =====
+===== Nahimong Dalan ang Taliwala sa Dagat [12-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink}}
+Giingnan si Moises sa Dios, “Ipataas ang imong mga kamot sa ibabaw sa dagat, ug mabahin kini.” Unya gipatolak sa Dios sa hangin ang tubig sa dagat ngadto sa tuo ug ngadto sa wala, hinongdan nga nahimo ang dalan taliwala sa dagat.
 
-**God** told **Moses** to **raise his hand over the sea** and divide the waters. Then God caused wind to push the water in the sea to the left and the right, so that a path formed through the sea.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:moses]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
 ==== Translation Notes: ====
 
-  * **ipataas ang imong mga kamot sa ibabaw sa dagat - ** Mahubad usab kini nga, “gipataas ang iyang mga kamot ibabaw sa dagat”. Kini usa ka paagi sa pagpakita nga ang Dios nagabohat ug milagro pinaagi kang Moises.
+  * **ipataas ang imong mga kamot sa ibabaw sa dagat - **  Mahubad usab kini nga, “gipataas ang iyang mga kamot ibabaw sa dagat”. Kini usa ka paagi sa pagpakita nga ang Dios nagabohat ug milagro pinaagi kang Moises.
 **[[:ceb:obs:notes:frames:12-06|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-08|>>]]**
