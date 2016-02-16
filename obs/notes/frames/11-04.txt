@@ -1,18 +1,15 @@
-===== The Passover Meal [11-04] =====
+===== Ang Pagsaylo [11-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink}}
+Ang tanang mga Israelita nagtoman gayod sa gisugo nga ipahimo sa Dios. Sa tungang gabii, gisogdan sa Dios pagpamatay ang tanang kinamagulangang anak nga lalaki sa mga Ehiptohanon.
 
-The **Israelites** did everything just as **God** had commanded them to do. In the middle of the night, God went throughout **Egypt** killing **every firstborn son**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **pagpamatay ang tanang kinamagulangang anak - ** Nagpasabot kini sa kinamagulangang anak sa matag pamilya nga wala makahimo sa pagpadugo. Kini mao ang mga Ehiptohanon. Aron mahimo kini nga klaro, mahimo ka usab nga modugang ug, “Tanan nga kinamagulangang anak nga lalaki sa mga Ehiptohanon” (tungod kay ang tanang pamilya sa mga Israelita nagbutang naman ug dugo sa kilid sa ilang pultahan).
+  * **pagpamatay ang tanang kinamagulangang anak - **  Nagpasabot kini sa kinamagulangang anak sa matag pamilya nga wala makahimo sa pagpadugo. Kini mao ang mga Ehiptohanon. Aron mahimo kini nga klaro, mahimo ka usab nga modugang ug, “Tanan nga kinamagulangang anak nga lalaki sa mga Ehiptohanon” (tungod kay ang tanang pamilya sa mga Israelita nagbutang naman ug dugo sa kilid sa ilang pultahan).
 **[[:ceb:obs:notes:frames:11-03|<<]] | [[:ceb:obs:notes:11|Up]] | [[:ceb:obs:notes:frames:11-05|>>]]**
