@@ -1,22 +1,19 @@
-===== The Egyptians Drowned [12-11] =====
+===== Nangalumos ang Tanang Sundalo sa Ehipto [12-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink}}
+Sa dihang nakatabok na ang tanang Israelita maayo ngadto sa pikas nga bahin sa dagat, nag-ingon ang Dios kang Moises nga ibayaw niya ang iyang mga kamot pag-usab. Gituman kadto ni Moises ug ang tubig mihampak sa mga sundalong Ehiptohanon, ug nibalik ang dagat sa naandan nga porma. Nangalumos ang tanang sundalo sa Ehipto.
 
-After the **Israelites** all **made it safely to the other side** of the sea, **God** told **Moses** to **stretch out his arm again**. When he obeyed, the **water fell on the Egyptian army** and **returned to its normal place**. **The whole Egyptian army** drowned.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:egypt]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-  * **nakatabok na ang tanang Israelita maayo ngadto sa pikas - ** Mahubad kini nga, "walay kakulian nga naglakaw sa pikas bahin," o, "maabot sa pikas nga walay mahitabo nga daotan” o, "maglakaw ngadto sa matagpikas bahin ug dili mahilabtan sa mga Ehiptohanon ug dili usab malumos sa tubig.
-  * **ibayaw niya ang iyang mga kamot pag-usab - ** Mahubad kini nga, "iyang gipataas ang iyang kamot ibabaw sa dagat," o, aron mahimong klaro nga pagmando, “ang Dios nag ingon kay Moses, 'ipataas imo kamot pag usab.'”
-  * **nibalik ang dagat sa naandan nga porma - ** Mahubad kini nga, "nitabon pag-usab sa dapit kung aha nahimutang ang agianan” o, “nitabon pag usab ang tibouk dagat” o, “nibalik sa daan niya gikahimutangan human nga gitunga sa Dios.
-  * **ang tanang sundalo sa Ehipto - ** kini ginahubad nga, "tanan nga kasudalohan sa Ehipto."
+  * **nakatabok na ang tanang Israelita maayo ngadto sa pikas - **  Mahubad kini nga, "walay kakulian nga naglakaw sa pikas bahin," o, "maabot sa pikas nga walay mahitabo nga daotan” o, "maglakaw ngadto sa matagpikas bahin ug dili mahilabtan sa mga Ehiptohanon ug dili usab malumos sa tubig.
+  * **ibayaw niya ang iyang mga kamot pag-usab - **  Mahubad kini nga, "iyang gipataas ang iyang kamot ibabaw sa dagat," o, aron mahimong klaro nga pagmando, “ang Dios nag ingon kay Moses, 'ipataas imo kamot pag usab.'”
+  * **nibalik ang dagat sa naandan nga porma - **  Mahubad kini nga, "nitabon pag-usab sa dapit kung aha nahimutang ang agianan” o, “nitabon pag usab ang tibouk dagat” o, “nibalik sa daan niya gikahimutangan human nga gitunga sa Dios.
+  * **ang tanang sundalo sa Ehipto - **  kini ginahubad nga, "tanan nga kasudalohan sa Ehipto."
 **[[:ceb:obs:notes:frames:12-10|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-12|>>]]**
