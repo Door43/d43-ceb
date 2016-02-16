@@ -1,21 +1,18 @@
-===== Israel Believed God [12-12] =====
+===== Misalig ang mga Israelita sa Dios [12-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink}}
+Nakita sa mga Israelita nga nangamatay ang mga Ehiptohanon; silang tanan nisalig sa Dios, ug nagtuo nga si Moises usa ka propheta sa Dios.
 
-When the **Israelites** saw that the **Egyptians** were dead, they **trusted in God** and **believed** that **Moses** was **a prophet of God**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:believe]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:kt:prophet]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 ==== Translation Notes: ====
 
-  * **nisalig sa Dios - ** Sa uban nga pinolongan, ang katawhan misalig nga ang Dios Gamhanan ug makapanalipod kanila.
+  * **nisalig sa Dios - **  Sa uban nga pinolongan, ang katawhan misalig nga ang Dios Gamhanan ug makapanalipod kanila.
 **[[:ceb:obs:notes:frames:12-11|<<]] | [[:ceb:obs:notes:12|Up]] | [[:ceb:obs:notes:frames:12-13|>>]]**
