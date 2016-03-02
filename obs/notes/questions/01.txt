@@ -20,8 +20,6 @@ Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo
       * Gihuypan siya sa Ginoo ug naanay kinabuhi. [01-10]
   - Asa gibutang sa Ginoo si Adan?
       * Sa tanaman nga gibuhat sa Ginoo. [01-10]
-  - Asa gibutang sa Ginoo si Adan?
-      * Sa tanaman nga gibuhat sa Ginoo. [01-10]
   - Unsa ang ngalan sa lalaki?
       * Adan. [01-10 ]
   - Asa gikan ang talagsaon nga kahoy nga si Adan wala gitugtan nga mokaon sa bunga niini?
@@ -36,10 +34,9 @@ Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo
       * Kini nagpasabot nga siya gihimo gikan sa lalaki. [01-14]
   - Unsay tuyo nga ang lalaki naay asawa?
       * Silang duha mamahimong isa. [01-14]
-  - Unsa ang nakita sa Ginoo sa kalibutan human niya kini buhata?
-      * Kini maayo kaayo. [01-15]
   - Unsa ang gibuhat sa Ginoo sa ikapito ka adlaw?
       * Nagpahulay siya ug gipanalanginan niya ang ikapito nga adlaw ug iya kining gihimong balaan. [01-16]
   - Unsa ang nakita sa Ginoo sa kalibutan human niya kini buhata?
       * Kini maayo kaayo. [01-15]
+
 [[https://door43.org/ceb/obs/notes/questions/02|>>]]**
