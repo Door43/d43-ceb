@@ -1,33 +1,27 @@
-===== The Altar [13-09] =====
+===== Ang Halaran [13-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink}}
+Bisan kinsa nga mosupak sa balaod sa Dios magdala ug mananap atubangan sa halaran sa Toldang Tagboanan aron ihalad sa Dios. Ihawon sa Pari ang mananap ug ibutang niya sa halaran. Ang dugo sa mananap mao ang motabon sa sala sa tawo, aron ang tawo limpyo atubangan sa Dios. Gipili sa Dios ang igsoon ni Moises nga si Aaron ug ang iyang mga kaliwat aron mahimong mga pari.
 
-Anyone who **disobeyed God's law** could bring an animal **to the altar in front of the Tent of Meeting** as a **sacrifice** to **God**. A **priest** would kill the animal and burn it on the **altar**. The **blood of the animal that was sacrificed covered the person’s sin** and made that person **clean in God's sight**. God chose **Moses**' brother, **Aaron**, and Aaron's **descendants** to be his priests.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:disobey]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-  * **[[:ceb:obe:other:tentofmeeting]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:priest]]**
-  * **[[:ceb:obe:other:altar]]**
-  * **[[:ceb:obe:kt:blood]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:other:descendant]]**
-
-
+  * **[[:ceb:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ceb:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
+  * **[[:ceb:obe:other:tentofmeeting|tent of meeting]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:priest|priest, priesthood]]**
+  * **[[:ceb:obe:other:altar|altar]]**
+  * **[[:ceb:obe:kt:blood|blood]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:other:descendant|descendant]]**
 ==== Translation Notes: ====
 
-
-  * **God's law** - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **to the Tent of Meeting** - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **covered the person's sin** - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  * **clean in God's sight** - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
-
-
+  * **balaod sa Dios - ** Kini nagpasabot sa tanan nga sugo sa Dios nga gisulti niya sa mga Israelita nga ilang tumanon.
+  * **Sa Toldang Tagboanan - ** Wala nila gidala ang mga mananap didto sa sulod sa tolda, apan didto lang sa altar nga atbang sa Tolda nga Tagboanan. Ipaklaro sa imong paghubad nga wala nila gidala ang mananap sa sulod.
+  * **motabon sa sala sa tawo - ** Ang tawo modala ug maanap aron ihalad, ang Dios mohukom nga ang dugo sa mananap maoy motabon sa tanan nilang sala. Kini nga hulagway, sama sa pagtago sa usa ka butang nga daot o hugaw pinaahi sa pagtabon niini.
+  * **Limpyo atubangan sa Dios - ** Mahimo kining hubaron nga, "sama nga wala siyay sala sumala sa giingon sa Dios" o "gawasnon siya sa silot tungod sa paglapas sa balaod sa Dios."
 **[[:ceb:obs:notes:frames:13-08|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-10|>>]]**
