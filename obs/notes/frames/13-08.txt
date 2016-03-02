@@ -1,25 +1,27 @@
-===== The Tent of Meeting [13-08] =====
+===== Toldang Tagboanan [13-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink}}
+Gihulagway sa Dios sa mga Israelita ang detalye sa porma sa tolda nga ilang buhaton. Kini gitawag ug Toldang Tagboanan, ug dunay duha ka kuwarto nga gibahin pinaagi sa dako nga kurtina. Ang pangulong pari lang ang gitugotan nga makasulod didto sa pikas nga kuwarto, luyo sa kurtina, tungod kay didto nagpuyo ang Dios.
 
-**God** also gave the **Israelites a detailed description** of a tent he wanted them to make. **It was called** the **Tent of Meeting**, and it had two rooms, separated by a large curtain. Only the **high priest** was allowed to go into **the room behind the curtain**, because **God lived there**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:tentofmeeting|tent of meeting]]**
+  * **[[:ceb:obe:kt:highpriest|high priest]]**
+==== Translation Notes:** **  ====
 
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:tentofmeeting]]**
-  * **[[:ceb:obe:kt:highpriest]]**
+  *
+==== **detalye sa porma - ** ini mahimong hubaron nga, "ang Dios nihulagway niini sa detalyadong paagi" o "Gisultian sila sa Dios kon unsaon nila paghimo ang gusto niyang ipahimo kanila." ====
 
+  *
+==== **Kini gitawag - ** Kini mahimong hubaron nga, "gitawag kini niya," o "si Moises mitawag niini." ====
 
-==== Translation Notes: ====
+  *
+==== **pikas nga kuwarto, luyo sa kurtina - ** Kining kwartuha gialihan ug kurtina. Sa ubang pinulongan mahimo nga sama niini ang pagkasulti, "Ang kwarto nga miatubang sa kurtina." ====
 
-
-  * **a detailed description** - This could be translated as, "God described it in detail" or, "God told them exactly how He wanted them to make it."
-  * **It was called** - This could be translated as, "They called it" or, "Moses called it."
-  * **the room behind the curtain** - This room was hidden by the curtain. Some languages would call this room, "the room in front of the curtain."
-  * **God lived there** - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: "God was there" or, "God revealed Himself to humans there."
-
+  *
+==== **didto nagpuyo ang Dios - ** Kung kini nga mga pulong, mogiya sa katawhan sa paghunahuna nga ang Dios didto lang gayod nagpuyo sa tolda, adunay laing paagi sa paghubad niini, "Ang Dios naa didto" o, "Ang Dios nagpakita sa iyang kaugalingon ngadto sa mga tawo." ====
 
 **[[:ceb:obs:notes:frames:13-07|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-09|>>]]**
