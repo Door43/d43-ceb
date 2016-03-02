@@ -1,22 +1,17 @@
-===== Moses Was Angry [13-13] =====
+===== Nasuko kaayo si Moises [13-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink}}
+Unya nanaog si Moises gikan sa bukid ug nakita niya ang dios-dios. Nasuko siya pag-ayo mao nga iyang gidugmok ang lapad nga mga bato nga gisulatan ug napulo ka sugo.
 
-When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:tencommandments]]**
-
-
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:idol|idol, idolatrous]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:tencommandments|Ten Commandments]]**
 ==== Translation Notes: ====
 
-
-  * **smashed the stones** - He threw the stones down on the ground and they broke up into little pieces.
-
+  * **gidugmok ang lapad nga mga bato- ** Gibundak niya ang mga bato ug nahulog sa yuta ug nabuak kini pag-ayo.
 
 **[[:ceb:obs:notes:frames:13-12|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-14|>>]]**
