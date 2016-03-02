@@ -1,28 +1,28 @@
-===== I Am Your God [13-04] =====
+===== "Ako si Yahweh, ang inyong Dios" [13-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+Unya ang Dios naghatag kanila ug kasabotan nga nag-ingon, “Ako si Yahweh, ang inyong Dios nga maoy nagluwas kaninyo gikan sa pagkaulipon sa Ehipto. Ayaw kamo pagsimba ug laing Dios.”
 
-**Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:covenant]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:save]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:covenant|covenant]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:save|save, safe]]**
+  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:kt:worship|worship]]**
+  * **[[:ceb:obe:kt:falsegod|false god, foreign god, god, goddess]]**
 ==== Translation Notes: ====
 
+  *
 
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
+**Unya ang Dios naghatag kanila ug kasabotan nga nag-ingon**  - Ang sunod nga giingon sa Dios sa iyang pagpakigsulti kanila mao nga, gisultian niya ang mga tawo sa mga butang nga kinahanglan nila nga tumanon. Mahimo kining hubaron nga, "Unya gisultian sila sa Dios bahin sa iyang kasabotan. Miingon siya" o "Unya naghimo ang Dios niining kasabotan kanila."
+  *
 
+**Yahweh, ang inyong Dios**  - Sa ubang sinultihan mahimo nga usbon ang paghan-ay sa mga pulong aron maayo nga paminawon, "ang inyong Dios nga si Yahweh." Kinahanglan nga ipaklaro sa paghubad nga ang mga Israelita wala nay lain nga Dios. Himoa kining klaro nga si Yahweh mao lang gayod ang Dios. Ingon niini ang ubang paagi sa paghubad niini, "Yahweh, kinsa mao ang inyong Dios," o "ang inyong Dios, ang iyang ngalan mao si Yahweh."
+  *
 
+**Nagluwas kaninyo gikan sa pagkaulipon**  - Mahimo kining hubaron ngaa, "gipagawas ko kamo gikan sa pagkaulipon."
 **[[:ceb:obs:notes:frames:13-03|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-05|>>]]**
