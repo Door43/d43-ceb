@@ -1,28 +1,23 @@
-===== The Golden Calf [13-12] =====
+===== Ang Rebulto nga Bulawan nga Baka [13-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink}}
+Busa naghimo si Aaron ug bulawan nga rebulto nga porma ug nating baka. Ang katawhan nagsugod sa malaw-ay nga pagsimba sa ilang dios-dios ug naghalad niini! Ang Dios nasuko pag-ayo kanila tungod sa ilang nabuhat nga sala ug nagplano siya nga silotan sila. Apan si Moises nag-ampo alang sa ilang mga sala ug namati ang Dios sa iyang pag-ampo ug wala na niya sila siloti.
 
-**Aaron made a golden idol** in the shape of a calf. The people began to **wildly worship** the idol and make **sacrifices** to it! **God** was very angry with them because of their **sin** and planned to destroy them. But **Moses prayed** for them, and God **listened to his prayer** and did not destroy them.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:pray]]**
-
-
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:other:idol|idol, idolatrous]]**
+  * **[[:ceb:obe:kt:worship|worship]]**
+  * **[[:ceb:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:pray|pray, prayer]]**
 ==== Translation Notes: ====
 
-
-  * **made a golden idol** - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **wildly worship** - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
-  * **listened to his prayer** - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
-
+  * **naghimo ug bulawan nga rebulto- ** Gikuha ni Aaron ang mga butang nga hinimo sa bulawan nga gihatag sa katawhan ngadto kaniya. Gitunaw niya kini ug giporma niya nga nating baka.
+  * **malaw-ay nga pagsimba- ** Ang katawhan nagpakasala pinaagi sa pagsimba sa ilang rebulto ug sa paghimo ug makasasala nga mga butang sa ilang pagsimba niini.
+  * **Namati ang Dios sa iyang pag-ampo- ** Kanunay mamati ang Dios sa mga pag ampo. Niini nga bahin,  ang "namati'' nagpasabot nga buhaton sa Dos ang gipangayo ni Moises.
 
 **[[:ceb:obs:notes:frames:13-11|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-13|>>]]**
