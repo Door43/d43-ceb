@@ -1,25 +1,20 @@
-===== The Mountain at Sinai [13-01] =====
+===== Bukid sa Sinai [13-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+Human gigiyahan sa Dios ang mga Israelita didto sa pulang dagat, gidala usab sila didto sa kamingawan ug sa Bukid sa Sinai. Kini mao ra gihapon nga bukid kon diin nakita ni Moises ang tanom nga nagdilaab. Nagpatindog usab ang mga katawhan sa ilang tolda sa tiilan sa bukid.
 
-After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:redsea]]**
-  * **[[:ceb:obe:kt:sinai]]**
-  * **[[:ceb:obe:other:moses]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:redsea|Red Sea, Sea of Reeds]]**
+  * **[[:ceb:obe:kt:sinai|sinai]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
 ==== Translation Notes: ====
 
-
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:ceb:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
+  * **nagdilaab nga tanom**- Sa wala pa nibalik si Moises didto sa Ehipto, ang Dios nakig-istorya kaniya gikan sa nagdilaab nga tanom, apan kini wala maugdaw sa kalayo. Tan-awa kini sa [09-12]
+  * **gipatindog nila ilang mga Tolda**  -Ang mga Israelita naglakaw ug layo gikan sa Ehipto padulong ngadto sa Yutang Saad. Mao nga ilang gipangdala ang ilang mga tolda ug ila kining gipatindog aron mahimong tabon ug tulganan nila. Sa ubang pinulongan kini ginahubad nga, "gibitay nila ang ilang mga tolda."
+  * **sa tiilan sa bukid**-  Kini mahimo nga hubaron nga, "ubos sa bukid." Kini nagpasabot sa dapit asa ang yuta nagsugod na ug pataas aron mahimong bungtod.
 
 **[[:ceb:obs:notes:frames:12-14|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-02|>>]]**
