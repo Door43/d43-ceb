@@ -1,22 +1,23 @@
-===== Moses Prayed for Israel [13-15] =====
+===== Nag-ampo si Moises para sa mga Israelita [13-15] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink&}}
 
-**Moses** **made ** new stone tablets for the **Ten Commandments** to replace the ones that he had broken. Then he climbed the mountain again and **prayed** that **God** would **forgive** the people. God **listened to** Moses and forgave them. Moses came back down the mountain with the Ten Commandments on the new tablets. Then God led the **Israelites** away from **Mount Sinai** toward the **Promised Land**.
-===== Important Terms: =====
+Naghimo usab si Moises ug lapad nga mga bato alang sa napulo ka sugo aron ilisdan ang nabuak nga mga bato. Unya mibalik siya pagsaka sa bukid, ug nag-ampo siya sa Dios nga pasayloon ang iyang katawhan. Namati ang Dios kang Moises ug gipasaylo niya sila. Nibalik si Moises pagkanaog gikan sa bukid dala ang napulo ka sugo nga nasulat sa lapad nga mga bato. Unya gigiyahan sa Dios ang mga Israelita nga mobiya sa Bukid sa Sinai ug moadto sa Yutang Saad.
 
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:pray]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:forgive]]**
-  * **[[:ceb:obe:other:tencommandments]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:sinai]]**
-  * **[[:ceb:obe:kt:promisedland]]**
+===== Mahinungdanon nga mga Pulong: =====
+
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:other:pray|pray, prayer]]**
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:forgive|pagpasaylo, pasaylo]]**
+  * **[[:ceb:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:ceb:obe:kt:promisedland|Promised Land]]**
 ==== Translation Notes: ====
 
-  * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
-  * **listened to**  - See how you translated this phrase in **[[:ceb:obs:notes:frames:13-12|[13-12]]]**.
+  * **Naghimo usab si Moises - ** Gihulma ni Moises ang lapad nga mga bato ug gigamitan niya kini martilyo ug tigib.
+  * **Namati - ** Tan-awa kung giunsa nimo paghubad kini nga pulong sa[13-12].
+//Ang Istorya Gikan sa Biblia: Exodus 19-34//
 
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:ceb:obs:notes:frames:13-14|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:14-01|>>]]**
