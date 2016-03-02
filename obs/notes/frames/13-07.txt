@@ -1,30 +1,25 @@
-===== The Stone Tablets [13-07] =====
+===== Ang Mga Lapad nga Bato [13-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+Unya ang Dios nagsulat sa napulo ka sugo sa mga lapad nga bato ug gihatag kini kang Moises. Naghatag pa ang Dios ug daghan ug dugang nga mga balaod nga angay nilang sundon. Kon tumanon kini sa mga katawhan, ang Dios nagsaad nga panalanginan niya sila ug protektahan. Apan kon supakon nila kini, silotan niya sila.
 
-Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:tencommandments]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:bless]]**
-  * **[[:ceb:obe:other:disobey]]**
-  * **[[:ceb:obe:other:punish]]**
-
-
+  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:ceb:obe:other:moses|Moses]]**
+  * **[[:ceb:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
+  * **[[:ceb:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:ceb:obe:kt:promise|promise]]**
+  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ceb:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ceb:obe:other:punish|punish, punishment]]**
 ==== Translation Notes: ====
 
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:ceb:obs:notes:frames:13-05|[13-05]]]** and **[[:ceb:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
+  * **sa napulo ka sugo - ** Kini nagpasabot sa mga sugo nga gihatag sa Dios kang Moises aron tumanon sa mga Israelita. Kini nasulat sa bahin [13-06]
+  * **lapad nga mga bato - ** Nipis ug lapad kini nga mga bato.
+  * **Naghatag pa ang Dios - ** Mahimo kining hubaron nga "Giingnan usab sila sa Dios."
+  * **aron tumanon - ** Mahimo kining hubaron nga, "nga kinahanglan nilang sundon," o "nga ilang buhaton."
 
 **[[:ceb:obs:notes:frames:13-06|<<]] | [[:ceb:obs:notes:13|Up]] | [[:ceb:obs:notes:frames:13-08|>>]]**
