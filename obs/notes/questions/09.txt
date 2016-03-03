@@ -1,35 +1,37 @@
-====== Story #9: God Calls Moses ======
+====== Istorya #8: Gitawag Sa Dios Si Moises ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
-  - **Why were the Egyptians afraid of the Israelites?**
-      * //Because there were so many Israelites. [09-02]//
-  - **What did Pharaoh do to the Israelites because he was afraid of them?**
-      * //He made them slaves to the Egyptians. [09-02]//
-  - **How did Pharaoh try to keep the Israelites from increasing in number?**
-      * //He ordered all Israelite baby boys to be thrown into the Nile River. [09-04]//
-  - **What happened to the baby boy in the basket in the river?**
-      * //A daughter of Pharaoh saw him, took him as her own son, and named him Moses. [09-06], [09-07]//
-  - **What did Moses do in order to save a fellow Israelite?**
-      * //He killed an Egyptian who was beating him, and buried the Egyptian's body. [09-08], [09-09]//
-  - **Why did Moses have to flee from Egypt?**
-      * //When Pharaoh found out that he killed the Egyptian, he wanted to kill Moses. [09-10]//
-  - **Where did Moses go to escape from Pharaoh?**
-      * //He went to the wilderness. [09-10]//
-  - **What unusual thing did Moses see while taking care of his sheep in the wilderness?**
-      * //He saw a bush that was on fire, but it did not burn up. [09-12]//
-  - **What did God tell Moses as he approached the burning bush?**
-      * //God said, "Moses, take off your shoes. You are standing on holy ground." [09-12]//
-  - **How do we know God cared about the Israelites in Egypt?**
-      * //God said to Moses, "I have seen the suffering of my people." [09-13]//
-  - **What did God send Moses to do for the Israelites?**
-      * //God told him to go to Pharaoh and bring the Israelites out of their slavery in Egypt. [09-13]//
-  - **What land did God say he would give to the Israelites?**
-      * //The land of Canaan, the land God had promised to Abraham, Isaac, and Jacob. [09-13]//
-  - **What name did God say would be his forever?**
-      * //Yahweh. [09-14]//
-  - **Who did God send to help Moses?**
-      * //God sent Moses' brother, Aaron, to help him. [09-15]//
-  - **How did God say Pharaoh would react to Moses and Aaron?**
-      * //Pharaoh would be stubborn. [09-15]//
-**[[:ceb:obs:notes:questions:08|<< ]] | [[:ceb:obs:notes:questions:10| >>]]**
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
+
+  - **Ngano nga ang mga Ehiptohanon nahadlok man sa mga Israelita?**
+      * //Tungod kay ang mga Israelita midaghan ug misanay man pag-ayo.[09-02]//
+  - **Unsay gihimo ni Paraon sa mga Israelita sa dihang nahadlok na siya kanila?**
+      * //Gihimo sila nga ulipon sa mga Ehiptohanon.[09-02]//
+  - **Unsay gibuhat ni Paraon aron maundang ang pagdaghan sa mga Israelita?**
+      * //Iyang ipadala ang tanan nga mga batang lalaki didto sa Nelo nga suba.[-09-04]//
+  - **Unsa ang nahitabo sa batang lalaki sa sulod sa basket didto sa suba?**
+      * //Ang anak ni Paraon nakakita niya, ug giatiman niya sama sa iyang kaugalingon nga anak, ug ginganlan niya'g Moises.[09-06]- [09-07] //
+  - **Unsa man ang gihimo ni Moses aron maluwas niya ang gidaugdaog nga Israelita?**
+      * //Iyang gipatay ang Ehiptohanon nga nangulata, ug iyang gitaguan ang patay niyang lawas. [09-08] [09-09]//
+  - **Ngano nga si Moises nagtinguha man sa pagpalayo gikan sa Ehipto?**
+      * //Tungod kay nahibaloan ni Paraon nga napatay niya ang usa ka Ehiptohanon, mao nga si Moises nagtinguha nga mopalayo sa Ehipto.[09-10]//
+  - **Asa man niadto si Moises sa dihang misibat siya gikan ni Paraon?**
+      * //Niadto siya sa kamingawan.[09-10]//
+  - **sa man ang nakita ni Moises sa kamingawan samtang nag atiman siya sa mga Karnero?**
+      * //Iyang nakita ang sampinit nga nag dilaab nga nag kalayo, apan kini wala masunog.[09-12]//
+  - **Unsa usab ang giingun sa Dios kang Moises samtang niduol siya sa nag dilaab nga sampinit?**
+      * //Ang Dios nag ingun, Moises huboa ang imung sandalias. Kay ikaw nitindog sa balaang dapit.[09-12]//
+  - **Giunsa pag kasayod sa Dios nga ang Israelita gilisodlisod sa Ehipto?**
+      * //Ang Dios nag-ingon kang Moises, Akong nakita ang pag antos sa akung katawhan didto sa Ehipto.[09-13]//
+  - **Unsa man usab ang giingon sa Dios kang Moises nga angay niyang himuon sa Israelita?**
+      * //Ang Dios nag-ingon kaniya, “Muadto ka kang Paraon ug dalhon nimo pagawas ang mga Israelita gikan sa ilang pag kaulipon sa Ehipto”.[09-13]//
+  - **Unsa nga yuta ang gusto nga ihatag sa Dios sa mga Israelita?**
+      * //Ang gisaad kang Abraham, Isaac, ug ni Jacob nga mao ang yuta nga Canaan.[09-13]//
+  - **Unsa ang giingon sa Dios nga iyang ngalan nga ilang gamiton hangtod sa hangtod?**
+      * //Yahweh.[09-14]//
+  - **Kinsa ang gipadala sa Dios nga maoy mahimo nga katabang ni Moises?**
+      * //Gipadala sa Dios ang igsuon ni Moises nga si Aaron nga maoy mutabang kaniya.[09-15]//
+  - **Unsa ang gihimo sa Dios kang Paraon nga nisupak man siya kang Moises ug Aaron?**
+      * //Gilibog niya si Paraon.[09-15]//
+**[[:ceb:obs:notes:questions:08|<< | [[:ceb:obs:notes:questions:10|>>]]**
