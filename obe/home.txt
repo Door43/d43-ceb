@@ -1,10 +1,9 @@
 ====== Kompletong Listahan sa Mahinungdanong mga Pulong - Cebuano ======
 
-==== "Key Terms" and "Other Terms" in the OBE Directory: ====
+==== "Mahinungdanong Mga Pulong" Ug "Ubang Mga Pulong" sa Listahan sa OBE: ====
 
-  * [[:ceb:obe:kt:home]]
-  * [[:ceb:obe:other:home]]
-
+  * Listahan sa mga Mahinungdanong Mga Pulong sa Listahan sa OBE
+  * Listahan sa Ubang Mga Pulong sa Listahan sa OBE
 
 ==== All Terms in the OBE: ====
 
