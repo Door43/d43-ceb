@@ -1,23 +1,21 @@
-====== Story #11: The Passover ======
+====== Istorya #11: Ang Pagsaylo ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
-  - **What did God say he would do to the Egyptians if Pharaoh did not let the Israelites go?**
-    *//He would kill all the firstborn males of both people and animals. [11-01]//
-  - **How could people save their firstborn son?**
-    *//They had to kill a perfect lamb and put its blood around the door of their house. [11-02], [11-03]//
-  - **What specific food did God tell the Israelites to eat with the roasted lamb?**
-    *//Bread that was made without yeast. [11-03]//
-  - **What were the Israelites to be ready to do when they ate?**
-    *//Be ready to leave Egypt. [11-03]//
-  - **What did God do at the houses that had the blood around the doors?**
-    *//He passed over those houses and everyone inside was safe. [11-05]//
-  - **What did God do at every Egyptian house?**
-    *//He killed the firstborn son. [11-06]//
-  - **How many of the firstborn sons of the Egyptians were killed?**
-    *//All of them died, including Pharaoh's son. [11-07]//
-  - **What did Pharaoh tell Moses and Aaron after this plague?**
-    *//"Take the Israelites and leave Egypt immediately!" [11-08]//
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-
-**[[en/obs/notes/questions/10|<< ]] | [[en/obs/notes/questions/12| >>]]**
+  - **Unsa man ang giingon sa Dios nga iyang himuon sa Ehiptohanon kung si Paraon dili muoyon nga ang Israelita makalakaw?**
+      * //Iyang pamatyon ang tanan nga unang anak nga panganay sa matag katawhan ug mga kahayupan nga binuhi.[11-01]//
+  - **Unsaon sa mga Israelita sa pag luwas sa ilang unang anak?**
+      * //Sila mupatay ug insakto nga karnero ug ilang butangan ug dugo ang palibot sa pultahan sa ilang mga pinuy-anan.[11-02] [11-03]//
+  - **Unsa ang gisulti sa Dios nga pagkaon nga iyang giingon sa mga Israelita nga ilang kan-on uban ang inihaw nga karnero?**
+      * //Pan nga walay patubo.[11-03]//
+  - **Unsa ang himuon sa mga Israelita sa pagpangandam human sila makakaon?**
+      * //Mangandam sila sa pagbiya sa Ehipto.[11-03]//
+  - **Unsa ang himuon sa Dios sa mga pamilya sa Ehiptohanon?**
+      * //yang pamatyon ang ilang mga kinamagulangang anak.[11-06]//
+  - **Pila ka mga kinamagulangan nga anak sa mga Ehiptohanon ang nangamatay?**
+      * //Tanang kinamagulangang anak ang nangamatay lakip na usab ang anak ni Paraon.[11-07]//
+  - **Unsa man ang giingon ni Paraon kang Moises ug ni Aaron human niining mga hampak?**
+      * //Kuhaa ang mga Israelita ug biya dayon kamo sa Ehipto! [11-08]//
+**[[:ceb:obs:notes:questions:10|<< ]] | [[:ceb:obs:notes:questions:12| >>]]**
