@@ -6,28 +6,14 @@ Kini nga pulong nagpasabot ug lawasnong kamatayon ug esprituhanong kamatayon. Sa
 
 === 1. Lawasnong kamatayon ===
 
-  *
-
-Ang pagkamatay mao ang pag-undang sa kinabuhi. Ang kamatayon mao ang kataposan sa lawasnong kinabuhi.
-
-  *
-
-Kon mamatay ang tawo, mobiya ang iyang espirito sa iyang lawas.
-
-  *
-
-Ang lawasnong kamatayon mao ang resulta sa sala ni Adan ug ni Eva.
+  * Ang pagkamatay mao ang pag-undang sa kinabuhi. Ang kamatayon mao ang kataposan sa lawasnong kinabuhi.
+  * Kon mamatay ang tawo, mobiya ang iyang espirito sa iyang lawas.
+  * Ang lawasnong kamatayon mao ang resulta sa sala ni Adan ug ni Eva.
 
 === 2. Espirituhanong Kamatayon ===
 
-  *
-
-Ang espirituhanong kamatayon mao ang pagpahilayo/panagbulag sa tawo gikan sa Dios.
-
-  *
-
-Namatay si Adan sa espirituhanon sa dihang misupak siya sa Dios. Naulaw siya ug misulay pagtago sa Dios.
-
+  * Ang espirituhanong kamatayon mao ang pagpahilayo/panagbulag sa tawo gikan sa Dios.
+  * Namatay si Adan sa espirituhanon sa dihang misupak siya sa Dios. Naulaw siya ug misulay pagtago sa Dios.
   * Ang tanang kaliwat ni Adan makasasala, ug patay sa espirituhanon. Himoon kitang buhi sa espiritohanon sa Dios pag-usab kon motuo kita kang Jesu-Cristo.
 
 ===== Translation Suggestions: =====
@@ -37,9 +23,9 @@ Namatay si Adan sa espirituhanon sa dihang misupak siya sa Dios. Naulaw siya ug 
   * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language, unless that would be offensive.
   * In the Bible, physical life and death are often compared to spiritual life and death. It is important in a translation to use the same word or phrase for both physical death and spiritual death.
   * In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in contexts where it is being contrasted to spiritual death.
-  * The phrase, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: nominal adjective)
+  * The phrase, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died." (See: nominal adjective)
 
-(See also: [[:ceb:obe:kt:life]], [[:ceb:obe:kt:believe|]], [[:ceb:obe:kt:faith]], [[:ceb:obe:kt:spirit]])
+(See also: [[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]], [[:ceb:obe:kt:believe|believe, believe in, belief]], [[:ceb:obe:kt:faith|faith]], [[:ceb:obe:kt:spirit|spirit, spiritual]])
 
 ===== Bible References: =====
 
