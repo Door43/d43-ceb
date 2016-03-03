@@ -1,35 +1,33 @@
-====== Story #12: The Exodus ======
+====== Istorya #12: Ang Pagbiya ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
-  - **What did the Egyptians give the Israelites as they left Egypt?**
-    *//Whatever they asked for, even gold and silver and other valuable things. [12-01]//
-  - **Who else left Egypt with the Israelites?**
-    *//Some people from other nations who believed in God. [12-01]//
-  - **How did God lead the Israelites?**
-    *//With a pillar of cloud during the day and a pillar of fire at night. [12-02]//
-  - **Why did God cause Pharaoh to be stubborn and chase the Israelites?**
-    *//To show that he is is the One True God who is more powerful than Pharaoh and his gods. [12-03]//
-  - **How did the Israelites react when they were trapped between the sea and Pharaoh's army?**
-    *//They said, "Why did we leave Egypt? We are going to die!" [12-04]//
-  - **What did Moses say to the Israelites to calm their fear?**
-    *//"Stop being afraid! God will fight for you today and save you." [12-05]//
-  - **What did God tell Moses to do in order to make a path of escape for the Israelites?**
-    *//God told him to raise his hand over the sea so that the waters would divide. [12-07]//
-  - **How did God prevent the Egyptians from seeing the Israelites as they started to escape?**
-    *//He placed the pillar of cloud between them. [12-06]//
-  - **How were the Israelites able to cross the sea?**
-    *//They walked through it on dry ground. [12-08]//
-  - **What happened to the Egyptians as they chased the Israelites through the sea?**
-    *//He caused the Egyptians to panic and their chariots to get stuck. [12-10]//
-  - **How did God destroy the Egyptian army?**
-    *//The water covered the Egyptian army so that they drowned. [12-11]//
-  - **How did the Israelites react when they saw that the Egyptians were dead?**
-    *//They trusted in God and believed that Moses was a prophet of God. [12-12]//
-  - **Why did the Israelites sing and praise God?**
-    *//Because he had saved them from the Egyptians. [12-13]//
-  - **What did God tell the Israelites to do in order to remember his victory over the Egyptians?**
-    *//He commanded them to celebrate the Passover every year. [12-14]//
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-
-**[[en/obs/notes/questions/11|<< ]] | [[en/obs/notes/questions/13| >>]]**
+  - **Unsa ang gipanghatag sa mga Ehiptohanon sa mga Israelita sa ilang pagbiya sa Ehipto?**
+      * //Bisan unsa nga ilang gipangayo, bulawan, plata ug uban pang mahalon nga mga butang.[12-01] //
+  - **Kinsa man ang mikuyog sa mga Israelita sa pagpanggawas nila gikan sa Ehipto?**
+      * //Ang mga katawhan nga gikan sa laing nasud nga mituo usab sa Dios.[12-01]//
+  - **Giunsa man paggiya sa Dios ang mga Israelita?**
+      * //Gigiyahan sila sa Dios pinaagi sa haligi nga panganod sa adlaw, ug haligi usab nga kalayo panahon sa kagabhion.[12-02]//
+  - **Ngano man nga gihimo sa Dios si Paraon nga gahig-ulo, ug gitugot niya nga lutuson ang mga Israelita?**
+      * //Sa pagpakita nga siya lang ang usa ka tinuod nga Dios ug mas gamhanan pa kay kang Paraon ug sa iyang mga diosdios.[12-03]//
+  - **Ngano man nga nagbagulbol ang mga Israelita samtang sila nabutang sa taliwala sa Dagat ug sa mga sundalo ni Paraon?**
+      * //Sila miingon ngano man nga nibiya pa kita sa Ehipto? Nga mangamatay man lang diay gihapon kita![12-04]//
+  - **Unsa ang giingon sa Dios kang Moises nga sunod niyang buhaton aron makahimo siya ug agianan nila aron sila makaikyas?**
+      * //Ang Dios nag-ingon “Itudlo ang imong mga kamot ibabaw sa dagat aron mabahin kini”.[12-07]//
+  - **Giunsa man sa Dios pagpugong ang mga Ehiptohanon sa dihang nakita nila ang mga Israelita nga miikyas?**
+      * //Gihadlok sila sa Dios ug wala niya gipatuyok ang ligid sa ilang mga karwahe.[12-06]//
+  - **Giunsa man pagtabuk sa mga Israelita ang dagat?**
+      * //Sila nilakaw sa uga nga yuta.[12-08]//
+  - **Unsa man ang nahitabo sa mga Ehiptohanon samtang ilang gigukod ang mga Israelita taliwala sa dagat?**
+      * //Iyang gihimo nga ang mga Ehiptohanon mataranta ug ang ilang mga karwahi mahimong mangalumos.[12-10]//
+  - **Giunsa sa Dios pagbuntog ang mga sundalo sa Ehipto?**
+      * //Ang dagat maoy nitabon sa mga sundalong Ehiptohanon, ug nalumas sila.[12-12]//
+  - **Unsa man ang gihimo sa mga Israelita sa dihang ilang nakita ang mga Ehiptohanon nga nangamatay?**
+      * //Sila misalig sa Dios ug mituo nga si Moises usa ka Propeta sa Dios. [12-12]//
+  - **Nganong ang mga Israelita miawit ug nagdayeg sa Dios?**
+      * //Tungod kay iya man silang giluwas gikan sa Ehiptohanon. [12-13]//
+  - **Unsa man ang giingon sa Dios nga ilang himuon agig paghandom sa ilang kadaogan batok sa mga Ehiptohanon?**
+      * //Siya nimando kanila nga kinahanglan saulogon ang pagsaylo sa matag tuig.[12-14]//
+**[[:ceb:obs:notes:questions:11|<< ]] | [[:ceb:obs:notes:questions:13| >>]]**
