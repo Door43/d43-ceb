@@ -6,13 +6,13 @@
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:idol|idol, idolatrous]]**
-  * **[[:ceb:obe:kt:worship|worship]]**
-  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:sabbath|Sabbath]]**
-  * **[[:ceb:obe:kt:holy|holy, holiness]]**
-  * **[[:ceb:obe:kt:sabbath|Sabbath]]**
+  * **[[:ceb:obe:other:idol]]**
+  * **[[:ceb:obe:kt:worship]]**
+  * **[[:ceb:obe:kt:yahweh]]**
+  * **[[:ceb:obe:kt:god]]**
+  * **[[:ceb:obe:kt:sabbath]]**
+  * **[[:ceb:obe:kt:holy]]**
+
 ==== Translation Notes: ====
 
   * A**ko si Yahweh, ang abubhoan nga Dios**  - kini mahimong pagahubaron nga, "Ako, Si Yahweh masuko kung ikaw musimba o magpasidungog ni bisan kinsa kay Kanako." ang makusganong nagtinguha nga iyang katawhan mahigugma, musilbi ug mutuman kaniya labaw pa kaysa tanan. Siya lang ang bugtong magtutudlo sa ilang kinabuhi.
