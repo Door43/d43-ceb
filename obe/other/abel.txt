@@ -1,19 +1,18 @@
 ====== Abel  ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Abel was Adam and Eve' second son.
+Si abel mao ang ikaduhang anak nga lalaki ni Adan ug Eva.
 
-    * Abel was a shepherd.
-    * Abel pleased God with his life and offerings.
-    * Adam and Eve's firstborn son Cain, murdered, Abel.
+  * Si Abel usa ka magbalantay.
+  * Nahimuot ang Dios sa kinabuhi ni Abel uban sa iyang mga halad.
+  * Si Cain ang kinamagulangang anak nga lalaki ni Eva ug Adan, nga nagpatay kang Abel.
 
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Paghubad sa mga ngalan]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]]) 
+(Tan-awa usab: [[:ceb:obe:other:adam|Adan]], [[:ceb:obe:other:eve|Eva]], [[:ceb:obe:other:shepherd|magbalantay, sa magbalantay]])
 
-
-(See also: [[adam]], [[eve]], [[shepherd]])
 ===== Bible References: =====
 
 
