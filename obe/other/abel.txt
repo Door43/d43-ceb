@@ -13,15 +13,8 @@ Si abel mao ang ikaduhang anak nga lalaki ni Adan ug Eva.
 
 (Tan-awa usab: [[:ceb:obe:other:adam|Adan]], [[:ceb:obe:other:eve|Eva]], [[:ceb:obe:other:shepherd|magbalantay, sa magbalantay]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
-
-{{topic>:en:bible?abel&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?abel&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
