@@ -13,15 +13,11 @@ Si Caleb usa sa dose ka Israelita nga espiya nga gipadala ni Moises aron mo-usis
 
 {{topic>:en:bible?caleb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories:Panig-ingnan gikan sa mga Istorya sa Biblia =====
 
-  ***[[:ceb:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:ceb:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:ceb:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:14-04|[14-04]]]**Human nga nakaabot ang mga Israelita sa tumoy sa Canaan, si Moises nagpili ug dose ka lalaki, usa sa matag tribu sa Israel. Iya dayun silang gitudluan unsaon pag-adto ug pag-usisa kung unsa ang anaa sa lugar sa Canaan.
+  * **[[:ceb:obs:notes:frames:14-06|[14-06]]]** Diha-diha dayun si Caleb ug Joshua, ug ang duha pa ka espiya, nag-ingon, "Tinood gayud nga ang mga tao sa Canaan tangkad ug kusgan, apan ato gayud silang pildihon! Ang Ginoo makigbisog uban kanato!"
+  * **[[:ceb:obs:notes:frames:14-08|[14-08]]]**"Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land." "Gawas kang Joshua ug Caleb, ang tanan nga nag-edad ug baynte anyos o pataas kay mamatay ug dili na gayud makasulod sa Yutang Saad."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
