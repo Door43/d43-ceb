@@ -1,21 +1,17 @@
 ====== Caesar ======
 
-===== Facts: =====
+===== **KAMATUORAN:**  =====
+Ang  Caesar kay usa ka apilyedo. Ang lalaki nga gi nganlan ug Augustus Caesar mao ang unang pangulo sa Romano nga Emperyo. Tungod sa iyaha, ang ngalan nga "Caesar" nahimong titulo nga gihatag sa tanang pangulo sa Romano nga Emperyo.
 
+  * Si Augustus Caesar kay mao ang pangulo sa Romano nga Emperyo sa panahon nga gipakatawo si Jesus.
+  * Si Tiberius Caesar kay mao ang pangulo sa Romano nga Emperyo sa panahon nga hamtong na si Jesus.
+  * Kung ang ngalan nga "Caesar" gigamit isip titulo, mahimo usab nga hubaron nga: "Hari" o, "Emperador" o, "Czar" or, "Kaiser."
+  * Kung ang ngalan nga "Caesar" gigamit isip apilyedo, mahimo kining hubaron sa ubang sinultian.
 
-Caesar was a family name. A man named Augustus Caesar became the first ruler of the Roman Empire. Because of him, "Caesar" also became the title that was given to the rulers of the Roman Empire.
+(Posibleng Paagi sa Paghubad: Paghubad sa Ngalan)
 
+(Tan-awa usab: Roma, Romano, Hari)
 
-    * Augustus Caesar was the ruler of the Roman Empire when Jesus was born.
-    * Tiberius Caesar was the ruler of the Roman Empire when Jesus was an adult.
-    * When "Caesar" is used as a title, it can be translated as: "King" or, "Emperor" or, "Czar" or, "Kaiser."
-    * When "Caesar" is used simply as a family name, it can be transliterated.
-
-
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
-
-
-(See also: [[rome]], [[king]])
 ===== Bible References: =====
 
 {{topic>:en:bible?caesar&nocomments}}~~DISCUSSION~~{{tag>publish}}
