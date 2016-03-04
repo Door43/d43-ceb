@@ -17,13 +17,31 @@ Paglabay sa gatusan ka katuigan, adunay usa ka Judio nga ginganlan ug Saul, apan
 
 {{topic>:en:bible?saul&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:17-01|[17-01]]]** **Saul** was the first king of Israel. He was tall and handsome, just like the people wanted. **Saul** was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
-  ***[[:ceb:obs:notes:frames:17-04|[17-04]]]** **Saul** became jealous of the people's love for David. **Saul** tried many times to kill him, so David hid from **Saul**. 
-  ***[[:ceb:obs:notes:frames:17-05|[17-05]]]** Eventually, **Saul** died in battle, and David became king of Israel.
+  * **[[:ceb:obs:notes:frames:17-01|[17-01]]]**
+Si **Saul ** ang unang hari sa Israel. Taas siya ug barog, guapo, sama gayod sa gusto sa mga tawo. Maayo ang paghari niya sa Israel sa pipila ka mga tuig, apan sa kaulahian nahimo siyang daotan ug wala motuman sa Dios. Busa nagpili ang Dios ug laing tawo nga iyang ipahari puli kang **Saul**.
 
-~~DISCUSSION~~
 
-{{tag>publish ktobs}}
 
+
+
+
+  * **[[:ceb:obs:notes:frames:17-04|[17-04]]]**
+Busa nasina si **Saul ** kang David kay gusto siya sa mga tawo, ug gisulayan niya siya pagpatay sa makadaghan.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:17-05|[17-05]]]**
+Sa wala madugay, namatay si **Saul ** sa pagpakiggubat ug nahimong hari si David sa Israel.
+
+
+
+
+
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
