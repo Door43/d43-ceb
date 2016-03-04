@@ -1,17 +1,18 @@
 ====== Aaron ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-God chose Aaron to be the first high priest for the people of Israel.
+Gipili sa Dios si Aaron nga mamahimong unang pangulong pari alang sa katawhan sa Israel.
 
-  * Aaron was Moses' older brother.
-  * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  * God also appointed Aaron and his descendants to be the priests for the people of Israel.
+  * Si Aaron mao ang magulang nga lalaki ni Moises.
+  * Gitabangan ni Aaron si Moises sa pagpakigsulti sa Paraon mahitungod sa pagpagawas sa mga Israelita.
+  * Sa dihang ang mga Israelita nanglakaw ngadto sa kamingawan, nakasala si Aaron sa paghimo ug larawan aron simbahon sa katawhan.
+  * Gipili usab sa Dios si Aaron ug ang iyang kaliwatan aron mahimong mga pari sa mga katawhan sa Israel.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+( Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Paghubad sa mga ngalan]])
 
-(See also: [[ceb:obe:kt:priest]], [[moses]], [[israel]])
+(Tan-awa usab: [[:ceb:obe:kt:priest|pari, pagkapari]], [[:ceb:obe:other:moses|Moises]], [[:ceb:obe:other:israel|Israel, Mga Israelita, nasod sa Israel]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
