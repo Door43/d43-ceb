@@ -1,18 +1,17 @@
 ====== Saul (OT) ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Saul was an Israelite man whom God chose to become the first king of Israel.
+Si Saul usa ka Israelita nga gipili aron mahimong unang hari sa Israel.
 
-  * Saul was tall and handsome, and a powerful soldier. He was the kind of person that the Israelites wanted to be their king.
-  * Although he served God at first, he later became proud and disobeyed God. As a result, God appointed David to take Saul's place as king.
+  * Taas nga tawo si Saul ug ambungan, ug kusgan nga sundalo. Siya gayod ang tipo sa tawo nga gusto sa mga tawo nga mohari kanila.
+  * Nag-alagad siya sa Dios sa permiro, apan sa kadugayan nahimo na siyang hambugero ug nisupak sa Dios. Mao nga gipapulihan sa Dios si Saul kang David nga mahimong hari.
 
-Hundreds of years later, there was another Jew named Saul, but his name was changed to Paul after he came to know Jesus.
+Paglabay sa gatusan ka katuigan, adunay usa ka Judio nga ginganlan ug Saul, apan giilisan ang iyang ngalan ug Pablo sa dihang nakaila na siya kang Jesus.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Paghubad sa mga Ngalan]])
 
-(See also: [[Paul]])
-
+(Tan-awa usab: [[:ceb:obe:other:paul|Pablo, Saulo]])
 
 ===== Bible References: =====
 
