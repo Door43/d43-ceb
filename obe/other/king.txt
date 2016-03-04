@@ -1,15 +1,21 @@
 ====== hari ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A king is the ruler of an independent city, state, or country.
+  *
 
-  * Sometimes someone becomes king because a group of people want him to be their king.
-  * Usually when a king dies, his first son becomes king.
-  * Sometimes someone will kill the king so that he can become king in his place.
+Ang hari usa ka tawo nga momando sa usa ka gawasnong siyudad, estado, o nasod.
 
-(See also: [[kingdom]])
+  * Usahay mahimong hari ang usa ka tawo tungod kay gusto siya sa mga tawo nga mohari kanila.
+  *
 
+Kasagaran ang anak sa hari ang mopuli sa iyang amahan sa paghari kon mamatay na siya.
+
+  *
+
+Usahay patyon sa usa ka tawo ang hari aron mapulihan siya sa pagkahari.
+
+(Tan-awa usab: [[:ceb:obe:other:kingdom|gingharian]])
 
 ===== Bible References: =====
 
