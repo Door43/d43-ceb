@@ -2,18 +2,10 @@
 
 ===== Ipasabot: =====
 
-  *
-
-Ang hari usa ka tawo nga momando sa usa ka gawasnong siyudad, estado, o nasod.
-
+  * Ang hari usa ka tawo nga momando sa usa ka gawasnong siyudad, estado, o nasod.
   * Usahay mahimong hari ang usa ka tawo tungod kay gusto siya sa mga tawo nga mohari kanila.
-  *
-
-Kasagaran ang anak sa hari ang mopuli sa iyang amahan sa paghari kon mamatay na siya.
-
-  *
-
-Usahay patyon sa usa ka tawo ang hari aron mapulihan siya sa pagkahari.
+  * Kasagaran ang anak sa hari ang mopuli sa iyang amahan sa paghari kon mamatay na siya.
+  * Usahay patyon sa usa ka tawo ang hari aron mapulihan siya sa pagkahari.
 
 (Tan-awa usab: [[:ceb:obe:other:kingdom|gingharian]])
 
