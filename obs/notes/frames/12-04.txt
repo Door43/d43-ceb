@@ -6,12 +6,12 @@ Mao nga gigukod ni Paraon uban sa iyang mga kasundalohan ang mga Israelita aron 
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:redsea|Red Sea, Sea of Reeds]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ceb:obe:other:pharaoh]]**
+  * **[[:ceb:obe:other:israel]]**
+  * **[[:ceb:obe:other:servant]]**
+  * **[[:ceb:obe:other:egypt]]**
+  * **[[:ceb:obe:other:redsea]]**
+
 ==== Translation Notes: ====
 
   * **napataliwad-an na sila sa mga kasundalohan ni Paraon ug sa Pulang Dagat - **  Ingon niini ang ubang paagi sa paghubad niini, “wala na silay maagian sa pag-ikyas tungod kay anaa na sa ilang likod ang mga Ehiptohanon ug Pulang Dagat na ang anaa sa ilang atobanagan.”
