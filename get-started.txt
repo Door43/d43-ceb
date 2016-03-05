@@ -8,11 +8,11 @@
 
 Karon nga ikaw andam na nga hubaron ang Biblia, oras na nga "ablihan ang pultahan" nga gihatag sa Ginoo kauban ang Door43 application. Kini dali ra kaayo gamiton, apan kung ikaw adunay pangutana o gusto mo lang istoryahan ang app, pwede nimong adtuon ang Door43 nga komunidad.
 
-===== Register as a New User =====
+===== Pagrehistro ingon nga Bag-ong Tiggamit: =====
 
-Go to the [[en:get-started?do=register|Register as a New User]] page and sign up for an account so you can edit pages.
+Pag-adto sa [[:en:get-started?do=register|Register as a New User]] nga panid ug pagparehistro ug imong account aron imong ma-usab ang mga panid.
 
-//Please note: You will need to agree to abide by the [[ceb:ta:vol1:intro:statement_of_faith]], [[ceb:ta:vol1:intro:translation_guidelines]], and the [[ceb:ta:vol1:intro:open_license]]//
+//Palihog hinumdomi: Kinahanglan nimo mouyon nga mosunod sa [[:ceb:ta:vol1:intro:statement_of_faith|Statement of Faith]], [[:ceb:ta:vol1:intro:translation_guidelines|Translation Guidelines]], ug sa [[:ceb:ta:vol1:intro:open_license|Open License]]//
 
 ===== Join the Door43 Community =====
 
