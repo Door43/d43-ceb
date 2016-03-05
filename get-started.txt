@@ -14,9 +14,9 @@ Pag-adto sa [[:en:get-started?do=register|Register as a New User]] nga panid ug 
 
 //Palihog hinumdomi: Kinahanglan nimo mouyon nga mosunod sa [[:ceb:ta:vol1:intro:statement_of_faith|Statement of Faith]], [[:ceb:ta:vol1:intro:translation_guidelines|Translation Guidelines]], ug sa [[:ceb:ta:vol1:intro:open_license|Open License]]//
 
-===== Join the Door43 Community =====
+===== Pag-apil sa Door43 nga Komunidad =====
 
-The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
+Ang Door43 nga komunidad naggamit ug Slack aron makig-istorya. Kung ikaw mo [[:en:slack|join our slack channels]] ikaw makatuon sa kaayohan ug kalisdanan niini nga aplikasyon aron ikaw makaambit sa imong mga panglantaw ngadto sa nagbuhat niini nga aplikasyon ug sa mga maghuhubad.
 
 ===== Learn How to Translate, Check, Publish, and Use Our Tools =====
 
