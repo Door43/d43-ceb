@@ -1,17 +1,17 @@
 ====== acacia ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-In ancient times, the acacia was a common shrub or tree growing in the land of Canaan; it is still plentiful there today.
+Sa karaang panahon, ang acacia usa ka kasagarang kahoy o kahoy nga  motubo sa yuta sa Canaan; nga nagpabiling daghan didto karon.
 
-  * The orange-brown wood of the acacia tree is very hard and durable, making it a useful material for building things.
-  * This wood is highly resistant to decay because it is very dense so that it keeps out water, and it has natural preservatives that keep insects from destroying it.
-  * In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.
-  * Based on the Hebrew word for this tree, the KJV uses the terms "shittah tree" and "shittim wood," rather than acacia.
+  * Ang orange-brown nga parte sa acacia nga kahoy mao ang pinakagahi ug pinakalig-on, nga himoong mapuslanong materyales sa paggama sa mga butang.
+  * Kini nga kahoy adunay taas nga kalidad ug dili dali madaot tungod kay bus-ok kini kaayo ug dili dali mabasa ug tubig, ug aduna siyay natural nga makapreserbar gikan sa mga insekto nga  modaot niini.
+  * Sa Biblia, ang acacia nga kahoy magamit sa paghimo ug balong-balong ug ang arko sa pakigsaad.
+  * Based on the Hebrew word for this tree, the KJV uses the terms "shittah tree" and "shittim wood," rather than acacia. Basi sa Hebrohanong pulong para ani nga kahoy, KJV gigamit ang pulong "
 
-(See: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[:ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ceb:obe:kt:tabernacle]], [[:ceb:obe:other:arkofthecovenant]])
+(See also: [[:ceb:obe:kt:tabernacle|tabernacle]], [[:ceb:obe:other:arkofthecovenant|ark of the covenant, ark of the covenant decrees, ark of the testimony, ark of Yahweh]])
 
 ===== Bible References: =====
 
