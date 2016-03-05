@@ -8,15 +8,8 @@ Ang Abyss mao ang dakong lungag o bung-aw nga walay kinutoban
   * Ang Abyss sa Biblia mao ang lugar nga silutanan.
   * Ang pulong nga " Abyss" mamahimo usab nga hubarong  "kinahiladman" o lawom nga bung-aw nga walay kinutuban.
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
-
-{{topic>:en:bible?abyss&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?abyss&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
