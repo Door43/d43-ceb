@@ -18,9 +18,9 @@ Pag-adto sa [[:en:get-started?do=register|Register as a New User]] nga panid ug 
 
 Ang Door43 nga komunidad naggamit ug Slack aron makig-istorya. Kung ikaw mo [[:en:slack|join our slack channels]] ikaw makatuon sa kaayohan ug kalisdanan niini nga aplikasyon aron ikaw makaambit sa imong mga panglantaw ngadto sa nagbuhat niini nga aplikasyon ug sa mga maghuhubad.
 
-===== Learn How to Translate, Check, Publish, and Use Our Tools =====
+===== Patuon kung Unsaon Paghubad, Pagsusi, Pagmantala, ug Paggamit sa atong Galamiton =====
 
-To learn how to translate, check, publish, and use our tools, check out [[ceb:ta|translationAcademy]]. 
+Pagtuon kung unsaon  paghubad, pagsusi, pagmantala, ug paggamit sa atong galamiton, tan-awa ang [[:ceb:ta|translationAcademy]].
 
 ===== Set up Open Bible Stories =====
 
