@@ -22,11 +22,11 @@ Ang Door43 nga komunidad naggamit ug Slack aron makig-istorya. Kung ikaw mo [[:e
 
 Pagtuon kung unsaon  paghubad, pagsusi, pagmantala, ug paggamit sa atong galamiton, tan-awa ang [[:ceb:ta|translationAcademy]].
 
-===== Set up Open Bible Stories =====
+===== Unsaon Pagbuhat ug Open Bible Stories =====
 
-Navigate to your language. If you don't know your IETF language tag, you may search for your language on [[:]] page under the Door43 logo. If Open Bible Stories does not appear on your language, then [[:obs-setup|set up Open Bible Stories]] for your language and begin translating.
+Pangitaa imong sinultian. Kung wala ka kabalo sa imong IETF nga sinultihan nga tag, mahimo nimong pangitaon kini sa  [[:home|home]] nga panid ubos sa Door43 nga logo. Apan kung ang Open Bible Stories wala mugawas sa imong pinulongan, adtoa ang [[:obs-setup|set up Open Bible Stories]] sa imong pinulongan ug pagsugod na sa paghubad.
 
-If you would like to translate the Bible, please ask the Helpdesk for help (see below).
+Kung buot nimo hubaron ang Biblia, palihog pangayo sa Helpdesk ug  tabang (tan-awa sa ilalom)
 
 ===== Further questions =====
 
