@@ -1,13 +1,13 @@
 ====== tuman, matinumanon, pagtuman ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The term "obey" means to do what someone in authority requires or commands them to do. The term "obedient" describes the character of someone who obeys.
+Ang "pagtuman" mao ang pagsunod sa balaod o pagbuhat kon unsa ang sugo sa tawo nga adunay katungod
 
-  * People also obey laws which are created by leaders of a country, state or organization.
-  * Children obey their parents, slaves obey their masters, people obey God, and citizens obey the laws of their country.
-  * When the law or someone in authority commands people not to do something, they obey by not doing that.
-  * Ways to translate this term could include a word or phrase that means, "doing what is commanded" or "following orders" or "doing what God says to do."
+  * Tumanon usab sa mga tawo ang mga balaod nga gibuhat sa mga pangulo sa komunidad sa usa ka nasod, o lugar, o kapunongan.
+  * Tumanon sa mga bata ang ilang ginikanan, ug tumanon usab sa mga ulipon ang ilang mga agalon, ug tumanon sa mga tawo ang Dios, ug tumanon sa mga lumulupyo ang balaod sa ilang nasod..
+  * Kon adunay balaod o tawo nga mosugo sa mga tawo sa pagbuhat sa bisan unsa, tumanon nila kini pinaagi sa pagbuhat niini.
+  * Ang mga pamaagi sa paghubad niini nga pulong maglangkob sa pulong og mga pulong nga nagpasabot ug "pagbuhat kung unsa ang gisugo" o "pagtuman sa gisugo" o "pagbuhat kung unsa ang sugo sa Dios."
 
 (See also: [[:ceb:obe:other:disobey|disobey, disobedient]])
 
