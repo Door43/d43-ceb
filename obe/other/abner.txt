@@ -1,15 +1,14 @@
 ====== Abner ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-Abner was the cousin of King Saul in the Old Testament.
+Si Abner ig-agaw ni Haring Saulo sa Daang Tugon.
 
-  * Abner was the chief commander of Saul's army, and introduced young David to Saul after David killed Goliath the giant.
-  * After King Saul's death, Abner appointed Saul's son Ishbosheth as king in Israel, while David was appointed king in Judah.
-  * Later, Abner was treacherously killed by David's chief commander, Joab.
+  * Si Abner usa ka pangulong tagapagmando sa mga sundalo ni Saulo, ug gipaila niya ang batan-ong si David ngadto kang Saulo human patya ni David si Goliat nga higanting tawo.
+  * Pagkahuman sa kamatayon ni Haring Saulo, gitudlo ni Abner ang anak nga lalaki ni Saulo nga si Ishbosheth isip usa ka Hari sa Israel, samtang si David gitudlo nga Hari sa Juda.
+  * Unya, si Abner nagmaluibon nga nipatay sa pangulong tagapagmando ni David.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
-
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
 ===== Bible References: =====
 
