@@ -1,17 +1,17 @@
 ====== Absalom ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Absalom was the third son of King David. He was known for his handsome appearance and fiery temperament.
+Si Absalom ang ikatulong anak nga lalaki na Haring David. Bantugan siya sa iyang pagka-guwapong tawo ug madanihong kinaiya.
 
-  * When Absalom's sister Tamar was raped by their half-brother, Amnon, Absalom made a plan to have Amnon killed.
-  * After the murder of Amnon, Absalom fled to the region of Geshur (where his mother Maacah was from) and stayed there three years. Then King David sent for him to come back to Jerusalem, but did not allow Absalom to come into his presence for two years.
-  * Absalom turned some of the people against King David and led a revolt against him.
-  * David's army fought against Absalom and killed him. David was very grieved when this happened.
+  * Sa dihang gipanamastamasan ang igsoong babaye ni Absalom nga si Tamar sa ilang igsoong lalaki nga si Amnon nga anak sa ilang amahan nga si David sa laing Babaye, si Absalom naghimo ug plano sa pagpatay kang Amnon.
+  * Human gipatay si Amnon, mikalagiw si Absalom didto sa rehiyon sa Geshur (kung diin asa gikan ang iyang inahan nga si Maacah) ug mipuyo siya didto sulod sa tulo ka tuig. Unya si Haring David gipadala siya ug balik ngadto sa Jerusalem, pero wala mosugot si Absalom nga mobalik siya sulod sa duha ka tuig.
+  * Si Absalom nibalik kauban ang ubang mga tawo nga supak kang Haring David ug gipangunahan niya sa pag-alsa batok kaniya.
+  * Ang mga kasundaluhan ni David nakig-away batok kang Absalom ug gipatay siya. Nasubo kaayo si David sa nahitabo.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+( Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[geshur]], [[amnon]])
+(Tan-awa usab: [[:ceb:obe:other:geshur|Geshur]], [[:ceb:obe:other:amnon|Amnon]])
 
 ===== Bible References: =====
 
