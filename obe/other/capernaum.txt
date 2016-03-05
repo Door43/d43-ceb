@@ -14,6 +14,10 @@ Ang Capernaum usa ka tagapangisda nga balangay sa amihanang-kasadpan nga baybayo
 
 ===== Asa Makita sa Biblia: =====
 
-{{topic>:en:bible?capernaum&nocomments}}~~DISKUSYON~~{{tag>publish}}
+{{topic>:en:bible?capernaum&nocomments}}
+
+~~DISCUSSION~~
+
+{{tag>publish}}
 
 ~~NOCACHE~~
