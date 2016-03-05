@@ -25,45 +25,9 @@ Ang pulong nga “matarong” nagpasabot sa walay sama nga kaayo sa Dios, ug sa 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ceb:obs:notes:frames:03-02|[03-02]]]**
-Apan nahimuot ang Dios kang Noe. **Matarong ** siya bisan pa ug nagpuyo siya uban sa mga daotan.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]**
-Giisip sa Dios nga **matarong ** si Abram tungod kay mituo siya sa iyang saad.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]**
-Mapaubsanon siya nga tawo, **matarong**, ug mituo ug nagatuman sa Dios.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:23-01|[23-01]]]**
-Napamalay-an na si Maria sa usa ka tawo nga **matarong ** nga si Jose.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:50-10|[50-10]]]**
-Ug unya ang mga **matarong ** nga mga tawo magasidlak sama sa adlaw didto sa gingharian sa Dios Amahan.
-
-
-
-
-
-
-
+  * **[[:ceb:obs:notes:frames:03-02|[03-02]]] **Apan nahimuot ang Dios kang Noe. **Matarong **  siya bisan pa ug nagpuyo siya uban sa mga daotan.
+  * **[[:ceb:obs:notes:frames:04-08|[04-08]]] **Giisip sa Dios nga **matarong **  si Abram tungod kay mituo siya sa iyang saad.
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]] **Mapaubsanon siya nga tawo, **matarong**, ug mituo ug nagatuman sa Dios.
+  * **[[:ceb:obs:notes:frames:23-01|[23-01]]] **Napamalay-an na si Maria sa usa ka tawo nga **matarong **  nga si Jose.
+  * **[[:ceb:obs:notes:frames:50-10|[50-10]]] **Ug unya ang mga **matarong **  nga mga tawo magasidlak sama sa adlaw didto sa gingharian sa Dios Amahan.
 ~~DISCUSSION~~{{tag>publish ktobs}}
