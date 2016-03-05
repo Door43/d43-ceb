@@ -15,15 +15,13 @@ Si Canaan ang anak nga lalaki ni Noah, Ham. Ang iyang kaliwatan, ang mga Canaani
 
 {{topic>:en:bible?canaan&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pananglitan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:04-05|[04-05]]]** He (Abram) took his wife, Sarai, together with all his servants and everything he owned and went to the land God showed him, the land of **Canaan**.
-  ***[[:ceb:obs:notes:frames:04-06|[04-06]]]**  When Abram arrived in **Canaan** God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
-  ***[[:ceb:obs:notes:frames:04-09|[04-09]]]** "I give the land of **Canaan** to your descendants." 
-  ***[[:ceb:obs:notes:frames:05-03|[05-03]]]**  "I will give you and your descendants the land of **Canaan** as their possession and I will be their God forever."
-  ***[[:ceb:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
-
-
+  * **[[:ceb:obs:notes:frames:04-05|[04-05]]]** Siya (Abram) gidala iyang asawa, Sarai, kauban ang tanan niyang ulipon ug ang tanan nga iyang gipanag-iya ug niadto sa lugar nga gipakita sa Ginoo kaniya.
+  * **[[:ceb:obs:notes:frames:04-06|[04-06]]]**Sa diha nga si Abram niabot sa Canaan ang Ginoo miingon, "Tan-aw sa imong palibot. Akong ihatag kanimo ug sa imong kaliwatan ang tanan nga yuta nga imong nakita ingon nga panulondon."
+  * **[[:ceb:obs:notes:frames:04-09|[04-09]]]**"Akong ihatag ang yuta sa Canaan sa imong kaliwatan.
+  * **[[:ceb:obs:notes:frames:05-03|[05-03]]]**"Akong ihatag sa imo ug sa imong kaliwatan ang yuta sa Canaan ingon nga ilang pagpanag-iya ug ako mahimong ilang Ginoo sa walay katapusan."
+  * **[[:ceb:obs:notes:frames:07-08|[07-08]]] **Pagkahuman sa baynte ka tuig nga siya layo sa Canaan, si Jacob mibalik didto kauban ang iyang pamilya, iyang ulipon, ug tanan nga iyang hayop.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
