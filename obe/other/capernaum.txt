@@ -12,15 +12,8 @@ Ang Capernaum usa ka tagapangisda nga balangay sa amihanang-kasadpan nga baybayo
 
 (Tan-awa usab: [[:ceb:obe:other:galilee|Galilee, Galilean]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
-
-{{topic>:en:bible?capernaum&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?capernaum&nocomments}}~~DISKUSYON~~{{tag>publish}}
 
 ~~NOCACHE~~
