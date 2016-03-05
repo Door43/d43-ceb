@@ -28,8 +28,8 @@ Pangitaa imong sinultian. Kung wala ka kabalo sa imong IETF nga sinultihan nga t
 
 Kung buot nimo hubaron ang Biblia, palihog pangayo sa Helpdesk ug  tabang (tan-awa sa ilalom)
 
-===== Further questions =====
+===== Uban pa nga mga Pangutana =====
 
-If you have questions, you can post them on the Helpdesk channel in Slack (see above) or email help@door43.org.
+Kung aduna kay pangutana, mahimo nimong ibutang kini sa Helpdesk nga channel sa Slack (tan-awa sa taas) o pagpadala ug sulat sa help@door43.org
 
-=== Suggestion: When you want to follow a link, right-click on the link and select "Open in new window" from the right-click menu. ===
+=== Posibleng Paagi: Kung aduna kay gusto sundon nga link,i-right-click ang link ug pilia ang "Open in new window" gikan sa right-click nga menu. ===
