@@ -8,21 +8,10 @@ Edit
 
 Ang transltionAcademy kay gibuhat nga adunay upat ka manwal aron makatubag sa mga pangutana bahin sa paghubad, pagsusi, pagmantala, ug sa mga teknikal nga mga problema.
 
-  *
-
-[[https://door43.org/en/ta/vol1/translate/toc_transvol1_2|Translation Manual]] - Nagtudlo sa mga  teorya ug nagtubag sa daghang mga praktikal nga mga pangutana bahin sa paghubad.
-
-  *
-
-[[https://door43.org/en/ta/vol1/checking/toc_checkvol1_2|Checking Manual]] - Nagtudlo sa paghubad nga teorya ug tubag sa mga praktikal nga pagsusi sa mga pangutana.
-
-  *
-
-[[https://door43.org/en/ta/vol1/tech/toc_techvol1_2|Technology Manual]] - Naglakip sa mga pagtudlo kung unsaon paggamit ang nagkalain-laing teknolohiya nga galamiton nga among gibuhat.
-
-  *
-
-[[https://door43.org/en/ta/vol1/process/toc_processvol1_2|Process Manual]] - Naghatag ug lakang sa lakang nga paggiya sa setup, paghubad, pagsusi, pagmantala, ug pag-apod-apod sa kada hugna.
+  * [[https://door43.org/en/ta/vol1/translate/toc_transvol1_2|Translation Manual]] - Nagtudlo sa mga teorya ug nagtubag sa daghang mga praktikal nga mga pangutana bahin sa paghubad.
+  * [[https://door43.org/en/ta/vol1/checking/toc_checkvol1_2|Checking Manual]] - Nagtudlo sa paghubad nga teorya ug tubag sa mga praktikal nga pagsusi sa mga pangutana.
+  * [[https://door43.org/en/ta/vol1/tech/toc_techvol1_2|Technology Manual]] - Naglakip sa mga pagtudlo kung unsaon paggamit ang nagkalain-laing teknolohiya nga galamiton nga among gibuhat.
+  * [[https://door43.org/en/ta/vol1/process/toc_processvol1_2|Process Manual]] - Naghatag ug lakang sa lakang nga paggiya sa setup, paghubad, pagsusi, pagmantala, ug pag-apod-apod sa kada hugna.
 
 Edit
 
