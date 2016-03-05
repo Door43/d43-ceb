@@ -30,6 +30,6 @@ Kung buot nimo hubaron ang Biblia, palihog pangayo sa Helpdesk ug  tabang (tan-a
 
 ===== Uban pa nga mga Pangutana =====
 
-Kung aduna kay pangutana, mahimo nimong ibutang kini sa Helpdesk nga channel sa Slack (tan-awa sa taas) o pagpadala ug sulat sa help@door43.org
+Kung aduna kay pangutana, mahimo nimong ibutang kini sa Helpdesk nga channel sa Slack (tan-awa sa taas) o pagpadala ug mensahe sa help@door43.org
 
 === Posibleng Paagi: Kung aduna kay gusto sundon nga link,i-right-click ang link ug pilia ang "Open in new window" gikan sa right-click nga menu. ===
