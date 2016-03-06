@@ -10,10 +10,12 @@ Ang pulong "magpagawas" gitawag nga legal buot ipasabot pormal nga ipahayag sa u
 
 (Tan-awa usab: [[:ceb:obe:kt:forgive|pagpasaylo, pasaylo]], [[:ceb:obe:kt:guilt|guilt, guilty]])
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
 {{topic>acquit&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
 {{tag>publish}}
+
+~~COMPLEX_TABLES~~
