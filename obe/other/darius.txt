@@ -1,15 +1,15 @@
 ====== Darius ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Darius was the name of several kings of Persia. It is possible that "Darius" was a title rather than a name.
-    * "Darius the Mede" was the king who was tricked into having the prophet Daniel thrown into a lion's den as punishment for worshiping God.
-    * "Darius the Persian" helped facilitate the reconstruction of the temple in Jerusalem during the time of Ezra and Nehemiah.
+Darius ang ubang panglan sa mga hari sa Persia. Posible nga ang "Darius" usa ka titulo kaysa sa panglan.
 
+  * "Darius ang Mede" mao ang hari nga nailad sa pagpatambog kang propeta Daniel didto sa langod sa mga liyon isip silot sa pagsimba sa Dios.
+  * "Darius ang Persiano" nagtabang sa pagpanguna sa pagtukod pag-usab sa templo sa Jerusalem sa panahon ni Ezra ug Nehemiah.
 
-(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Posible nga paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Unsaon Paghubad sa mga Ngalan]])
 
-(See also: [[:En:obe:other:Persia]], [[:ceb:obe:other:Babylon]], [[:ceb:obe:other:Daniel]], [[:En:obe:other:Ezra]], [[:ceb:obe:other:Nehemiah]])
+(See also Tan-awa usab: [[:en:obe:other:persia|Persia, Persiano]], [[:ceb:obe:other:babylon|Babylonia,taga Babylonian]], [[:ceb:obe:other:daniel|Daniel]], [[:en:obe:other:ezra|Ezra]], [[:ceb:obe:other:nehemiah|Nehemiah]])
 
 ===== Bible References: =====
 
