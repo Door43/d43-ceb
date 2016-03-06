@@ -1,14 +1,14 @@
 ====== magpagawas ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The word "acquit" is a legal term that means to formally declare someone to not be guilty of an unlawful activity.
+Ang pulong "magpagawas" gitawag nga legal buot ipasabot pormal nga ipahayag sa usa katawo nga dili sad-an sa supak sa balaod nga kalihukan.
 
-  * This term is sometimes used in the Bible to talk about forgiving sinners.
-  * Often the context is about wrongly acquitting people who continue to rebel against God.
-  * This could be translated as, "declare innocent" or "judge to be not guilty."
+  * Kini nga termino usahay gigamit sa Biblia sa pagsulti mahitungod sa mapasayloon sa mga makasasala.
+  * Kasagaran ang konteksto mahitungod sa sayop nga pagpagawas sa tawo nga nagpadayon sa pagrebelde batok sa Dios.
+  * kini mahimong hubaron isip, "ipahayag nga walay sala" o "hukman nga walay sala."
 
-(See also: [[:ceb:obe:kt:forgive]], [[:ceb:obe:kt:guilt]])
+(Tan-awa usab: [[:ceb:obe:kt:forgive|pagpasaylo, pasaylo]], [[:ceb:obe:kt:guilt|guilt, guilty]])
 
 ===== Bible References: =====
 
