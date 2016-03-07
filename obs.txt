@@ -1,6 +1,6 @@
-====== Open Bible Stories (ceb)======
+====== Open Bible Stories (ceb) ======
 
-**50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+**50 ka mahinungdanong mga istorya gikan sa Biblia, gikan sa Pagpamuhat sa Dios hangtod sa Pinadayag, aron gamiton sa pagsangyaw ug padisipulo ug pagpanudlo, ug gisulat kini, gihimong audio, video, nga mabutang sa silpon (mobile phone), sa bisan unsang pinulongan, ug kini walay bayad.**
 
 {{  :obs:obs-homepage-web.jpg?nolink&  }}
 
@@ -16,7 +16,4 @@ Feel free to join the Open Bible Stories translation team and start a new transl
 
 ==== Stories in Cebuano ====
 
-
 {{page>ceb:obs:stories}}
-
-
