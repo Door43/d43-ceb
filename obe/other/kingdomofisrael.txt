@@ -16,16 +16,56 @@ Pagkahuman sa kamatayon ni Solomon, nabahin sa duha ka gingharian ang mga Israel
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ceb:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  ***[[:ceb:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:ceb:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  ***[[:ceb:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
-  ***[[:ceb:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel** was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  ***[[:ceb:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.
-
-~~DISCUSSION~~
+  * **[[:ceb:obs:notes:frames:18-08|[18-08]]] **
+Ang napulo ka tribo sa Israel, mipili ug tawo nga mohari kanila nga mao si Jeroboam. Didto sila
 
 
-{{tag>publish ktobs}}
+
+
+
+
+
+sa amihang dapit nagtukod ug gingharian ug gitawag kini nga **gingharian sa Israel**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:18-10|[18-10]]]**
+Nahimong magkaaway ang **gingharian sa Juda ug Israel**  ug nagsige nalang sila ug gubat.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:18-11|[18-11]]]**
+Ang tanang hari sa bag-ong **gingharian sa Israe**l, managsama sila nga mga daotan.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:20-01|[20-01]]]**
+Nakasala sa Dios ang gingharian sa Juda ug ang **gingharian sa Israel.**
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:20-02|[20-02]]] ** Gipukan sa gamhanan ug bangis nga Emperyo sa Asiria ang ** gingharian sa Israel ** . Daghan ang namatay nga mga Israelinhon ug giilog ang ilang mga mahalong mga butang, ug gisunog ang ilang lugar.
+  * **[[:ceb:obs:notes:frames:20-04|[20-04]]]**
+Unya gipapuy-an sa mga taga-Asiria ug mga langyaw ang yuta nga nahimutangan sa **gingharian sa Israel**  kaniadto. Nagbuhat ug mga siyudad ang mga langyaw ug nakigminyo sa mga Israelinhon nga nahibilin didto. Ang mga kaliwat sa mga Israelita nga nagminyo ug mga langyaw ginganlan ug Samaritanhon.
+
+
+
+
+
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
