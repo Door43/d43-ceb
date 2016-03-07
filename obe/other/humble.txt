@@ -16,13 +16,27 @@ Ang ginapaubos nga tawo nagpasabot nga gibutang siya sa ubos nga puwesto o kahim
 
 (Tan-awa usab: [[:ceb:obe:other:proud|proud]])
 
-===== Bible References: =====
+===== Asa Makita sa Bibliya: =====
 
 {{topic>:en:bible?humble&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:ceb:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]**
+**Mapaubsanon ** siya nga tawo, matarong, ug mituo ug nagatuman sa Dios.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:34-10|[34-10]]]**"
+Ipaubos sa Dios ang mga mapahitas-on, ug iyang ipataas ang mga **mapaubsanon**.
+
+
+
+
+
+ "
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
