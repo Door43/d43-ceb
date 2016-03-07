@@ -1,4 +1,4 @@
-====== administasyon, administrador ======
+====== administrasyon, administrador ======
 
 ===== Facts: =====
 
