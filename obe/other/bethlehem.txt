@@ -15,11 +15,32 @@ Ang Betlehem usa ka gamay nga siyudad sa Israel, duol sa siyudad sa Jerusalem. N
 
 {{topic>:en:bible?bethlehem&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:ceb:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:ceb:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]**
+Magbalantay siya sa karnero ug didto nagpuyo sa lungsod sa **Betlehem**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:21-09|[21-09]]]**
+Gipropesiya ni propeta Isaias nga matawo ang Mesiyas sa babayeng ulay. Si propeta Miqueas usab miingon nga didto siya matawo sa **Betlehem**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:23-04|[23-04]]] ** Busa kinahanglan nga moadto si Jose ug si Maria sa Betlehem ug layo kini gikan sa  ** Betlehem ** , tungod kay didto natawo ang ilang apohan nga si David.
+  * **[[:ceb:obs:notes:frames:23-06|[23-06]]]**"
+Ang Mesiyas nga mao ang Labaw sa Tanan, natawo na didto sa **Betlehem**!
+
+
+
+
+
+ "
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
