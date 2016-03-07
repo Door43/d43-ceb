@@ -1,16 +1,18 @@
 ====== Betlehem, Eprata ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It was also known as "Ephrathah," which was probably its original name.
+Ang Betlehem usa ka gamay nga siyudad sa Israel, duol sa siyudad sa Jerusalem. Naila usab kini sa ngalan nga "Eprata" na mao ang unang ngalan niini.
 
-  * Bethlehem has been called the "city of David," since King David was born there.
-  * The prophet Micah said that the Messiah would come from "Bethlehem Ephrathah."
-  * Fulfilling that prophecy, Jesus was born in Bethlehem, many years later.
-  * The name "Bethlehem" means "house of bread" or "house of food."
+  * Didto natawo si David sa Betlehemm; mao nga gitawag kini nga “siyudad ni David.
+  *
 
+Si propeta Miqueas nag-ingon nga didto gikan sa "Betlehem Eprata" ang Mesiyas.
 
-(See also: [[:En:obe:other:caleb]], [[:ceb:obe:other:david]], [[:ceb:obe:other:micah]])
+  * Paglabay sa daghang katuigan, natawo si Jesus sa siyudad sa Betlehem, ug natuman ang propesiya.
+  * Ang ngalan nga "Betlehem" nagpasabot nga "balay sa pan" o "balay sa pagkaon."
+
+(Tan-awa usab: [[:en:obe:other:caleb|Caleb]], [[:ceb:obe:other:david|David]], [[:ceb:obe:other:micah|Micah]])
 
 ===== Bible References: =====
 
