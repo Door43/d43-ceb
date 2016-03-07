@@ -24,9 +24,55 @@ Ang magbalantay mao ang tawo nga nagaatiman sa mga karnero. Ang pulong nga "moba
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ceb:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  * **[[:ceb:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * **[[:ceb:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * **[[:ceb:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+  * **[[:ceb:obs:notes:frames:09-11|[09-11]]]**
+Nahimo si Moises nga **magbalantay sa mga karnero**  didto sa kamingawan nga layo sa Ehipto.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]**
+**Magbalanta**y si David **sa karnero**  ug didto nagpuyo sa lungsod sa Betlehem. Kung adunay liyon o uso nga mokaon sa mga karnero sa iyang amahan nga iyang gibantayan, iyang kining patyon.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:23-06|[23-06]]]**
+Nianang gabhiona, naay mga magbalantay nga **nagbantay sa ** ilang **mga manana**p duol sa Betlehem.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:23-08|[23-08]]]**
+Miabot ang mga **magbalantay ** didto sa nahimutangan ni Jesus ug nakita niya sila nga naghigda sa pasungan, sumala sa giingon sa anghel kanila
+
+
+
+
+
+ .
+  * **[[:ceb:obs:notes:frames:30-03|[30-03]]]**
+Alang kang
+J
+esus, k
+i
+ning mga tawhana
+sama
+sila
+sa mga
+karn
+e
+ro nga walay **magbalantay**.
+
+
+
+
+
+
+
 ~~DISCUSSION~~{{tag>publish ktobs }}
