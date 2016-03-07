@@ -18,15 +18,15 @@ Mao kini ang ngalan sa unang babaye. Ang pasabot sa iyang ngalan “kinabuhi” 
 
 {{topic>:en:bible?eve&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-    * **[[:ceb:obs:notes:frames:01-13|[01-13]]]** Then God took one of Adam's ribs and made it into a woman and brought her to him.
-    * **[[:ceb:obs:notes:frames:02-02|[02-02]]]** But there was a crafty snake in the garden. He asked the woman, "Did God really tell you not to eat the fruit from any of the trees in the garden?"
-    * **[[:ceb:obs:notes:frames:02-11|[02-11]]]** The man named his wife **Eve**, which means "life-giver," because she would become the mother of all people.
-    * **[[:ceb:obs:notes:frames:21-01|[21-01]]]** God promised that a descendant of **Eve**  would be born who would crush the snake's head.
-    * **[[:ceb:obs:notes:frames:48-02|[48-02]]]** Satan spoke through the snake in the garden in order to deceive **Eve**. 
-    * **[[:ceb:obs:notes:frames:49-08|[49-08]]]** When Adam and **Eve** sinned, it affected all of their descendants.
-    * **[[:ceb:obs:notes:frames:50-16|[50-16]]]** Because Adam and **Eve** disobeyed God and brought sin into this world, God cursed it and decided to destroy it. 
+    * **[[:ceb:obs:notes:frames:01-13|[01-13]]]** Ug mikuha ang Dios ug usa ka gusok ni Adan, ug gihimo niya kini nga babaye ug gidala ngadto kaniya.
+    * **[[:ceb:obs:notes:frames:02-02|[02-02]]]** Apan adunay maro nga bitin taliwala sa tanaman sa Eden. Gipangutana niya ang babaye "Giingnan ba gayod kamo sa Dios nga dili pakan-on sa bunga sa bisan unsa nga kahoy sa tanaman sa Eden?"
+    * **[[:ceb:obs:notes:frames:02-11|[02-11]]]** Ug ginganlan ni Adan ang iyang asawa ug “**Eva**” nga nagpasabot, “naghatag ug kinabuhi,” tungod kay siya man ang mahimong inahan sa tanang katawhan.
+    * **[[:ceb:obs:notes:frames:21-01|[21-01]]]** Nagsaad ang Dios nga matawo ang kaliwat ni **Eva** nga maoy modugmok sa ulo sa bitin.
+    * **[[:ceb:obs:notes:frames:48-02|[48-02]]]** Misulti si Satanas pinaagi sa bitin didto sa tanaman aron mailad niya si **Eva**. 
+    * **[[:ceb:obs:notes:frames:49-08|[49-08]]]** Si Adan ug **Eva** nakasala, ug tungod niini naapil ang tanan niyang kaliwatan.
+    * **[[:ceb:obs:notes:frames:50-16|[50-16]]]** Because Adam and **Eve** disobeyed God and brought sin into this world, God cursed it and decided to destroy it.Tungod kay nakasala sa Dios si Adan ug **Eva** ug nagdala sa sala dinhi sa kalibotan, gitunglo kini sa Dios ug nakahukom nga laglagon kini. 
 
 ~~DISCUSSION~~
 
