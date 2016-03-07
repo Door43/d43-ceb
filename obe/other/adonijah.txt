@@ -1,14 +1,14 @@
 ====== Adonias ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-Adonijah was the fourth son of King David.
+Si Adonias ang ika-upat nga anak nga lalaki ni Haring David.
 
-  * Adonijah tried to take over as king of Israel after the deaths of his brothers Absalom and Amnon.
-  * However God had promised the throne to David's son Solomon, so Adonijah's plot was overthrown and Solomon was given the throne.
-  * When Adonijah tried a second time to make himself king, Solomon put him to death.
+  * Misulay si Adonias sa pagpuli isip hari sa Israel human sa kamatayon sa iyang igsoong mga  lalaki nga si Absalom ug Amnon.
+  * Apan ang Dios may  gisaad nga  trono sa anak nga lalaki ni David nga si Solomon, mao nga gilaglag ang luna ni Adonias ug gihatag kang Solomon ang trono.
+  * Sa dihang misulay si Adonias sa ikaduhang higayon sa paghimo ug hari sa iyang kaugalingon, gipatay niya si Solomon.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Posibleng paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
 ===== Bible References: =====
 
