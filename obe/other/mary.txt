@@ -1,9 +1,9 @@
 ====== Maria ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Mary was the mother of Jesus and the wife of Joseph.
+Si Maria ang inahan ni Jesus nga asawa ni Jose.
 
   * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
   * Joseph took Mary as his wife, but Mary remained a virgin until after the baby was born.
@@ -12,7 +12,6 @@ Mary was the mother of Jesus and the wife of Joseph.
 (Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
 
 (See also: [[ceb:obe:kt:jesus]], [[josephnt]], [[ceb:obe:kt:sonofgod]], [[virgin]])
-
 
 ===== Asa Makita sa Biblia: =====
 
