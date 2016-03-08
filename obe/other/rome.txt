@@ -17,14 +17,14 @@ Sa atong panahon karon, ang Roma ang sentro nga siyudad sa Italya.
 {{topic>:en:bible?rome&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:ceb:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:ceb:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:ceb:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
+  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** Sa dihang hapit na manganak si Maria, miingon ang gobyerno sa **Roma** nga kinahanglan nga mopasensos ang tanan didto sa lugar sa ilang katigulangan. 
+  ***[[:ceb:obs:notes:frames:32-06|[32-06]]]** Unya gipangutana ni Jesus ang yawa, “Kinsa ang imong ngalan?” Mitubag siya, “Lehiyon, tungod kay daghan kami. (Ang lehiyon usa ka grupo sa linibo nga mga sundalo sa **Roma**.)
+
+  ***[[:ceb:obs:notes:frames:39-09|[39-09]]]** Sunod nga adlaw, sayo pa sa buntag, gidala si Jesus sa mga pangulo sa mga Judio didto kang Pilato, ang **Romano** nga gobernador. Nagdahum sila nga mahukman si Jesus nga sad-an ug ipapatay.
+  ***[[:ceb:obs:notes:frames:39-12|[39-12]]]** Gilatos siya sa mga sundalo nga **Romano**, gisol-uban ug murag kapa sa hari, ug gikoronahan siyag tunok. Gibugal-bugalan nila si Jesus, “Tan-awa ninyo, siya ang hari sa mga Judio!”
 
 ~~DISCUSSION~~
 
 {{tag>publish ktobs}}
-
