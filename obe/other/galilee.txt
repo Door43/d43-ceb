@@ -1,15 +1,14 @@
 ====== Galilia, mga taga Galilia ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Galilee is the most northern part of Israel, farther north than Samaria.
+Galilia mao ang pinaka amihang bahin sa Israel, pinakalayong amihan kumpara sa Samaria.
 
-  * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
-  * Jesus grew up and lived in the town of Nazareth in Galilee.
-  * A Galilean is a person who lives in Galilee.
+  * Ang Galilia mao ang utlanan sa sidlakan sa dakong linaw nga gitawag "ang dagat sa Galilia."
+  * Si Jesus midako ug mipuyo sa lungsod sa Nazaret sa Galilia.
+  * Ang mga taga Galilia mao ang mga tawo nga nagpuyo sa Galilia.
 
-(See also: [[samaria]], [[nazareth]])
-
+(Tan-awa usab: [[:ceb:obe:other:samaria|Samaria, Samaritanhon]], [[:ceb:obe:other:nazareth|Nazareth, Nazarene]])
 
 ===== Bible References: =====
 
