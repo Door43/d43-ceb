@@ -16,15 +16,12 @@ Si Zacarias usa ka Judio nga pari nga nahimong amahang Juan nga Magbubunyag.
 
 {{topic>:en:bible?zechariahnt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:22-01|[22-01]]]** Suddenly an angel came with a message from God to an old priest named **Zechariah**. **Zechariah** and his wife, Elizabeth, were godly people, but she had not been able to have any children.
-  ***[[:ceb:obs:notes:frames:22-02|[22-02]]]** The angel said to **Zechariah**, "Your wife will have a son. You will name him John."
-  ***[[:ceb:obs:notes:frames:22-03|[22-03]]]** Immediately, **Zechariah** was unable to speak.
-  ***[[:ceb:obs:notes:frames:22-07|[22-07]]]** Then God allowed **Zechariah** to speak again.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:22-01|[22-01]]]**Unya sa kalit lang, naay anghel nga miadto kang Zacarias aron ipaabot ang mensahe sa Dios. Matinumanon sa Dios si Zacarias ug si Elizabet nga iyang asawa, apan wala gayod makaanak si Elizabet.
+  * **[[:ceb:obs:notes:frames:22-02|[22-02]]]** . Giingnan sa anghel si Zacarias, “Manganak ug lalaki ang imong asawa.
+  * **[[:ceb:obs:notes:frames:22-03|[22-03]]]**Diha-diha, dili na makasulti si Zacariyas.
+  * **[[:ceb:obs:notes:frames:22-07|[22-07]]]**Unya si Zacarias nga naamang, gipasulti na usab sa Dios.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
