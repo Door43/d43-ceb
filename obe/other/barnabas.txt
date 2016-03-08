@@ -15,10 +15,14 @@ Si Barnabas usa ka Kristohanon sa panahon sa mga apostoles. Ang buot pasabot sa 
 
 {{topic>:en:bible?barnabas&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Kamatuoran: =====
 
-  ***[[:ceb:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas** took Saul to the apostles and told them how Saul had preached boldly in Damascus. 
-  ***[[:ceb:obs:notes:frames:46-09|[46-09]]]** **Barnabas** and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
-  ***[[:ceb:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas** and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas** and Saul and placed their hands on them. 
+Si Barnabas usa ka Kristohanon sa panahon sa mga apostoles. Ang buot pasabot sa iyang ngalan “anak nga magdadasig”. 
 
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * Ang kaliwat ni Barnabas gikan sa Israel sa tribo ni Levi nga naggikan sa Isla sa Cyprus.
+  * Sa dihang si Saulo (Pablo) nahimong Kristohanon, gihangyo gayod ni Barnabas ang ubang mga magtutuo sa pagdawat kaniya isip isig-ka magtutuo.
+  * Si Barnabas ug si Pablo nag-uban sa paglakaw aron sa pagsangyaw sa maayong balita mahitungod kang jesus sa nagkalain-laing mga siyudad.
+
+(Posibleng paagi sa paghubad: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(Tan-awa usab: [[paul]], [[ceb:obe:kt:christian]])
