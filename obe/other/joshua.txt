@@ -24,17 +24,12 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ceb:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
-  ***[[:ceb:obs:notes:frames:14-06|[14-06]]]**  Immediately Caleb and **Joshua**, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:ceb:obs:notes:frames:14-08|[14-08]]]** Except for **Joshua** and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
-  ***[[:ceb:obs:notes:frames:14-14|[14-14]]]** Moses was now very old, so God chose **Joshua** to help him lead the people.  
-  ***[[:ceb:obs:notes:frames:14-15|[14-15]]]** **Joshua** was a good leader because he trusted and obeyed God. 
-  ***[[:ceb:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told **Joshua** how to attack the powerful city of Jericho. 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:14-04|[14-04]]]** Sa miabot na ang mga Israelita sa utlanan sa Canaan, nagpili si Moises ug 12 ka lalaki, sa matag usa kada tribo sa Israel. Gipasidan-an niya sila sa pagpaniid sa yuta aron masusi nila kini, aron nga ila usab mapanid-an ang mga Canaanhon kon kusgan ba sila o dili.
+  * **[[:ceb:obs:notes:frames:14-06|[14-06]]] **Diha-diha si Caleb ug Josue, ang duha nga nikuyog sa pagpaniid miingon, "Tinuod ang ilang giingon nga ang tawo sa Canaan tag-as ug kusgan, apan makahimo kita sa pagpildi kanila!
+  * **[[:ceb:obs:notes:frames:14-08|[14-08]]]** Si Josue ug si Caleb lang ang makasulod sa Yutang Saad, ug matag usa nga nagpanuigon ug bayente ka tuig o pataas didto lang mamatay sa kamingawan."
+  * **[[:ceb:obs:notes:frames:14-14|[14-14]]]** Si Moises niining panahona tigulang na kaayo, mao nga gipili sa Dios si Josue aron pagtabang kaniya sa pagiya sa mga katawhan.
+  * **[[:ceb:obs:notes:frames:14-15|[14-15]]]** Si Josue maoy nahimong bag-o nga pangulo tungod kay siya misalig ug mituman sa Dios.
+  * **[[:ceb:obs:notes:frames:15-03|[15-03]]]** Human makatabok ang katawhan sa Suba sa Jordan, giingnan sa Dios si Josue unsaon pag-ataki ang gamhanang siyudad sa Jerico.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
