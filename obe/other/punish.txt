@@ -15,19 +15,15 @@ The term "punish" means to cause someone to suffer a negative consequence for do
 {{topic>:en:bible?punish&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan nga Istorya gikan sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish** them. 
-  ***[[:ceb:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept disobeying God, he **punished** them by allowing their enemies to defeat them. 
-  ***[[:ceb:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would **punish** them. 
-  ***[[:ceb:obs:notes:frames:48-06|[48-06]]]** Jesus was the perfect high priest because he took the **punishment** for every sin that anyone has ever committed.
-  ***[[:ceb:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the blood of Jesus takes away that person's sin, and God's **punishment** passes over him.
-  ***[[:ceb:obs:notes:frames:49-09|[49-09]]]** But God loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be **punished** for his sins, but will live with God forever.
-  ***[[:ceb:obs:notes:frames:49-11|[49-11]]]** Jesus never sinned, but he chose to be **punished** and die as the perfect sacrifice to take away your sins and the sins of every person in the world. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:13-07|[13-07]]]** Naghatag pa ang Dios ug daghan ug dugang nga mga balaod nga angay nilang sundon. Kon tumanon kini sa mga katawhan, ang Dios nagsaad nga panalanginan niya sila ug protektahan. Apan kon supakon nila kini, **silotan**  niya sila.
+  * **[[:ceb:obs:notes:frames:16-02|[16-02]]]** Nagpadayon ang mga Israelita sa pagpakasala sa Dios, ug tungod niana iya silang gitugotan nga mapildi sa ilang mga kaaway.
+  * **[[:ceb:obs:notes:frames:19-16|[19-16]]]** Gipasidan-an nila ang mga tawo nga kon dili sila moundang sa pagbuhat ug daotan ug dili motuman sa Dios, hukman sila sa Dios ug **silotan**.
+  * **[[:ceb:obs:notes:frames:48-06|[48-06]]]** Si Jesus ang hingpit nga pangulong pari kay iyang gikuha ang** silot**  sa tanan nga sala nga nabuhat sa tawo.
+  * **[[:ceb:obs:notes:frames:48-10|[48-10]]]** Bisan kinsa nga motuo kang Jesus, pagabayaran ang iyang mga sala sa dugo ni Jesus ug dili na siya **silotan**  sa Dios.
+  * **[[:ceb:obs:notes:frames:49-09|[49-09]]]** Apan ang Dios nahigugma pag-ayo sa tanang tawo sa kalibotan mao nga iyang gihatag ang iyang Bugtong Anak aron ang tanan nga motuo kang Jesus dili mahukman tungod sa ilang mga sala, apan magpuyo hinoon sila uban sa Dios hangtod sa walay kataposan.
+  * **[[:ceb:obs:notes:frames:49-11|[49-11]]]** Si Jesus walay sala, apan gipalabi niya nga siya ang **silotan**  ug mamatay ingon nga hingpit nga halad aron mahinloan o mawala ang atong mga sala dinhi sa kalibotan.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
