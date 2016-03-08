@@ -1,29 +1,31 @@
-====== Story #18: The Divided Kingdom ======
+====== Istorya #18:Ang Nabahinbahin nga Gingharian ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
-  - **What did Solomon ask God to give him?**
-      * //Wisdom. [18-01]//
-  - **What was the purpose of the Temple that Solomon built?**
-      * //It was a place for the people to worship God and offer sacrifices. [18-02]//
-  - **What serious sins did Solomon commit?**
-      * //He married many foreign women and worshiped their gods in his old age. [18-03]//
-  - **How did God punish Solomon’s sins?**
-      * //God promised to divide the nation of Israel into two kingdoms after Solomon’s death. [18-04]//
-  - **What foolish answer did Rehoboam give to the people?**
-      * //I will make you work harder and punish you more than my father Solomon did. [18-06]//
-  - **What was the name of the kingdom founded by the two southern tribes who remained with Rehoboam?**
-      * //The kingdom of Judah. [18-07]//
-  - **How many of the tribes rebelled against Rehoboam and formed the northern kingdom?**
-      * //Ten tribes joined the kingdom of Israel. [18-08]//
-  - **What did Jeroboam do to keep his people from going to Judah to worship at the Temple?**
-      * //He built two idols for the people to worship. [18-09]//
-  - **How many of the kings of Israel were faithful to God?**
-      * //None. [18-11]//
-  - **What were some of the evil practices that were often included in the worship of idols?**
-      * //Sexual immorality and child sacrifice. [18-12]//
-  - **Who was the ancestor of the kings of Judah?**
-      * //King David. [18-13]//
-  - **Were any kings of Judah faithful to God?**
-      * //Yes, some were faithful, but most were evil. [18-13]//
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
+
+  - **Unsa ang gipangayo ni Solomon sa Dios nga ihatag kaniya?**
+      * //Kaalam [18-01]//
+  - **Unsa ang katuyoan sa templo nga gitukod ni Solomon?**
+      * //kini ang dapit diin ang katawhan magsimba sa Dios ug maghatag ug mga halad. [18-02]//
+  - **Unsa ang bug-at/seryoso nga mga sala ang nabuhat ni Solomon?**
+      * //Nagminyo siya ug daghang langyaw nga mga babaye ug nagsimba sa ilang mga dios-dios sa dihang tigulang na siya. [18-03]//
+  - **Giunsa pagsilot sa Dios si Solomon sa iyang mga sala?**
+      * //Ang Dios nag saad nga Iyang bahinon ang nasud sa Israil ngadto sa duha ka gingharian human sa kamatayon ni Solomon. [18-04]//
+  - **Unsa ang buang-buang nga tubag ni Rehoboam ngadto sa mga tawo?**
+      * //Mas pabug-atan naku ang inyong trabaho ug silotan pag-ayo labaw pa sa gibuhat sa akong amahan nga si Solomon. [18-06]//
+  - **Unsa ang ngalan sa ginaharian nga gipanguluhan sa duha ka habagatanhong tribo nga nagpabilin uban kang Rehoboam?**
+      * //Ang gingharian sa Juda. [18-07]//
+  - **Pila ka mga tribo ang nagrebelde kang Rehoboam ug nag tukod ug gingharian sa amihanang dapit?**
+      * //Napulo ka tribo ang niapil/nagpasakop sa gingharian sa Israil. [18-08]//
+  - **Unsa ang gibuhat ni Jeroboam aron dili na mangadto ang mga tawo sa Juda aron magsimba didto sa templo?**
+      * //nagbuhat siya ug duha ka dios-dios aron simbahon sa mga tawo. [18-09]//
+  - **Aduna bay pipila sa mga hari sa Israil nga nagmatinud-anon sa Dios?**
+      * //Wala. [18-11]//
+  - **Unsa ang kasagarang mga pamaagi nga buhaton sa mga tawo nga nagsimba ug dios-dios?**
+      * //Paghalad ug mga bata ug pagpakighilawas gawas sa kaminyoon. [18-12]//
+  - **Kinsa ang kagikan sa mga hari sa Juda?**
+      * //Si Haring David. [18-13]//
+  - **Nagmatinud-anon ba ang mga hari sa Juda ngadto sa Dios?**
+      * //Oo, adunay uban nga matinud-anon, apan mas daghan ang nagmasupilon. [18-13]//
 **[[:ceb:obs:notes:questions:17|<< ]] | [[:ceb:obs:notes:questions:19| >>]]**
