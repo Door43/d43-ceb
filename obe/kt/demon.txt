@@ -8,25 +8,25 @@ Kining tanan nga pulong nag hisgot kini bahin sa mga demonyo,  mao kini ang mga 
   * Usahay ang mga demonyo ginganlan kini sila'g “hugaw nga espirito.” Ang pulong nga hugaw nagpasabot kini nga “dili tinuod” o “daotan” o “dili balaan.”
   * Tungod kay ang mga demonyo nag-alagad ngadto sa yawa, nagbuhat sila ug mga daotan. Usahay magpuyo sila sa sulod sa tawo aron ilang gamhan. 
   * Ang mga demonyo gamhanan pa sa mga tawo, apan dili sila sama kagamhanan sa Dios.
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
-  * The term "demon" could also be translated as "evil spirit."
-  * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
-  * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang pulong nga “demonyo” mahubad usab nga “daotang espirito.”
+  * Ang pulong nga “hugaw nga espirito” mahubad usab nga “dili limpyo nga espirito” o “tampalasan nga espirito” o “ngil-ad nga espirito”.
+  * Siguradoha nga ang pulong nga imong gamiton sa paghubad niini, lahi siya sa ubang pulong nga imong gigamit alang sa yawa.
+  * Kinahanglang tan-awon usab nimo giunsa paghubad ang pulong nga “demonyo” sa pinulongan sa tribo o sa nasodnong pinulongan.
+(Tan-awa: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ceb:obe:kt:demonpossessed]], [[:ceb:obe:kt:satan]], [[:ceb:obe:other:idol]], [[:ceb:obe:kt:falsegod]], [[:ceb:obe:kt:angel]], [[:ceb:obe:kt:evil]], [[:ceb:obe:kt:unclean]])
-
+(Tan-awa usab: [[:ceb:obe:kt:demonpossessed]], [[:ceb:obe:kt:satan]], [[:ceb:obe:other:idol]], [[:ceb:obe:kt:falsegod]], [[:ceb:obe:kt:angel]], [[:ceb:obe:kt:evil]], [[:ceb:obe:kt:unclean]])
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?demon&nocomments}}
 
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:26-09|[26-09]]]** Daghan usab ang mga tawo nga **giyawaan** nga gidala nila kang Jesus. Gimandoan ni Jesus ang mga **demonyo** nga mogawas gikan sa mga tawo. Ang ubang mga demonyo naninggit pa, “Ikaw ang Anak sa Dios!”
+  * **[[:ceb:obs:notes:frames:26-09|[26-09]]]** Daghan usab ang mga tawo nga giyawaan nga gidala nila kang Jesus. Gimandoan ni Jesus ang mga demonyo nga mogawas gikan sa mga tawo. Ang ubang mga **demonyo** naninggit pa, “Ikaw ang Anak sa Dios!”
   * **[[:ceb:obs:notes:frames:32-08|[32-08]]]** Migawas ang mga **demonyo** sa lawas sa maong tawo ug mibalhin sila didto sa mga baboy.
-  * **[[:ceb:obs:notes:frames:47-05|[47-05]]]** USa ka adlaw, samtang misugod na pud ug singgit ang ulipon, nilingi si Pablo kaniya ug giingnan ni Pablo ang demonyo nga naa kaniya, “Sa ngalan ni Jesus, gawas gikan kaniya!” Diha-diha nibiya ang **demonyo** sa ulipon. 
-  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out **demons**, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people. aghimo ug mga milagro sa pagpamatuod nga siya Dios. Nilakaw siya sa tubig, gipahunong ang mga balod, nag-ayo ug mga masakiton, giabog ang mga demonyo, gibanhaw ang mga patay, ug gipakaon ang kapin sa 5,000 ka mga tawo pinaagi sa lima lang ka pan ug duha ka gagmay nga isda.
+  * **[[:ceb:obs:notes:frames:47-05|[47-05]]]** Usa ka adlaw, samtang misugod na pud ug singgit ang ulipon, nilingi si Pablo kaniya ug giingnan ni Pablo ang **demonyo** nga naa kaniya, “Sa ngalan ni Jesus, gawas gikan kaniya!” Diha-diha nibiya ang demonyo sa ulipon. 
+  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** Naghimo siya ug mga milagro sa pagpamatuod nga siya Dios. Nilakaw siya sa tubig, gipahunong ang mga balod, nag-ayo ug mga masakiton, giabog ang mga **demonyo**, gibanhaw ang mga patay, ug gipakaon ang kapin sa 5,000 ka mga tawo pinaagi sa lima lang ka pan ug duha ka gagmay nga isda.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
