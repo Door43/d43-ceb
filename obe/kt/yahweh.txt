@@ -11,16 +11,15 @@ The term "Yahweh" is God's personal name that he revealed to Moses at the burnin
   * However, the ULB and UDB only translate God's name literally, as "Yahweh."
   * In the New Testament, the original text uses the terms, "God" or "Lord" or "Father" to refer to God; the term "Yahweh" is not used in the New Testament. 
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * This term could be translated by a word or phrase that means "I am" or "living one" or "the one who is" or "he who is alive."
-  * This term could also be written in a similar way to how "Yahweh" is spelled.
-  * Note that "Jehovah" is //not// a good translation of this term. In the past, the Jews said "Lord" instead of Yahweh and eventually some people took the vowels from the Hebrew word for Lord and replaced the vowels in the Hebrew word Yahweh. This resulted in the contrived spelling, "Jehovah," which is //not// an accurate way to spell God's personal name.
+  * Kani nga termino mahimong hubaron sa pulong o hugpong sa mga pulong nga nagpasabot "Ako" o "ako nga buhi" o "ang usa ka buhi" o "siya nga buhi."
+  * Kini nga termino mahimo usab nga sulaton susama sa pamaagi sa pagsulat sa "Yahweh".
+  * Hinumdumi nga ang "Jehovah" dili //tama// nga paghubad niini nga termino. Kaniadto, ang mga Hudyo nagaingon ug "Ginoo" puli sa Yahweh, ug sa kadugayan ang ubang tawo gikuha nasab ang bokales gikan sa Hebreo nga pulong sa Ginoo; ug gipulihan sa bokales sa Hebreo nga pulong sa Yahweh. Kini nag resulta sa pagkasulat sa "Jehovah" , apan kini dili tama nga pamaagi sa pagsulat sa personal nga pangalan sa Ginoo.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
- 
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:ceb:obe:kt:god|God]], [[lord]], [[ceb:obe:other:moses]] other)
+(Tan-awa usab: [[:ceb:obe:kt:god|God]], [[:ceb:obe:kt:lord|lord, master, sir]], [[:ceb:obe:other:moses|Moses]] uban pa)
 
 ===== Asa Makita sa Biblia: =====
 
