@@ -23,13 +23,13 @@ Ang apostoles mao ang mga tawo nga gipadala ni Jesus aron sa pagsangyaw mahitung
 
 {{topic>:en:bible?apostle&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:26-10|[26-10]]]** Then Jesus chose twelve men who were called his **apostles**. The **apostles**  traveled with Jesus and learned from him.
-  * **[[:ceb:obs:notes:frames:30-01|[30-01]]]** Jesus sent his **apostles**  to preach and to teach people in many different villages.
-  * **[[:ceb:obs:notes:frames:38-02|[38-02]]]** Judas was one of Jesus' **apostles**. He was in charge of the **apostles'**  money bag, but he loved money and often stole from the bag.
-  * **[[:ceb:obs:notes:frames:43-13|[43-13]]]** The disciples devoted themselves to the **apostles'**  teaching, fellowship, eating together, and prayer.
-  * **[[:ceb:obs:notes:frames:46-08|[46-08]]]** Then a believer named Barnabas took Saul to the **apostles**  and told them how Saul had preached boldly in Damascus.
+  * **[[:ceb:obs:notes:frames:26-10|[26-10]]]** Unya nagpili si Jesus ug dose ka tawo ug gitawag sila nga iyang mga **apostoles**. Giuban-uban niya ang mga **apostoles** bisan asa ug gitudloan niya sila.
+  * **[[:ceb:obs:notes:frames:30-01|[30-01]]]** Gisugo ni Jesus ang iyang mga **apostoles** sa pagsangyaw ug pagtudlo sa mga katawhan sa lain-laing mga lugar.
+  * **[[:ceb:obs:notes:frames:38-02|[38-02]]]** Naay usa sa **apostoles** ni Jesus nga ginganlan ug Judas. Siya ang tig-dumala sa kuwarta sa mga **apostoles**, hakug siya sa kuwarta ug kanunay siyang mangawat sa kuwarta nga iyang gigunitan.
+  * **[[:ceb:obs:notes:frames:43-13|[43-13]]]** Nagpadayon ug paminaw ang mga sumusunod sa mga gipanudlo sa mga **apostoles**. Kanunay sila nagtigum, nangaon, ug nag-ampo.
+  * **[[:ceb:obs:notes:frames:46-08|[46-08]]]** Gisulti ni Barnabas ang kaisog ni Saulo sa pagsangyaw didto sa Damasco. Sukad niadto, gidawat na si Saulo sa mga **apostoles**.
 
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
