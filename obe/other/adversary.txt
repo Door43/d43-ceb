@@ -9,15 +9,8 @@ Ang kaaway mao ang tawo o grupo sa usa ka tawo o ubang butang.
   * Sa Biblia, ang yawa mao ang gipasabot isip ang "kaaway" ug ang "kaaway."
   * Ang kaaway mamahimong hubaron isip "kontra" o "kaaway," pero mosugyot sa makusganong porma sa laing grupo.
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
-
-{{topic>:en:bible?adversary&nocomments&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
+{{topic>:en:bible?adversary&nocomments&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
