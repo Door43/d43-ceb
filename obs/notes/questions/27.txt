@@ -1,33 +1,33 @@
-====== Story #27: The Story of the Good Samaritan ======
+====== Istorya #27:Ang Maayong Samaritanhon ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-
-**[[en/obs/notes/questions/26|<< ]] | [[en/obs/notes/questions/28| >>]]**
+  - **Unsa ang pangutana sa hanas sa balaod sa mga Judio ngadto kang Jesus?**
+      * //Magtutudlo, unsay angay nakong buhaton aron makaangkon ko ug kinabuhi nga walay kataposan? [27-01]//
+  - **Unsa ang pangutana ni Jesus isip tubag sa hanas sa balaod?**
+      * //Nangutana siya, “Unsay nahisulat sa balaod sa Dios?” [27-01]//
+  - **Kinsa ang atong higugmaon sumala sa giingon sa balaod sa Dios?**
+      * //Ang Ginoo nga atong Dios ug ang atong mga silingan. [27-02]//
+  - **Nganong nangutana man ang hanas sa balaod kung kinsa ang iyang silingan?**
+      * //Gusto niya nga pamatud-an nga siya matarong. [27-03]//
+  - **Sa istorya ni Jesus, unsa ang nahitabo sa usa ka Judio samtang siya nagpanaw?**
+      * //Gitulis siya sa mga tulisan, Gikuha nila ang tanan nga anaa kaniya ug gibun-og nila siya ug maayo hangtod nga hapit na siya mamatay. [27-05]//
+  - **Kinsa ang unang tawo nga nakakita sa tawo nga samdan?**
+      * //Ang Judio nga pari. [27-06]//
+  - **Unsa ang gibuhat sa pari pagkakita niya sa tawo nga samdan?**
+      * //Mipadaplin siya sa dalan ug milabay lang. [27-06]//
+  - **Kinsa ang ikaduhang tawo nga nakakita sa tawong samdan ug milabay lang.**
+      * //Ang Libita. [27-07]//
+  - **Unsa ang gibuhat sa Libita pagkakita niya sa tawong samdan?**
+      * //Mipadaplin usab siya sa dalan ug wala magpakabana sa nanginahanglan ug tabang. [27-07] //
+  - **Kinsa ang ikatulo nga tawo nga nakakita sa tawo nga samdan?**
+      * //Ang Samaritanhon. [27-08]//
+  - **Unsa ang pagtagad sa mga Judio sa mga Samaritanhon?**
+      * //Nagdinumtanay sila. [27-08]//
+  - **Giunsa sa Samaritanhon pagtabang ang tawo nga samdan?**
+      * //Gitambalan niya ang iyang mga samad, ug gidala sa usa ka balay nga abanganan, ug giatiman siya. [27-09] [27-10]//
+  - **Kinsa sa tulo ka tawo ang silingan sa tawo nga samdan?**
+      * //Ang Samaritanhon nga naluoy kaniya. [27-11]//
+**[[:ceb:obs:notes:questions:26|<< ]] | [[:ceb:obs:notes:questions:28| >>]]**
