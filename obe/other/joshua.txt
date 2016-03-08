@@ -1,22 +1,21 @@
 ====== Joshua ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-There were several Israelite men named Joshua in the Bible. The most well-known is Joshua son of Nun who was Moses' helper and who later became an important leader of God's people.
+There were several Israelite men named Joshua in the Bible. The most well-known is Joshua son of Nun who was Moses' helper and who later became an important leader of God's people. Adunay pipila ka
 
-  * Joshua was one of the twelve spies whom Moses sent to explore the Promised Land.
-  * Along with Caleb, Joshua showed his courage and trust in God when he encouraged the Israelites to obey God's command to enter the Promised Land and defeat the Canaanites.
-  * Many years later, after Moses died, God appointed Joshua to lead the people of Israel into the Promised Land.
-  * In the first and most famous battle against the Canaanites, Joshua led the Israelites to defeat the city of Jericho, as God had told him to do.
-  * The Old Testament book of Joshua was written about the events that happened during Joshua's leadership, including the conquest of the Promised Land and the division of the land for the tribes of Israel.
-  * A different man named Joshua is mentioned in the Old Testament books of Haggai and Zechariah. This Joshua was a high priest who helped rebuild the walls of Jerusalem. He was the son of Jozadak.
-  
+  * Si Joshua usa sa mga dose ka espiya nga gipadala ni Moises ngadto sa Yutang Saad aron susihon kini.
+  * Kauban ni Joshua si Caleb nga nagpakita sa ilang kaisug ug pagsalig sa Dios sa dihang gidasig niya ng mga Israelita sa pagtuman sa sugo sa Dios nga mosulod sa Yutang Saad ug pildihon ang mga Canaanhon;
+  * Pila ka tuig ang milabay, pagkamatay ni Moises, gipili sa Dios si Joshua aron mangulo sa katawhan sa Israel ngadto sa Yutang Saad.
+  * Sa pinakauna ug bantugan nga gubat batok sa Canaanhon, gipangulohan ni Joshua ang mga Israelita sa pagpildi sa mga katawhan sa siyudad sa Jericho didto sa Canaan, sumala sa gipabuhat sa Dios kaniya.
+  * Ang libro ni Josue sa Daang Sugo nasulat mahitungod sa panghitabo sa panahon sa pagpamuno ni Josue, lakip na ang pagpangdaog sa Yutang Saad ug sa pagbahinbahin sa yuta sa kada tribu sa Israel.
+  * Sa Daang Sugo, n aghisgot ug lahi nga Josue ang libro sa Hageo ug Zacarias. Usa siya ka punong pari nga maoy nagtabang sa pagpatukod pag-usab sa pader sa Jerusalem. Siya anak ni Jozadak.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Mga Posibleng Pamaagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[ceb:obe:other:moses]], [[ceb:obe:kt:promisedland]], [[:ceb:obe:other:Jericho]], [[:ceb:obe:other:Canaan]])
- 
+(Tan-awa usab: [[:ceb:obe:other:moses|Moses]], [[:ceb:obe:kt:promisedland|Promised Land]], [[:ceb:obe:other:jericho|Jericho]], [[:ceb:obe:other:canaan|Canaan, Canaanite]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?joshua&nocomments}}
