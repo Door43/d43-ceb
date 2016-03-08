@@ -11,14 +11,13 @@ Ang apostoles mao ang mga tawo nga gipadala ni Jesus aron sa pagsangyaw mahitung
   * Ang dose ka mga apostoles aduna katungdanan nga pariha kang Jesus, nga mao'y nagpadala kanila.
   * Ang pulong “pagkaapostol” nagpasabot kini nga katungdanan sa mga gipili nga mahimong apostoles.
 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
-  * The word "apostle" can also be translated with a word or phrase that means, "someone who is sent out" or "sent out one" or "person who is called to go out and preach God's message to people."
-  * It is important to translate the terms "apostle" and "disciple" in different ways from each other.
-  * Also consider how this term was translated in a Bible translation in a local or national language. (See [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang pulong nga “apostoles” mahubad usab nga, “adunay gipadala” o “gipalakaw” o ang tawo nga gitawag aron sa pagwali sa pulong sa Dios.
+  * Mahinungdanon gayod nga dili pareha ang paghubad sa pulong nga “apostoles” ug “tinun-an.” 
+  * Kinahanglang tan-awon usab nimo kung giunsa paghubad ang pulong nga “apostoles” sa pinulongan sa usa ka tribo o sa nasodnong pinulongan. (Tan-awa [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ceb:obe:kt:disciple|disciple]], [[:ceb:obe:kt:thetwelve]], [[:ceb:obe:kt:authority|authority]])
-
+(Tan-awa usab: [[:ceb:obe:kt:disciple|disciple]], [[:ceb:obe:kt:thetwelve]], [[:ceb:obe:kt:authority|authority]])
 ===== Bible References: =====
 
 {{topic>:en:bible?apostle&nocomments}}
