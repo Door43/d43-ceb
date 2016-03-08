@@ -14,16 +14,25 @@ Galilia mao ang pinaka amihang bahin sa Israel, pinakalayong amihan kumpara sa S
 
 {{topic>:en:bible?galilee&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:21-10|[21-10]]]**  The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners. 
-  ***[[:ceb:obs:notes:frames:26-01|[26-01]]]**  After overcoming Satan's temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee** where he lived.
-  ***[[:ceb:obs:notes:frames:39-06|[39-06]]]**  Finally, the people said, "We know that you were with Jesus because you both are from **Galilee**."
-  ***[[:ceb:obs:notes:frames:41-06|[41-06]]]**  Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to **Galilee** ahead of you.'"
+  * **[[:ceb:obs:notes:frames:21-10|[21-10]]]** The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners.
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-~~DISCUSSION~~
+      * **[[:ceb:obs:notes:frames:21-09|[21-09]]]**Gipropesiya ni propeta Isaias nga matawo ang Mesiyas sa babayeng ulay.
+      * **[[:ceb:obs:notes:frames:21-10|[21-10]]] **Miingon si propeta Isaias nga ang Mesiyas mopuyo sa Galilea, molamdag sa nasakitan nga mga tawo, ug mopadayag sa kagawasan ngadto sa mga dinakpan ug mopagawas sa mga piniriso.
+      * **[[:ceb:obs:notes:frames:21-11|[21-11]]] **Gitagna usab ni propeta Isaias nga ang Mesiyas dumtan ug isalikway bisan walay igong rason.
+      * **[[:ceb:obs:notes:frames:21-12|[21-12]]] **Gitagna ni Isaias nga luwaan siya sa mga tawo, biay-biayon, ug bun-ogon.
+      * **[[:ceb:obs:notes:frames:26-02|[26-02]]] **Gihatagan siya ug linukot nga basahon ni propeta Isaias aron ipabasa kaniya. Gibukhad ni Jesus ang linukot ug gibasa niya ang usa ka bahin niini alang sa mga tawo. \\
+      * **[[:ceb:obs:notes:frames:45-08|[45-08]]] **Sa dihang duol na sa karwahe si Felipe, nadunggan niya ang Etiopianhon nga nagbasa sa sinulat ni propeta Isaias \\
+      * **[[:ceb:obs:notes:frames:45-10|[45-10]]] **Giingnan ni Felipe ang Etiopianhon nga si Jesus ang gipasabot ni Isaias.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
+~~NOCACHE~~
 
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee**  where he lived.
+  * **[[:ceb:obs:notes:frames:39-06|[39-06]]]** Finally, the people said, "We know that you were with Jesus because you both are from **Galilee**."
+  * **[[:ceb:obs:notes:frames:41-06|[41-06]]]** Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to **Galilee**  ahead of you.'"
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
