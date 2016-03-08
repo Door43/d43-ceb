@@ -16,17 +16,14 @@ Peace is the absence of any conflict, fear, or intimidation.
 {{topic>:en:bible?peace&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:15-06|[15-06]]]** God had commanded the Israelites not to make a **peace** treaty with any of the people groups in Canaan.  
-  ***[[:ceb:obs:notes:frames:15-12|[15-12]]]** Then God gave Israel **peace** along all its borders. 
-  ***[[:ceb:obs:notes:frames:16-03|[16-03]]]** Then God provided a deliverer who rescued them from their enemies and brought **peace** to the land. 
-  ***[[:ceb:obs:notes:frames:21-13|[21-13]]]** He (Messiah) would die to receive the punishment for other people's sin. His punishment would bring **peace** between God and people. 
-  ***[[:ceb:obs:notes:frames:48-14|[48-14]]]** David was the king of Israel, but Jesus is the king of the entire universe! He will come again and rule his kingdom with justice and **peace**, forever.
-  ***[[:ceb:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with **peace** and justice, and he will be with his people forever. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:15-06|[15-06]]]** Nagmando ang Dios sa mga Israelita nga dili maghimo ug kasabotan sa **kalinaw**  ngadto sa mga katawhan sa Canaan.
+  * **[[:ceb:obs:notes:frames:15-12|[15-12]]]** Unya gihatagan usab sila sa Dios ug** kalinaw**  sa ubang mga katawhan sa ilang palibot.
+  * **[[:ceb:obs:notes:frames:16-03|[16-03]]]** Busa nagtuboy ang Dios ug tawo nga moluwas sa mga Israelita ug maghatag ug **kalinaw**  sa ilang pinuy-anan.
+  * **[[:ceb:obs:notes:frames:21-13|[21-13]]]** Mamatay siya (Mesiyas) ug dawaton ang silot sa sala sa ubang mga tawo. Ang iyang kamatayon maoy maghatag ug** kalinaw**  tali sa Dios ug sa mga tawo.
+  * **[[:ceb:obs:notes:frames:48-14|[48-14]]]** Si David ang hari Israel, apan si Jesus ang hari sa langit ug sa tibuok kalibotan. Mobalik siya ug maghari sa iyang gingharian uban ang hustisya ug **kalinaw**, hangtod sa walay kataposan.
+  * **[[:ceb:obs:notes:frames:50-17|[50-17]]]** Magadumala si Jesus sa iyang gingharian inubanan sa** kalinaw**  ug hustisya, ug kauban niya ang iyang mga katawhan sa walay kataposan.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
