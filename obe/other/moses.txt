@@ -12,25 +12,17 @@ Si Moises usa ka propeta ug pangulo sa mga Israelita sulod sa 40 ka tuig.
 
 (Tan-awa usab: [[:ceb:obe:other:egypt|Egypt, Egyptian]], [[:ceb:obe:kt:promisedland|Promised Land]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?moses&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:ceb:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:ceb:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:ceb:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:ceb:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:09-12|[09-12]]]** One day while **Moses**  was taking care of his sheep, he saw a bush that was on fire.
+  * **[[:ceb:obs:notes:frames:12-05|[12-05]]]****Moses**  told the Israelites, "Stop being afraid! God will fight for you today and save you."
+  * **[[:ceb:obs:notes:frames:12-07|[12-07]]]** God told **Moses**  to raise his hand over the sea and divide the waters.
+  * **[[:ceb:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
+  * **[[:ceb:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
