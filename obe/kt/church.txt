@@ -7,15 +7,15 @@ Sa Biblia, ang pulong nga “simbahan” nagpasabot kini sa mga lumolupyo sa usa
   * Kung kining pulong naghisgot mahitungod sa tanang mga tumutuo sa bisan asa nga nahiusa sa lawas ni Cristo, ang ubang maghuhubad sa biblia magsulat niini nga dako ang letra (Simbahan) aron malahi kini pagpasabot gikan sa balay alampoanan.
   * Ang tinuod nga pasabot niini nga pulong kya "gitawag (sa panagtigum)." Kini nagpasabot sa katawahan o panagtapok sa katawhan alang sa mahinungdanong katuyoan.  
   * Sa Biblia, ang "simbahan" wala nagpasabot sa usa ka balay. 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
-  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
-  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
-  * Make sure that the translation of "church" does not just refer to a building.
-  * Also consider how it is translated in a local or national Bible translation. (See: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
+  * Ang pulong nga “simbahan” mahubad kini nga “tigumanan sa tanang magtotoo” o "katawhan nga nagtigum" o "magtutuo" o “ang matag-usa magtigum kanunay.” 
+  * Ang pulong nga “simbahan” gigamit sa paghubad ngadto sa tanang magtotoo, ug dili ngadto sa mga gagmay nga grupo. 
+  * Kinahanglan nga ang paghubad sa “simbahan” dili lang ngadto sa balay ampoanan.
+  * Hunahuna usab kung giunsa ang paghubad sa mga yanong maghuhubad o sa kinatibuk-ang maghuhubad sa Biblia.
+(Tna-awa: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
 
-(See also: [[:ceb:obe:kt:christian]], [[:ceb:obe:kt:believer]], [[:ceb:obe:kt:assembly]])
-
+(Tan-awa usab [[:ceb:obe:kt:christian]], [[:ceb:obe:kt:believer]], [[:ceb:obe:kt:assembly]])
 ===== Bible References: =====
 
 {{topic>:en:bible?church&nocomments}}
