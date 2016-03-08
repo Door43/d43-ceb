@@ -16,19 +16,12 @@ Midian was a people group located in the northern Arabian Desert to the south of
 
 {{topic>:en:bible?midian&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:16-03|[16-03]]]** But then the people forgot about God and started worshiping idols again. So God allowed the **Midianites**, a nearby enemy people group, to defeat them. 
-  ***[[:ceb:obs:notes:frames:16-04|[16-04]]]** The Israelites were so scared, they hid in caves so the **Midianites** would not find them. 
-  ***[[:ceb:obs:notes:frames:16-11|[16-11]]]** The man's friend said, "This dream means that Gideon's army will defeat the **Midianite** army!" 
-  ***[[:ceb:obs:notes:frames:16-14|[16-14]]]** God confused the **Midianites**, so that they started attacking and killing each other. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:16-03|[16-03]]] **Apan nalimtan sa mga tawo ang Dios ug nagsimba na usab sila sa mga dios-dios busa gitugotan na usab sa Dios ang ilang mga kaaway nga mga **Midianhon**  aron pildihon sila.
+  * **[[:ceb:obs:notes:frames:16-04|[16-04]]]** Nagtago sila sa mga langob tungod kay nangahadlok sila sa mga **Midianhon**.
+  * **[[:ceb:obs:notes:frames:16-11|[16-11]]]** Mitubag ang iyang higala, “Nagpasabot kana nga pildihon sa mga sundalo ni Gideon ang mga sundalo nga **Midianhon**.”
+  * **[[:ceb:obs:notes:frames:16-14|[16-14]]]** Gilibog sa Dios ang mga **Midianhon**  ug nag-unay sila ug away ug nagtinigbasay.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
