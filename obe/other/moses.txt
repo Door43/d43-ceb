@@ -1,17 +1,16 @@
 ====== Moises ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Moses was a prophet and leader of the Israelite people for over 40 years.  
+Si Moises usa ka propeta ug pangulo sa mga Israelita sulod sa 40 ka tuig.
 
-    * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
-    * God gave Moses the stone tablets with his commandments for the Israelite people.
-    * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+  * Gipili sa Dios si Moises aron ipagawas ang mga Israelita nga naulipon sa Ehipto ug dad-on sila sa Yutang Saad.
+  * Gihatagan sa Dios si Moises ug lapad nga bato nga nasulatan sa mga sugo niya sa mga Israelita.
+  * Sa dihang tigulang na kaayo siya, gisupak niya ang Dios busa wala siya makapuyo didto sa Yutang Saad sa Canaan.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[egypt]], [[ceb:obe:kt:promisedland]])
-
+(Tan-awa usab: [[:ceb:obe:other:egypt|Egypt, Egyptian]], [[:ceb:obe:kt:promisedland|Promised Land]])
 
 ===== Bible References: =====
 
