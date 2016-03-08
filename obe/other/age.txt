@@ -14,10 +14,4 @@ Ang pulong "edad" naghisgot sa numero sa tuig sa kadugayon sa tawo nga nagpuyo. 
   * The phrase, "at a very old age" could be translated as, "at many years old" or "when he was very old" or "when he had lived a very long time." Ang hugpong sa pulong, "sa tigulang na kaayo nga edad" "mamahimong hubaron isip, "sa daghan na kaayo nga mga katuigan" o "diin tigulang na kaayo sila" o "diin mipuyo siya sa hataas kaayo nga panahon."
   * Ang hugpong sa pulong, "kini karong dautan nga edad" nagpasabot, "sa karon nga panahon diin ang mga tawo dautan na kaayo sa karon."
 
-===== Bible References: =====
-
-{{topic>age&nocomments}}~~DISCUSSION~~
-
-~~NOCACHE~~
-
-{{tag>publish}}
+===== c =====
