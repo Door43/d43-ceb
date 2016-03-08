@@ -1,4 +1,4 @@
-====== halad, halad nga mga mananap ======
+====== halad, halad nga mananap ======
 
 ===== Ipasabot: =====
 
@@ -12,15 +12,15 @@ Ang pulong nga "halad" nagpasabot sa bisan unsa nga gihatag ngadto sa Dos o sa u
 ===== Posibleng Paagi sa Paghubad =====
 
   * Ang "halad" mahimong hubaron nga "gasa alang sa Dios" o "gihatag ngadto sa Dios" o "mahinungdanong gasa nga gihatag ngadto sa Dios" o "balaang gasa."
-  * Ang "halad mananap" mahimong hubaron nga "giihaw nga mananap ug gihatag ngadto sa Dios" o "karne nga gihalad sa Dios" o "karne nga gihalad ngadto sa dios-dios."
+  * Ang "halad nga mananap" mahimong hubaron nga "giihaw nga mananap ug gihatag ngadto sa Dios" o "karne nga gihalad sa Dios" o "karne nga gihalad ngadto sa dios-dios."
 
 (Tan-awa usab: [[:ceb:obe:kt:priest|priest]], [[:ceb:obe:other:altar|altar]], [[:ceb:obe:other:burntoffering|burnt offering, offering by fire]], [[:ceb:obe:other:sinoffering|sin offering]], [[:ceb:obe:other:drinkoffering|drink offering]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?sacrifice&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
   * **[[:ceb:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an altar and **sacrificed**  some of each kind of animal which could be used for a **sacrifice**. God was happy with the **sacrifice**  and blessed Noah and his family.
   * **[[:ceb:obs:notes:frames:05-06|[05-06]]]**"Take Isaac, your only son, and kill him as a **sacrifice**  to me." Again Abraham obeyed God and prepared to **sacrifice**  his son.
