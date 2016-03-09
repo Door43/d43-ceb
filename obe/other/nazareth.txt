@@ -14,15 +14,12 @@ Ang Nazaret mao ang nasod sa rehiyon sa Galilea sa amihan sa Israel.
 
 {{topic>:en:bible?Nazareth&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Kamatuoran: =====
 
-  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in **Nazareth** to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  ***[[:ceb:obs:notes:frames:26-02|[26-02]]]** Jesus went to the town of **Nazareth** where he had lived during his childhood.
-  ***[[:ceb:obs:notes:frames:26-07|[26-07]]]** The people of **Nazareth** dragged Jesus out of the place of worship and brought him to the edge of a cliff to throw him off of it in order to kill him.
+Ang Nazaret mao ang nasod sa rehiyon sa Galilea sa amihan sa Israel.
 
-~~DISCUSSION~~
+  * Si Jose ug Maria gikan sa Nazaret, kung asa gibanhaw si Jesus.
+  * Daghang tawo sa Nazaret wala mirespito sa pagtudlo ni Jesus, kay si Jesus midako uban kanila, ug nagtuo sila nga siya ordinaryo lamang nga tawo.
+  * Ang mga tawo sa Nazaret misulay sa pagpatay kang Jesus sa dihang miingon siya nga siya usa ka Mesiyas.
 
-
-{{tag>publish ktobs}}
-
-~~NOCACHE~~
+(Tan-awa usab: [[:ceb:obe:other:galilee|Galilia, mga taga Galilia]], [[:ceb:obe:other:josephnt|Joseph (NT)]], [[:ceb:obe:other:mary|Maria]], [[:ceb:obe:kt:christ|Christ, Messiah]])
