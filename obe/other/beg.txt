@@ -15,14 +15,14 @@
 
 {{topic>:en:bible?beg&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:10-04|[10-04]]]** God sent frogs all over Egypt. Pharaoh **begged** Moses to take away the frogs.
-  ***[[:ceb:obs:notes:frames:29-08|[29-08]]]** "The king called the servant and said, 'You wicked servant! I forgave your debt because you **begged** me."
-  ***[[:ceb:obs:notes:frames:32-07|[32-07]]]** The demons **begged** Jesus, "Please do not send us out of this region!" There was a herd of pigs feeding on a nearby hill. So, the demons **begged** Jesus, "Please send us into the pigs instead!"
-  ***[[:ceb:obs:notes:frames:32-10|[32-10]]]** The man who used to have the demons **begged** to go along with Jesus.
-  ***[[:ceb:obs:notes:frames:35-11|[35-11]]]** His father came out and **begged** him to come and celebrate with them, but he refused."
-  ***[[:ceb:obs:notes:frames:44-01|[44-01]]]** One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was **begging** for money.
+  ***[[:ceb:obs:notes:frames:10-04|[10-04]]]** Nagpadala na usab ang Dios ug baki sa tibuok Ehipto, ug **nagpakilooy** si Paraon kang Moises nga kuhaon ang mga baki.
+  ***[[:ceb:obs:notes:frames:29-08|[29-08]]]** “Gipatawag sa hari ang sulugoon ug giingnan, ‘Daotan ka nga sulugoon! Gikalimtan ko na gani ang imong mga utang tungod kay **nagpakilooy** ka kanako.
+  ***[[:ceb:obs:notes:frames:32-07|[32-07]]]** **Nagpakilooy** ang mga demonyo kang Jesus, “Palihog ayaw kami papahawaa dinhi nga rehiyon!” Niadtong tungora anaay panon sa  mga baboy nga nag-ungad sa ubos sa bungtod. Busa, **nagpakilooy** ang mga demonyo kang Jesus, “Palihog pabalhina na lang kami sa mga baboy!”
+  ***[[:ceb:obs:notes:frames:32-10|[32-10]]]** Ug **mihangyo** ang tawo nga iyang giayo nga mokuyog kaniya.
+  ***[[:ceb:obs:notes:frames:35-11|[35-11]]]** Migawas ang iyang amahan ug **gihangyo** siya nga mosulod ug magsaulog uban kanila, apan mibalibad siya.”
+  ***[[:ceb:obs:notes:frames:44-01|[44-01]]]** Usa ka adlaw, niadto si Pedro ug Juan sa templo. Sa dihang duol na sila sa ganghaan sa templo, nakakita sila ug bakol nga **nagpakilimos**.
 
 
 ~~DISCUSSION~~
