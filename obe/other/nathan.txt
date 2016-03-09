@@ -16,18 +16,25 @@ Si Natan mao ang matinud-anon nga propeta sa Dios sa panahon nga si David pa ang
 
 {{topic>:en:bible?nathan&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:17-07|[17-07]]]** God sent the prophet **Nathan** to David with this message, "Because you are a man of war, you will not build this Temple for me."
-  ***[[:ceb:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the prophet **Nathan** to tell David how evil his sin was. 
-
-
-~~DISCUSSION~~
+  * **[[:ceb:obs:notes:frames:17-07|[17-07]]]**
+Apan nagpadala ang Dios ug propeta nga si **Natan ** ug gipaistoryahan niya si David, "Manggugubat ka, mao nga dili ikaw ang mobuhat niini nga templo alang kanako.
 
 
-{{tag>publish ktobs}}
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]**
+Nasuko ug maayo ang Dios sa gibuhat ni David busa gipaistoryahan niya kang propeta **Natan ** mahitungod sa iyang sala.
+
+
+
+
+
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
