@@ -24,21 +24,73 @@ Ang pulong nga "anak" mao ang bata o hamtong na nga lalaki nga adunay ginikanan.
 
 (Tan-awa usab: [[:ceb:obe:kt:sonofgod|Son of God, the Son]], [[:ceb:obe:other:father|father, forefather]], [[:ceb:obe:other:descendant|kaliwat]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?son&nocomments}}
 
+===== Mga Pananglitang gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
+  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]**
+Gisultian pag-usab sa Dios si Abram ug gisaaran na usab nga makabaton ug anak ug mga **kaliwat ** nga sama kadagdan sa mga bituon sa langit.
 
-  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
-  * **[[:ceb:obs:notes:frames:04-09|[04-09]]]** God said, ""I will give you a **son**  from your own body."
-  * **[[:ceb:obs:notes:frames:05-05|[05-05]]]** About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's **son**.
-  * **[[:ceb:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his **son**  Isaac and laid him on an altar. He was about to kill his **son**  when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only **son**  from me."
-  * **[[:ceb:obs:notes:frames:09-07|[09-07]]]** When she saw the baby, she took him as her own **son**.
-  * **[[:ceb:obs:notes:frames:11-06|[11-06]]]** God killed every one of the Egyptians' firstborn **sons**.
-  * **[[:ceb:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son**  Solomon began to rule.
-  * **[[:ceb:obs:notes:frames:26-04|[26-04]]]**"Is this the **son**  of Joseph?‚" they said.
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:04-09|[04-09]]] **M
+iingon ang Dios, "Hatagan ko ikaw ug kaugalingon nimong **anak ** nga gikan gayod kanimo."
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:05-05|[05-05]]]**
+Paglabay sa pipila ka katuigan, nag-idad na si Abraham ug 100 ug nag-idad na usab si Sarai ug 90, unya nanganak siya sa **anak ** nila kang Abraham.
+
+
+
+
+
+ .
+  * **[[:ceb:obs:notes:frames:05-08|[05-08]]]**
+Sa dihang didto na sila sa dapit nga halaran, gigapos ni Abraham ang iyang anak nga si Isaac, ug gipahigda niya sa altar. Iya na untang patyon ang iyang **anak**, apan miingon ang Dios, “Hunong! Ayaw pasakiti ang bata! Ako nang nasayran karon nga duna ka'y kahadlok kanako, tungod kay wala mo gidalo ang imong bugtong** anak nga lalaki.**”
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:09-07|[09-07]]]**
+Unya nakita sa anak sa Paraon ang basket ug gitan-aw niya ang sulod, ug nakita niya ang bata. Gisagop niya siya ingon nga iyang kaugalingong **anak**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:11-06|[11-06]]]**
+Gipamatay sa Dios ang tanang kinamagulangang** anak nga lalaki**  sa mga Ehiptohanon.
+
+
+
+
+  * **[[:ceb:obs:notes:frames:18-01|[18-01]]]**P
+aglabay sa taas nga panahon human mamatay si David, and iyang **anak ** nga si Solomon maoy nipuli paghari sa Israel.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:26-04|[26-04]]] **
+Natingala ang tanan ug nag-ingon, "Di ba siya man ang anak ni Jose?"
+
+
+
+
+
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
