@@ -15,21 +15,13 @@ Ang pulong "biay-biay," pagbiay-biay," nagayubit sa" ang tanan naghisgot sa pagh
 
 {{topic>:en:bible?mock&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia : =====
 
-  ***[[:ceb:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:ceb:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:ceb:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:ceb:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:ceb:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:21-12|[21-12]]] **Gitagna ni Isaias nga luwaan siya sa mga tawo, biay-biayon, ug bun-ogon.
+  * **[[:ceb:obs:notes:frames:39-05|[39-05]]] **Tanan nga mga pangulo sa mga Judio mitubag,”Angay siya patyon!” Dayon ilang gitaptapan si Jesus, giluwaan siya, gisumbag, ug gibugal-bugalan.
+  * **[[:ceb:obs:notes:frames:39-12|[39-12]]] **Gilatos siya sa mga sundalo nga Romano, gisul-oban ug harianong bisti, ug gikoronahan siyag tunok. Gibugal-bugalan nila si Jesus sa pag-ingon, “Tan-awa ninyo, siya ang Hari sa mga Judio!”
+  * **[[:ceb:obs:notes:frames:40-04|[40-04]]]**"Naay duha ka tulisan nga gilansang usab sa wala ug tuo ni Jesus. Nagbugal-bugal ang usa kang Jesus apan ang usa miingon, “Wala ka ba mahadlok sa Dios?
+  * **[[:ceb:obs:notes:frames:40-05|[40-05]]] **"Gibugal-bugalan si Jesus sa mga pangulo sa mga Judio ug uban pa nga mga tawo. Miingon sila, “Kung ikaw Anak sa Dios, kanaog sa krus ug luwasa imong kaugalingon. Unya, motuo kami kanimo.” Unya ang langit sa tibuok nga rehiyon mingitngit bisan pa ug udtong tutok, hangtod nga niabot kini ug tulo ka oras. \\
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
