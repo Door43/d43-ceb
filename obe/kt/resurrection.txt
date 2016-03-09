@@ -19,8 +19,8 @@ Ang pulong "pagkabanhaw" naghisgot sa buhat nga pagkabuhi pag-usab human mamatay
 
 {{topic>:en:bible?resurrection&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  * **[[:ceb:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
+  * **[[:ceb:obs:notes:frames:21-14|[21-14]]] **Pinaagi sa kamatayon sa Mesiyas ug sa iyang pagkabanhaw, matuman sa Dios ang iyang plano nga luwason ang mga makasasala ug magsugod ang Bag-ong Kasabotan.
+  * **[[:ceb:obs:notes:frames:37-05|[37-05]]]** Si Jesus mitubag kaniya, "Ako mao ang Pagkabanhaw ug ang Kinabuhi. Si bisan kinsa nga motuo kanako mabuhi, bisan siya mamatay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
