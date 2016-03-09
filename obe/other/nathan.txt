@@ -1,17 +1,16 @@
 ====== Natan ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+Si Natan mao ang matinud-anon nga propeta sa Dios sa panahon nga si David pa ang hari sa Israel.
 
-  * God sent Nathan to confront David after David sinned grievously against Uriah.
-  * Nathan rebuked David, in spite of the fact that David was the king.
-  * David repented of his sin after Nathan spoke to him.
+  * Gisugo sa Dios si Natan nga pahimangnoan si David human siya nakahimo ug dakong sala batok kang Uria.
+  * Gibadlong ni Natan si David, bisan pa ug hari si David.
+  * Naghinulsol si David sa iyang sala human siya sultihi ni Natan.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[david]], [[uriah]])
-
+(Tan-aw usab: [[:ceb:obe:other:david|David]], [[:ceb:obe:other:uriah|Uria]])
 
 ===== Bible References: =====
 
