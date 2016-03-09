@@ -1,15 +1,14 @@
 ====== Jew, Jewish ======
 
-===== Facts: =====
+===== Kamtuoran: =====
 
-Jews are people who are descendants of Abraham through his grandson, Jacob.
+Ang mga Judio mao ang katawhan nga kaliwat ni Abraham pinaagi sa iyang apo nga si Jacob.
 
-  * People began to call the Israelites "Jews" after they returned to Judah from their exile in Babylon.
-  * The word "Jew" comes from the word "Judah." The Israelites who had been taken to Babylon were from the southern kingdom of Judah.
-  * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
+  * Ang katawhan nagtawag sa mga Israelita nga “mga Judio” sa dihang mibalik sila sa Juda gikan sa ilang paghawa sa Babilonia.
+  * Ang pulong nga “Judio” naggikan sa pulong nga “Juda”. Ang mga Israelita nga gikuha sa Babilonia gikan sila sa habagatang bahin nga gingharian sa Juda.
+  * Si Jesus nga mao ang Mesiyas, usa ka Judio. Bisan pa niini, ang mga pangulo sa relihiyon sa mga Judio misalikway kaniya ug gusto nila nga patyon siya.
 
-(See also: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]], [[:ceb:obe:other:babylon|Babylon, Babylonian]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]])
-
+(Tan-awa usab: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]], [[:ceb:obe:other:babylon|Babylon, Babylonian]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]])
 ===== Bible References: =====
 
 {{topic>:en:bible?jew&nocomments}}
