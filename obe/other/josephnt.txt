@@ -21,13 +21,14 @@ Si Jose ang kalibotanong amahan ni Jesus ug ang nagpadako kaniya.
 {{topic>:en:bible?josephnt&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a virgin and was engaged to be married to a man named **Joseph**.
-  ***[[:ceb:obs:notes:frames:23-01|[23-01]]]** **Joseph**, the man Mary was engaged to, was a righteous man. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame her, so he planned to quietly divorce her.
-  ***[[:ceb:obs:notes:frames:23-02|[23-02]]]** The angel said, "**Joseph**, do not be afraid to take Mary as your wife. The baby in her body is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
-  ***[[:ceb:obs:notes:frames:23-03|[23-03]]]** So **Joseph** married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
-  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** **Joseph** and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  ***[[:ceb:obs:notes:frames:26-04|[26-04]]]** Jesus said, "The words I just read to you are happening right now." All the people were amazed. "Isn't this the son of **Joseph**?" they said.
+  ***[[:ceb:obs:notes:frames:22-04|[22-04]]]** Ulay siya (Maria) nga babaye ug gipamalay-an na sa usa ka tawo nga ginganlan ug **Jose**.
+  ***[[:ceb:obs:notes:frames:23-01|[23-01]]]** Napamalay-an na si Maria sa usa ka tawo nga matarong nga si **Jose**. Pagkadungog niya nga buntis na si Maria, nakahibalo gayod siya nga dili niya anak ang bata. Apan dili niya gusto nga pakaulawan si Maria, busa naghunahuna siya nga bulagan niya si Maria sa tago lang.
+  ***[[:ceb:obs:notes:frames:23-02|[23-02]]]** Sa iyang damgo, miingon ang anghel, “**Jose**, ayaw pagduhaduha sa pagpangasawa kang Maria. Gikan sa Balaang Espirito ang iyang gisabak. Manganak siya ug lalaki. Nganli siya ug Jesus (nga nagpasabot, 'Manluluwas si Yahweh'), tungod kay luwason niya ang mga tawo gikan sa ilang mga sala.”
+  ***[[:ceb:obs:notes:frames:23-03|[23-03]]]** Busa giminyoan ni **Jose** si Maria ug gidala sa iyang panimalay. Apan wala niya siya hilabti hangtod nga nanganak na siya.
+  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** Busa kinahanglan nga moadto si **Jose** ug si Maria sa Betlehem ug 
+layo kini gikan sa Betlehem, tungod kay didto natawo ang ilang apohan nga si David.
+  ***[[:ceb:obs:notes:frames:26-04|[26-04]]]** Miingon si Jesus, “Ang akong gibasa kaninyo, nahitabo na karon.” Natingala ang tanan ug nag-ingon, “Di ba siya man ang anak ni **Jose**?” 
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
