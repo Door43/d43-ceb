@@ -13,15 +13,14 @@ In the Bible, a priest was someone who was chosen to pray and offer sacrifices t
   * God also calls every believer in Jesus a "priest" who can come directly to God in prayer to intercede for himself and other people.
   * In Bible times, there were also priests who presented offerings to false gods such as Baal.
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * The term "priest" could be translated as "sacrifice person (for God)" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
-  * The translation of "priest" should be different from the translation of "mediator."
-  * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
-  * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
+  * Ang "pari" mahimong hubaron sa pulong nga "halad nga tawo(para sa Dios)" o "tigpataliwala sa Dios" o "tighalad " o "tawo nga gipili sa Dios nga morepresentar kaniya."
+  * Ang paghubad sa "pari" kinahanglan nga lahi sa pagkahubad sa "tigpataliwala."
+  * Sa uban nga pagkahubad muingon nga "pari sa Israelita" o "pari sa hudyo" o "pari ni Yahweh" aron klarohon ang punto nga kini wala naghisgot sa usa ka moderno nga pari.
+  * Ang termino nga gigamit sa paghubad sa "pari" kinahanglan nga lahi sa pulong nga "pangulong pari" o "punong pari" o "lebita" ug "propeta."
 
-(See also: [[ceb:obe:other:aaron]], [[ceb:obe:other:sacrifice]], [[ceb:obe:other:chiefpriests]], [[:ceb:obe:kt:highpriest]], [[:ceb:obe:other:mediator]])
-
+(Tan-awa usab: [[:ceb:obe:other:aaron|Aaron]], [[:ceb:obe:other:sacrifice|halad, halad nga mananap]], [[:ceb:obe:other:chiefpriests|chief priests]], [[:ceb:obe:kt:highpriest|high priest]], [[:ceb:obe:other:mediator|mediator]])
 
 ===== Asa Makita sa Biblia: =====
 
