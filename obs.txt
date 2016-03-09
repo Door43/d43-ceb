@@ -14,6 +14,6 @@ Aron daghan pa ang masayran mahitungod sa Open Bible Stories, bisitaha ang [[htt
 
 Mahimo ka moapil sa grupo sa maghuhubad sa Open Bible Stories ug sugdi ang paghubad. Humana ang nasugdan na ug hubad, o tabang sa pagpanindot sa nahuman na ug hubad. Tun-i pa ug maayo ang [[:en:get-started|how you can get started]] o basaha kining [[:en:obs:help|help section]].
 
-==== Stories in Cebuano ====
+==== Mga Istorya sa Cebuano ====
 
 {{page>ceb:obs:stories}}
