@@ -14,16 +14,15 @@ Ang pulong nga "anak" mao ang bata o hamtong na nga lalaki nga adunay ginikanan.
       * "anak nga lalaki sa kalinaw"
       * "mga anak nga lalaki sa dalugdog"
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * In most occurrences of this term, it is best to translate "son" using the literal term in the language that is used to refer to a son.
-  * When translating the term "Son of God," the usual, common term for "son" should be used.
-  * When used to refer to a descendant rather than a direct son, the term "descendant" could be used, as in referring to Jesus as the "descendant of David" or in genealogies where sometimes "son" refers to a male descendant.
-  * Sometimes "sons" can be translated as "children" when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
-  * The figurative expression "son of" can be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
+  * Kasagaran kining gigamit nga pulong nga nagpasabot ug "anak nga lalaki" ug maayo nga literal ang paghubad niini sa mga pinulongan nga adunay pulong alang sa anak nga lalaki.
+  * Kung hubaron ang pulong nga "Anak sa Dios" ang pulong nga gamiton alang sas "anak nga lalaki" ang mahimong gamiton sa paghubad niini.
+  * Kung kaliwat na ang gipasabot niini ug dili na kaugalingong anak ang ipasabot, ang pulong nga "kaliwat" ang mahimong gamiton, sama sa "kaliwat ni David" sa dihang gihisgotan si Jesus, o ang mga listahan sa banay nga kasagarang nigamit ug "anak nga lalaki" aron hisgotan ang mga lalaki nga kaliwatan.
+  * Usahay ang "mga anak nga lalaki" mahimong hubaron nga "mga anak" kung apil usab ang mga babaye sa gihisgotan. Pananglitan, ang "mga anak nga lalaki sa Dios" mahimong hubaron nga "mga anak sa Dios" tungod kay kini naglangkob ug mga lalaki ug mga babaye.
+  * Ang sumbingay nga "anak ni" mahimong hubaron nga "tawo nga adunay kinaiya o abilidad nga" o "tawo nga sama sa" o "tawo nga adunay" o "tawo nga nagbuhat sama kang/sa"
 
-(See also: [[:ceb:obe:kt:sonofgod]], [[:ceb:obe:other:father]], [[:ceb:obe:other:descendant]])
-
+(Tan-awa usab: [[:ceb:obe:kt:sonofgod|Son of God, the Son]], [[:ceb:obe:other:father|father, forefather]], [[:ceb:obe:other:descendant|kaliwat]])
 
 ===== Bible References: =====
 
