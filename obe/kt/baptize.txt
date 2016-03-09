@@ -23,15 +23,15 @@ Sa Daang Kasabutan, ang pulong "nagabawtismo" ug "bunyag" kasagaran naghisgot sa
 
 {{topic>:en:bible?baptize&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya saa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * **[[:ceb:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be **baptized**  by John.
-  * **[[:ceb:obs:notes:frames:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
-  * **[[:ceb:obs:notes:frames:42-10|[42-10]]]** So go, make disciples of all people groups by **baptizing**  them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:ceb:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be **baptized**  in the name of Jesus Christ so that God will forgive your sins."
-  * **[[:ceb:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were **baptized**  and became part of the church at Jerusalem.
-  * **[[:ceb:obs:notes:frames:45-11|[45-11]]]** As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be **baptized**?"
-  * **[[:ceb:obs:notes:frames:46-05|[46-05]]]** Saul immediately was able to see again, and Ananias **baptized**  him.
-  * **[[:ceb:obs:notes:frames:49-14|[49-14]]]** Jesus invites you to believe in him and be **baptized**.
+  * **[[:ceb:obs:notes:frames:24-03|[24-03]]]** Sa pagkadungog sa mga tawo sa iyang mensahe, daghan ang naghinulsol sa ilang mga sala, ug gibawtismohan sila ni Juan. Daghan usab ang mga pangulo sa relihiyon sa mga Judio nga miadto kang Juan aron pagpabawtismo, apan wala sila maghinulsol o magsugid sa ilang mga sala. \\
+  * **[[:ceb:obs:notes:frames:24-06|[24-06]]] **Sunod adlaw, miabot si Jesus aron sa pagpabawtismo kang Juan.
+  * **[[:ceb:obs:notes:frames:24-07|[24-07]]]**"Miingon si Juan kang Jesus, “Dili ko takos sa pagbawtismo nimo. Ikaw unta ang mobawtismo sa akoa.”
+  * **[[:ceb:obs:notes:frames:42-10|[42-10]]]**Adtoi ninyo ang mga tawo sa tanan nga dapit ug himoa ninyo sila nga akong mga tinun-an, bawtismohi ninyo sila sa ngalan sa Amahan, sa Anak, ug sa Balaang Espiritu. Tudloi ninyo sila sa pagtuman sa tanan nga akong gisugo kaninyo. Hinumdomi nga ako mag-uban kanunay kaninyo.”
+  * **[[:ceb:obs:notes:frames:43-11|[43-11]]]**" Gitubag sila ni Pedro, “Kinahanglan nga maghinulsol mong tanan ug magpabawtismo sa ngalan ni Jesu-Cristo aron mapasaylo ang inyong mga sala.  \\
+  * **[[:ceb:obs:notes:frames:43-12|[43-12]]] **Mga 3,000 ka mga tawo ang mituo sa giingon ni Pedro ug nahimo silang mga magtutuo ni Jesus. Gibawtismohan sila ug niapil na sila sa mga magtutuo sa Jerusalem.
+  * **[[:ceb:obs:notes:frames:45-11|[45-11]]]** Samtang nagpadayon sila sa ilang panaw, miabot sila sa dapit nga dunay tubig. Miingon ang Etiopianhon kang Felipe, “Tan-awa, adunay tubig dinhi. Mahimo ba ako nimong bawtismohan?” \\
+  * **[[:ceb:obs:notes:frames:46-05|[46-05]]]**Diha-diha nakakita na pud si Saulo ug gibawtismohan siya ni Ananias.
+  * **[[:ceb:obs:notes:frames:49-14|[49-14]]]** Gidapit kita ni Jesus sa pagtuo kaniya ug pagpabawtismo.
 ~~DISCUSSION~~{{tag>publish ktobs}}
