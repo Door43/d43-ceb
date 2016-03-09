@@ -1,17 +1,16 @@
 ====== supak, masinupakon, pagsupak ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
+Ang pulong nga "pagsupak" nagpasabot nga dili motuman sa sulti o sugo sa tawo nga adunay katungod sa pagsugo. Ang tawo nga dili motuman "masinupakon."
 
-  * A person who does something he was told not to do is disobeying.
-  * To disobey also means to refuse to do something that was commanded.
-  * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
-  * The term "disobedience" means "the act of not obeying" or "behavior that is against what God wants."
-  * A "disobedient people" could be translated by "people who keep on disobeying" or "people who do not do what God commands."
+  * Ang tawo nga mobuhat kon unsa ang ginadili usa ka masinupakon.
+  * Ang pagsupak mao usab ang pagdumili o dili pagtuman sa bisan unsa nga gisugo nga buhaton.
+  * Ang pulong nga "masinupakon" mao ang naghulagway sa sa batasan o kinaya sa tawo nga kanunay nagsupak o nagrebelde. Nagpasabot kini nga makasasala siya ug daotan.
+  * Ang pulong "pagsupak" nagpasabot nga "usa ka buhat nga mao ang dili pagtuman" o "batasan nga supak sa gusto sa Dios."
+  * Ang "masinupakon nga mga tawo" mahimong hubaron nga "mga tawo nga kananuy mosupak" o "mga tawo nga dili motuman sa ipabuhat sa Dios."
 
 (See also: [[:ceb:obe:kt:authority|authority]], [[:ceb:obe:kt:evil|evil, wicked, wickedness]], [[:ceb:obe:kt:sin|sin, sinful, sinner]], [[:ceb:obe:other:obey|obey, obedient]])
-
 ===== Bible References: =====
 
 {{topic>:en:bible?disobey&nocomments}}
