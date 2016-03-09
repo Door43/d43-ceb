@@ -17,14 +17,13 @@ An idol is an object that people make so they can worship it. Something is descr
 
 {{topic>:en:bible?idol&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:13-05|[13-05]]]** "Do not make **idols** or worship them, because I, Yahweh, am a jealous God."
-  ***[[:ceb:obs:notes:frames:13-12|[13-12]]]** Aaron made a golden **idol** in the shape of a calf. The people began to wildly worship the **idol** and make sacrifices to it!
-  ***[[:ceb:obs:notes:frames:14-03|[14-03]]]** "You must completely destroy all of their **idols**. If you do not obey me, you will worship their **idols** instead of me."
-  ***[[:ceb:obs:notes:frames:18-12|[18-12]]]** All of the kings and most of the people of the kingdom of Israel worshiped **idols**. This kind of worship often included sexual immorality and sometimes even child sacrifice.
-  ***[[:ceb:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping **idols** and to start showing justice and mercy to others.
-
+  * **[[:ceb:obs:notes:frames:13-05|[13-05]]]**"Ayaw kamo paghimo ug **dios-dios**  ug pagsimba niini, tungod kay ako si Yahweh, ang abughoan nga Dios.
+  * **[[:ceb:obs:notes:frames:13-12|[13-12]]]** Busa naghimo si Aaron ug bulawan nga rebulto nga porma ug nating baka. Ang katawhan nagsugod sa malaw-ay nga pagsimba sa ilang **dios-dios**  ug naghalad niini!
+  * **[[:ceb:obs:notes:frames:14-03|[14-03]]]**"Ug hutda ninyo pagguba ang tanan nilang dios-dios. Kon dili kamo mosunod kanako, makasimba kamo sa ilang mga **dios-dios**."
+  * **[[:ceb:obs:notes:frames:18-12|[18-12]]] ** Misimba ug mga  ** dios-dios ** ang tanang hari ug ang kadaghanan sa mga tawo sa gingharian sa Israel. Usahay malaw-ay ang paagi sa ilang pagsimba ug usahay mohalad sila sa mga bata.
+  * **[[:ceb:obs:notes:frames:19-16|[19-16]]]** Giingnan nila(ang mga propeta) ang tanang mga tawo nga moundang sa pagsimba ug mga** dios-dios**  ug magmakiangayon na ug magmaluluy-on na sa uban.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
