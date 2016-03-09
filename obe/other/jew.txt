@@ -13,14 +13,14 @@ Ang mga Judio mao ang katawhan nga kaliwat ni Abraham pinaagi sa iyang apo nga s
 
 {{topic>:en:bible?jew&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** The Israelites were now called **Jews**  and most of them had lived their whole lives in Babylon.
-  * **[[:ceb:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of **Jews**  returned to the city of Jerusalem in Judah.
-  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Many of the **Jews**  believed in Jesus because of this miracle.
-  * **[[:ceb:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the **Jews**  were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "King of the **Jews**" on a sign and put it on the cross above Jesus' head.
-  * **[[:ceb:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began preaching to the **Jews**  in Damascus, saying, "Jesus is the Son of God!"
+  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** Ang mga Israelita gitawag na nga mga **Judio** ug kadaghanan sa ila didto na gayod natigulang sa Babilonya.
+  * **[[:ceb:obs:notes:frames:20-12|[20-12]]]** Busa, pagkahuman sa sitenta ka tuig nga pagkagiw, namalik ang pipila ka mga **Judio** sa siyudad sa Jerusalem nga sakop sa Juda.
+  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Daghan sa mga **Judio** ang mituo kang Jesus tungod niining milagroha.
+  * **[[:ceb:obs:notes:frames:37-11|[37-11]]]** Apan nasina ang pangulo sa mga Judio kaniya, ug nagtapok sila aron pagplano kung unsaon pagpatay si Jesus ug si Lazaro.
+  * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Gisugo ni Pilato nga isulat sa usa ka karatula “Hari sa mga **Judio**” ug ibutang sa krus ibabaw sa ulo ni Jesus.
+  * **[[:ceb:obs:notes:frames:46-06|[46-06]]]** Nagsugod dayon ug sangyaw si Saulo sa mga **Judio** didto sa Damasco nga nag-ingon, “Si Jesus ang Anak sa Dios!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
