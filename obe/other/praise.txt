@@ -12,52 +12,17 @@ Ang "pagdayeg" sa Dios usa ka bahin sa "pagsimba" kaniya.
 
 (Tan-awa usab: [[:ceb:obe:kt:worship|simba]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?praise&nocomments}}
 
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
-
-  * **[[:ceb:obs:notes:frames:12-13|[12-13]]]**
-Ang mga Israelita nanag-awit ug daghang mga awit sa kadaogan ug **nagdayeg**  sila sa Dios tungod kay giluwas sila gikan sa mga sundalong Ehiptohanon.
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-08|[17-08]]]**
-Sa pagkadungog ni David sa iyang gisulti, nagpasalamat dayon siya ug **midayeg ** sa Dios tungod sa iyang saad ug dakong kadungganan, ug daghang mga panalangin.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:22-07|[22-07]]]**
-Miingon si Zacarias, "**Daygon ** ang Dios, tungod kay wala na niya kalimti ang iyang katawhan!"
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:43-13|[43-13]]]**
-Malipayon sila nga magkauban sa **pagdayeg ** sa Dios ug giambitan nila ang tanan nga ilaha.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:47-08|[47-08]]]**
-Didto sila gibutang sa pinakasuok nga bahin sa prisohan ug gikadenahan ang ilang mga tiil. Apan sa tunga-tunga sa gabii, nanganta ug **nagdayeg ** sila Pablo ug Silas sa Dios.
-
-
-
-
-
-
-
+  * **[[:ceb:obs:notes:frames:12-13|[12-13]]] **Ang mga Israelita nanag-awit ug daghang mga awit sa kadaogan ug **nagdayeg**  sila sa Dios tungod kay giluwas sila gikan sa mga sundalong Ehiptohanon.
+  * **[[:ceb:obs:notes:frames:17-08|[17-08]]] **Sa pagkadungog ni David sa iyang gisulti, nagpasalamat dayon siya ug **midayeg **  sa Dios tungod sa iyang saad ug dakong kadungganan, ug daghang mga panalangin.
+  * **[[:ceb:obs:notes:frames:22-07|[22-07]]] **Miingon si Zacarias, "**Daygon **  ang Dios, tungod kay wala na niya kalimti ang iyang katawhan!"
+  * **[[:ceb:obs:notes:frames:43-13|[43-13]]] **Malipayon sila nga magkauban sa **pagdayeg **  sa Dios ug giambitan nila ang tanan nga ilaha.
+  * **[[:ceb:obs:notes:frames:47-08|[47-08]]] **Didto sila gibutang sa pinakasuok nga bahin sa prisohan ug gikadenahan ang ilang mga tiil. Apan sa tunga-tunga sa gabii, nanganta ug **nagdayeg **  sila Pablo ug Silas sa Dios.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
