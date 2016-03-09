@@ -1,15 +1,14 @@
 ====== Nazaret, Nazarino ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Nazareth is a town in the region of Galilee in northern Israel.
+Ang Nazaret mao ang nasod sa rehiyon sa Galilea sa amihan sa Israel.
 
-  * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
-  * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
-  * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+  * Si Jose ug Maria gikan sa Nazaret, kung asa gibanhaw si Jesus.
+  * Daghang tawo sa Nazaret wala mirespito sa pagtudlo ni Jesus, kay si Jesus midako uban kanila, ug nagtuo sila nga siya ordinaryo lamang nga tawo.
+  * Ang mga tawo sa Nazaret misulay sa pagpatay kang Jesus sa dihang miingon siya nga siya usa ka Mesiyas.
 
-(See also: [[galilee]], [[josephnt]], [[mary]], [[ceb:obe:kt:christ]])
-
+(Tan-awa usab: [[:ceb:obe:other:galilee|Galilia, mga taga Galilia]], [[:ceb:obe:other:josephnt|Joseph (NT)]], [[:ceb:obe:other:mary|Maria]], [[:ceb:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: =====
 
