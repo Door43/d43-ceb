@@ -21,15 +21,65 @@ Ang pagpasaylo sa usa ka tawo nagapasabot nga dili na malain o masuko tungod sa 
 
 {{topic>:en:bible?forgive&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]** But Esau had already **forgiven**  Jacob, and they were happy to see each other again.
-  * **[[:ceb:obs:notes:frames:13-15|[13-15]]]** Then Moses climbed the mountain again and prayed that God would **forgive**  the people. God listened to Moses and **forgave**  them.
-  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]** David repented of his sin and God **forgave**  him.
-  * **[[:ceb:obs:notes:frames:21-05|[21-05]]]** In the New Covenant, God would write his law on the people's hearts, the people would know God personally, they would be his people, and God would **forgive**  their sins.
-  * **[[:ceb:obs:notes:frames:29-01|[29-01]]]** One day Peter asked Jesus, "Master, how many times should I **forgive**  my brother when he sins against me?"
-  * **[[:ceb:obs:notes:frames:29-08|[29-08]]]** I **forgave**  your debt because you begged me.
-  * **[[:ceb:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my blood of the New Covenant that is poured out for the **forgiveness**  of sins.
+  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]**
+Apan **gipasaylo ** na diay ni Esau si Jacob, ug malipayon kaayo ang matag usa kanila nga nagkita.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:13-15|[13-15]]]**
+Ug unya mibalik siya pagsaka sa bukid, ug nag-ampo siya sa Dios nga **pasayloon ** ang iyang katawhan. Namati ang Dios kang Moises ug **gipasaylo ** niya sila.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]**
+Naghinulsol si David ug **gipasaylo ** siya sa Dios.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:21-05|[21-05]]]**S
+a Bag-ong Kasabotan, isulat sa Dios ang iyang balaod diha sa kasingkasing sa mga tawo, ug makaila siya kanila, ug mahimo sila nga iyang katawhan, ug **pasayloon ** niya ang ilang mga sala.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:29-01|[29-01]]]**
+Usa ka adlaw, nangutana si Pedro kang Jesus, "Magtutudlo, kapila ba gayod ako mopasaylo sa akong igsoon nga nakasala kanako?
+
+
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:29-08|[29-08]]]**
+**Gikalimtan ** ko na gani ang imong mga utang tungod kay nagpakiluoy ka kanako.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:38-05|[38-05]]]**
+Unya gikuha ni Jesus ang kopa ug miingon, “Inom mo ani. Mao kini ang akong dugo nga giula nga nagpamatuod sa bag-ong kasabotan aron sa **pagpasaylo ** sa mga sala sa mga tawo.
+
+
+
+
+
+
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
