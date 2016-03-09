@@ -1,11 +1,18 @@
 ====== promise ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A promise is a pledge or commitment to do a certain thing. When someone makes a promise, he assures the people he is speaking to that he will truly do what he has said he will do.
+  *
 
-  * Promises are an important part of formal agreements such as covenants.
-  * A promise is often accompanied by an oath or confirmation that it will be done.
+Ang saad usa ka panaad o pakigsaad sa pagbuhat sa usa ka butang. Kon manaad ang usa ka tawo sa pagbuhat sa bisan unsa, isulti niya nga buhaton gayod niya kini.
+
+  *
+
+Mahinungdanon kaayo ang mga saad sa pakigsaad ug kasabotan.
+
+  *
+
+Kon manaad ang usa ka tawo nga adunay mahitabo, pamatud-an niya nga mahitabo gayod kini.
 
 ===== Translation Suggestions: =====
 
