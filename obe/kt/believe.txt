@@ -27,13 +27,13 @@ The terms "believe" and "believe in" are closely related, but have slightly diff
 
 {{topic>:en:bible?believe&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
-  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
-  * **[[:ceb:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
-  * **[[:ceb:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
-  * **[[:ceb:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
+  * **[[:ceb:obs:notes:frames:03-04|[03-04]]]** Gipasid-an ni Noe ang mga tawo bahin sa umaabot nga lunop ug giingnan niya sila nga dili na magpakasala ug motuo sa Dios, apan wala sila **motuo**  kaniya.
+  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]****Mituo**  si Abram sa saad sa Dios. Giisip sa Dios nga matarong si Abram tungod kay **mituo**  siya sa iyang saad.
+  * **[[:ceb:obs:notes:frames:11-02|[11-02]]]** Ang Dios adunay paagi nga luwason ang unang anak ni bisan kinsa nga **motuo**  kaniya.
+  * **[[:ceb:obs:notes:frames:11-06|[11-06]]]** Apan ang mga Ehiptohanon wala **motuman**  sa mando sa Dios.
+  * **[[:ceb:obs:notes:frames:37-05|[37-05]]]** Si Jesus mitubag kaniya, "Ako mao ang Pagkabanhaw ug ang Kinabuhi. Si bisan kinsa nga **motuo**  kanako mabuhi, bisan siya mamatay. Ang tanan nga **motuo**  kanako dili gayod mamatay. **Motuo**  ka ba niini?"
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
