@@ -17,14 +17,14 @@ Ang “magtutoo” usa ka tawo nga hingpit ang pagsalig sa usa ka tawo o panghun
 
 {{topic>:en:bible?believer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
-  * **[[:ceb:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
-  * **[[:ceb:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
-  * **[[:ceb:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * **[[:ceb:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
-  * **[[:ceb:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * **[[:ceb:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
+  * **[[:ceb:obs:notes:frames:43-01|[43-01]]]** Pagkahuman pagbalik ni Jesus sa langit, nagpabilin lang ang mga sumusunod sa Jerusalem isip pagsunod sa sugo ni Jesus kanila. Ang mga **magtutuo** kanunay sila nagtigom aron mag-ampo.
+  * **[[:ceb:obs:notes:frames:43-03|[43-03]]]** Samtang nag tigum ang tanan nga **magtutuo**,Sa kalit lang  napuno ang balay ug dahunug sa kusug nga hangin. Unya murag naay siga sa kalayo nga naa sa ibabaw sa ulo sa tanan nga **magtutuo**.
+  * **[[:ceb:obs:notes:frames:43-13|[43-13]]]** Kada-adlaw nadugangan ang mga **magtutuo**.
+  * **[[:ceb:obs:notes:frames:46-06|[45-06]]]** Anang adlawa, nagsugod na ang paglutos sa mga tawo sa Jerusalem sa mga sumusunod ni Jesus, mao nga namiya ang mga **magtutuo** ngato sa ubang dapit. Bisan pa man niini, nagsangyaw gihapon sila mahitungod kang Jesus sa bisan asa pa sila miadto.
+  * **[[:ceb:obs:notes:frames:46-01|[46-01]]]** Si Saulo ang batan-on nga lalaki nga nagbantay sa mga kupo sa mga tawo nga nagpatay kang Esteban. Wala siya motuo kang Jesus busa iyang gipanglutos ang mga **magtutuo**.
+  * **[[:ceb:obs:notes:frames:46-09|[46-09]]]** Ang ubang mga **magtutuo** nga nibiya sa Jerusalem tungod sa paglutos kanila, nangadto sa siyudad sa Antioch. Ug didto nagsangyaw sila mahitungod kang Jesus. Kadaghanan sa mga tawo sa Antioch dili Judio, apan daghan usab kanila ang mituo kang Jesus. Niadto si Barnabas ug si Saulo didto aron magtudlo sa mga bag-ong magtutuo mahitungod kang Jesus ug aron mapalig-on ang kasimbahanan. Ang mga **magtutuo** kang Jesus sa Antioch mao ang unang gitawag nga mga “Kristohanon.”
+  * **[[:ceb:obs:notes:frames:47-14|[47-14]]]** Nagsulat pud sila sa mga **magtutuo** sa mga kasimbahanan aron madasig ug matudloan sila.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
