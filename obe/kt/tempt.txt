@@ -19,11 +19,11 @@ Ang pagtintal mao pagsulay sa usa ka tawo aron makabuhat siya ug daotan.
 
 {{topic>:en:bible?tempt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * **[[:ceb:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * **[[:ceb:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
+  * **[[:ceb:obs:notes:frames:25-01|[25-01]]]** Unya miabot si Satanas ug **gitintal** niya si Jesus aron makasala.
+  * **[[:ceb:obs:notes:frames:25-08|[25-08]]]** Wala gayod **mopatintal** si Jesus kang Satanas, busa gibiyaan nalang siya ni Satanas.
+  * **[[:ceb:obs:notes:frames:38-11|[38-11]]]** Ug miingon si Jeus kanila nga mag-ampo aron dili sila dag-on sa **pagsulay**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
