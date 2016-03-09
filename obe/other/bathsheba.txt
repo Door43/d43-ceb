@@ -9,9 +9,9 @@ Si Batseba mao ang asawa ni Uria nga sakop sa kasundalohan ni David. Nahimo siya
   * Gisilotan sa Dios si David tungod sa iyang sala pinaagi sa pagpatay sa bata pila lamang ka adlaw human kini gianak.
   * Wala madugay, nanganak na usab si Batseba sa batang lalaki nga mao si Solomon, ug nahimo siyang hari puli kang David.
 
-(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
+(Posibleng Paagi sa Paghubad: [[Translate Names]])
 
-(Tan-awa usab: [[:ceb:obe:other:uriah|Uria]], [[:ceb:obe:other:david|David]], [[:ceb:obe:other:solomon|Solomon]])
+(Tan-awa usab: [[Uria]], [[David]], [[Solomon]])
 
 ===== Asa Makita sa Biblia: =====
 
@@ -19,47 +19,11 @@ Si Batseba mao ang asawa ni Uria nga sakop sa kasundalohan ni David. Nahimo siya
 
 ===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:17-10|[17-10]]]**
-Usa ka adlaw, nilantaw si David sa iyang palasyo ug nakita niya ng maanyag nga babaye nga naligo nga ginganlan ug **Batseba**.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-11|[17-11]]]**
-Wala madugay gipahibalo siya ni **Batseba ** nga mabdus siya.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-12|[17-12]]] **
-Unya si Uria nga asawa ni **Batseba**, usa sa mga maayong sundalo ni David.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]**
-Namatay gayod si Uria ug unya giminyoan ni David si **Batseba ** ug nanganak siya ug lalaki.
-
-
-
-
-
-
-  * **[[:ceb:obs:notes:frames:17-14|[17-14]]]**
-Kadugayan, nakaanak ra si David ug si **Batseba ** ug lalaki ug ilang ginganlag Solomon.
-
-
-
-
-
-
-
+  * **[[[17-10]]] **Usa ka adlaw, nilantaw si David sa iyang palasyo ug nakita niya ng maanyag nga babaye nga naligo nga ginganlan ug **Batseba**.
+  * **[[[17-11]]] **Wala madugay gipahibalo siya ni **Batseba **  nga mabdus siya.
+  * **[[[17-12]]] **Unya si Uria nga asawa ni **Batseba**, usa sa mga maayong sundalo ni David.
+  * **[[[17-13]]] **Namatay gayod si Uria ug unya giminyoan ni David si **Batseba **  ug nanganak siya ug lalaki.
+  * **[[[17-14]]] **Kadugayan, nakaanak ra si David ug si **Batseba **  ug lalaki ug ilang ginganlag Solomon.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
