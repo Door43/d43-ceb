@@ -17,10 +17,10 @@ Ang pulong nga "pagsupak" nagpasabot nga dili motuman sa sulti o sugo sa tawo ng
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
-  * **[[:ceb:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
-  * **[[:ceb:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
-  * **[[:ceb:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]** Ang Dios miingon sa lalaki, “Tungod kay naminaw ka sa imong asawa ug  **misupak**  kanako karon tinunglo na ang yuta."
+  * **[[:ceb:obs:notes:frames:13-07|[13-07]]]** Kon tumanon kini sa mga katawhan, ang Dios nagsaad nga panalanginan niya sila ug protektahan. Apan kon **supakon**  nila kini, silotan niya sila.
+  * **[[:ceb:obs:notes:frames:16-02|[16-02]]]** Nagpadayon ang mga Israelita sa **pagsupak** sa Dios, ug tungod niana iya silang gitugotan nga mapildi sa ilang mga kaaway..
+  * **[[:ceb:obs:notes:frames:35-12|[35-12]]]** "Miingon ang magulang nga anak sa iyang amahan, 'Nagtrabaho ko sa daghang katuigan ug wala ako **nisupak** kanimo! Wala ako makalapas sa bisan unsa, apan wala ko nimo hatagi bisan usa lang ka gamay nga kanding aron maglipay-lipay ko uban sa akong mga higala.'"
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
