@@ -36,15 +36,65 @@ Naay duha ka paagi nga paggamit sa pulong nga “kinabuhi” diha sa Biblia - �
 
 {{topic>:en:bible?life&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life**  into him.
-  * **[[:ceb:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
-  * **[[:ceb:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  * **[[:ceb:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
-  * **[[:ceb:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  * **[[:ceb:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  * **[[:ceb:obs:notes:frames:44-05|[44-05]]]**"You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
+  * **[[:ceb:obs:notes:frames:01-10|[01-10]]]**
+Ug mikuha ang Dios ug lapok, ug gihulma niya kini nga tawo. Gihoypan niya kini aron hatagan ug **kinabuhi**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:03-01|[03-01]]]**
+Nilabay ang dugay nga panahon, nidaghan na ang mga tawo nga **nagpuyo ** sa kalibotan.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:08-13|[08-13]]]**
+Namalik ang mga igsoon ni Jose sa ilang panimalay, ug ilang gisultihan ang ilang amahan nga si Jacob, nga **buhi ** si Jose, ug malipayon siya kaayo.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:17-09|[17-09]]]**
+Apan sa dihang **nagkatigulang ** na siya, naay usa ka higayon nga nakahimo siyag dako nga sala sa Dios.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:27-01|[27-01]]]**
+Usa ka adlaw, miduol kang Jesus ang usa ka tawo nga hanas sa balaod sa mga Judio aron pagsulay kaniya ug nangutana, "Magtutudlo, unsay angay nakong buhaton aron makaangkon ko ug **kinabuhi ** nga walay kataposan?"
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:35-05|[37-05]]]**
+Si Jesus mitubag kaniya, "Ako mao ang Pagkabanhaw ug ang **Kinabuhi**.
+
+
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:44-05|[44-05]]] **"
+Kamo ang nag-ingon sa gobernador nga Romano nga patyon si Jesus. Gipatay ninyo ang tawo nga tinubdan sa **kinabuhi**, apan gibanhaw siya sa Dios
+
+
+
+
+
+ ."
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
