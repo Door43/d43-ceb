@@ -1,28 +1,27 @@
-====== Story #30: Jesus Feeds Five Thousand People ======
+====== Istorya #30:Gipakaon Ni Jesus Ang 5,000 Ka Mga Tawo ======
 
-===== Comprehension Questions and Answers =====
+**Mga Pangutana sa Pagsusi ug mga Tubag:**
 
+Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-  - **What did Jesus send his apostles to do in the villages?**
-    *//He sent them to preach and teach. [30-01]//
-  - **Why did Jesus take his apostles to the other side of the lake?**
-    *//He invited them to a quiet place to rest for a while. [30-01]//
-  - **Were Jesus and his apostles able to be alone and rest?**
-    *//No. Many people ran to the other side ahead of them. [30-02]//
-  - **What was Jesus’ attitude toward the crowd that was waiting for them?**
-    *//He had compassion towards them. [30-03]//
-  - **How did Jesus demonstrate his compassion for the people?**
-    *//He taught them and healed the sick. [30-03]//
-  - **Why did the disciples want to send the people away?**
-    *//It was late in the day and they needed to get something to eat. [30-04]//
-  - **Why were the disciples unable to feed all the people?**
-    *//They only had five loaves of bread and two small fish. [30-05]//
-  - **What did Jesus do with the five loaves of bread and the two fish?**
-    *//He thanked God for the food and broke it into pieces for his disciples to give to the people. [30-07], [30-08]//
-  - **How many people ate and were satisfied from the food?**
-    *//Five thousand men, not counting the women and children. [30-03]//
-  - **How much food was left over after everyone had eaten?**
-    *//Twelve baskets full. [30-09]//
-
-
-**[[en/obs/notes/questions/29|<< ]] | [[en/obs/notes/questions/31| >>]]**
+  - **Nganong gipaadto ni Jesus and iyang mga tinun-an sa lain-laing mga lugar?**
+      * //Gisugo niya sila aron magwali ug magtudlo. [30-01]//
+  - **Nganong gidala ni Jesus ang iyang mga tinun-an sa pikas bahin sa lanaw?**
+      * //Gidala niya sila didto sa mingaw nga lugar aron makapahulay sa makadiyot. [30-01]//
+  - **Nakapahulay ba si Jesus ug ang iyang mga tinun-an?**
+      * //Wala. Nidagan ang mga tawo sa pikas bahin sa lanaw ug niuna kanila. [30-02]//
+  - **Unsa ang gibati ni Jesus sa mga tawo nga naghulat kanila?**
+      * //Naluoy siya kanila. [30-03]//
+  - **Giunsa ni Jesus pagpakita sa iyang kaluoy sa mga tawo?**
+      * //Gitudloan niya sila ug giayo ang mga masakiton. [30-03]//
+  - **Nganong gusto sa mga tinun-an nga ipalakaw ang mga tawo?**
+      * //Hapon na ug kinahanglan nga mangita sila ug pagkaon. [30-04]//
+  - **Nganong dili man mahimong pakaonon sa mga tinun-an ang mga tawo?**
+      * //Lima lang ang ilang pan ug duha lang ang gagmay'ng isda. [30-05]//
+  - **Unsa ang gibuhat ni Jesus sa lima ka paan ug duha ka isda?**
+      * //Unya gikuha ni Jesus ang lima ka pan ug duha ka isda, ug nagpasalamat siya Dios ug gipikas-pikas niya ug gipanghatag sa iyang mga tinun-an aron iapod-apod sa mga tawo. [30-07] [30-08]//
+  - **Pila ka tawo ang mikaon ug nabusog sa ilang gikaon?**
+      * //Lima ka libo nga kalalakihan, ug wala pay labot ang mga babae ug mga bata. [30-03]//
+  - **Pila ang nahibilin nga pagkaon human makakaon ang tanan?**
+      * //Dose ka basket nga puno sa pagkaon. [30-09]//
+**[[:ceb:obs:notes:questions:29|<< ]] | [[:ceb:obs:notes:questions:31| >>]]**
