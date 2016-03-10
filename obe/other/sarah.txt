@@ -19,12 +19,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ceb:obs:notes:frames:05-01|[05-01]]]** "So Abram's wife, **Sarai**, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
-  ***[[:ceb:obs:notes:frames:05-04|[05-04]]]** "'Your wife, **Sarai**, will have a son--he will be the son of promise.'"
-  ***[[:ceb:obs:notes:frames:05-04|[05-04]]]** "God also changed **Sarai's** name to **Sarah**, which means "princess."
-  ***[[:ceb:obs:notes:frames:05-05|[05-05]]]** "About a year later, when Abraham was 100 years old and **Sarah** was 90, **Sarah** gave birth to Abraham's son. They named him Isaac as God had told them to do."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ceb:obs:notes:frames:05-01|[05-01]]]**"Busa miingon si **Sarai**, “Tungod kay ang Dios wala maghatag kanako ug anak, ug ako karon tigulang na ug dili na makabaton ug anak, ania ang akong katabang nga si Hagar. Pangasaw-a siya, aron siya ang makahatag ug anak alang kanako.”
+  * **[[:ceb:obs:notes:frames:05-04|[05-04]]]**"Ang imong asawa nga si** Sarai**, makabaton ug anak, ug siya mao ang anak nga gisaad."
+  * **[[:ceb:obs:notes:frames:05-04|[05-04]]]**"Giilisan usab sa Dios ang ngalan ni **Sarai**  ug gihimo na nga Sara, buot ipasabot “prinsesa.”
+  * **[[:ceb:obs:notes:frames:05-05|[05-05]]]**"Paglabay sa pipila ka katuigan, nag-idad na si Abraham ug 100 ug nag-idad na usab si **Sarai**  ug 90, unya nanganak siya sa anak nila kang Abraham. Ginganlan nila kini'g Isaac kay sugo kini sa Dios."
+~~DISCUSSION~~{{tag>publish ktobs}}
