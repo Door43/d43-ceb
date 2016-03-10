@@ -15,21 +15,17 @@ To speak to a group of people, teaching them about God and urging them to obey h
 
 {{topic>:en:bible?preach&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:24-02|[24-02]]]** He (John) **preached** to them, saying, "Repent, for the Kingdom of God is near!"
-  ***[[:ceb:obs:notes:frames:30-01|[30-01]]]** Jesus sent his apostles to **preach** and to teach people in many different villages. 
-  ***[[:ceb:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began **preaching** and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:ceb:obs:notes:frames:45-06|[45-06]]]** But in spite of this, they **preached** about Jesus everywhere they went.
-  ***[[:ceb:obs:notes:frames:45-07|[45-07]]]** He (Philip) went to Samaria where he preached about Jesus and many people were saved. 
-  ***[[:ceb:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began **preaching** to the Jews in Damascus, saying, "Jesus is the Son of God!" 
-  ***[[:ceb:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to **preach** the good news of Jesus in many other places. 
-  ***[[:ceb:obs:notes:frames:47-14|[47-14]]]** Paul and other Christian leaders traveled to many cities, **preaching** and teaching people the good news about Jesus. 
-  ***[[:ceb:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will **preach** the good news about the kingdom of God to people everywhere in the world, and then the end will come."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:24-02|[24-02]]]** Unya **giwalihan**  niya(Juan) sila sa pag-ingon, “Paghinulsol kamo kay hapit na moabot ang gingharian sa Dios!”
+  * **[[:ceb:obs:notes:frames:30-01|[30-01]]] ** Gisugo ni Jesus ang iyang mga tinun-an sa  ** pagsangyaw ** ug pagtudlo sa mga katawhan sa lain-laing mga lugar.
+  * **[[:ceb:obs:notes:frames:38-01|[38-01]]]** Human sa tulo ka tuig si Jesus nagsugod sa **pagwali ** ug pagtudlo sa katawhan. Gisultian niya ang mga sumusunod nga gusto niya isaulog ang Pista sa Pan nga walay Patubo ug Pista sa Pagsaylo sa Anghel sa Jerusalem kauban nila. Giingnan usab niya sila nga didto siya patyon.
+  * **[[:ceb:obs:notes:frames:45-06|[45-06]]]** Bisan pa man niini, **nagsangyaw**  gihapon sila mahitungod kang Jesus bisan asa sila naabot.
+  * **[[:ceb:obs:notes:frames:45-07|[45-07]]]** Niadto siya(Filipe) sa Samaria diin **nagsangyaw**  siya mahintungod kang Jesus ug daghan ang naluwas.
+  * **[[:ceb:obs:notes:frames:46-06|[46-06]]]** Nagsugod dayon ug **sangyaw**  si Saulo sa mga Judio didto sa Damasco nga nag-ingon, “Si Jesus ang Anak sa Dios!”
+  * **[[:ceb:obs:notes:frames:46-10|[46-10]]]** Unya ila silang gipalakaw aron **magsangyaw**  sa maayong balita mahitungod kang Jesus sa uban pang mga lugar.
+  * **[[:ceb:obs:notes:frames:47-14|[47-14]]]** Niadto si Pablo ug ang uban pang mga pangulo sa mga Kristohanon sa lain-lain nga mga siyudad.** Nagsangyaw**  ug nagtudlo sila sa maayong balita mahitungod kang Jesus.
+  * **[[:ceb:obs:notes:frames:50-02|[50-02]]]**. Sa dihang si Jesus ania pa sa kalibotan nag-ingon siya, “**Magsangyaw**  ang akong mga tinun-an sa maayong balita mahitungod sa Gingharian sa Dios ngadto sa tanang tawo sa tibuok kalibotan, ug unya moabot ang kataposan.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
