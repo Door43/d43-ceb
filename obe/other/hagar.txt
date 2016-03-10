@@ -1,16 +1,16 @@
 ====== Hagar ======
 
-===== Facts: =====
+===== Ipasabot: =====
 
-Hagar was Sarai's personal slave.
+Si Hagar ang personal nga ulipon ni Sarai.
 
-  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
-  * Sarai wanted Hagar to bear children for her and Abram.
-  * Hagar gave birth to Abram's son, Ishmael.
+  * Kadugayan si Sarai, ginganlan ug Sarah, gipaasawa niya si Hagar ngadto kang Abram isip ulipong asawa.
+  * Gusto ni Sarai nga manganak si Hagar para sa ilahang duha ni Abram.
+  * Nakaanak si Hagar ug Abram ug batang lalaki ug ginganlan nilag Ismael.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[sarah]], [[ceb:obe:other:abraham]], [[servant]])
+(Tan-awa usab: [[:ceb:obe:other:sarah|Sarah, Sarai]], [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:servant|alagad, ulipon, pagkaulipon]])
 
 ===== Bible References: =====
 
