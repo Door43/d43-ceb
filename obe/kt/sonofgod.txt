@@ -14,11 +14,14 @@ The Son of God is Jesus, who came into the world as a human being to save and ru
 
   * For the term, "Son of God," it is best to translate "Son" with the same word the language would naturally use to refer to a "son" of a human father.
   * Make sure the word used to translate "son" fits with the word used to translate "father" and that these words are the most natural ones to express a true father-son relationship.
+  * Ang Anak sa Dios mao si Jesus nga gipadala sa Dios aron moluwas ug magdumala sa kalibotan. Ang Anak sa Dios pariha sila ug kinaiya sa sa Dios nga Amahan, busa tinuod gayod siya nga Dios.
+  * Dili siya sama sa tawhanong anak, tungod kay ang Anak sa Dios kanunay siya nga anaa.
+  * Ang Anak sa Dios kanunay galihok sa paghimo sa kalibotan, kauban ang Amahan ug ang Balaang Espirito.
+  * Tungod kay si Jesus Anak siya sa Dios, iyang gihigugma ang iyang Amahan ug nagmatinumanon kaniya, ug ang iyang Amahan nahigugma pag-ayo kaniya.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[ceb:obe:kt:jesus]], [[ceb:obe:kt:christ]], [[:ceb:obe:kt:son]], [[ceb:obe:kt:god]], [[ceb:obe:kt:godthefather]], [[:ceb:obe:other:father]])
-
+(See also: [[:ceb:obe:kt:jesus|Jesus, Jesus Cristo, Cristo Jesus]], [[:ceb:obe:kt:christ|Christ, Messiah]], [[:ceb:obe:kt:son|anak nga lalaki]], [[:ceb:obe:kt:god|Dios]], [[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]], [[:ceb:obe:other:father|father, forefather]])
 
 ===== Asa Makita sa Biblia: =====
 
