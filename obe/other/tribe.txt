@@ -1,6 +1,6 @@
 ====== tribo ======
 
-=== Ipasabot ===:
+**Ipasabot**:
 
 Ang tribo usa ka pundok sa katawhan nga kasagaran usa lamang ang kagikan. 
 
