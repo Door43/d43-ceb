@@ -19,13 +19,9 @@ Rehoboam was one of the sons of King Solomon, and became the king of the nation 
 {{topic>:en:bible?rehoboam&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
-  ***[[:ceb:obs:notes:frames:18-06|[18-06]]]** **Rehoboam** answered foolishly and told them, "You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you more harshly than he did."
-  ***[[:ceb:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ceb:obs:notes:frames:18-05|[18-05]]]** Pagkamatay ni Solomon, maoy nahimong hari ang iyang anak nga si **Rehoboam**, ug usa siya ka buang-buang nga tawo.
+  * **[[:ceb:obs:notes:frames:18-06|[18-06]]]** Unya mitubag si **Rehoboam**  nga wala maghunahuna, “Abi kaha ninyog gilisod-lisod na mo sa akong amahan, pabug-atan pa nako ang inyong mga trabaho, ug mas grabe pa ang akong isilot kaninyo.”
+  * **[[:ceb:obs:notes:frames:18-07|[18-07]]]** Napulo ka mga tribo sa nasod Israel sa ang mirebelde kang Rehoboam, ug duha lang ka tribo ang nagpabilin nga matinud-anon kaniya. Ug kining duha ka tribo nahimo nga gingharian sa Juda.
+~~DISCUSSION~~{{tag>publish ktobs}}
