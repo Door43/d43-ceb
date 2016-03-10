@@ -35,14 +35,14 @@ Ang "bangon" o "pagbangon" nagpasabot sa "pagpataas" o "tindog." Ang pulong "pag
 
 {{topic>:en:bible?raise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitab gikan sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:21-14|[21-14]]]** The prophets foretold that the Messiah would die and that God would also **raise**  him from the dead.
-  * **[[:ceb:obs:notes:frames:41-05|[41-05]]]**"Jesus is not here. He has **risen**  from the dead, just like he said he would!"
-  * **[[:ceb:obs:notes:frames:43-07|[43-07]]]**"Although Jesus died, God **raised**  him from the dead. This fulfills the prophecy which says, 'You will not let your Holy One rot in the grave.' We are witnesses to the fact that God **raised**  Jesus to life again."
-  * **[[:ceb:obs:notes:frames:44-05|[44-05]]]**" You killed the author of life, but God **raised**  him from the dead. "
-  * **[[:ceb:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God **raised**  him to life again!"
-  * **[[:ceb:obs:notes:frames:48-04|[48-04]]]** This meant that Satan would kill the Messiah, but God would **raise**  him to life again, and then the Messiah will crush the power of Satan forever.
-  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out demons, **raised**  the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-  * **[[:ceb:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the cross instead of you, and that God **raised**  him to life again.
+  * **[[:ceb:obs:notes:frames:21-14|[21-14]]]** Gitagna na sa mga propeta nga mamatay ang **Mesiyas apan banhawon** siya sa Dios. 
+  * **[[:ceb:obs:notes:frames:41-05|[41-05]]]** Si Jesus wala na diri. **Nabanhaw** siya sumala sa iyang giingon kaninyo."
+  * **[[:ceb:obs:notes:frames:43-07|[43-07]]]**“Bisag namatay siya, **gibanhaw** siya sa Dios. Ug natuman ang propesiya nga ‘Dili nimo itugot nga madunot ang Balaan mong pinili didto sa lubnganan.’ Saksi mi nga **gibanhaw** siya sa Dios.”
+  * **[[:ceb:obs:notes:frames:44-05|[44-05]]]**" Gipatay ninyo ang tawo nga tinubdan sa kinabuhi, **apan gibanhaw** siya sa Dios.
+  * **[[:ceb:obs:notes:frames:44-08|[44-08]]]** Nitubag si Pedro, “Ang tawo nga nagtindog sa inyong atubangan naayo tungod sa gahom ni Jesus, ang Mesiyas. Inyo siyang gilansang sa krus, apan **gibanhaw** siya sa Dios.
+  * **[[:ceb:obs:notes:frames:48-04|[48-04]]]** Nagpasabot kini nga patyon ni Satanas ang Mesiyas, apan **banhawon** siya pag-usab sa Dios. Ang Mesiyas ang moguba sa gahom ni Satanas hangtod sa kahangtoran.
+  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** Nilakaw siya sa tubig, gipahunong ang mga balod, nag-ayo ug mga masakiton, giabog ang mga demonyo, **gibanhaw** ang mga patay, ug gipakaon ang kapin sa 5,000 ka mga tawo pinaagi sa lima lang ka pan ug duha ka gagmay nga isda.
+  * **[[:ceb:obs:notes:frames:49-12|[49-12]]]** Kinahanglan nga motuo kita nga si Jesus ang Anak sa Dios, ug namatay siya sa krus puli kanato, ug ang Dios **nagbanhaw** kaniya pag-usab.
 ~~DISCUSSION~~{{tag>publish ktobs}}
