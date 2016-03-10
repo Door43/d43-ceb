@@ -10,16 +10,16 @@ Ang pulong "tuli" pasabot sa pagputol sa panit sa kinatawo sa lalaki o batang la
   * Sa espirituhanong pagbati, "ang pagtuli" naghisgot sa tawo nga ang Dios magputli gikan sa sala ngadto sa dugo ni Jesus ug iyang mga katawhan.
   * Ang hugpong sa pulong, "walay tuli" naghisgot sa mga tawo nga wala pagyud natuli sa pisikal. naghisgot usab nga mahulagway ngadto sa wala pagyud natuli.
 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
-  * If the culture of the target language performs circumcisions on males, the word used to refer to this should be used for this term.
-  * Other ways to translate this term would be, "cut around" or "cut in a circle" or "cut off the foreskin."
-  * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
-  * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
+  * kung ang kultura sa gipunting nga pinulongan nagpakita sa pagtuli sa mga lalaki,ang pulong nga gigamit sa paghisgot niini mahimong gigamit niini nga pulong. 
+  * Ubang mga paagi sa paghubad niini nga pulong mahimong,"pagtibhang sa tibuok" o "pagtibhang sa lingin" o "pagputol sa panit."
+  * Sa mga kultura diin ang pagtuli wala mahibaw-e, mao nga gikinahanglan sa pagpasabot niini sa pagpahibalo o mga buot ipasabot.
+  * Siguroha nga ang pulong gigamit sa paghubad niini wala naghisgot sa mga babaye.  Mao nga gikinahanglan sa paghubad niini uban ang pulong o hugpong sa pulong nga naglakip sa buot pasabot sa "lalaki."
 
-(See: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(Tan-awa: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ceb:obe:kt:uncircumcised]], [[:ceb:obe:kt:covenant]])
+(Tan-awa usab: [[:ceb:obe:kt:uncircumcised]], [[:ceb:obe:kt:covenant]])
 
 ===== Bible References: =====
 
