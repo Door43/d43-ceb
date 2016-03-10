@@ -9,13 +9,12 @@ The high priest was the leader over all of Israel's priests.
     * The Israelites had many priests, but only one high priest at a time.
     * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the temple to offer a special sacrifice once a year.
 
-===== Translation Suggestions: ======
+===== Posibleng Paagi sa Paghubad: =====
 
-  * "High priest" could be translated as "supreme priest" or "highest ranking priest."
-  * Make sure this term is translated differently from the term "chief priest."
+  * Ang "pangulong pari" mahimong hubaron ng "labaw nga pari" o "pangulo nga ranggo sa pari."
+  * Siguradoha nga kini nga termino lahi ang pagkahubad sa pulong nga "pangulong pari."
 
-(See also: [[priest]], [[ceb:obe:other:chiefpriests]],   [[temple]])
-
+(Tan-awa usab: [[:ceb:obe:kt:priest|pari, pagkapari]], [[:ceb:obe:other:chiefpriests|chief priests]], [[:ceb:obe:kt:temple|templo]])
 
 ===== Asa Makita sa Biblia: =====
 
