@@ -25,16 +25,12 @@ The term "disciple" refers to a person who follows a teacher and learns from him
 
 {{topic>:en:bible?disciple&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:ceb:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:ceb:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:ceb:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:30-08|[30-08]]]** Ug gipikas-pikas ni Jesus ang pan ug isda. Ug gihatag niya kini sa iyang mga** tinun-an**  aron iapod-apod usab sa mga katawhan. Nagsige ug hatag ang mga **tinun-an**  sa pagkaon, apan wala gayod kini mahurot!
+  * **[[:ceb:obs:notes:frames:38-01|[38-01]]]** Human sa tulo ka tuig si Jesus nagsugod sa pagwali ug pagtudlo sa katawhan. Gisultian niya ang mga sumusunod nga gusto niya isaulog ang Pista sa Pan nga walay Patubo ug Pista sa Pagsaylo sa Anghel sa Jerusalem kauban nila. Giingnan usab niya sila nga didto siya patyon.
+  * **[[:ceb:obs:notes:frames:38-11|[38-11]]]** Unya miadto si Jesus uban ang iyang mga sumusunod sa lugar nga ginganlan ug Getsemane. Ug miingon siya kanila nga mag-ampo aron dili sila dag-on sa pagsulay.
+  * **[[:ceb:obs:notes:frames:42-10|[42-10]]]**"Miingon si Jesus sa iyang mga tinun-an, “Gihatag kanako ang tanang katungod sa langit ug sa yuta. Adtoi ninyo ang mga tawo sa tanan nga dapit ug himoa ninyo sila nga akong mga tinun-an, bawtismohi ninyo sila sa ngalan sa Amahan, sa Anak, ug sa Balaang Espiritu.Tudloi ninyo sila sa pagtuman sa tanan nga akong gisugo kaninyo.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
