@@ -1,18 +1,17 @@
 ====== Rehoboam ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
+Si Rehoboam usa sa mga anak ni Haring Solomon, ug nahimo siya nga hari sa nasod sa Israel sa dihang namatay na si Solomon.
 
-  * When Rehoboam spoke too severely to the people of Israel, ten of the tribes rebelled against him. Because of this, the nation of Israel became two kingdoms: the kingdom of Israel in the north and the kingdom of Judah in the south.
-  * Rehoboam continued to be the king of the kingdom of Judah, which consisted of the two tribes who remained loyal to him.
-  * Rehoboam was a wicked king who did not obey Yahweh, but served false gods.
+  * Sa dihang gipasakitan ni Rehoboam ug sulti ang mga katawhan sa Israel, misupak kaniya ang napulo ka tribo. Tungod niini, nabahin ang nasod sa Israel ngadto sa duha ka gingharian: ang gingharian sa Israel sa amihang bahin, ug ang gingharian sa Juda sa habagatang bahin.
+  * Nagpadayon si Rehoboam sa paghari sa Juda nga gilangkoban sa duha ka tribo nga matinud-anon kaniya.
+  * Daotan nga hari si Reroboam ug masinupakon kang Yahweh, apan nag-alagad siya sa mga dios-dios.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng Paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[solomon]], [[kingdomofjudah]])
-
+(Tan-awa usab: [[:ceb:obe:other:solomon|Solomon]], [[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]])
 
 ===== Asa Makita sa Biblia: =====
 
