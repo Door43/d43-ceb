@@ -10,16 +10,17 @@ The devil is a spirit being that God created, but he rebelled against God and be
   * The name "Satan" means "adversary" or "enemy."
   * The word "devil" means "accuser."
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
   * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
-  * "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
-  * These terms should be translated differently from demon and evil spirit.
-  * Consider how these terms are translated in a local or national language. (See: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang pulong nga "demonyo mahimong hubaron sa pulong nga "ang tigpasangil" o "ang yawa" o "ang hari sa mga daotang espiritu" o "ang pangulo sa daotang espiritu."
+  * Ang "satanas" mahimong hubaron sa "kontra" o "kaaway" o uban pang ngalan nga nagpasabot nga siya ang demonyo.
+  * Kini nga mga termino kinahanglan hubaron nga lahi sa demonyo o daotang espiritu.
+  * Tan-awa kung unsaon kini nga mga termino paghubad sa lokal ug nasugnong pinulongan. (Tan-awa: [[:ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:ceb:obe:kt:kingdomofgod]], [[:ceb:obe:kt:evil]], [[:ceb:obe:kt:tempt]], [[:En:obe:kt:demon]])
+(Tan-awa usab: [[:ceb:obe:kt:kingdomofgod|gingharian sa Dios, gingharian sa langit]], [[:ceb:obe:kt:evil|daotan, pagkadaotan]], [[:ceb:obe:kt:tempt|tintal, tintasyon]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
 
 ===== Asa Makita sa Biblia: =====
 
