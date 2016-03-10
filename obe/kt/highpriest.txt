@@ -22,21 +22,17 @@ The high priest was the leader over all of Israel's priests.
 
 {{topic>:en:bible?highpriest&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
-  ***[[:ceb:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest** who would offer himself as a perfect sacrifice to God.
-  ***[[:ceb:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
-  ***[[:ceb:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest** in order for the **high priest** to question him. 
-  ***[[:ceb:obs:notes:frames:39-03|[39-03]]]** Finally, the **high priest** looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
-  ***[[:ceb:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and John to the **high priest** and the other religious leaders.
-  ***[[:ceb:obs:notes:frames:45-02|[45-02]]]** So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false witnesses lied about Stephen.
-  ***[[:ceb:obs:notes:frames:46-01|[46-01]]]** The **high priest** gave Saul permission to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-  ***[[:ceb:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great **High Priest**. Unlike other priests, he offered himself as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect **high priest** because he took the punishment for every sin that anyone has ever committed.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:13-08|[13-08]]]** Ang **pangulong pari**  lang ang gitugotan nga makasulod didto sa pikas nga kuwarto, luyo sa kurtina, tungod kay didto nagpuyo ang Dios.
+  * **[[:ceb:obs:notes:frames:21-07|[21-07]]]** Ang Mesiyas mao gayod ang hingpit nga **pangulong pari ** ug siya ang mohalad sa iyang kaugalingon ingon nga hingpit nga halad ngadto sa Dios.
+  * **[[:ceb:obs:notes:frames:38-03|[38-03]]]** Gipangulohan sa pangulong pari, gibayaran nila si Judas ug 30 nga salapi para magluib kang Jesus.
+  * **[[:ceb:obs:notes:frames:39-01|[39-01]]]** Tunga-tunga na sa gabii ug gidala sa mga sundalo si Jesus sa balay sa** pangulong pari**  aron siya pangutan-on.
+  * **[[:ceb:obs:notes:frames:39-03|[39-03]]]** Kadugayan, gitan-aw sa **pangulong pari**  si Jesus ug miingon, “Sultii mi, ikaw ba ang Mesiyas nga Anak sa Buhi nga Dios?”
+  * **[[:ceb:obs:notes:frames:44-07|[44-07]]]** Sunod nga adlaw, gidala si Pedro ug si Juan sa mga pangulo sa mga Judio didto sa **pangulong pari**  ug uban pang pangulo.
+  * **[[:ceb:obs:notes:frames:45-02|[45-02]]]** Busa gipadakop nila si Esteban ug gidala siya didto sa **pangulong pari**  ug sa uban pang mga pangulo sa mga Judio, diin adunay mga saksi nga nagsulti ug bakak batok kang Esteban.
+  * **[[:ceb:obs:notes:frames:46-01|[46-01]]] ** Gihatagan siya ug katungod sa  ** pangulong pari ** nga moadto sa Damasco aron dakpon ang mga Kristohanon didto ug dad-on balik sa Jerusalem.
+  * **[[:ceb:obs:notes:frames:48-06|[48-06]]] **Si Jesus ang Labaw nga **Pangulong Pari**. Dili siya sama sa ubang mga pari, tungod kay iyang gihalad ang iyang kaugalingon aron mawala ang mga sala sa tanang mga tawo sa kalibotan. Si Jesus ang hingpit nga **pangulong pari**  kay iyang gikuha ang silot sa tanan nga sala nga nabuhat sa tawo.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
