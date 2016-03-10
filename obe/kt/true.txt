@@ -26,11 +26,11 @@ tun-i ang kamatuoran, dawata ang kamatuoran, imong kamatuoran, giingon ko kanimo
 
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:02-04|[02-04]]]** Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay."
-  * **[[:ceb:obs:notes:frames:14-06|[14-06]]]**"Tinuod ang ilang giingon nga ang tawo sa Canaan tag-as ug kusgan, apan makahimo kita sa pagpildi kanila!
-  * **[[:ceb:obs:notes:frames:16-01|[16-01]]]** Gisimba nila ang mga dios-dios sa mga taga-Canaan ug dili si Yahweh nga mao ang tinuod nga Dios.
-  * **[[:ceb:obs:notes:frames:31-08|[31-08]]]** Gisimba nila si Jesus, ug miingon sila kaniya, “Tinuod gayod nga ikaw ang Anak sa Dios.”
-  * **[[:ceb:obs:notes:frames:39-10|[39-10]]]**"Nianhi ko sa kalibotan aron isulti sa mga tawo ang kamatuoran. Ug ang tanan nga gustong masayod sa kamatuoran maminaw kanako.” Nangutana si Pilato, “Unsa ba ang kamatuoran?”
+  * **[[:ceb:obs:notes:frames:02-04|[02-04]]]** Ang bitin miingon sa babaye, “Dili kana **tinuod**! Dili kamo mamatay."
+  * **[[:ceb:obs:notes:frames:14-06|[14-06]]] **"**Tinuod ** ang ilang giingon nga ang tawo sa Canaan tag-as ug kusgan, apan makahimo kita sa pagpildi kanila!
+  * **[[:ceb:obs:notes:frames:16-01|[16-01]]]** Gisimba nila ang mga dios-dios sa mga taga-Canaan ug dili si Yahweh nga mao ang **tinuod ** nga Dios.
+  * **[[:ceb:obs:notes:frames:31-08|[31-08]]]** Gisimba nila si Jesus, ug miingon sila kaniya, “**Tinuod ** gayod nga ikaw ang Anak sa Dios.”
+  * **[[:ceb:obs:notes:frames:39-10|[39-10]]] **"Nianhi ko sa kalibotan aron isulti sa mga tawo ang kamatuoran. Ug ang tanan nga gustong masayod sa **kamatuoran ** maminaw kanako.” Nangutana si Pilato, “Unsa ba ang **kamatuoran**?”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
