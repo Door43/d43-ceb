@@ -6,7 +6,7 @@
   - **Unsa ang nahitabo sa binhi nga nahulog sa dalan?**
     *//Niabot ang mga langgam ug gipangaon ang mga binhi. [33-02]//
   - **Unsa ang nahitabo sa binhi nga nahulog sa kabatoan?**
-    *//Mitubo dayon kini, apan nalaya kini ug namatay sa dihang inin na ang panahon. [33-03]//
+    *//Mitubo dayon kini, apan nalaya kini ug namatay sa dihang init na ang panahon. [33-03]//
   - **Unsa ang nahitabo sa binhi nga nahulog sa kasampinitan?**
     *//Nitubo kini, apan ang mga tunok mituok niini. [33-04]//
   - **Unsa ang nahitabo sa binhi nga nahulog sa tabunok nga yuta?**
@@ -16,12 +16,12 @@
   - **Unsa ang gisimbolo sa binhi sa Istorya?**
     *//Ang pulong sa Dios. [33-06]//
   - **Unsa ang gisimbolo sa dalan?**
-    *//Ang tawo nga naminaw sa pulong sa Dios, apan wala makasabot niini, ug gikuha kini sa yawa gikan kaniya. [33-06]//
-  - **Unsa ang gipasabot sa kabatoan?**
+    *//Ang tawo nga nakadungog sa pulong sa Dios, apan wala makasabot niini, ug gikuha kini sa yawa gikan kaniya. [33-06]//
+  - **Unsa ang gisimbolo sa kabatoan?**
     *//Ang tawo nga nakadungog sa pulong sa Dios ug malipayon nga nidawat niini, apan pag-abot sa mga kalisdanan ug paglutos niundang siya. [33-07]//
   - **Unsa ang gisimbolo sa kasampinitan?**
     *//Ang tawo nga nakadungog sa pulong sa Dios, apan paglabay sa panahon, ang mga suliran, mga bahandi, ug mga kailibgon sa kinabuhi mipahilayo kaniya gikan sa gugma sa Dios. [33-08]//
-  - **Unsa ang gisimbolo sa tabunok sa nga yuta?**
+  - **Unsa ang gisimbolo sa tabunok nga yuta?**
     *//Ang tawo nga nakadungog sa pulong sa Dios, mituo niini, ug nakapamunga? [33-09]//
 
 
