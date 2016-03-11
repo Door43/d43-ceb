@@ -1,16 +1,16 @@
 ====== Esau ======
 
-===== Facts: =====
+===== Ipasabot: =====
 
-Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. His twin brother was Jacob.
+Si Esau usa sa anak nga lalaki sa kaluha nga anak ni Isaac ug Rebeka. Siya ang unang bata nga nahimugso. Ang iyang igsoong lalaki mao si Jacob.
 
-  * Esau sold his birthright to his brother Jacob in exchange for a bowl of food.
-  * Since Esau was born first, his father was supposed to give him a special blessing. But Jacob stole Esau's blessing. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
-  * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
+  * Gibaligya ni Esau ang iyahang katungod sa pagkapanganay ngadto sa iyahang igsoong lalaki nga si Jacob sa pagbaylo sa pagkaon nga gisulod sa panaksan.
+  * Sa dihang si Esau ang unang nahimugso, ang iyang amahan naghatag unta ug pinasahing panalangin. Pero gikawat ni Jacob ang panalangin nga para unta kang Esau. Sa permiro si Esau suko kaayo ug gusto niya patyon si Jacob, pero sa kadugayan napasaylo ra niya kini.
+  * Si Esau adunay daghang mga anak ug apo, ug kini nga mga kakaliwatan nagporma ug dakong grupo sa mga tawo nga nagpuyo sa yuta sa Canaan.
 
-(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:ceb:obe:other:isaac|Isaac]], [[:ceb:obe:other:rebekah|Rebeka]], [[:en:obe:other:jacob|Jacob, Israel]] [[:en:obe:other:edom|Edom, Edomite, Idumea, Seir, Teman]])
+(Tan-awa usab: [[:ceb:obe:other:isaac|Isaac]], [[:ceb:obe:other:rebekah|Rebeka]], [[:en:obe:other:jacob|Jacob, Israel]] [[:en:obe:other:edom|Edom, Edomite, Idumea, Seir, Teman]])
 
 ===== Bible References: =====
 
