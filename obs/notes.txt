@@ -1,6 +1,6 @@
 ====== Paghubad ug Dugang nga Pasabot (Translation & Checking Notes) ======
 
-//Aron matabangan ang mga maghuhubad sa [[:ceb:obs|Open Bible Stories]] nga monindot pa ang ilang paghubad, ang mga basahon mahitungod sa pagsabot sa Biblia (exegetical notes) ug sa tagsa-tagsa ka hugna (text + image) sa matag istorya, makita ninyo dinhi. Mao kini ang mga istorya nga adunay completong dugang nga pasabot://
+//Aron matabangan ang mga maghuhubad sa [[:ceb:obs|Open Bible Stories]] nga monindot pa ang ilang paghubad, makita ninyo dinhi ang mga basahon mahitungod sa pagsabot sa Biblia (exegetical notes) ug sa tagsa-tagsa ka hugna (text + image) sa matag istorya. Mao kini ang mga istorya nga adunay completong dugang nga pasabot://
   - [[:ceb:obs:notes:01|Ang Pagpamuhat sa Dios]]
   - [[:ceb:obs:notes:02|Ang Pagsulod sa Sala sa Kalibotan]]
   - [[:ceb:obs:notes:03|Ang Lunop]]
