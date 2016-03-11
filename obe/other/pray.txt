@@ -13,19 +13,15 @@ Ang pag-ampo mao ang pakigsulti ngadto sa Dios.
 
 {{topic>:en:bible?pray&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:ceb:obs:notes:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
-  ***[[:ceb:obs:notes:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, "Hear us, O Baal!"
-  ***[[:ceb:obs:notes:frames:21-07|[21-07]]]**  Priests also **prayed** to God for the people.
-  ***[[:ceb:obs:notes:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not enter into temptation.
-  ***[[:ceb:obs:notes:frames:43-13|[43-13]]]** The disciples continually listened to the teaching of the apostles, spent time together, ate together, and **prayed** with each other.
-  ***[[:ceb:obs:notes:frames:49-18|[49-18]]]**  God tells you to **pray**, to study his word, to worship him with other Christians, and to tell others what he has done for you. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:06-05|[06-05]]]** Nag-ampo si Isaac alang kang Rebeca, ug ang Dios nagtugot kaniya nga magsabak ug kaluha.
+  * **[[:ceb:obs:notes:frames:13-12|[13-12]]]** Apan si Moises nag-ampo alang sa ilang mga sala ug namati ang Dios sa iyang pag-ampo ug wala na niya sila siloti.
+  * **[[:ceb:obs:notes:frames:19-08|[19-08]]]** Unya nangampo ang mga propeta ni Baal, “Paminaw kanamo Baal!”
+  * **[[:ceb:obs:notes:frames:21-07|[21-07]]]** Nagaampo pud sila sa Dios alang sa mga tawo.
+  * **[[:ceb:obs:notes:frames:38-11|[38-11]]]** Ug miingon siya kanila nga mag-ampo aron dili sila dag-on sa pagsulay.
+  * **[[:ceb:obs:notes:frames:43-13|[43-13]]] **Nagpadayon ug paminaw ang mga sumusunod sa mga gipanudlo sa mga apostoles. Kanunay sila nagtigum, nangaon, ug nag-ampo. \\
+  * **[[:ceb:obs:notes:frames:49-18|[49-18]]]** Ang Dios nag ingon kanimo nga mag-ampo, ug magtuon sa iyang pulong, ug sa pag simba kaniya kauban ang mga kristohanon, ug isulti sa uban kon unsa ang nabuhat sa Dios kanimo.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
