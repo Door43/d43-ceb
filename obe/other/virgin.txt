@@ -13,15 +13,12 @@ Ang ulay mao ang babaye nga wala miagi ug pakighilawas.
 
 {{topic>:en:bible?virgin&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
-  ***[[:ceb:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
-  ***[[:ceb:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
-  ***[[:ceb:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:21-09|[21-09]]]** Gipropesiya ni propeta Isaias nga matawo ang Mesiyas sa babaeng ulay.
+  * **[[:ceb:obs:notes:frames:22-04|[22-04]]]** Ulay siya nga babaye ug gipamalayan na sa usa ka tawo nga ginganlan ug Jose.
+  * **[[:ceb:obs:notes:frames:22-05|[22-05]]]** Mitubag si Maria, “Unsaon man ana pagkahitabo nga ulay man ko?”
+  * **[[:ceb:obs:notes:frames:49-01|[49-01]]]** Giingan sa anghel ang ulay nga ginganlan ug Maria nga siya maoy magpahimugso sa Anak sa Dois. Sa ulay pa siya gilamdagan siya sa espiritu Santo ug nagmabdos siya. Nanganak siya ug batang lalaki ug ginganlan niya'g Jesus. \\
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
