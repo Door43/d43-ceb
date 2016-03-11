@@ -1,16 +1,15 @@
 ====== Rahab ======
 
-===== Facts: =====
+===== Ipasabot: =====
 
-Rahab was a woman who lived in Jericho when Israel attacked the city. She was a prostitute.
+She was a prostitute. Si Rahab usa ka babaye diin nagpuyo sa Jirecho sa dihang giatake sa Israel ang lungsod.
 
-  * Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.
-  * Rahab became a believer in Yahweh and she and her family were saved when Jericho was destroyed. They came to live with the Israelites.
+  * Gitagoan ni Rahab ang duha ka mga Israelita nga niabot aron sa pagpaniid sa Jirecho sa wala pa sila giatake sa mga taga Israelita. Iyang gitabangan ang mga espiya nga makasibat balik ngadto sa kampo sa mga taga Israelita.
+  * Si Rahab nahimong magtutuo ni Yahweh ug siya ug ang iyang pamilya naluwas sa dihang nahugno ang Jirecho. Nabuhi sila uban ang mga taga israelita.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[jericho]], [[israel]])
-
+(Tan-awa usab: [[:ceb:obe:other:jericho|Jericho]], [[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]])
 
 ===== Bible References: =====
 
