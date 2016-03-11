@@ -6,7 +6,7 @@ Nibalik si Moises sa Ehipto ug iyang giingnan ang Paraon nga buhian ang mga Isra
 
 ====== Paghubad sa Istorya ======
 
-I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:10-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&200}}]]\\
 "Tugoti ang akong Katawhan sa paglakaw!" [10-01]
