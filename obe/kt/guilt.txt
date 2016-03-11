@@ -18,12 +18,12 @@ The term "guilt" refers to the fact of having sinned or committed a crime.
 
 {{topic>:en:bible?guilt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-  * **[[:ceb:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-  * **[[:ceb:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-  * **[[:ceb:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+  * **[[:ceb:obs:notes:frames:39-02|[39-02]]]** Daghan ang mitestigo ug mga bakak batok kaniya apan wala magkatakdo ang ilang mga gipanulti mao nang dili mapamatud-an nga** sad-an ** si Jesus.
+  * **[[:ceb:obs:notes:frames:39-11|[39-11]]]** Pagkahuman niya ug pakigsulti kang Jesus, migawas siya didto sa katawhan ug miingon, “Wala akoy nakit-an nga sala niining tawhana.” Apan ang mga pangulo sa mga Judio ug ang mga katawhan naninggit, “Ilansang siya sa krus!” Nitubag si Pilato, “**Wala man siyay sala**.” Apan gipakusgan pa gayod nilag singgit. Sa ikatulong higayon miingon si Pilato, “**Wala siyay sala**.”
+  * **[[:ceb:obs:notes:frames:40-04|[40-04]]]** Naay duha ka tulisan nga gilansang usab sa wala ug tuo ni Jesus. Nagbugal-bugal ang usa kang Jesus apan ang usa miingon, “Wala ka ba mahadlok sa Dios? Kitang duha nakasala, apan kining tawhana **walay sala**.”
+  * **[[:ceb:obs:notes:frames:49-10|[49-10]]]** Tungod sa imong mga sala, nahimo ikaw nga **sad-an**  ug angay'ng mamatay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
