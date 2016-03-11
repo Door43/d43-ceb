@@ -2,11 +2,11 @@
 
 ===== Katibuk-an: =====
 
-Mao ni ang tinuod nga istorya sa paghimo sa Dios sa kalibotan ug ang tanang anaa niini sulod sa unom ka adlaw. Gihimo Niya ang kinaunahan nga lalaki ug babaye aron malingaw ug mag-atiman sa iyang binuhatan. Aduna silay espesyal nga relasyon sa Dios ug gihatag sa ilaha ang tanan nilang kinahanglan. Maayo gayod ang binuhatan sa Dios.
+Mao ni ang tinuod nga istorya sa paghimo sa Dios sa kalibotan ug ang tanang anaa niini sulod sa unom ka adlaw. Gihimo Niya ang kinaunahan nga lalaki ug babaye aron malingaw ug mag-atiman sa iyang binuhat. Aduna silay mahinungdanon nga relasyon sa Dios ug gihatag sa ilaha ang tanan nilang kinahanglan. Maayo gayod ang binuhatan sa Dios.
 
 Paghubad sa Istorya:
 
-I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
 Ang Sinugdanan [01-01]\\
@@ -27,7 +27,7 @@ Gibuhat sa Dios ang Tanan nga Klasi sa Tanom [01-05]\\
 Gibuhat sa Dios ang Adlaw, Bulan ug mga Bituon [01-06]\\
 \\
 [[:ceb:obs:notes:frames:01-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&200}}]]\\
-Gibuhat sa Dios ang mga Langgam ug Isda [01-07]\\
+Gibuhat sa Dios ang mga Langgam ug mga Isda [01-07]\\
 \\
 [[:ceb:obs:notes:frames:01-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&200}}]]\\
 Gibuhat sa Dios ang mga Mananap [01-08]\\
@@ -45,10 +45,10 @@ Ang Duha ka Kahoy [01-11]\\
 Nag-inusara si Adan [01-12]\\
 \\
 [[:ceb:obs:notes:frames:01-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&200}}]]\\
-Gibuhat sa Dios si Eba [01-13]\\
+Gibuhat sa Dios si Eva [01-13]\\
 \\
 [[:ceb:obs:notes:frames:01-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&200}}]]\\
-Nagkita si Adan ug si Eba [01-14]\\
+Nagkita si Adan ug si Eva [01-14]\\
 \\
 [[:ceb:obs:notes:frames:01-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&200}}]]\\
 "Pagsanay kamo ug pun-a ninyo ang tibuok kalibotan." [01-15]\\
