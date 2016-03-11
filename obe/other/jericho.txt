@@ -12,15 +12,11 @@ Ang Jericho usa ka gamhanang lungsod sa yutang saad sa Caanan.
 
 {{topic>:en:bible?jericho&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:15-01|[15-01]]]** Joshua sent two spies to the Canaanite city of **Jericho**.
-  ***[[:ceb:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told Joshua how to attack the powerful city of **Jericho**.
-  ***[[:ceb:obs:notes:frames:15-05|[15-05]]]** Then the walls around **Jericho** fell down! The Israelites destroyed everything in the city as God had commanded.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:15-01|[15-01]]]** Nagpadala si Joshua ug mga espiya ngadto sa mga Canaanhon sa siyudad sa Jerico
+  * **[[:ceb:obs:notes:frames:15-03|[15-03]]]** Human makatabok ang katawhan sa Suba sa Jordan, giingnan sa Dios si Joshua unsaon pag-ataki ang gamhanang siyudad sa Jerico.
+  * **[[:ceb:obs:notes:frames:15-05|[15-05]]]** Unya ang tibuok pader sa Jerico nangahugno! Unya giguba sa mga Israelita ang tanan nga anaa sa sulod sa siyudad tungod mao kini ang gisugo sa Dios kanila.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
