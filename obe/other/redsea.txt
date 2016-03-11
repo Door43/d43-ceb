@@ -17,13 +17,9 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 {{topic>:en:bible?redsea&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:12-04|[12-04]]]**  When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
-  ***[[:ceb:obs:notes:frames:12-05|[12-05]]]**  Then God told Moses, "Tell the people to move toward the **Red Sea**."
-  ***[[:ceb:obs:notes:frames:13-01|[13-01]]]**  After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ceb:obs:notes:frames:12-04|[12-04]]]** Sa pagkakita sa mga Israelita nga nagpadulong na kanila ang mga kasundalohan sa Ehipto, nakita nila nga napataliwad-an na sila sa mga kasundalohan ni Paraon ug sa **Pulang Dagat**.
+  * **[[:ceb:obs:notes:frames:12-05|[12-05]]]** Unya ang Dios nag-ingon kang Moises, “Ingna ang katawhan nga mopadayon sa paglakaw ngadto sa **Pulang Dagat**.”
+  * **[[:ceb:obs:notes:frames:13-01|[13-01]]]** Human gigiyahan sa Dios ang mga Israelita didto sa** pulang dagat**, gidala usab sila didto sa kamingawan ug sa Bukid sa Sinai.
+~~DISCUSSION~~{{tag>publish ktobs}}
