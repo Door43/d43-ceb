@@ -17,12 +17,12 @@ Ang karaang siyudad sa Babilonya mao ang sintro sa Emperio sa Babilonya. Nga mak
 
 {{topic>:en:bible?babylon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the **Babylonians**, to attack the kingdom of Judah. **Babylon**  was a powerful empire.
-  * **[[:ceb:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah rebelled against **Babylon**. So, the **Babylonians**  came back and attacked the kingdom of Judah. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and the Temple.
-  * **[[:ceb:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of the kingdom of Judah to **Babylon**, leaving only the poorest people behind to plant the fields.
-  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** About seventy years later, Cyrus, the king of the Persians, defeated **Babylon**.
+  * **[[:ceb:obs:notes:frames:20-06|[20-06]]]** Paglabay sa 100 ka tuig human mapukan sa mga Asiria ang gingharian sa Israel, gipasulong sa Dios kang Nebucadnezar nga hari sa Babilonya ang gingharian sa Juda. Gamhanan kaayo ang emperyo sa Babilonya \\
+  * **[[:ceb:obs:notes:frames:20-07|[20-07]]]** Apan wala madugay, nagrebilde ang hari sa Juda batok sa Babilonya. Busa gibalikan sila sa taga-Babilonya ug gisulong ang ilang gingharian. Nailug nila ang siyudad sa Jerusalem, ug giguba nila ang Templo, ug gikuha nila ang tanang bahandi sa siyudad ug sa templo. \\
+  * **[[:ceb:obs:notes:frames:20-09|[20-09]]]** Gidala ni Nebucadnezar ug sa iyang mga kasundalohan ang daghang mga tawo sa gingharian sa Juda paingon sa Babilonya, ug ang makaluluoy nalang ang ilang gibilin aron magtanom sa mga kaumahan.
+  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** Sa ika-70 na ka tuig, napildi sa hari sa Persia nga si Cyrus ang Babilonya ug napulihan na ang gingharian sa Babilonya sa pagmando.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
