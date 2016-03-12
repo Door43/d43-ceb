@@ -4,39 +4,37 @@
 
 Si Pedro ug si Juan tua sa templo sa dihang ilang giayo ang pungkol nga makililimos sa ngalan ni Jesus. Nahibulong gayud pag-ayo ang mga tawo, apan ang mga pangulo sa relihiyon nasuko ug gidakop sila. Ang mga magmamando wala kalalis nga si Pedro ug si Juan nagbuhat ani nga mirakulo. Mao nga gisultihan nila sila nga dili na lamang mag-istorya bahin kang Jesus, ug gibuhian sila.
 
-====== Translate the Story ======
+====== Hubaron ang Istorya ======
 
+I-click ang giya (links) sa ubos aron hubaron ang kada bahin sa istorya.
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&200}}]]\\
+Ang Kimay nga Tawo [44-01]
 
+[[:ceb:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&200}}]]\\
+Pagtinog ug Paglakaw [44-02]
 
-[[:ceb:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?200|Frame 44-01}}]]\\ 
-The Crippled Man [44-01]\\ 
+[[:ceb:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&200}}]]\\
+Ang Himay nga Lalaki Nakalakaw [44-03]
 
-[[:ceb:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?200|Frame 44-02}}]]\\ 
-Get Up and Walk [44-02]\\ 
+[[:ceb:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&200}}]]\\
+Ang Gahom ni Jesus [44-04]
 
-[[:ceb:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?200|Frame 44-03}}]]\\ 
-The Crippled Man Was Healed [44-03]\\ 
+[[:ceb:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&200}}]]\\
+Nagsangyaw si Jesus [44-05]
 
-[[:ceb:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?200|Frame 44-04}}]]\\ 
-The Power of Jesus [44-04]\\ 
+[[:ceb:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&200}}]]\\
+Gidakop si Peter ug Juan [44-06]
 
-[[:ceb:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?200|Frame 44-05}}]]\\ 
-Peter Preached [44-05]\\ 
+[[:ceb:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&200}}]]\\
+Sa wala pa ang Pangulo sa Hudyo [44-07]
 
-[[:ceb:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?200|Frame 44-06}}]]\\ 
-Peter and John Were Arrested [44-06]\\ 
+[[:ceb:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&200}}]]\\
+Walay Ubang Dalan Gawas Kang Jesus [44-08]
 
-[[:ceb:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?200|Frame 44-07}}]]\\ 
-Before the Jewish Leaders [44-07]\\ 
+[[:ceb:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&200}}]]\\
+Gibuhian ang mga Tinun-an [44-09]
 
-[[:ceb:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?200|Frame 44-08}}]]\\ 
-No Other Way but Jesus [44-08]\\ 
-
-[[:ceb:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?200|Frame 44-09}}]]\\ 
-The Disciples Were Released [44-09]\\ 
-
-//A Bible story from: Acts 3:1-4:22//
+//Istorya sa Biblia: Buhat 3:1-4:22//
 
 **[[:ceb:obs:notes:43|<< Previous]] | [[:ceb:obs:notes:45|Next >>]]**
