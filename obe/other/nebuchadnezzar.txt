@@ -1,16 +1,15 @@
 ====== Nebucadnezar ======
 
-===== Facts: =====
+===== Ipasabot: =====
 
-Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
+Si Nebucadnezar mao ang hari  sa Emperio sa Babilonya. Kini ang pinakagamhanang Emperio panahon sa gingharian as Israel ug sa gingharian sa Juda.
 
-  * Nebuchadnezzar had a powerful army that conquered many other people groups.
-  * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This "Babylonian Exile" lasted 70 years.
+  * Si Nebucadnezar adunay gamhanang mga sundalo nga gibuntog ang daghang laing mga grupo sa mga tawo.
+  * Ilalum sa pagdumala ni Nebucadnezar, ang mga sundalo sa Babilonya miataki ug gibuntog ang gingharian sa Juda, ug gidala ang kadaghanan sa mga tawo sa Juda ngadto sa Babilonya isip mga binihag. Kining "hininginlan nga Babilonya" molungtad ngadto sa 70 ka tuig.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[babylon]], [[kingdomofjudah]])
-
+(Tan-awa usab: [[:ceb:obe:other:babylon|Babylon, Babylonian]], [[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]])
 
 ===== Bible References: =====
 
