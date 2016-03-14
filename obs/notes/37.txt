@@ -4,46 +4,43 @@
 
 Si Lazarus, usa ka maayo nga amigo ni Jesus, nagsakit, apan si Jesus naghulat pa nga mamatay si Lazarus ayha siya nibisita. Giingnan ni Jesus ang duha ka igsoon nga babaye ni Lazarus, si Maria ug si Marta, nga mutuo kaniya ug ablihan ang lubnganan nga gilubngan ni Lazarus. Niampo siya ug gitawag si Lazarus nga mugawas nga buhi. Daghan ang mituo kang Jesus tungod ani nga mirakulo. Apan ang mga pangulo sa relihiyon nasina ug nagplano nga patyon siya.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-clik ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:37-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&200}}]]\\
+Nagsakit si Lazarus [37-01]
 
+[[:ceb:obs:notes:frames:37-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&200}}]]\\
+Pagbalik sa Judea [37-02]
 
-[[:ceb:obs:notes:frames:37-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?200|Frame 37-01}}]]\\ 
-Lazarus Was Sick [37-01]\\ 
+[[:ceb:obs:notes:frames:37-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink&200}}]]\\
+Namatay si Lazarus [37-03]
 
-[[:ceb:obs:notes:frames:37-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?200|Frame 37-02}}]]\\ 
-Back to Judea [37-02]\\ 
+[[:ceb:obs:notes:frames:37-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&200}}]]\\
+Nagkita si JMarta ug si Jesus [37-04]
 
-[[:ceb:obs:notes:frames:37-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?200|Frame 37-03}}]]\\ 
-Lazarus Was Dead [37-03]\\ 
+[[:ceb:obs:notes:frames:37-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&200}}]]\\
+Ako ang Pagkabanhaw [37-05]
 
-[[:ceb:obs:notes:frames:37-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?200|Frame 37-04}}]]\\ 
-Martha Met Jesus [37-04]\\ 
+[[:ceb:obs:notes:frames:37-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&200}}]]\\
+Nagkaila si Maria ug si Jesus  [37-06]
 
-[[:ceb:obs:notes:frames:37-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?200|Frame 37-05}}]]\\ 
-I Am the Resurrection [37-05]\\ 
+[[:ceb:obs:notes:frames:37-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&200}}]]\\
+Ablihi ang Lubnganan [37-07]
 
-[[:ceb:obs:notes:frames:37-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?200|Frame 37-06}}]]\\ 
-Mary Meets Jesus [37-06]\\ 
+[[:ceb:obs:notes:frames:37-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&200}}]]\\
+Ang Pagpaligid sa Bato [37-08]
 
-[[:ceb:obs:notes:frames:37-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?200|Frame 37-07}}]]\\ 
-Open the Tomb [37-07]\\ 
+[[:ceb:obs:notes:frames:37-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&200}}]]\\
+Ang Pag-ampo ni Jesus [37-09]
 
-[[:ceb:obs:notes:frames:37-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?200|Frame 37-08}}]]\\ 
-Rolling the Stone Away [37-08]\\ 
+[[:ceb:obs:notes:frames:37-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&200}}]]\\
+Nabuhi si Lazarus Pag-usab[37-10]
 
-[[:ceb:obs:notes:frames:37-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?200|Frame 37-09}}]]\\ 
-Jesus' Prayer [37-09]\\ 
+[[:ceb:obs:notes:frames:37-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&200}}]]\\
+Ang mga Pangulo sa Relihiyon Nasina  [37-11]
 
-[[:ceb:obs:notes:frames:37-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?200|Frame 37-10}}]]\\ 
-Lazarus Was Alive Again[37-10]\\ 
-
-[[:ceb:obs:notes:frames:37-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?200|Frame 37-11}}]]\\ 
-The Leaders Were Jealous [37-11]\\ 
-
-
-//A Bible story from: John 11:1-46//
+//Istorya sa Biblia: Juan 11:1-46//
 
 **[[:ceb:obs:notes:36|<< Previous]] | [[:ceb:obs:notes:38|Next >>]]**
