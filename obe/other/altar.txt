@@ -16,10 +16,10 @@
 
 ===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:03-14|[03-14]]]** Pagkagawas niya sa arka, naghimo si Noe ug altar diin naghalad siya sa pipila ka mga mananap nga mahimong gamiton sa paghalad. 
-  * **[[:ceb:obs:notes:frames:05-08|[05-08]]]** Sa dihang didto na sila sa dapit nga halaran, gigapos ni Abraham ang iyang anak nga si Isaac, ug gipahigda niya sa altar. 
-  * **[[:ceb:obs:notes:frames:13-09|[13-09]]]** Ihawon sa Pari ang mananap ug ibutang niya sa halaran. 
-  * **[[:ceb:obs:notes:frames:16-06|[16-06]]]** Unya nagbuhat siya didto ug bag-o nga altar alang sa Dios ug naghalad siya sa Dios.
+  * **[[:ceb:obs:notes:frames:03-14|[03-14]]]** Pagkagawas niya sa arka, naghimo si Noe ug **altar** diin naghalad siya sa pipila ka mga mananap nga mahimong gamiton sa paghalad. 
+  * **[[:ceb:obs:notes:frames:05-08|[05-08]]]** Sa dihang didto na sila sa dapit nga halaran, gigapos ni Abraham ang iyang anak nga si Isaac, ug gipahigda niya sa **altar**. 
+  * **[[:ceb:obs:notes:frames:13-09|[13-09]]]** Ihawon sa Pari ang mananap ug ibutang niya sa **halaran**. 
+  * **[[:ceb:obs:notes:frames:16-06|[16-06]]]** Unya nagbuhat siya didto ug bag-o nga **altar** alang sa Dios ug naghalad siya sa Dios.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
