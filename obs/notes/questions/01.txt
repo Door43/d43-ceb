@@ -4,7 +4,7 @@
 
 Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo kon masabtan ba ang istorya.
 
-  - **Asa gikan any tanning butting nag anaa sa kalibutan?**
+  - **Asa gikan ang tanang butang nga anaa sa kalibutan?**
       * //Gibuhat sa Ginoo ang tanan. [01-01]//
   - **Unsa kadugay ang pagbuhat sa Ginoo sa tanan?**
       * //Unom ka adlaw [01-01]//
@@ -23,13 +23,13 @@ Kini ang mga pangutana nga gamiton sa mga maghuhubad sa pagpangutana sa mga tawo
   - **Unsa ang ngalan sa lalaki?**
       * //Adan. [01-10 ]//
   - **Asa gikan ang talagsaon nga kahoy nga si Adan wala gitugtan nga mokaon sa bunga niini?**
-      * //Ang bunga sa kahoy nga makahatag sa kahibalo ug maayo ug daotan. [01-11 ]//
-  - **Unsa ang mahitabo kon si Adan makakaon sa bunga sa kahoy nga makahatag sa kahibalo ug maayo ug daotan?**
+      * //Ang bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. [01-11 ]//
+  - **Unsa ang mahitabo kon si Adan makakaon sa bunga sa kahoy nga makahatag ug kahibalo kon unsa ang  maayo ug daotan?**
       * //Mamatay siya. [01-11]//
   - **Nganong si Adan “nag-inusara” nga naa man ang tanang klasi sa hayop?**
       * //Ang mga hayop dili makahimo sa “pagtabang “ kang Adan. [01-12]//
   - **Giunsa paghimo sa Ginoo ang babaye?**
-      * //Gikuha niya siya gikan sa gusok ni Adan. [01-13]//
+      * //Gikuha niya kini gikan sa gusok ni Adan. [01-13]//
   - **Unsay buot pasabot sa ngalan nga “babaye” ngadto kang Adan?**
       * //Kini nagpasabot nga siya gihimo gikan sa lalaki. [01-14]//
   - **Unsay tuyo nga ang lalaki naay asawa?**
