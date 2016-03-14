@@ -1,32 +1,29 @@
-======  Istorya #34: Ang mga Istorya nga gitudlo ni Jesus ======
+====== Istorya #34: Ang mga Istorya nga gitudlo ni Jesus ======
 
 ===== Mga Pangutana sa Pagsusi ug mga tubag =====
 
-
   - **Giunsa pagkompara ang liso sa mustasa ngadto sa ubang liso?**
-    *//Kini ang kinagamayan nga liso sa tanan. [34-01]//
+      * //Kini ang kinagamayan nga liso sa tanan. [34-01]//
   - **Unsa ang mahitabo sa liso sa mustasa sa dihang motubo na kini.**
-    *//Mahimo kining kinadakoan sa tanang pananom sa umahan. [34-02]//
+      * //Mahimo kining kinadakoan sa tanang tanom sa umahan. [34-02]//
   - **Unsa ang mahitabo sa patubo kung kini masagol sa minasa nga harina?**
-    *//Musagol kini sa tibouk minasa nga harina. [34-03]//
+      * //Musagol kini sa tibouk minasa nga harina. [34-03]//
   - **Unsa ang gihimo sa tawo human niya makita ang bahandi nga gilubong sa umahan?**
-    *//Gibaligya niya ang tanan nga anaa kaniya ug gigamit niya ang kuwarta sa pagpalit niini. [34-04]//
-  - **Unsa ang gibuhat sa nigusyante sa perlas sa dihang iyang nakita ang hingpit nga perlas?**
-    *//Gibaligya niya ang tanan nga anaa kaniya ug gigamit ang kuwarta sa pagpalit niini. [34-05]//
+      * //Gibaligya niya ang tanan nga anaa kaniya ug gigamit niya ang kuwarta sa pagpalit niini. [34-04]//
+  - **Unsa ang gibuhat sa nigosyante sa perlas sa dihang iyang nakita ang hingpit nga perlas?**
+      * //Gibaligya niya ang tanan nga anaa kaniya ug gigamit ang kuwarta sa pagpalit niini. [34-05]//
   - **Kang kinsa gisulti ni Jesus ang istorya sa duha ka tawo nga nag-ampo sa Templo?**
-    *//Sa mga tawo nga nagsalig sa ilang kamaayo ug nakaminus sa ubang tawo. [34-06]//
+      * //Sa mga tawo nga nagsalig sa ilang kamaayo ug nakaminus sa ubang tawo. [34-06]//
   - **Nganong ang pangulo sa relihiyon sa mga Judio nagpasalamat sa Dios?**
-    *//Nagpasalamat siya sa Dios kay dili siya makasasala sama sa ubang tawo. [34-07]//
-  - **Nanong naghunahuna man ang pangulo sa relihiyon sa mga Judio nga matarong siya?**
-    *//Nagpuasa siya ug kaduha sa usa ka semana ug naghatag ug ikanapulo sa iyang salapi ug kabtangan. [34-08]//
+      * //Nagpasalamat siya sa Dios kay dili siya makasasala sama sa ubang tawo. [34-07]//
+  - **Nganong naghunahuna man ang pangulo sa relihiyon sa mga Judio nga matarong siya?**
+      * //Nagpuasa siya ug kaduha sa usa ka semana ug naghatag ug ikanapulo sa iyang salapi ug kabtangan. [34-08]//
   - **Unsa ang gihangyo sa maniningil sa buhis ngadto sa Dios?**
-    *//Iyang gihangyo ang Dios nga mahimong maluloy-on ngadto kaniya tungod kay usa siya ka makasasala. [34-09]//
+      * //Iyang gihangyo ang Dios nga mahimong maluloy-on ngadto kaniya tungod kay usa siya ka makasasala. [34-09]//
   - **Kinsa ang tawo nga gideklara sa Dios nga matarong?**
-    *//Ang maniningil sa buhis. [34-10]//
+      * //Ang maniningil sa buhis. [34-10]//
   - **Unsa ang buhaton sa Dios sa tanan nga mapahitas-on?**
-    *//Ipaubos niya sila. [34-01]//
+      * //Ipaubos niya sila. [34-01]//
   - **Unsa ang buhaton sa Dios sa tanan nga mapaubsanon?**
-    *//Ipataas niya sila. [34-10]//
-
-
-**[[en/obs/notes/questions/33|<< ]] | [[en/obs/notes/questions/35| >>]]**
+      * //Ipataas niya sila. [34-10]//
+**[[:en:obs:notes:questions:33|<< ]] | [[:en:obs:notes:questions:35| >>]]**
