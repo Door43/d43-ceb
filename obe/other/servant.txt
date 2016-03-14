@@ -17,12 +17,12 @@ Ang sulugoon mao ang usa ka tawo diin nagtrabaho sa laing tawo, pinaagi sa iyang
 
 ===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:06-01|[06-01]]]**Sa dihang tigulang na kaayo si Abraham, ang iyang anak nga si Isaac ulitawo na Gipaadto ni Abraham ang usa sa iyang mga sulugoon ngadto sa yuta nga gipuy-an sa iyang mga paryente, aron sa pagpangita ug babaye nga ipaasawa sa iyang anak nga si Isaac. \\
-  * **[[:ceb:obs:notes:frames:08-04|[08-04]]]**Sa dihang tigulang na kaayo si Abraham, ang iyang anak nga si Isaac ulitawo na.  Gipaadto ni Abraham ang usa sa iyang mga sulugoon ngadto sa yuta nga gipuy-an sa iyang mga paryente, aron sa pagpangita ug babaye nga ipaasawa sa iyang anak nga si Isaac. \\
-  * **[[:ceb:obs:notes:frames:09-13|[09-13]]]**"Busa ipadala ko ikaw ngadto sa Paraon aron ipagawas mo ang mga Israelita gikan sa ilang pagkaulipon sa Ehipto.
-  * **[[:ceb:obs:notes:frames:19-10|[19-10]]]** Ug miampo si Elias, “Dios ni Abraham, Isaac, ug Jacob. Ipakita karon kanamo nga ikaw ang Dios sa Israel ug pagpamatuod nga ako imo gayod nga sulugoon.
-  * **[[:ceb:obs:notes:frames:29-03|[29-03]]]** Tungod kay dili makabayad ang sulugoon sa iyang utang, miingon ang hari, ‘Ibaligya kining tawhana ug ang iyang pamilya aron mahimong ulipon, ug makabayad siya sa iyang utang kanako.’” \\
-  * **[[:ceb:obs:notes:frames:35-06|[35-06]]] **"Ang tanan nga sulugoon sa akong amahan daghang makaon, unya ako diri walay kaon ug gigutom kaayo.
-  * **[[:ceb:obs:notes:frames:47-04|[47-04]]]** Kada labay nila Pablo ug Silas, mosinggit ang ulipon ug, “Sulugoon ni sila sa Dios nga Labaw nga Makagagahom.
-  * **[[:ceb:obs:notes:frames:50-04|[50-04]]]**"Miingon usab si Jesus, “Ang usa ka ulipon dili molabaw sa iyang agalon.
+  * **[[:ceb:obs:notes:frames:06-01|[06-01]]]** Sa dihang tigulang na kaayo si Abraham, ang iyang anak nga si Isaac ulitawo na Gipaadto ni Abraham ang usa sa iyang mga **sulugoon** ngadto sa yuta nga gipuy-an sa iyang mga paryente, aron sa pagpangita ug babaye nga ipaasawa sa iyang anak nga si Isaac. \\
+  * **[[:ceb:obs:notes:frames:08-04|[08-04]]]** Sa \\
+  * **[[:ceb:obs:notes:frames:09-13|[09-13]]]** "Busa ipadala ko ikaw ngadto sa Paraon aron ipagawas mo ang mga Israelita gikan sa ilang **pagkaulipon** sa Ehipto.
+  * **[[:ceb:obs:notes:frames:19-10|[19-10]]]** Ug miampo si Elias, “Dios ni Abraham, Isaac, ug Jacob. Ipakita karon kanamo nga ikaw ang Dios sa Israel ug pagpamatuod nga ako imo gayod nga **sulugoon**.
+  * **[[:ceb:obs:notes:frames:29-03|[29-03]]]** Tungod kay dili makabayad ang **sulugoon** sa iyang utang, miingon ang hari, ‘Ibaligya kining tawhana ug ang iyang pamilya aron mahimong ulipon, ug makabayad siya sa iyang utang kanako.’” \\
+  * **[[:ceb:obs:notes:frames:35-06|[35-06]]]** "Ang tanan nga **sulugoon** sa akong amahan daghang makaon, unya ako diri walay kaon ug gigutom kaayo.
+  * **[[:ceb:obs:notes:frames:47-04|[47-04]]]** Kada labay nila Pablo ug Silas, mosinggit ang **ulipon** ug, “**Sulugoon** ni sila sa Dios nga Labaw nga Makagagahom.
+  * **[[:ceb:obs:notes:frames:50-04|[50-04]]]** "Miingon usab si Jesus, “Ang usa ka **ulipon** dili molabaw sa iyang agalon.
 ~~DISCUSSION~~{{tag>publish ktobs}}
