@@ -1,23 +1,18 @@
-===== Dividing the Promised Land [15-12] =====
+===== Ang Pagbahin-bahin sa Yutang Saad  [15-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?nolink}}
+Human sa gubat, gihatagan sa Dios ang matag tribo sa Israel sa ilang kaugalingon luna sa Yutang Saad. Unya gihatagan usab sila sa Dios ug kalinaw sa ubang mga katawhan sa ilang palibot.
 
-After this battle, **God gave each tribe of Israel its own section of the Promised Land**. Then God **gave Israel peace along all its borders**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-  * **[[:ceb:obe:other:peace]]**
-
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+  * **[[:ceb:obe:other:peace|kalinaw, malinawon]]**
 ==== Translation Notes: ====
 
-
-  * **God gave…Land** – this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
-  * **gave Israel peace along all its borders** – This could be translated as, "God allowed the Israelites to experience peace with the other people groups that surrounded them" or. "the other countries around Israel."
-
+  * **gihatagan sa Dios ... luna**  - Mahimo kining hubaron nga, "Gihatagan sa Dios ang matag tribo sa ilang bahin sa yuta," o, "ang Dios nakadesisyon kon asa nga bahin sa Yutang Saad ang mahimong luna sa matag tribo sa Israel aron ilang puy-an."
+  * **gihatagan usab sila sa Dios ug kalinaw sa ubang mga katawhan sa ilang palibot - ** Mahimo kining hubaron nga, "Gitugotan sa Dios nga makasinati ang mga Israelita ug kalinaw kauban sa mga katawhan nga anaa sa ilang palibot" o "sa ubang mga nasod nga naglibot sa Israel."
 
 **[[:ceb:obs:notes:frames:15-11|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-13|>>]]**
