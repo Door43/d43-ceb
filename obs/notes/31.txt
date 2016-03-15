@@ -4,36 +4,34 @@
 
 Usa ka adlaw, si Jesus nag-ampo duol sa linaw unya ang mga tinun-an nagtabok niini gamit ang usa ka bangka. Niabot ang usa ka bagyo ug gi-igo ang ilang bangka. Si Jesus niadto kanila nga naglakaw sa tubig, nahadlok ang mga tinun-an. Apan si Pedro ninaog sa bangka ug nilakaw sa tubig padulong kang Jesus. Sa dihang si Pedro naunlod, giluwas siya ni Jesus ug gipakalma ang bagyo.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&200}}]]\\
+Nag-ampo si Jesus nga Nag-inusara [31-01]
 
+[[:ceb:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&200}}]]\\
+Ang bagyo [31-02]
 
-[[:ceb:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?200|Frame 31-01}}]]\\ 
-Jesus Prayed Alone [31-01]\\ 
+[[:ceb:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&200}}]]\\
+Naglakaw si Jesus sa Tubig [31-03]
 
-[[:ceb:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?200|Frame 31-02}}]]\\ 
-The Storm [31-02]\\ 
+[[:ceb:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&200}}]]\\
+Nahadlok ang mga Tinun-an [31-04]
 
-[[:ceb:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?200|Frame 31-03}}]]\\ 
-Jesus Walked on the Water [31-03]\\ 
+[[:ceb:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&200}}]]\\
+Gitawag ni Jesus si Pedro [31-05]
 
-[[:ceb:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?200|Frame 31-04}}]]\\ 
-The Disciples Were Afraid [31-04]\\ 
+[[:ceb:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&200}}]]\\
+Nilakaw si Pedro sa Tubig [31-06]
 
-[[:ceb:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?200|Frame 31-05}}]]\\ 
-Jesus Called Peter [31-05]\\ 
+[[:ceb:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&200}}]]\\
+Naunlod si Pedro [31-07]
 
-[[:ceb:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?200|Frame 31-06}}]]\\ 
-Peter Walked on the Water [31-06]\\ 
+[[:ceb:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&200}}]]\\
+Ang Anak sa Dios [31-08]
 
-[[:ceb:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?200|Frame 31-07}}]]\\ 
-Peter Sank [31-07]\\ 
-
-[[:ceb:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?200|Frame 31-08}}]]\\ 
-The Son of God [31-08]\\ 
-
-//A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21//
+//Istorya sa Biblia: Mateo 14:22-33; Marcus 6:45-52; Juan 6:16-21//
 
 **[[:ceb:obs:notes:30|<< Previous]] | [[:ceb:obs:notes:32|Next >>]]**
