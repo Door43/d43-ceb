@@ -1,26 +1,20 @@
-===== Marching around Jericho [15-03] =====
+===== Pagmartsa Palibot sa Jerico [15-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
+Human makatabok ang katawhan sa Suba sa Jordan, giingnan sa Dios si Josue unsaon pag-ataki ang gamhanang siyudad sa Jerico. Ug gituman kini sa mga katawhan. Ang Dios mismo nag-ingon niini nga ang mga kasundalohan ug ang mga pari magmartsa libot sa siyudad sa Jerico kausa sa usa ka adlaw ug buhaton nila kini sulod sa unom ka adlaw.
 
-**After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:jordanriver]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:jericho]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:priest]]**
-
-
+  * **[[:ceb:obe:other:jordanriver|Jordan River]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:jericho|Jericho]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
 ==== Translation Notes: ====
 
-
-  * **After the people crossed the Jordan River** – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **how to attack** – This could be translated as, "exactly what he should do to attack."
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-
-
+  * **Human makatabok ang katawhan sa Suba sa Jordan - ** Sa ubang pinulongan, maayo kon sama niini sa pagkasulti, "Mitabok ang katawhan Suba sa Jordan ug unya..."
+  * **unsaon pag-ataki- ** Mahimo kining hubaron nga, "ang hustong paagi unsaon pag-ataki."
+  * **kausa sa usa ka adlaw ... sulod sa unom ka adlaw- ** Nagpasabot kini nga naglibot sila sa usa ka higayon matag adlaw ug gibuhat nila kini sulod sa unom ka adlaw.
 **[[:ceb:obs:notes:frames:15-02|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-04|>>]]**
