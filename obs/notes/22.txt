@@ -4,34 +4,31 @@
 
 Ang pari nga ginganlan ug Zacarias tigulang na ug walay anak. Gisultihan siya sa usa ka anghel gikan sa Dios nga siya makabaton ug anak nga lalaki, si Juan, nga maoy mag-andam sa dalan para sa Mesiyas. Ang angel usab nag-ingon sa usa ka ulay nga babaye nga ginganlan ug Maria nga siya makabaton ug anak nga lalaki. Ang anak ni Maria mao ang mamahimong Mesiyas, ang Anak sa Halangdon nga Dios.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&200}}]]\\
+Nakig-istorya ang Dios kang Zacarias [22-01]
 
+[[:ceb:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&200}}]]\\
+Ikaw Makabaton ug Anak nga Lalaki [22-02]
 
-[[:ceb:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?200|Frame 22-01}}]]\\ 
-God Spoke to Zechariah [22-01]\\ 
+[[:ceb:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&200}}]]\\
+Dili Maka-istorya [22-03]
 
-[[:ceb:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?200|Frame 22-02}}]]\\ 
-You Will Have a Son [22-02]\\ 
+[[:ceb:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&200}}]]\\
+Ang usa ka Anghel Nakig-istorya kang Maria [22-04]
 
-[[:ceb:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?200|Frame 22-03}}]]\\ 
-Unable to Speak [22-03]\\ 
+[[:ceb:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink&200}}]]\\
+Ang Inahan sa Mesiyas [22-05]
 
-[[:ceb:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?200|Frame 22-04}}]]\\ 
-An Angel Spoke to Mary [22-04]\\ 
+[[:ceb:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&200}}]]\\
+Si Maria ug si Elisabet [22-06]
 
-[[:ceb:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?200|Frame 22-05}}]]\\ 
-The Mother of the Messiah [22-05]\\ 
+[[:ceb:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&200}}]]\\
+Ang Pagkatawo ni Juan [22-07]
 
-[[:ceb:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?200|Frame 22-06}}]]\\ 
-Mary and Elizabeth [22-06]\\ 
-
-[[:ceb:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?200|Frame 22-07}}]]\\ 
-The Birth of John [22-07]\\ 
-
-
-//A Bible story from: Luke 1//
+//Istorya sa Biblia: Lucas 1//
 
 **[[:ceb:obs:notes:21|<< Previous]] | [[:ceb:obs:notes:23|Next >>]]**
