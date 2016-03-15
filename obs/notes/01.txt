@@ -1,10 +1,10 @@
 ====== 1. Ang Pagpamuhat Sa Dios ======
 
-===== Katibuk-an: =====
+===== Kinatibuk-an: =====
 
 Mao ni ang tinuod nga istorya sa paghimo sa Dios sa kalibotan ug ang tanang anaa niini sulod sa unom ka adlaw. Gihimo Niya ang kinaunahan nga lalaki ug babaye aron malingaw ug mag-atiman sa iyang binuhat. Aduna silay mahinungdanon nga relasyon sa Dios ug gihatag sa ilaha ang tanan nilang kinahanglan. Maayo gayod ang binuhatan sa Dios.
 
-Paghubad sa Istorya:
+====== Hubaron ang Istorya ======
 
 I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
@@ -56,6 +56,6 @@ Nagkita si Adan ug si Eva [01-14]\\
 [[:ceb:obs:notes:frames:01-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&200}}]]\\
 Mipahulay ang Dios sa Ikapito nga Adlaw [01-16]
 
-//Istorya gikan sa Biblia: Genesis 1-2//
+//Istorya sa Biblia: Genesis 1-2//
 
 **[[:ceb:obs:notes:02|Sunod >>]]**
