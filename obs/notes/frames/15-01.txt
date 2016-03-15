@@ -1,31 +1,26 @@
-===== The Two Spies [15-01] =====
+===== Ang Duha Ka Espiya [15-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink}}
+Sa kataposan miabot ra gayod ang panahon nga mosulod na ang mga Israelita sa Canaan, ang Yutang Saad. Nagpadala si Josue ug duha ka espiya ngadto sa Canaan, didto sa siyudad sa Jerico nga nalibotan ug lig-on nga pader. Adunay nagpuyo didto nga usa ka babaye nga nagbaligya sa iyang dungog nga ginganla'g Rahab nga maoy mitago sa espiya ug mitabang kanila nga makaikyas. Iya kining gihimo tungod kay mituo man siya sa Dios. Unya gisaaran nila nga protektahan si Rahab ug ang iyang pamilya sa panahon nga gub-on sa mga Israelita ang Jerico.
 
-**At last it was time for** the **Israelites** to **enter Canaan**, the **Promised Land**. **Joshua** sent **two spies to the Canaanite city of Jericho** that was **protected by strong walls**. In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to **escape**. She did this because she **believed God**. They promised to protect Rahab and **her family** when the Israelites would destroy Jericho.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:jericho]]**
-  * **[[:ceb:obe:other:rahab]]**
-  * **[[:ceb:obe:kt:believe]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:promise]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:jericho|Jericho]]**
+  * **[[:ceb:obe:other:rahab|Rahab]]**
+  * **[[:ceb:obe:kt:believe|pagtuo, pagtuo sa, tinuohan]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
 ==== Translation Notes: ====
 
-
-  * **At last it was time for** - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
-  * **two spies to the Canaanite city of Jericho** - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:ceb:obs:notes:frames:14-04|[14-04]]]**.
-  * **protected by strong walls** - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
-  * **escape** – It is also possible to add, "escape from people in Jericho who wanted to harm them."
-  * **her family** - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people.
-
+  * **Sa kataposan miabot ra gayod ang panahon - "Sa**  kataposan" kini nagpasabot kini, "miabot ra gayod" o, "human sa dugay nga panahon sa pagpaabot." Aron maklaro kung unsa ang ipasabot sa "panahon" mahimo nga sama niini ang pagpakasulti, "human sa ilang paglaag-laag sa kamingawan sa 40 ka tuig, sa kataposan ang Dios nitugot na."
+  * **duha ka espiya ngadto sa Canaan, didto sa siyudad sa Jerico - ** Mahimo kining hubaron nga, "duha ka tawo ngadto sa Jerico, ang siyudad sa Canaan, aron pagpangita ug kasayoran bahin niini." Tan-awa usab kini sa [14-04] alang sa "pagpaniid sa yuta."
+  * **nalibotan ug lig-on nga pader - ** Mahimo kining hubaron nga, "Nalibotan ug maayo sa baga, lig-on nga pader nga gihimo sa bato aron panalipod sa ilang mga kaaway."
+  * **Makaikyas - ** Mahimo usab kini nga dugangan, "makaikyas gikan sa mga tawo sa Jerico nga buot mopatay kanila."
+  * **sa iyang pamilya - ** Si Rahab naghangyo nga panalipdan ang iyang amahan, inahan ug mga igsoon. Gamit ang pulong alang sa  pamilya maapil usab ang tibuok membro sa pamilya.
 
 **[[:ceb:obs:notes:frames:14-15|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-02|>>]]**
