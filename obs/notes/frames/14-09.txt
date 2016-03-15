@@ -12,8 +12,9 @@ Sa dihang nadungog na kini sa katawhan, nangayo sila ug pasaylo sa ilang pagpaka
   * **[[:ceb:obe:kt:god|Dios]]**
 ==== Translation Notes: ====
 
-  * **they had sinned**  - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
-  * **Moses warned them not to go**  - This means that Moses told them not to go to fight against the Canaanites because they would be in danger if they did that.
-  * **God was not with them**  – In other words, God would not be with them to help them. Because of the Israelites' disobedience, God withdrew from them his presence, protection, and power.
-  * **but they did not listen to him**  - They did not obey Moses. They went to attack the Canaanites anyway.
+  * **sa ilang pagpakasala - ** Kini mahimo nga atong dugangan sa paghubad, ''Nakasala sila tungod kay misupak sila sa gisugo sa Dios kanila nga pagbuntog sa mga katawhan sa Canaan.''
+  * **Gipahimangnoan sila ni Moises nga dili modayon - ** Kini nagpasabot nga si Moises miingon kanila nga dili mopadayon sa pagpakig-away batok sa mga Canaanhon tungod kay mamiligro ang ilang kinabuhi.
+  * **Ang Dios dili mouban kanila - ** Sa ubang pagkasulti, ang Dios wala mouban kanila aron sa pagtabang kanila tungod kay ang mga Israelita nagmasinupakon. Busa nagpalayo ang Dios gikan kanila, ug wala na mopanalipod kanila ug wala motabon sa iyang gahom kanila.
+  * **Apan wala sila naminaw Kaniya - ** Wala sila mosunod kang Moises, ug ila pa hinuon nga gidayonan ug sulong ang mga Canaanhon.
+
 **[[:ceb:obs:notes:frames:14-08|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-10|>>]]**
