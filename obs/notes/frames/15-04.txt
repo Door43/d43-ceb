@@ -1,21 +1,16 @@
-===== Shouting to God [15-04] =====
+===== Pagsinggit Ngadto sa Dios [15-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?nolink}}
+Unya sa ikapito nga adlaw, ang mga Israelita nagmartsa libot sa siyudad sa pito kahigayon. Sa kataposan nilang paglibot sa siyudad, ang kasundalohan naninggit samtang ang mga pari nagpatingog sa ilang mga trumpeta.
 
-Then on the seventh day, the **Israelites** marched around the city seven more times. **While they marched around the city for the last time**, the soldiers shouted while the **priests blew their trumpets**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:priest]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
 ==== Translation Notes: ====
 
-
-  * **While they marched around the city for the last time** - This can be translated as, "During their final circuit around the city."
-  * **blew their trumpets** - This could be translated as, "They sounded their trumpets" or, "They played their trumpets." These trumpets were made out of ram's horns.
-
+  * **Sa kataposan nilang paglibot sa siyudad - ** Mahimo kini nga hubaron nga, "Nianang higayona sa kataposan nilang paglibot sa siyudad."
+  * **nagpatingog sa ilang mga trumpeta - ** Mahimo kini nga hubaron nga, "gihuypan nila ang ilang mga trumpeta," o, "gigamit nila ang ilang mga trumpeta." kini nga trumpita hinimo gikan sa sungay sa nating karnero."
 
 **[[:ceb:obs:notes:frames:15-03|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-05|>>]]**
