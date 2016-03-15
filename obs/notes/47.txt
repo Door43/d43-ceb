@@ -6,7 +6,7 @@ Si Saul nagsugod ug gamit sa Romano nga pangalan nga, Pablo. Siya ug si Silas mi
 
 ====== Hubaron ang Istorya ======
 
-I-click ang giya (links) sa ubos aron hubaron ang kada bahin sa istorya.
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:47-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink&200}}]]\\
 Si Pablo ug Silas sa Filipos [47-01]
