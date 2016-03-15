@@ -4,9 +4,9 @@
 
 Si Lazarus nga usa ka maayo nga amigo ni Jesus, nagsakit, apan si Jesus naghulat pa nga mamatay si Lazarus ayha siya nibisita. Giingnan ni Jesus ang duha ka igsoon nga babaye ni Lazarus, si Maria ug si Marta, nga mutuo kaniya ug ablihan ang lubnganan nga gilubngan ni Lazarus. Niampo siya ug gitawag si Lazarus nga mugawas nga buhi. Daghan ang mituo kang Jesus tungod ani nga mirakulo. Apan ang mga pangulo sa relihiyon nasina ug nagplano nga patyon siya.
 
-====== Paghubad sa Istorya ======
+====== Hubaron ang Istorya ======
 
-I-clik ang mga litrato para sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:37-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&200}}]]\\
 Nagsakit si Lazarus [37-01]
@@ -43,4 +43,4 @@ Ang mga Pangulo sa Relihiyon Nasina [37-11]
 
 //Istorya sa Biblia: Juan 11:1-46//
 
-**[[:ceb:obs:notes:36|<< Previous]] | [[:ceb:obs:notes:38|Next >>]]**
+**[[:ceb:obs:notes:36|<< Nahiuna]] | [[:ceb:obs:notes:38|Sunod >>]]**
