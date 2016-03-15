@@ -4,9 +4,9 @@
 
 Gidala sa Dios ang mga Israelita didto sa kamingawan ug sa Bukid sa Sinai. Gihatag kanila ang napulo ka sugo nga gisulat sa Dios sa mga lapad nga bato ug uban pang mga balaod. Ang tanang katawhan nagkauyon sa pagtuman sa balaod nga gihatag sa Dios kanila ug sa pagsimba sa Dios, apan wala madugay, nagpakasala napud sila ug naghimo ug dios-dios. Nasuko kaayo si Moises sa mga tawo ug nagpadala ang Dios ug katalagman ug daghan kanila ang nangamatay. Nag-ampo si Moises sa Dios nga pasayloon ang mga Israelita. Gidungog sa Dios si Moises ug gipasaylo niya sila.
 
-====== Pag-hubad sa Istorya ======
+====== Hubaron ang Istorya ======
 
-I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:13-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&200}}]]\\
 Bukid sa Sinai [13-01]
@@ -18,7 +18,7 @@ Ang Pagtawag sa Dios sa Israel [13-02]
 Ang Dios ug si Moises [13-03]
 
 [[:ceb:obs:notes:frames:13-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&200}}]]\\
-"Ako si Yahweh, ang inyong Dios"  [13-04]
+"Ako si Yahweh, ang inyong Dios" [13-04]
 
 [[:ceb:obs:notes:frames:13-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&200}}]]\\
 Ang Kasugoan [13-05]
@@ -53,6 +53,6 @@ Giguba ni Moises ang Rebulto [13-14]
 [[:ceb:obs:notes:frames:13-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink&200}}]]\\
 Nag-ampo si Moises para sa mga Israelita [13-15]
 
-//Ang Istorya Gikan sa Biblia: Exodus 19-34//
+//Istorya sa Biblia: Exodo 19-34//
 
 **[[:ceb:obs:notes:12|<< Nahauna]] | [[:ceb:obs:notes:14|Sunod>>]]**
