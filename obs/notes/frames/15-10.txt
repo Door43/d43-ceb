@@ -1,21 +1,16 @@
-===== The Sun Stood Still [15-10] =====
+===== Wala Milihok ang Adlaw [15-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?nolink}}
+Unya gipaundang sa Dios sa paglakaw ang adlaw aron adunay igong panahon ang mga Israelita sa paghurot sa mga Amorihanon. Nianang adlawa, dako kaayo ang kadaogan nga gihatag sa Dios alang sa Israel.
 
-**God** also caused the sun to stay in one place in the sky so that **Israel** would have enough time to completely defeat the **Amorites**. On that day, God won a great victory for Israel.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:amorite]]**
-
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:amorite|Amorihanon]]**
 ==== Translation Notes: ====
 
-
- * //(There are no notes for this frame.)// 
-
+// (walay notes)//
 
 **[[:ceb:obs:notes:frames:15-09|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-11|>>]]**
