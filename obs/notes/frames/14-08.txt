@@ -1,25 +1,19 @@
-===== God Spoke [14-08] =====
+===== Misulti ang Dios [14-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink}}
+Nasuko pag-ayo ang Dios ug niadto sa Tolda nga Tagboanan. Ang Ginoo miingon, Tungod kay misukol kamo kanako, maglaag-laag kamo sa kamingawan ug didto lang kamo mangamatay. Si Josue ug si Caleb lang ang makasulod sa Yutang Saad, ug matag usa nga nagpanuigon ug bayente ka tuig o pataas didto lang mamatay sa kamingawan.”
 
-**God was very angry** and **came to** the **Tent of Meeting**. **God** said, “Because you have rebelled against me, all of the people will have to **wander in the wilderness**. Except for **Joshua** and **Caleb**, everyone who is twenty years or older will die there and never enter the **Promised Land**.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:tentofmeeting]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:caleb]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:tentofmeeting|tent of meeting]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:caleb|Caleb]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
 ==== Translation Notes: ====
 
-
-  * **came to** - God did not appear as a person, but came in some other form that showed his glory and power.
-  * **wander in the wilderness** - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-
-
+  * **niadto sa - ** Ang Dios wala nagpakita ingon nga tawo, apan sa lahi nga hulagway nga adunay himaya ug gahom.
+  * **maglaag-laag kamo sa kamingawan - ** Ang Dios naggiya sa katawhan libot sa kamingawan apan walay klaro ang ilang padulngan, hangtod nga mamatay ang tanang hamtong nga misukol ug misupak kaniya.
 **[[:ceb:obs:notes:frames:14-07|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-09|>>]]**
