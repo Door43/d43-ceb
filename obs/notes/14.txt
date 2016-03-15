@@ -4,9 +4,9 @@
 
 Gidala sa Dios ang mga Isaraelita sa Yutang Saad ug gisultihan sila nga laglagon ang mga Canaanhon nga nagpuyo ngadto, kauban ilang mga rebulto. Apan ang mga Israelita nahadlok sa mga Canaanhon ug nagsupak batok sa Dios ug kang Moises. Mao nga gipasalaag sa Dios ang mga Israelita sa deserto hangtud sa namatay ang ilang kaliwatan. Apan naghatag gihapon ang Dios kanila ug pagkaon ug tubig sa tibuok panahon nga anaa sila sa deserto. Sa dihang namatay na Moises, gipili sa Dios si Josue nga pangulohan ang katawhan.
 
-====== Paghubad sa Istorya ======
+====== Hubaron ang Istorya ======
 
-I-klik ang mga litrato para sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:14-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-01.jpg?nolink&200}}]]\\
 Ang Pag-giya sa Dios sa mga Israelita [14-01]
@@ -53,6 +53,6 @@ Yutang Saad [14-14]
 [[:ceb:obs:notes:frames:14-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-15.jpg?nolink&200}}]]\\
 Ang Pagkamatay ni Moises [14-15]
 
-//Ang Istorya Gikan sa Biblia: Exodus 16-17; Numbers 10-14; 20; 27; Deuteronomy 34//
+//Istorya sa Biblia: Exodo 16-17; Numeros 10-14; 20; 27; Deuteronomio 34//
 
 **[[:ceb:obs:notes:13|<< Nahiuna]] | [[:ceb:obs:notes:15|Sunod >>]]**
