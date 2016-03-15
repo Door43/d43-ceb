@@ -1,26 +1,21 @@
-===== The People Rebelled [14-07] =====
+===== Nag Rebelde ang mga Katawhan [14-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-07.jpg?nolink}}
+Apan ang katawhan wala naminaw kang Caleb ug Josue. Unya nasuko sila kang Moises ug Aaron ug nag-ingon, “Nganong gidala mo man kami dinhi sa makuyaw nga lugar? Nagpabilin nalang unta mi sa Ehipto kay sa mangamatay ra mi diri sa gubat, ug ang among mga asawa ug mga anak mahimong mga ulipon.“ Ang katawhan gusto magpili ug bag-ong pangulo nga maoy modala kanila pagbalik sa Ehipto.
 
-But the people did not listen to **Caleb** and **Joshua**. They became angry with **Moses** and **Aaron** and said, “**Why did you bring us to this horrible place**? We should have stayed in **Egypt rather than be killed in battle and our wives and children made slaves**.” The people wanted to choose a different leader to take them back to Egypt.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:caleb]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:aaron]]**
-  * **[[:ceb:obe:other:egypt]]**
-  * **[[:ceb:obe:other:servant]]**
-
-
+  * **[[:ceb:obe:other:caleb|Caleb]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:other:aaron|Aaron]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptuhanon]]**
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
 ==== Translation Notes: ====
 
-
-  * **Why did you bring us** – This is not a real question. It is a way that some languages use to say, "You should not have brought us."
-  * **this horrible place** - They considered Canaan to be "horrible" because they thought it was so dangerous that they would all be killed.
-  * **rather than be killed in battle and our wives and children made slaves** - This could be translated as, "If we fight against the Canaanites, they will kill us men and force our wives and children to be their slaves."
-
+  * **Nganong gidala mo man kami dinhi - ** Dili kini tinuod nga pangutana. Usa lang kini ka paagi sa pagsulti niini, "Wala unta kami nimo gidala dinhi."
+  * **sa makuyaw nga lugar - ** Giila nila nga ang Canaan usa ka "hadlok" nga lugar tungod kay delikado kini ug naghunahuna sila nga mangamatay didto.
+  * **kay sa mangamatay ra mi diri sa gubat, ug ang among mga asawa ug mga anak mahimong mga ulipon-** Mahimo kining hubaron nga, "Kung makig-away kita batok sa mga Canaanhon, mapatay gayod nila ang mga lalaki ug ilang kuhaon o pugson ang mga babaye nga mahimong mga sulugoon."
 
 **[[:ceb:obs:notes:frames:14-06|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-08|>>]]**
