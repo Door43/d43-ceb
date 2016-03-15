@@ -1,29 +1,24 @@
-===== Water from a Rock [14-12] =====
+===== Tubig Gikan sa Bato [14-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink}}
+Milagroso ang Dios nga nihatag kanila ug tubig gikan sa bato. Apan bisan niining tanan, nagbagulbol gihapon ang katawhan sa Israel batok sa Dios ug kang Moises. Apan bisan pa niini, nagpabiling matinud-anon ang Dios sa iyang mga saad kang Abraham, Isaac, ug Jacob.
 
-**God** even **miraculously gave them water from a rock**. **But despite all this**, the people of **Israel** complained and grumbled against God and against **Moses**. **Even so**, **God was still faithful to his promises to Abraham**, **Isaac**, **and Jacob**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:kt:faithful]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:other:jacob]]**
-
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:kt:faithful|matinud-anon, pagkamatinud-anon]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: ====
 
-
-  * **miraculously gave them water from a rock** - This could be translated, "by doing something that only God can do, he made water pour out of a rock so the people and animals could drink."
-  * **But despite all this** - This could be translated as, "But even though God provided food, water, clothing, and everything that they needed."
-  * **Even so** - This could be translated, "Even though the Israelites complained and grumbled against him."
-  * **God was still faithful to his promises** - This could be translated, "God continued to do what he had told Abraham, Isaac, and Jacob he would do." He provided their descendants with what they needed so they that could live and become a great nation and eventually own the land of Canaan.
-
+  * **Milagroso ang Dios nga nihatag kanila ug tubig gikan sa bato. - ** Mahimo kining hubaron nga, "usa ka butang ang nahitabo nga ang Dios lang maoy makahimo, gipaagas niya ang tubig gikan sa bato aron makainom ang mga tawo ug ang mga mananap."
+  * **Apan bisan niining tanan - ** Mahimo kining hubaron nga, "apan bisan ug gipahinagbo sa Dios ang ilang pagkaon, tubig, ug sanina ug sa tanan nilang gikinahanglan."
+  * **apan bisan pa niini - ** Mahimo kining hubaron nga, "bisan ug nagbagulbol ug nagreklamo ang mga Israelita batok kaniya."
+  * **nagpabiling matinud-anon ang Dios sa iyang mga saad - ** Mahimo kining hubaron nga, "nagpadayon ang Dios sa pagbuhat kon usa ang iyang gisulti kang Abraham, Isaac, ug kang Jacob. Gihatagan niya ang iyang mga kaliwat sa ilang gikinahanglan aron sila mabuhi ug mahimong dakong nasod, ug sa kadugayan, maangkon nila ang yuta sa Canaan."
 
 **[[:ceb:obs:notes:frames:14-11|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-13|>>]]**
