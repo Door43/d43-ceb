@@ -15,12 +15,14 @@
 
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:08-06|[08-06]]] **Usa ka gabii niana, ang Paraon nga **hari **  sa mga Ehiptohanon, dunay duha ka damgo nga nakahasol kaniya pag-ayo.
-  * **[[:ceb:obs:notes:frames:16-01|[16-01]]] **Tungod kay wala silay **hari**, nag-iyahay ra sila ug buhat ug bisan unsa nga gituohan nila nga maayo.
-  * **[[:ceb:obs:notes:frames:16-18|[16-18]]] **Sa kadugayan, nangayo ang mga tawo sa Dios ug **hari **  sama sa ubang mga nasod.
-  * **[[:ceb:obs:notes:frames:17-05|[17-05]]] **Sa wala madugay, namatay si Saul sa pagpakiggubat ug nahimong **hari **  si David sa Israel.
-  * **[[:ceb:obs:notes:frames:21-06|[21-06]]] **Nag-ingon usab ang mga propeta sa Dios nga ang Mesiyas usa ka propeta, pari, ug **hari**.
-  * **[[:ceb:obs:notes:frames:48-14|[48-14]]] **Si David ang hari Israel, apan si Jesus ang **hari **  sa langit ug sa tibuok kalibotan.
-~~PANAG-ISTORYA~~{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:08-06|[08-06]]] ** Usa ka gabii niana, ang Paraon nga **hari **  sa mga Ehiptohanon, dunay duha ka damgo nga nakahasol kaniya pag-ayo.
+  * **[[:ceb:obs:notes:frames:16-01|[16-01]]]** Tungod kay wala silay **hari**, nag-iyahay ra sila ug buhat ug bisan unsa nga gituohan nila nga maayo.
+  * **[[:ceb:obs:notes:frames:16-18|[16-18]]]** Sa kadugayan, nangayo ang mga tawo sa Dios ug **hari **  sama sa ubang mga nasod.
+  * **[[:ceb:obs:notes:frames:17-05|[17-05]]]** Sa wala madugay, namatay si Saulo sa pagpakiggubat ug nahimong **hari **  si David sa Israel.
+  * **[[:ceb:obs:notes:frames:21-06|[21-06]]]** Nag-ingon usab ang mga propeta sa Dios nga ang Mesiyas usa ka propeta, pari, ug **hari**.
+  * **[[:ceb:obs:notes:frames:48-14|[48-14]]]** Si David ang hari sa Israel, apan si Jesus ang **hari **  sa langit ug sa tibuok kalibotan.
+~~PANAG-ISTORYA~~
+
+{{tag>publish ktobs}}
 
 ~~NOCACHE~~
