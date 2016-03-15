@@ -1,21 +1,16 @@
-===== Israel Defeated the Canaanites [15-11] =====
+===== Gipildi sa Israel ang Canaanhon [15-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?nolink}}
+Human gipildi sa Dios kadtong mga kasundalohan, naghiusa ang daghang pundok sa mga katawhan sa Canaan aron sulungon ang mga Israelita. Apan gisulong sila ni Josue ug sa mga Israelita ug gibuntog nila ang mga kaaway.
 
-After God defeated those armies, many of the other **Canaanite** people groups gathered together to attack **Israel**. **Joshua** and the Israelites **attacked** and **destroyed them**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:joshua]]**
-
-
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
 ==== Translation Notes: ====
 
-
-  * **attacked and destroyed them** - This could be translated as, "fought against them and defeated them."
-
+  * **gisulong ug gibuntog nila ang mga kaaway - ** Mahimo kining hubaron nga, "Nakig-away batok kanila ug gilaglag sila.''
 
 **[[:ceb:obs:notes:frames:15-10|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-12|>>]]**
