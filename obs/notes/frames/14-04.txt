@@ -1,25 +1,18 @@
-===== The Twelve Spies [14-04] =====
+===== Ang Pagpili sa 12 ka Lalaki [14-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink}}
+Sa miabot na ang mga Israelita sa utlanan sa Canaan, nagpili si Moises ug 12 ka lalaki, sa matag usa kada tribo sa Israel. Gipasidan-an niya sila sa pagpaniid sa yuta aron masusi nila kini, aron nga ila usab mapanid-an ang mga Canaanhon kon kusgan ba sila o dili.
 
-When the **Israelites** reached the border of **Canaan**, **Moses** chose twelve men, one from each tribe of **Israel**. He gave the men instructions to go and **spy on the land** to see what it was like. They were also to **spy on the Canaanites to see if they were strong or weak**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:other:moses]]**
-
-
-
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
 ==== Translation Notes: ====
 
-
-  * **spy on the land** - This could be translated as, "secretly get information about the land" or, "secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
-  * **spy on the Canaanites** - This could be translated as, "secretly get information about the people of Canaan" or, "secretly learn about the Canaanites."
-  * **to see if they were strong or weak** - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, "to find out how powerful the Canaanite armies were."
-
+  * **pagpaniid sa yuta -** Mahimo kining hubaron nga, "Hilom nga pagkuha ug kasayoran mahitungod niini nga yuta'' o ''pagtuon sa yuta sa hilom lang nga paagi.'' Kabahin sa ilang pagpanniid ang pagsusi kung unsa ang mga tanom nga makaon niadto nga yuta.
+  * **mapanid-an ang mga Canaanhon- ** Mahimo kining hubaron nga, "hilom nga pagkuha ug kasayoran bahin a katawhan sa yuta sa Canaan'' o "hilom nga pagtuon bahin sa mga Canaanhon.''
+  * **aron mapanid-an ... kon kusgan ba sila dili - ** Gusto sila masayod kung ang mga Canaanhon andam ba sa pag pakig-away batok kanila. Mahimo kining hubaron nga, ''sa pagsuta kung unsa kagamhanan ang mga Canaanhong sundalo.''
 
 **[[:ceb:obs:notes:frames:14-03|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-05|>>]]**
