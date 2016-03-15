@@ -31,16 +31,16 @@ Kini nga pulong nagpasabot ug lawasnong kamatayon ug esprituhanong kamatayon. Sa
 
 {{topic>:en:bible?death&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
-  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
-  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
-  * **[[:ceb:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
-  * **[[:ceb:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
-  * **[[:ceb:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
-  * **[[:ceb:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
-  * **[[:ceb:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
+  * **[[:ceb:obs:notes:frames:01-11|[01-11]]]** Ang Dios nag-ingon kang  Adan, nga mahimo niyang kan-on ang tanang bunga sa kahoy sa tanaman apan dili gayod  mahimong kan-on ang bunga sa kahoy nga maghatag ug kahibalo sa maayo ug daotan. Kon iya kining pagakan-on, mamatay siya.  \\
+  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]**Ug kamo mamatay, ug ang inyong lawas mobalik sa abog."
+  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]** Unya si Isaac namatay, ug gilubong siya ni Jacob ug Esau.
+  * **[[:ceb:obs:notes:frames:37-05|[37-05]]] **Si Jesus mitubag kaniya, "Ako mao ang Pagkabanhaw ug ang Kinabuhi. Si bisan kinsa nga motuo kanako mabuhi, bisan siya namatay.  Ang tanan nga motuo kanako dili gayod mamatay.
+  * **[[:ceb:obs:notes:frames:40-08|[40-08]]]** Tungod sa iyang kamatayon, mahimo na nga ang mga tawo makaduol sa Dios.
+  * **[[:ceb:obs:notes:frames:43-07|[43-07]]] **Bisag namatay siya, gibanhaw siya sa Dios.
+  * **[[:ceb:obs:notes:frames:48-02|[48-02]]]** kay nakasala sila, tanang tawo sa kalibotan matakdan ug sakit ug mamatay. \\
+  * **[[:ceb:obs:notes:frames:50-17|[50-17]]]** Iyang pagapahiran ang tanang luha ug wala nay pag-antos, kaguol, paghilak, pagkadaotan, kasakit, ug kamatayon.
   *
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
