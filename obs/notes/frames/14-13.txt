@@ -1,22 +1,17 @@
-===== Moses Struck the Rock [14-13] =====
+===== Gibunalan ni Moises ang Bato [14-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-13.jpg?nolink}}
+Sa sunod nga higayon nga nanginahanglan ug tubig ang mga katawhan, nag-ingon ang Dios kang Moises, “Mandoi ang bato, ug ang tubig mogawas niini.” Apan si Moises wala motuman sa Dios ug iya hinuong gibunalan ang bato sa atubangan sa tanang katawhan, ug wala kini sultii. Nigawas ang tubig sa bato ug nakainom ang tanan. Apan ang Dios nasuko ngadto kang Moises ug miingon, “Dili ka makasulod sa Yutang Saad.”
 
-Another time when the people did not have any water, **God** told **Moses**, “Speak to the rock, and water will come out of it.” But **Moses dishonored God** in front of all the people **by hitting the rock twice with a stick instead of speaking to it**. Water came out of the rock for everyone to drink, but God was angry with Moses and said, “You will not enter the **Promised Land**.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
 ==== Translation Notes: ====
 
-
-  * **Moses dishonored God** - This could be translated, "Moses disobeyed God" or, "Moses disrespected God." God had a specific way He wanted Moses to show the people God's power to provide for them. When Moses disobeyed God by doing it in a different way he showed a lack of respect for God.
-  * **by hitting the rock twice with a stick instead of speaking to it** - This can be translated as, "Moses did not speak to the rock; he hit it twice with a stick."
-
+  * **Apan si Moises wala motuman sa Dios - ** Mahimo kining hubaron nga, "Misupak si Moises sa Dios," o, "Si Moises wala mitahod sa Dios." Adunay insakto nga pamaagi ang Dios nga iyang ipakita ang iyang gahom aron makapamatuod nga makahatag siya sa ilang gikinahanglan. Sa dihang misupak si Moises sa Dios sa lahi nga pamaagi, nagpakita kini nga wala niya gitahod ang Dios."
+  * **iya hinoong gibunalan ang bato sa atubangan sa tanang katawhan, wala kini sultii- ** Mahimo kining hubaron nga, "wala gisultian ni Moises ang bato ug iya hinoon kining gibunalan sa sungkod sa makaduha."
 
 **[[:ceb:obs:notes:frames:14-12|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-14|>>]]**
