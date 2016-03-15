@@ -1,29 +1,24 @@
-===== At the Promised Land [14-14] =====
+===== Yutang Saad [14-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink}}
+Human sa kwarenta (40) ka tuig nga paglakaw-lakaw sa mga Israelita didto sa kamingawan, nangamatay usab ang tanan nga nisupak sa Dios. Unya gigiyahan sa Dios ang katawhan ngadto sa Yutang Saad pag-usab. Si Moises niining panahona tigulang na kaayo, mao nga gipili sa Dios si Josue aron pagtabang kaniya sa pagiya sa mga katawhan. Nagsaad usab ang Dios kang Moises nga moabot ang adlaw nga mopadala ug lain pang propeta sama kang Moises.
 
-After the **Israelites** had wandered in the wilderness for forty years, all of them **who had rebelled against God** were dead. Then God led **the people** to the edge of the **Promised Land** again. **Moses** was now very old, so God chose **Joshua** to help him lead the people. God also **promised** Moses that **one day**, he would send **another prophet like Moses**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:rebel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-  * **[[:ceb:obe:other:moses]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:prophet]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:rebel|pagsupak, masinupakon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
 ==== Translation Notes: ====
 
-
-  * **who had rebelled against God** - This could be translated, "who had refused to obey God when he told them to go into the Promised Land."
-  * **the people** - That is, the children of the generation that died.
-  * **one day** - This means, "some time in the future."
-  * **another prophet like Moses** - Like Moses, this man would be an Israelite, he would speak God's words to the people, and he would lead the people.
-
+  * **ang tanan nga nisupak sa Dios - ** Mahimo kining hubaron nga, "kadtong midumili sa pagtuman sa Dios sa dihang gisultian niya sila nga moadto sa Yutang Saad."
+  * **ng katawhan - ** Nagpasabot kini nga, "mga anak sa nangamatay na nga henerasyon."
+  * **moabot ang adlaw - ** Kini nagpasabot nga, "sa panahon nga umaabot."
+  * **lain pang propeta sama kang Moises - ** Sama kang Moises, kini nga tawo usa gayod ka Israelita ug siya nagasulti sa pulong sa Dios ngadto sa katawhan, ug siya ang mogiya sa katawhan.
 
 **[[:ceb:obs:notes:frames:14-13|<<]] | [[:ceb:obs:notes:14|Up]] | [[:ceb:obs:notes:frames:14-15|>>]]**
