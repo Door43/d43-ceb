@@ -4,33 +4,31 @@
 
 Gikuha ni Jesus si Pedro, Santiago ug Juan padulong sa taas nga bukid. Samtang si Jesus nag-ampo didto, ang iyang nawong ug sanina nagsidlak. Si Moises ug Elias nagpakita kang Jesus ug gisultihan siya bahin sa iyang kamatayon. Nahibulong ang mga tinun-an sa dihang nakita nila kini. Unya ang tingog sa langit miingon "Kini akong Anak nga akong gihigugma." Apan niingon si Jesus nga dili sila magsaba sa nahitabo hangtud sa pagkahuman nga mabanhaw na siya gikan sa kamatayon.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:36-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&200}}]]\\
+Padulong sa Bukid [36-01]
 
+[[:ceb:obs:notes:frames:36-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?nolink&200}}]]\\
+Nabag-o si Jesus [36-02]
 
-[[:ceb:obs:notes:frames:36-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?200|Frame 36-01}}]]\\ 
-To the Mountain [36-01]\\ 
+[[:ceb:obs:notes:frames:36-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&200}}]]\\
+Si Moises ug Elias [36-03]
 
-[[:ceb:obs:notes:frames:36-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?200|Frame 36-02}}]]\\ 
-Jesus Was Changed [36-02]\\ 
+[[:ceb:obs:notes:frames:36-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&200}}]]\\
+Ang Komento ni Pedro [36-04]
 
-[[:ceb:obs:notes:frames:36-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?200|Frame 36-03}}]]\\ 
-Moses and Elijah [36-03]\\ 
+[[:ceb:obs:notes:frames:36-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&200}}]]\\
+Kini akong Anak [36-05]
 
-[[:ceb:obs:notes:frames:36-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?200|Frame 36-04}}]]\\ 
-Peter's Comments [36-04]\\ 
+[[:ceb:obs:notes:frames:36-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&200}}]]\\
+Nag-inusarang Kauban si Jesus [36-06]
 
-[[:ceb:obs:notes:frames:36-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?200|Frame 36-05}}]]\\ 
-This Is My Son [36-05]\\ 
+[[:ceb:obs:notes:frames:36-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&200}}]]\\
+Tagu-i ang Sekreto [36-07]
 
-[[:ceb:obs:notes:frames:36-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?200|Frame 36-06}}]]\\ 
-Alone with Jesus [36-06]\\ 
-
-[[:ceb:obs:notes:frames:36-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?200|Frame 36-07}}]]\\ 
-Keep the Secret [36-07]\\ 
-
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+//Istorya sa Biblia: Mateo 17:1-9; Marcus 9:2-8; Lucas 9:28-36//
 
 **[[:ceb:obs:notes:35|<< Previous]] | [[:ceb:obs:notes:37|Next >>]]**
