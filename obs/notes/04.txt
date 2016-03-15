@@ -4,9 +4,9 @@
 
 Tungod sa sala, nagkahiusa ang katawhan sa pagsupil sa Dios. Busa, giilisan sa Dios ang ilang pinulongan ug nagkalain-laing mga pinulongan ug iya silang gipatibulaag sa tibuok kalibotan. Apan gipili sa Dios si Abram nga mosunod kaniya. Nagsaad siya kang Abram nga ang iyang mga kaliwat mahimong dako nga nasod ug mapanalanginan ang tanang pamilya sa kalibotan pinaagi kanya.
 
-===== Paghubad sa Istorya: =====
+====== Hubaron ang Istorya ======
 
-I-click ang mga litrato sa ubos aron sa paghubad sa kada bahin sa istorya:
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&200}}]]\\
 Usa ang Pinulongan [04-01]\\
@@ -34,6 +34,6 @@ Walay Anak si Abram [04-08]\\
 \\
 [[:ceb:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&200}}]]\\
 Ang Kasabotan sa Dios kang Abram [04-09]\\
-//Ang Istorya gikan sa Biblia: Genesis 11-15//
+//Istorya sa Biblia: Genesis 11-15//
 
 **[[:ceb:obs:notes:03|<< Nahiuna]] | [[:ceb:obs:notes:05|Sunod >>]]**
