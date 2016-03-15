@@ -4,39 +4,37 @@
 
 Si Jesus niadto sa mingaw nga dapit kauban iyang mga tinun-an, apan daghan nga tawo ang misunod kanila. Busa nagtudlo siya ug nag-ayo sa mga ilang balatian. Sa dihang sila nagutman, aduna lamang silay duha ka pan ug ug duha ka isda para sa lima kalibo ka tawo. Apan, gipanalanginan ni Jesus ang pagkaon ug gisultihan ang mga tinun-an nga ihatag kini sa mga tawo. Nakakaon gayod ang tanan ug aduna pay nabilin.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:30-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&200}}]]\\
+Ang Hilum nga Dapit [30-01]
 
+[[:ceb:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&200}}]]\\
+Ang Panon sa mga Tawo Nisunod kag Jesus [30-02]
 
-[[:ceb:obs:notes:frames:30-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?200|Frame 30-01}}]]\\ 
-A Quiet Place [30-01]\\ 
+[[:ceb:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&200}}]]\\
+Si Jesus Nagtudlo ug Nag-ayo sa mga Tawo [30-03]
 
-[[:ceb:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?200|Frame 30-02}}]]\\ 
-The Crowd Followed Jesus [30-02]\\ 
+[[:ceb:obs:notes:frames:30-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&200}}]]\\
+Ang mga Tawo Gigutom [30-04]
 
-[[:ceb:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?200|Frame 30-03}}]]\\ 
-Jesus Taught and Healed People [30-03]\\ 
+[[:ceb:obs:notes:frames:30-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&200}}]]\\
+Lima ka Pan ug Duha ka Isda [30-05]
 
-[[:ceb:obs:notes:frames:30-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?200|Frame 30-04}}]]\\ 
-The People Were Hungry [30-04]\\ 
+[[:ceb:obs:notes:frames:30-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&200}}]]\\
+Pag-andam sa Pagkaon [30-06]
 
-[[:ceb:obs:notes:frames:30-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?200|Frame 30-05}}]]\\ 
-Five Loaves and Two Fish [30-05]\\ 
+[[:ceb:obs:notes:frames:30-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&200}}]]\\
+Gipanalanginan ni Jesus ang Pagkaon [30-07]
 
-[[:ceb:obs:notes:frames:30-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?200|Frame 30-06}}]]\\ 
-Preparation for the Meal [30-06]\\ 
+[[:ceb:obs:notes:frames:30-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&200}}]]\\
+Nagkaon ang Tanan [30-08]
 
-[[:ceb:obs:notes:frames:30-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?200|Frame 30-07}}]]\\ 
-Jesus Blessed the Food [30-07]\\ 
+[[:ceb:obs:notes:frames:30-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&200}}]]\\
+Sobra pa sa Gikinahanglan [30-09]
 
-[[:ceb:obs:notes:frames:30-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?200|Frame 30-08}}]]\\ 
-Everyone Ate [30-08]\\ 
-
-[[:ceb:obs:notes:frames:30-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?200|Frame 30-09}}]]\\ 
-More than Enough [30-09]\\ 
-
-//A Bible story from: Matthew 14:13-21; Mark 6:31-44; Luke 9:10-17; John 6:5-15//
+//Istorya sa Biblia: Mateo 14:13-21; Marcus 6:31-44; Lucas 9:10-17; Juan 6:5-15//
 
 **[[:ceb:obs:notes:29|<< Previous]] | [[:ceb:obs:notes:31|Next >>]]**
