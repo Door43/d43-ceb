@@ -4,7 +4,7 @@
 
 Gihimo sa Dios ang kalibotan nga hingpit alang kang Adan ug Eba apan wala sila matagbaw niini. Ila gihapong gikaon ang bunga sa kahoy nga ginadili sa Dios. Tungod ani, nakasala sila ug nisulod ang kasakit sa kalibotan. Nahadlok, naulaw ug nabuwag sila sa Dios. Busa, gipapahawa si Adan ug Eba sa tanaman sa Eden.
 
-====== Paghubad sa Istorya: ======
+====== Hubaron ang Istorya ======
 
 I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
@@ -15,7 +15,7 @@ Hingpit nga Kalibotan [02-01]\\
 Ang Maro nga Bitin [02-02]\\
 \\
 [[:ceb:obs:notes:frames:02-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&200}}]]\\
-Bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan  [02-03]\\
+Bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan [02-03]\\
 \\
 [[:ceb:obs:notes:frames:02-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&200}}]]\\
 Ang Bakak [02-04]\\
@@ -44,6 +44,6 @@ Gitunglo sa Dios ang Lalaki [02-11]\\
 \\
 [[:ceb:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
 Gipapahawa sila sa tanaman sa Eden [02-12]\\
-//Istorya gikan sa : Genesis 3//
+//Istorya sa Biblia: Genesis 3//
 
-**[[:ceb:obs:notes:01|<< Nahauna]] | [[:ceb:obs:notes:03|Sunod >>]]**
+**[[:ceb:obs:notes:01|<< Nahiuna]] | [[:ceb:obs:notes:03|Sunod >>]]**
