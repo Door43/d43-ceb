@@ -1,25 +1,20 @@
-===== Crossing the Jordan River [15-02] =====
+===== Pagtabok sa Jordan nga Suba [15-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink}}
+Ang Israelita mitabok sa Suba sa Jordan aron sa pagsulod sa Yutang Saad. Ang Dios nag-ingon kang Josue, “Ipauna kaninyo ang mga pari.” Sa dihang nag-una na ang mga pari pagtabok sa Suba sa Jordan, mihunong ang tubig sa pagtubod sa ilaya ug mihubas sa ubos, mao nga ang Israelita nakatabok sa suba.
 
-The **Israelites** had to cross the **Jordan River** to enter into the **Promised Land**. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:jordanriver]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:kt:priest]]**
-
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:jordanriver|Jordan River]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
 ==== Translation Notes: ====
 
-
-  * **Have the priests go first** – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
-  * **the water upstream stopped flowing** - In some languages it may be helpful to add, "and the water in front of them flowed away downstream."
-
+  * **Ipauna kaninyo ang mga pari - ** Alang sa uban nga pinulongan, makatabang kon dugangan kini sama sa, ''Ipauna ang mga pari ayha ipasunod ang mga tawo sa pagtabok sa suba.''
+  * **mihunong ang tubig sa pagtubod sa ilaya - ** Sa ubang pinulongan mahimo kining dugangan sama niini, "ug ang tubig nga anaa sa ilang atubangan mihubas sa pagtubod ngadto sa ubos."
 
 **[[:ceb:obs:notes:frames:15-01|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:15-03|>>]]**
