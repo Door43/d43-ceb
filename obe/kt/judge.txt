@@ -22,10 +22,10 @@ Ang pulong nga "maghuhukom" ug "paghukom" naghisgot mahitungod sa pagdesisyon ng
 
 {{topic>:en:bible?judge&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would **judge**  them as guilty, and he would punish them.
-  * **[[:ceb:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a kingdom and **judges**  the people. The Messiah would come would be the perfect king who would sit on the throne of his ancestor David. He would reign over the whole world forever, and who would always **judge**  honestly and make the right decisions.
-  * **[[:ceb:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted to the other religious leaders, "We do not need any more witnesses! You have heard him say that he is the Son of God. What is your **judgment**?"
-  * **[[:ceb:obs:notes:frames:50-14|[50-14]]]** But God will **judge**  everyone who does not believe in Jesus. He will throw them into hell, where they will weep and grind their teeth in anguish forever.
+  * **[[:ceb:obs:notes:frames:19-16|[19-16]]]** Gipasidan-an sa mga propeta ang mga tawo nga kon dili sila moundang sa pagbuhat ug daotan ug dili motuman sa Dios, **hukman** sila sa Dios ug silotan.
+  * **[[:ceb:obs:notes:frames:21-08|[21-08]]]** Ang hari usa ka tawo nga mohari sa usa ka gingharian ug **mohukom** sa mga tawo. Ang Mesiyas mao gayod ang hingpit nga hari ug molingkod siya sa trono sa iyang kaapohan nga si David. Mohari siya sa tibuok kalibotan sa walay kataposan, ug kanunay nga matinud-anon sa iyang **paghukom** ug maayo ang iyang pagabuhaton.
+  * **[[:ceb:obs:notes:frames:39-04|[39-04]]]** Nasuko ang pangulong pari ug gigisi niya ang iyang sanina. Misinggit siya, “Dili na kinahanglan ang mga testigo! Nakadungog mo nga miingon siya nga siya Anak sa Dios. Unsay man inyong **hukom**?”
+  * **[[:ceb:obs:notes:frames:50-14|[50-14]]]** Apan **pagahukman** sa Dios ang tanan nga wala motuo kang Jesus. Ipanglabay niya sila ngadto sa impyerno, diin maghilak sila ug magkagot ang ilang mga ngipon sa kasakit nga walay kataposan.
 ~~DISCUSSION~~{{tag>publish ktobs}}
