@@ -1,31 +1,25 @@
-===== Joshua Renewed the Covenant [15-13] =====
+===== Gibag-o ni Josue ang Ilang Saad [15-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink}}
+Sa dihang tigulang na si Josue, gitawag niya ang tanang katawhan sa Israel aron maghiusa. Unya gipasidan-an usab niya ang tanang katawhan sa ilang katungdanan nga tumanon ang pakigsaad nga gihimo sa Dios sa mga Israelita didto sa Bungtod sa Sinai. Ang mga tawo nagsaad nga magpadayon nga matinud-anon sa Dios ug motuman sa iyang mga balaod.
 
-**When Joshua was an old man**, he called all the people of **Israel** together. Then Joshua reminded the people of their obligation to **obey** the **covenant** that **God** had made with the **Israelites** at **Sinai**. The **people promised** to **remain faithful to God** and **follow his laws**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:covenant]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:sinai]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:faithful]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-
-
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:covenant|covenant]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:faithful|matinud-anon, pagkamatinud-anon]]**
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]]**
 ==== Translation Notes: ====
 
-
-  * **When Joshua was an old man** – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
-  * **remain faithful to God** - In other words, they would be loyal to God. They would worship and serve only God; they would not worship or serve any other gods.
-  * **follow his laws** - This means that the people would obey the laws that God had given them already as part of the covenant.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **Sa dihang tigulang na si Josue - ** Labing klaro kon sama niini ang pagkasulti, "Paglabay sa daghan katuigan, ug tigulang na si Josue." Niabot na sobra usa ka gatos ang panuigon ni Josue niining panahona."
+  * **magpadayon nga matinud-anon sa Dios - ** Sa ubang pagkasulti, magpabilin sila nga matinumanon sa Dios ug dili mosalikway kaniya. Siya lang gayod ang ilang simbahon ug alagaran. Dili sila mosimba o moalagad sa uban nga mga dios-dios.
+  * **motuman sa iyang mga balaod - ** Kini nagpasabot nga, sundon sa mga tawo ang mga balaod nga gihatag sa Dios ngadto kanila, ingon nga kabahin sa kasabotan.
 
 **[[:ceb:obs:notes:frames:15-12|<<]] | [[:ceb:obs:notes:15|Up]] | [[:ceb:obs:notes:frames:16-01|>>]]**
