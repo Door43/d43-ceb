@@ -4,51 +4,49 @@
 
 Ang mga pangulo sa relihiyon nagreklamo sa matag usa tungod kay si Jesus nagtudlo ngadto sa mga makasasala, apil na ang taga kolekta ug buhis. Mao nga giistoryahan sila ni Jesus sa usa ka lalaki nga gibahinbahin ang iyang panulondon sa iyang duha ka anak nga lalaki. Ang kinamanghoran nga anak nilakaw ug gisayangan ang iyang salapi sa makasasala nga pagkinabuhi. Apan nibalik siya sa iyang amahan, ug nidawat kaniya nga adunay kalipay. Nasuko ang magulang nga anak apan gikinahanglan man nga isaulog ang pagbalik sa nawala nga anak.
 
-====== Translate the Story ======
+====== Paghubad sa Istorya ======
 
+I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
-Click on the links below to translate each frame of the story.
+[[:ceb:obs:notes:frames:35-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&200}}]]\\
+Si Jesus Gitudloan ang mga Makasasala [35-01]
 
+[[:ceb:obs:notes:frames:35-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&200}}]]\\
+Ang Pangulo sa Relihiyon Nagbagulbol [35-02]
 
-[[:ceb:obs:notes:frames:35-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?200|Frame 35-01}}]]\\ 
-Jesus Taught Sinners [35-01]\\ 
+[[:ceb:obs:notes:frames:35-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&200}}]]\\
+Ang Duha ka Anak nga Lalaki [35-03]
 
-[[:ceb:obs:notes:frames:35-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?200|Frame 35-02}}]]\\ 
-The Religious Leaders Grumbled [35-02]\\ 
+[[:ceb:obs:notes:frames:35-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&200}}]]\\
+Ang Manghod nga Anak nga Lalaki [35-04]
 
-[[:ceb:obs:notes:frames:35-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?200|Frame 35-03}}]]\\ 
-The Two Sons [35-03]\\ 
+[[:ceb:obs:notes:frames:35-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&200}}]]\\
+Ang Taggutom [35-05]
 
-[[:ceb:obs:notes:frames:35-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?200|Frame 35-04}}]]\\ 
-The Younger Son [35-04]\\ 
+[[:ceb:obs:notes:frames:35-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&200}}]]\\
+Ang Anak Nangayog Pasaylo [35-06]
 
-[[:ceb:obs:notes:frames:35-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?200|Frame 35-05}}]]\\ 
-The Famine [35-05]\\ 
+[[:ceb:obs:notes:frames:35-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink&200}}]]\\
+Ang Pagdawat sa Amahan [35-07]
 
-[[:ceb:obs:notes:frames:35-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?200|Frame 35-06}}]]\\ 
-The Son Repented [35-06]\\ 
+[[:ceb:obs:notes:frames:35-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&200}}]]\\
+Ako Nakasala [35-08]
 
-[[:ceb:obs:notes:frames:35-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?200|Frame 35-07}}]]\\ 
-The Father's Welcome [35-07]\\ 
+[[:ceb:obs:notes:frames:35-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&200}}]]\\
+Andama ang Pagsaulog [35-09]
 
-[[:ceb:obs:notes:frames:35-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?200|Frame 35-08}}]]\\ 
-I Have Sinned [35-08]\\ 
+[[:ceb:obs:notes:frames:35-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink&200}}]]\\
+Ang Magulang nga Igsoon [35-10]
 
-[[:ceb:obs:notes:frames:35-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?200|Frame 35-09}}]]\\ 
-Prepare the Feast [35-09]\\ 
+[[:ceb:obs:notes:frames:35-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&200}}]]\\
+Ang Igsoon Nasuko [35-11]
 
-[[:ceb:obs:notes:frames:35-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?200|Frame 35-10}}]]\\ 
-The Older Brother [35-10]\\ 
+[[:ceb:obs:notes:frames:35-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&200}}]]\\
+Nagtrabaho sa Wala [35-12]
 
-[[:ceb:obs:notes:frames:35-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?200|Frame 35-11}}]]\\ 
-The Brother Is Angry [35-11]\\ 
+[[:ceb:obs:notes:frames:35-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&200}}]]\\
+Kinahanglan kitang Magsaulog [35-13]
 
-[[:ceb:obs:notes:frames:35-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?200|Frame 35-12}}]]\\ 
-Working for Nothing [35-12]\\ 
-
-[[:ceb:obs:notes:frames:35-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?200|Frame 35-13}}]]\\ 
-We Must Celebrate [35-13]\\ 
-
-//A Bible story from: Luke 15:11-32//
+//Istorya sa Biblia: Lucas 15:11-32//
 
 **[[:ceb:obs:notes:34|<< Previous]] | [[:ceb:obs:notes:36|Next >>]]**
