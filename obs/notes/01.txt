@@ -45,10 +45,10 @@ Ang Duha ka Kahoy [01-11]\\
 Nag-inusara si Adan [01-12]\\
 \\
 [[:ceb:obs:notes:frames:01-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&200}}]]\\
-Gibuhat sa Dios si Eva [01-13]\\
+Gibuhat sa Dios si Eba [01-13]\\
 \\
 [[:ceb:obs:notes:frames:01-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&200}}]]\\
-Nagkita si Adan ug si Eva [01-14]\\
+Nagkita si Adan ug si Eba [01-14]\\
 \\
 [[:ceb:obs:notes:frames:01-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&200}}]]\\
 "Pagsanay kamo ug pun-a ninyo ang tibuok kalibotan." [01-15]\\
