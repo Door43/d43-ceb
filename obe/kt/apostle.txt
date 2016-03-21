@@ -17,7 +17,7 @@ Ang apostoles mao ang mga tawo nga gipadala ni Jesus aron sa pagsangyaw mahitung
   * Mahinungdanon gayod nga dili pareha ang paghubad sa pulong nga “apostoles” ug “tinun-an.” 
   * Kinahanglang tan-awon usab nimo kung giunsa paghubad ang pulong nga “apostoles” sa pinulongan sa usa ka tribo o sa nasodnong pinulongan. (Tan-awa [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Tan-awa usab: [[:ceb:obe:kt:disciple|tinun-an]], [[:ceb:obe:kt:angdose]], [[:ceb:obe:kt:authority|katungod]])
+(Tan-awa usab: [[:ceb:obe:kt:disciple|tinun-an]], [[:ceb:obe:kt:ang dose]], [[:ceb:obe:kt:authority|katungod]])
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?apostle&nocomments}}
