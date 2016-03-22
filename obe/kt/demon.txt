@@ -15,9 +15,11 @@ Kining tanan nga pulong naghisgot kini bahin sa mga demonyo, mao kini ang mga es
   * Ang pulong nga “hugaw nga espirito” mahubad usab nga “dili limpyo nga espirito” o “tampalasan nga espirito” o “ngil-ad nga espirito”.
   * Siguradoha nga ang pulong nga imong gamiton sa paghubad niini, lahi siya sa ubang pulong nga imong gigamit alang sa yawa.
   * Kinahanglang tan-awon usab nimo giunsa paghubad ang pulong nga “demonyo” sa pinulongan sa tribo o sa nasodnong pinulongan.
-(Tan-awa: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Tan-awa usab: [[:ceb:obe:kt:demonpossessed]], [[:ceb:obe:kt:satan]], [[:ceb:obe:other:idol]], [[:ceb:obe:kt:falsegod]], [[:ceb:obe:kt:angel]], [[:ceb:obe:kt:evil]], [[:ceb:obe:kt:unclean]])
+(Tan-awa: [[:ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(Tan-awa usab: [[:ceb:obe:kt:demonpossessed|giyawaan]], [[:ceb:obe:kt:satan|Satanas, demonyo, yawa]], [[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]], [[:ceb:obe:kt:falsegod|dios-dios, dios sa langyaw, dios, diosa]], [[:ceb:obe:kt:angel|anghel, arkanghel]], [[:ceb:obe:kt:evil|daotan, pagkadaotan]], [[:ceb:obe:kt:unclean|hugaw, pagkahugaw]])
+
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?demon&nocomments}}
