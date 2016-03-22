@@ -14,14 +14,10 @@ Ang Filipos usa ka siyudad nga makit-an dapit sa amihang dapit sa Grecia sa kani
 
 {{topic>:en:bible?philippi&nocomments}}
 
-===== Mga Pananglitan gikan sa Biblia: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-    * **[[:ceb:obs:notes:frames:47-01|[47-01]]]** Usa ka adlaw, niadto siya ug iyang higala nga si Silas sa lungsod nga **Filipos** aron magsangyaw sa maayong balita mahitungod kang Jesus.
-    * **[[:ceb:obs:notes:frames:47-13|[47-13]]]** Sunod nga adlaw, gibuhian na sa mga pangulo sa siyudad sila Pablo ug Silas, giingnan nila sila nga mobiya sa **Filipos**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:47-01|[47-01]]]** Usa ka adlaw, niadto siya ug iyang higala nga si Silas sa lungsod nga **Filipos**  aron magsangyaw sa maayong balita mahitungod kang Jesus.
+  * **[[:ceb:obs:notes:frames:47-13|[47-13]]]** Sunod nga adlaw, gibuhian na sa mga pangulo sa siyudad sila Pablo ug Silas, giingnan nila sila nga mobiya sa **Filipos**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
