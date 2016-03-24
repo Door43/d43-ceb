@@ -19,7 +19,7 @@ Ang termino nga "Yahweh" mao ang ngalan sa Ginoo nga gipadayag niya ngadto kang 
 
 (Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(Tan-awa usab: [[:ceb:obe:kt:god|God]], [[:ceb:obe:kt:lord|lord, master, sir]], [[:ceb:obe:other:moses|Moses]] uban pa)
+(Tan-awa usab: [[:ceb:obe:kt:god|God]], [[:ceb:obe:kt:lord|lord, master, sir]], [[:ceb:obe:other:moses|Moses, ug uban pa]])
 
 ===== Asa Makita sa Biblia: =====
 
@@ -29,7 +29,7 @@ Ang termino nga "Yahweh" mao ang ngalan sa Ginoo nga gipadayag niya ngadto kang 
 
   * **[[:ceb:obs:notes:frames:09-14|[09-14]]]** Miingon ang Dios, “AKO MAO AKO. Ingna sila nga ang nagsugo kanimo mao si Ako. Unya ingna usab sila nga Ako si Yahweh, ang Dios sa inyong katigulangan nga si Abraham, Isaac ug Jacob. Mao kana ang akong ngalan sa walay kataposan.”
   * **[[:ceb:obs:notes:frames:13-04|[13-04]]]** Unya ang Dios naghatag kanila ug kasabota nga nag-ingon, "Ako si Yahweh, ang inyong Dios nga maoy nagluwas kaninyo gikan sa pagkaulipon sa Ehipto. Ayaw kamo pagsimba ug laing Dios."
-  * **[[:ceb:obs:notes:frames:13-05|[13-05]]] **"Ayaw kamo paghimo ug dios-dios ug pagsimba niini, tungod kay ako si Yahweh, ang abubhoan nga Dios."
+  * **[[:ceb:obs:notes:frames:13-05|[13-05]]]**"Ayaw kamo paghimo ug dios-dios ug pagsimba niini, tungod kay ako si Yahweh, ang abubhoan nga Dios."
   * **[[:ceb:obs:notes:frames:16-01|[16-01]]]** Gisimba nila ang mga dios-dios sa mga taga-Canaan ug dili si Yahweh nga mao ang tinuod nga Dios.
   * **[[:ceb:obs:notes:frames:19-10|[19-10]]]** Ug miampo si Elias, “Dios ni Abraham, Isaac, ug Jacob. Ipakita karon kanamo nga ikaw ang Dios sa Israel ug pagpamatuod nga ako imo gayod nga sulugoon.
 ~~DISCUSSION~~{{tag>publish ktobs}}
