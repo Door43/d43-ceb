@@ -12,14 +12,14 @@ Ang pulong "tuli" pasabot sa pagputol sa panit sa kinatawo sa lalaki o batang la
 
 ===== Posibleng paagi sa paghubad: =====
 
-  * kung ang kultura sa gipunting nga pinulongan nagpakita sa pagtuli sa mga lalaki,ang pulong nga gigamit sa paghisgot niini mahimong gigamit niini nga pulong. 
+  * kung ang kultura sa gipunting nga pinulongan nagpakita sa pagtuli sa mga lalaki,ang pulong nga gigamit sa paghisgot niini mahimong gigamit niini nga pulong.
   * Ubang mga paagi sa paghubad niini nga pulong mahimong,"pagtibhang sa tibuok" o "pagtibhang sa lingin" o "pagputol sa panit."
   * Sa mga kultura diin ang pagtuli wala mahibaw-e, mao nga gikinahanglan sa pagpasabot niini sa pagpahibalo o mga buot ipasabot.
-  * Siguroha nga ang pulong gigamit sa paghubad niini wala naghisgot sa mga babaye.  Mao nga gikinahanglan sa paghubad niini uban ang pulong o hugpong sa pulong nga naglakip sa buot pasabot sa "lalaki."
+  * Siguroha nga ang pulong gigamit sa paghubad niini wala naghisgot sa mga babaye. Mao nga gikinahanglan sa paghubad niini uban ang pulong o hugpong sa pulong nga naglakip sa buot pasabot sa "lalaki."
 
-(Tan-awa: [[ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(Tan-awa: [[:ceb:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Tan-awa usab: [[:ceb:obe:kt:uncircumcised]], [[:ceb:obe:kt:covenant]])
+(Tan-awa usab: [[:ceb:obe:kt:uncircumcised|pisot, walay tuli]], [[:ceb:obe:kt:covenant|kasabutan]])
 
 ===== Asa makita sa Biblia: =====
 
@@ -27,9 +27,8 @@ Ang pulong "tuli" pasabot sa pagputol sa panit sa kinatawo sa lalaki o batang la
 
 ===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:05-03|[05-03]]]**"Kinahanglan nga tulion nimo ang matag lalaki sa imong panimalay.”
-
-  * **[[:ceb:obs:notes:frames:05-05|[05-05]]]**Nianang adlawa, gituli ni Abraham ang tanang mga lalaki sa iyang panimalay. 
+  * **[[:ceb:obs:notes:frames:05-03|[05-03]]] **"Kinahanglan nga tulion nimo ang matag lalaki sa imong panimalay.”
+  * **[[:ceb:obs:notes:frames:05-05|[05-05]]] **Nianang adlawa, gituli ni Abraham ang tanang mga lalaki sa iyang panimalay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
