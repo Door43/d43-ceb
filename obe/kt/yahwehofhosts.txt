@@ -12,13 +12,11 @@ The term "host" or "hosts" is a word that refers to a large number of something,
 
   * Ways to translate the title "Yahweh of hosts" or "God of hosts" could include, "Yahweh, who rules all the angels" or "God, the ruler over armies of angels."
 
-(See also: [[:ceb:obe:kt:Yahweh]], [[:ceb:obe:kt:angel]], [[:ceb:obe:kt:authority]])
+(See also: [[:ceb:obe:kt:yahweh|Yahweh]], [[:ceb:obe:kt:angel|anghel, arkanghel]], [[:ceb:obe:kt:authority|authority]])
 
 ===== Bible References: =====
 
-{{topic>yahwehofhosts&nocomments}}
-
-~~DISCUSSION~~
+{{topic>yahwehofhosts&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
