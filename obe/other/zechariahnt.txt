@@ -2,7 +2,7 @@
 
 ===== Kamatuoran: =====
 
-Si Zacarias usa ka Judio nga pari nga nahimong amahang Juan nga Magbubunyag.
+Si Zacarias usa ka Judio nga pari nga nahimong amahan ni Juan nga Magbubunyag.
 
   * Gihigugma ni Zacarias ang Dios ug nagtuman siya kaniya.
   * Sa daghang mga katuigan Si zacarias ug ang iyang asawa, nga si Elizabeth, nagkugi sa pag-ampo aron makaangkon ug anak, pero wala gyud sila nakaanak bisag isa. Sa dihang tigulang na kaayo sila, gitubag sa Dios ang ilang mga pag-ampo ug gihatagan sila ug anak nga lalaki.
@@ -10,7 +10,7 @@ Si Zacarias usa ka Judio nga pari nga nahimong amahang Juan nga Magbubunyag.
 
 (posibleng paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(Tan-awa usab: [[:ceb:obe:other:johnthebaptist|John (the Baptist)]])
+(Tan-awa usab: [[:ceb:obe:other:johnthebaptist|Juan (ang Magbabawtismo)]])
 
 ===== Asa makita sa Biblia: =====
 
@@ -18,10 +18,10 @@ Si Zacarias usa ka Judio nga pari nga nahimong amahang Juan nga Magbubunyag.
 
 ===== Mga Pananglitan gikan sa estorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:22-01|[22-01]]]**Unya sa kalit lang, naay anghel nga miadto kang Zacarias aron ipaabot ang mensahe sa Dios. Matinumanon sa Dios si Zacarias ug si Elizabet nga iyang asawa, apan wala gayod makaanak si Elizabet.
-  * **[[:ceb:obs:notes:frames:22-02|[22-02]]]** . Giingnan sa anghel si Zacarias, “Manganak ug lalaki ang imong asawa.
-  * **[[:ceb:obs:notes:frames:22-03|[22-03]]]**Diha-diha, dili na makasulti si Zacariyas.
-  * **[[:ceb:obs:notes:frames:22-07|[22-07]]]**Unya si Zacarias nga naamang, gipasulti na usab sa Dios.
+  * **[[:ceb:obs:notes:frames:22-01|[22-01]]] **Unya sa kalit lang, naay anghel nga miadto kang **Zacarias ** aron ipaabot ang mensahe sa Dios. Matinumanon sa Dios si Zacarias ug si Elizabet nga iyang asawa, apan wala gayod makaanak si Elizabet.
+  * **[[:ceb:obs:notes:frames:22-02|[22-02]]] **Giingnan sa anghel si **Zacarias**, “Manganak ug lalaki ang imong asawa.
+  * **[[:ceb:obs:notes:frames:22-03|[22-03]]] **Diha-diha, dili na makasulti si **Zacarias**.
+  * **[[:ceb:obs:notes:frames:22-07|[22-07]]] **Unya si **Zacarias ** nga naamang, gipasulti na usab sa Dios.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
