@@ -17,11 +17,14 @@ Ang pulong nga "maayo" adunay magkalahi nga kahulugan nag depende kini sa kontex
 
 ===== Translation Suggestions: =====
 
+  * Ang kinatibuk-ang pulong nga "maayo" sa 
   * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
-  * Depending on the context, other ways to translate this term could include, "kind" or "excellent" or "pleasing to God" or "righteous" or "morally upright" or "profitable."
-  * "Good land" could be translated as, "fertile land" or "productive land"; a "good crop" could be translated as a "plentiful harvest" or "large amount of crops."
-  * The phrase "do good to" means to do something that benefits others and could be translated as to "be kind to" someone or to "help" or "benefit" someone.
-  * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
+  * Depende sa kontexto, ang ubang pamaagi sa paghubad niini nga pulong apil ang "______" o "________" o " makapahimoot sa Diyos" o "matarong" o " _________" o "mapuslanon"
+  * "Ang maayo nga yuta" mamahimo kining hubaraon nga "tabunok nga yuta" o "produktibo nga yuta" ang "maayo nga tanum mamahimong hubaron kini isip "mabungahon nga ani" o "
+  * Ang hugpong "paghimo ug maayo sa" nagpasabot sa paghimo ug usa ka butang nga maka benepisyo sa uban ang mahimo usab nga hubaron isip " pagpakamaayo sa" sa uban o "pagtabang" o "maka benepisyo ang uban"
+  * Depende sa kontexto, ubang paagi sa paghubad sa pulong "kamaayo" apil "panalangin" o "________" o "___________" o "pagkamatarung" o "pagkaputli"
+  
+ 
 
 (See also: [[:ceb:obe:kt:holy]], [[:ceb:obe:other:profit]], [[:ceb:obe:kt:righteous]], [[:ceb:obe:kt:evil]])
 
