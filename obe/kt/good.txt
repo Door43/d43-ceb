@@ -1,6 +1,6 @@
 ====== Maayo,kamaayo ======
 
-===== Definition: =====
+===== Pagpasabot: =====
 
 Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang sinultian ang nagagamit ug pulong sa paghubad sa nagkalain-lain nga kahulugan.
 
@@ -13,7 +13,7 @@ Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang
   * Ang pulong nga "kamaayo" kasagaran nagpasabot sa maayong buhat o matarung sa huna-huna ug sa buhat.
   * Ang pagkamaayo sa Ginoo nagpasabot kini kung gi-unsa niya pagpanalangin ang katawhan sa paghatag kanilag maayo ug mapuslanon nga butang. Matawag usab kini nga hingpit nga pagkamaayo
 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
   * Ang kinatibuk-ang pulong nga "maayo" sa lengwahe nga ginapunting kinahanglan nga gamiton kung ang kinatibuk-ang kahulugan tukma ug natural ilabi na kung kini managlahi sa dautan.
   * Depende sa kontexto, ang ubang pamaagi sa paghubad niini nga pulong mao ang "buotan" o "excellent" o " makapahimoot sa Diyos" o "matarong" o " _" o "mapuslanon"
@@ -23,20 +23,20 @@ Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang
 
 (See also: [[:ceb:obe:kt:holy|balaan,pagkabalaan]], [[:ceb:obe:other:profit|profit, profitable]], [[:ceb:obe:kt:righteous|matarong, pagkamatarong]], [[:ceb:obe:kt:evil|daotan, pagkadaotan]])
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?good&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:01-04|[01-04]]]** God saw that what he had created was **good**.
-  * **[[:ceb:obs:notes:frames:01-11|[01-11]]]** God planted…the tree of the knowledge of **good**  and evil."
-  * **[[:ceb:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not **good**  for man to be alone."
-  * **[[:ceb:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand **good**  and evil like he does."
-  * **[[:ceb:obs:notes:frames:08-12|[08-12]]]**"You tried to do evil when you sold me as a slave, but God used the evil for **good**!"
-  * **[[:ceb:obs:notes:frames:14-15|[14-15]]]** Joshua was a **good**  leader because he trusted and obeyed God.
-  * **[[:ceb:obs:notes:frames:18-13|[18-13]]]** Some of these kings were **good**  men who ruled justly and worshiped God.
-  * **[[:ceb:obs:notes:frames:28-01|[28-01]]]**"**Good**  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '**good**?' There is only one who is **good**, and that is God."
+  * **[[:ceb:obs:notes:frames:01-04|[01-04]]]**Nakita sa Dios nga ** maayo ** ang iyang gibuhat. 
+  * **[[:ceb:obs:notes:frames:01-11|[01-11]]]** A dunay gitanom ang Dios nga duha ka pinasahi nga mga kahoy - ang kahoy sa kinabuhi, ug ang kahoy nga makahatag ug kahibalo kon unsa ang ** maayo ** ug daotan.
+  * **[[:ceb:obs:notes:frames:01-12|[01-12]]]** Ug miingon ang Dios, “Dili gayod  ** maayo  ** nga mag-inusara ang tawo.”
+  * ** [02-04]]]  ** "Kay nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa **  maayo **  ug daotan.”
+  * **[[:ceb:obs:notes:frames:08-12|[08-12]]] "**Daotan ang inyong gihimo kanako ug gibaligya ko ninyo. Apan gamiton sa Dios ang daotan alang sa  ** maayo!   **
+  * **[[:ceb:obs:notes:frames:14-15|[14-15]]]** Si Josue maoy nahimong bag-o nga pangulo tungod kay siya misalig ug mituman sa Dios.
+  * **[[:ceb:obs:notes:frames:18-13|[18-13]]]** Mga  ** maayong ** tawo ang ubang kanila ug naghari nga makatarunganon ug misimba sa Dios.
+  * **[[:ceb:obs:notes:frames:28-01|[28-01]]] ** “Maayong magtutudlo, unsay akong pagahimoon aron makabaton ko ug kinabuhi nga walay kataposan?” Miingon si Jesus kaniya, “Nganong gitawag mo ako nga ** ‘maayo’ ** ? Usa ra ang ** maayo ** , ang Dios.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
