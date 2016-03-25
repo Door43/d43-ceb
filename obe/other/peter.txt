@@ -1,35 +1,32 @@
 ====== Pedro, Simon Pedro, Cepas ======
 
-
 ===== Kamatuoran: =====
 
 Kini nga mga pangalan adunay lain-lain nga paagi sa pagpasbot kang Pedro, diin usa sa dose ka apotoles ni Jesus.
 
   * Sa wala pa siya tawga ni Jesus nga mahimong iyang tinun-an, Simon ang iyang pangalan.
-  * Kadugayan, ginganaln usab siya ni Jesus ug Cepas, nga nagpasabot "bato" o "pagang" sa Aramanhong pinulongan. Gitawag usab siya ug Pedro, diin ngapasabot kining ngalana nga "bato" o "pagang" sa Greyigo nga pinulongan.
+  * Kadugayan, ginganlan usab siya ni Jesus ug Cepas, nga nagpasabot "bato" o "pagang" sa Aramanhong pinulongan. Gitawag usab siya ug Pedro, diin ngapasabot kining ngalana nga "bato" o "pagang" sa Greyigo nga pinulongan.
   * Namuhat ang Dios ngadto kang Pedro sa pag-ayo ug mga masakiton ug sa pagwali sa maayong balita mahitungod kang Jesus.
   * Sa kadugayan nagsulat si Pedro ug mga sulat ngadto sa mga magtutoo aron sila matudloan ug madasig, ug nalakip sa Biblia ang duha niini nga mga sulat.
 
-(Posibleng paagi sa paghubad: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Tan-awa usab: [[ceb:obe:kt:disciple]], [[ceb:obe:kt:apostle]])
+(Tan-awa usab: [[:ceb:obe:kt:disciple|tinun-an]], [[:ceb:obe:kt:apostle|apostoles, pagkaapostol]])
 
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?peter&nocomments}}
 
-
 ===== Mga Pananglitan gikan sa Istorya sa Bibia: =====
 
-  ***[[:ceb:obs:notes:frames:28-09|[28-09]]]** Mitubag si **Pedro** kang Jesus, “Among gibiyaan ang tanan ug misunod kami kanimo. Unsa lang man diay ang among ganti?”
-  ***[[:ceb:obs:notes:frames:29-01|[29-01]]]** Usa ka adlaw, nangutana si **Pedro** kang Jesus, “Magtutudlo, kapila ba gayod ako mopasaylo sa akong igsoon nga nakasala kanako? Kapito ba?”
-  ***[[:ceb:obs:notes:frames:31-05|[31-05]]]** Ug miingon si **Pedro** kang Jesus, “Magtutudlo. Kung ikaw kana, palakwa ko sa tubig paingon diha nimo.” Miingon si Jesus kang **Pedro**, “Ali diri!”
-  ***[[:ceb:obs:notes:frames:36-01|[36-01]]]** Usa ka adlaw, gipakuyog ni Jesus ang tulo niya nga mga tinun-an, si **Pedro**, Santiago, ug Juan.
-  ***[[:ceb:obs:notes:frames:38-09|[38-09]]]** Nitubag si **Pedro**,” Bisan pag silang tanan mobiya kanimo, dili gyud ko mobiya nimo!” Unya mitubag si Jesus kang **Pedro**,”Gusto ni Satanas nga maangkon mo tanan, apan giampo ka nako **Pedro** nga dili mopakyas ang imong pagtuo. Ang tinuod, karong gabhiona, sa dili pa motuktugaok ang manok, ilimod mo na ako sa makatulo.”
-  ***[[:ceb:obs:notes:frames:38-15|[38-15]]]** Sa dihang gidakop na si Jesus sa mga sundalo, gihulbot ni **Pedro** ang iyang espada ug gitigbas niya ang pikas nga dalunggan sa sulugoon sa pangulong pari.
-  ***[[:ceb:obs:notes:frames:43-11|[43-11]]]** Gitubag sila ni **Pedro**, “Kinahanglan maghinulsol kamong tanan ug magpabautismo sa ngalan ni Jesu-Cristo aron mapasaylo ang inyong mga sala.
-  ***[[:ceb:obs:notes:frames:44-08|[44-08]]]** Nitubag si **Pedro**, ”Ang tawo nga nagtindog sa inyong atubangan naayo tungod sa gahom ni Jesus, ang Mesiyas.
-
+  * **[[:ceb:obs:notes:frames:28-09|[28-09]]]** Mitubag si **Pedro**  kang Jesus, “Among gibiyaan ang tanan ug misunod kami kanimo. Unsa lang man diay ang among ganti?”
+  * **[[:ceb:obs:notes:frames:29-01|[29-01]]]** Usa ka adlaw, nangutana si **Pedro**  kang Jesus, “Magtutudlo, kapila ba gayod ako mopasaylo sa akong igsoon nga nakasala kanako? Kapito ba?”
+  * **[[:ceb:obs:notes:frames:31-05|[31-05]]]** Ug miingon si **Pedro**  kang Jesus, “Magtutudlo. Kung ikaw kana, palakwa ko sa tubig paingon diha nimo.” Miingon si Jesus kang **Pedro**, “Ali diri!”
+  * **[[:ceb:obs:notes:frames:36-01|[36-01]]]** Usa ka adlaw, gipakuyog ni Jesus ang tulo niya nga mga tinun-an, si **Pedro**, Santiago, ug Juan.
+  * **[[:ceb:obs:notes:frames:38-09|[38-09]]]** Nitubag si **Pedro**,” Bisan pag silang tanan mobiya kanimo, dili gyud ko mobiya nimo!” Unya mitubag si Jesus kang **Pedro**,”Gusto ni Satanas nga maangkon mo tanan, apan giampo ka nako **Pedro**  nga dili mopakyas ang imong pagtuo. Ang tinuod, karong gabhiona, sa dili pa motuktugaok ang manok, ilimod mo na ako sa makatulo.”
+  * **[[:ceb:obs:notes:frames:38-15|[38-15]]]** Sa dihang gidakop na si Jesus sa mga sundalo, gihulbot ni **Pedro**  ang iyang espada ug gitigbas niya ang pikas nga dalunggan sa sulugoon sa pangulong pari.
+  * **[[:ceb:obs:notes:frames:43-11|[43-11]]]** Gitubag sila ni **Pedro**, “Kinahanglan maghinulsol kamong tanan ug magpabautismo sa ngalan ni Jesu-Cristo aron mapasaylo ang inyong mga sala.
+  * **[[:ceb:obs:notes:frames:44-08|[44-08]]]** Nitubag si **Pedro**, ”Ang tawo nga nagtindog sa inyong atubangan naayo tungod sa gahom ni Jesus, ang Mesiyas.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
