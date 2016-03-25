@@ -8,19 +8,20 @@ Ang mga Judio mao ang katawhan nga kaliwat ni Abraham pinaagi sa iyang apo nga s
   * Ang pulong nga “Judio” naggikan sa pulong nga “Juda”. Ang mga Israelita nga gikuha sa Babilonia gikan sila sa habagatang bahin nga gingharian sa Juda.
   * Si Jesus nga mao ang Mesiyas, usa ka Judio. Bisan pa niini, ang mga pangulo sa relihiyon sa mga Judio misalikway kaniya ug gusto nila nga patyon siya.
 
-(Tan-awa usab: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]], [[:ceb:obe:other:babylon|Babylon, Babylonian]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]])
+(Tan-awa usab: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:israel|Israel, Israelita, nasod sa Israel]], [[:ceb:obe:other:babylon|Babylonia, taga Babylonia]], [[:ceb:obe:other:jewishleaders|Pangulo sa mga Judio, mga pangulo sa relihiyon sa Judio]])
+
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?jew&nocomments}}
 
-===== Mga Pananglitan gikan sa Biblia: =====
+===== Mga Pananglitan gikan istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** Ang mga Israelita gitawag na nga mga **Judio** ug kadaghanan sa ila didto na gayod natigulang sa Babilonya.
-  * **[[:ceb:obs:notes:frames:20-12|[20-12]]]** Busa, pagkahuman sa sitenta ka tuig nga pagkagiw, namalik ang pipila ka mga **Judio** sa siyudad sa Jerusalem nga sakop sa Juda.
-  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Daghan sa mga **Judio** ang mituo kang Jesus tungod niining milagroha.
-  * **[[:ceb:obs:notes:frames:37-11|[37-11]]]** Apan nasina ang pangulo sa mga **Judio** kaniya, ug nagtapok sila aron pagplano kung unsaon pagpatay si Jesus ug si Lazaro.
+  * **[[:ceb:obs:notes:frames:20-11|[20-11]]]** Ang mga Israelita gitawag na nga mga **Judio**  ug kadaghanan sa ila didto na gayod natigulang sa Babilonya.
+  * **[[:ceb:obs:notes:frames:20-12|[20-12]]]** Busa, pagkahuman sa sitenta ka tuig nga pagkagiw, namalik ang pipila ka mga **Judio**  sa siyudad sa Jerusalem nga sakop sa Juda.
+  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Daghan sa mga **Judio**  ang mituo kang Jesus tungod niining milagroha.
+  * **[[:ceb:obs:notes:frames:37-11|[37-11]]]** Apan nasina ang pangulo sa mga **Judio**  kaniya, ug nagtapok sila aron pagplano kung unsaon pagpatay si Jesus ug si Lazaro.
   * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Gisugo ni Pilato nga isulat sa usa ka karatula “Hari sa mga **Judio**” ug ibutang sa krus ibabaw sa ulo ni Jesus.
-  * **[[:ceb:obs:notes:frames:46-06|[46-06]]]** Nagsugod dayon ug sangyaw si Saulo sa mga **Judio** didto sa Damasco nga nag-ingon, “Si Jesus ang Anak sa Dios!”
+  * **[[:ceb:obs:notes:frames:46-06|[46-06]]]** Nagsugod dayon ug sangyaw si Saulo sa mga **Judio**  didto sa Damasco nga nag-ingon, “Si Jesus ang Anak sa Dios!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
