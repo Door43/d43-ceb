@@ -17,12 +17,11 @@ Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang
 
 ===== Translation Suggestions: =====
 
-  * Ang kinatibuk-ang pulong nga "maayo" sa 
-  * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
-  * Depende sa kontexto, ang ubang pamaagi sa paghubad niini nga pulong apil ang "______" o "________" o " makapahimoot sa Diyos" o "matarong" o " _________" o "mapuslanon"
-  * "Ang maayo nga yuta" mamahimo kining hubaraon nga "tabunok nga yuta" o "produktibo nga yuta" ang "maayo nga tanum mamahimong hubaron kini isip "mabungahon nga ani" o "
-  * Ang hugpong "paghimo ug maayo sa" nagpasabot sa paghimo ug usa ka butang nga maka benepisyo sa uban ang mahimo usab nga hubaron isip " pagpakamaayo sa" sa uban o "pagtabang" o "maka benepisyo ang uban"
-  * Depende sa kontexto, ubang paagi sa paghubad sa pulong "kamaayo" apil "panalangin" o "________" o "___________" o "pagkamatarung" o "pagkaputli"
+  * Ang kinatibuk-ang pulong nga "maayo" sa lengwahe nga ginapunting kinahanglan nga gamiton kung ang kinatibuk-ang kahulugan tukma ug natural ilabi na kung kini managlahi sa dautan.
+  * Depende sa kontexto, ang ubang pamaagi sa paghubad niini nga pulong mao ang "buotan" o "excellent" o " makapahimoot sa Diyos" o "matarong" o " _________" o "mapuslanon"
+  * "Ang maayo nga yuta" mamahimong hubaraon nga "tabunok nga yuta" o "produktibo nga yuta" ang "maayo nga tanum" mamahimong hubaron isip "mabungahon nga ani" o "dakong ani
+  * Ang hugpong "paghimo ug maayo sa" nagpasabot sa paghimo ug usa ka butang nga maka benepisyo sa uban ug mahimo usab nga hubaron nga " "pagpakamaayo sa" o "pagtabang"o "benepisyo".
+  * Depende sa kontexto, ubang pamaagi sa paghubad sa pulong "kamaayo" mahi-apil ang "panalangin" o "pagkamaayo" o "hingpit nga pagkamaayo" o "pagkamatarung" o "pagkaputli"
   
  
 
