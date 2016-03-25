@@ -11,7 +11,7 @@ Ang pulong "magbudhi" pasabot sa pagbuhat ug paagi nga paglimbong o pagbuhat ug 
 
   * " Sa laing bahin, kini mamahimong hubaron isip "paglingla ug hinungdan sa kadaut sa" o "mopuli sa kaaway" o "uban sa magmaluibong pagpakig-uban."
 
-(Tan-awa usab: [[:ceb:obe:other:judasiscariot|Judas Iscariot]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:ceb:obe:kt:apostle|apostle, the twelve, the eleven]])
+(Tan-awa usab: [[:ceb:obe:other:judasiscariot|Judas Iscariot]]e, [[:ceb:obe:other:jewishleaders|Pangulo sa mga Judio, Pangulo sa relihiyon sa Judio]], [[:ceb:obe:kt:apostle|apostolis, Ang Dose, Ang onse]])
 
 ===== Asa makita sa Biblia: =====
 
@@ -22,9 +22,9 @@ Ang pulong "magbudhi" pasabot sa pagbuhat ug paagi nga paglimbong o pagbuhat ug 
   * **[[:ceb:obs:notes:frames:21-11|[21-11]]]** Gitagna na daan sa ubang mga propeta nga magbunot-bunot ang mga tawo nga mopatay kaniya aron bahinon ang iyang mga sapot ug luiban sa iyang amigo. Gitagna usab ni propeta Zacarias nga bayaran ang iyang higala ug trayenta ka salapi ingon nga bayad sa pagluib kaniya.
   * **[[:ceb:obs:notes:frames:38-02|[38-02]]]** Kadtong niabot na sila Jesus ug ang mga sumusunod sa Jerusalem, niadto si Judas sa mga pangulo sa mga Judio ug iyang gihanyag si Jesus ug gibaylo ug kwarta.
   * **[[:ceb:obs:notes:frames:38-03|[38-03]]]** Kadtong niabot na sila Jesus ug ang mga sumusunod sa Jerusalem, niadto si Judas sa mga pangulo sa mga Judio ug iyang gihanyag si Jesus ug gibaylo ug kwarta.
-  * **[[:ceb:obs:notes:frames:38-06|[38-06]]] **"Unya miingon si Jesus, “Usa ninyo ang magluib kanako.” Nakurat ang mga sumusunod ug nangutana kon kinsa man ang makabuhat niini! Miingon si Jesus, “Ang tawo nga akong hatagan sa pan mao ang magluib kanako.
-  * **[[:ceb:obs:notes:frames:38-13|[38-13]]] **"Sa ikatulo niyang pagbalik, miingon si Jesus, “Mata na! Ania na ang miluib kanako.”
-  * **[[:ceb:obs:notes:frames:38-14|[38-14]]] **Unya miingon si Jesus, “Judas, luiban mo ba ako pinaagi sa usa ka halok?”
+  * **[[:ceb:obs:notes:frames:38-06|[38-06]]]**"Unya miingon si Jesus, “Usa ninyo ang magluib kanako.” Nakurat ang mga sumusunod ug nangutana kon kinsa man ang makabuhat niini! Miingon si Jesus, “Ang tawo nga akong hatagan sa pan mao ang magluib kanako.
+  * **[[:ceb:obs:notes:frames:38-13|[38-13]]]**"Sa ikatulo niyang pagbalik, miingon si Jesus, “Mata na! Ania na ang miluib kanako.”
+  * **[[:ceb:obs:notes:frames:38-14|[38-14]]]** Unya miingon si Jesus, “Judas, luiban mo ba ako pinaagi sa usa ka halok?”
   * **[[:ceb:obs:notes:frames:39-08|[39-08]]]** Nahibaw-an ni Judas nga maoy nagluib kang Jesus nga gihukman na siya nga patyon. Naguol kaayo siya ug naghikog.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
