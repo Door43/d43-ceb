@@ -17,17 +17,17 @@ Ang pulong nga “matarong” nagpasabot sa walay sama nga kaayo sa Dios, ug sa 
   * Ang pulong nga "pagkamatarong" mahimo usab nga hubaron sa pulong o mga pulong nga nagpasabot ug "pagkamaayo" o "pagkamakiangayon" o "hingpit nga maayo diha sa atubangan sa Dios" o "nagkinabuhi nga matarong pinaagi sa pagtuman sa Dios" o "hingpit nga nagbuhat ug maayo." Ang paghubad niini nagadepende sa sitwasyon.
   * Kasagaran ang pulong nga "ang matarong" magamit ingon nga sambingay ug maghisgot sa "mga tawo nga naghunahuna nga sila matarong" o "mga tawo nga mura ug matarong."
 
-(See also: [[:ceb:obe:kt:good|maayo, kaayo]], [[:ceb:obe:kt:holy|holy, holiness]], [[:ceb:obe:kt:evil|evil, wicked, wickedness]], [[:ceb:obe:kt:justice|just, justice, justly]], [[:ceb:obe:kt:faithful|faithful, faithfulness]])
+(See also: [[:ceb:obe:kt:good|maayo, kaayo]], [[:ceb:obe:kt:holy|balaan, pagkabalaan]], [[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]], [[:ceb:obe:kt:justice|angay, hustisya, makatarunganon]], [[:ceb:obe:kt:faithful|matinud-anon, pagkamatinud-anon]])
 
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?righteous&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:03-02|[03-02]]] **Apan nahimuot ang Dios kang Noe. **Matarong **  siya bisan pa ug nagpuyo siya uban sa mga daotan.
-  * **[[:ceb:obs:notes:frames:04-08|[04-08]]] **Giisip sa Dios nga **matarong **  si Abram tungod kay mituo siya sa iyang saad.
-  * **[[:ceb:obs:notes:frames:17-02|[17-02]]] **Mapaubsanon siya nga tawo, **matarong**, ug mituo ug nagatuman sa Dios.
-  * **[[:ceb:obs:notes:frames:23-01|[23-01]]] **Napamalay-an na si Maria sa usa ka tawo nga **matarong **  nga si Jose.
-  * **[[:ceb:obs:notes:frames:50-10|[50-10]]] **Ug unya ang mga **matarong **  nga mga tawo magasidlak sama sa adlaw didto sa gingharian sa Dios Amahan.
+  * **[[:ceb:obs:notes:frames:03-02|[03-02]]]** Apan nahimuot ang Dios kang Noe. **Matarong **  siya bisan pa ug nagpuyo siya uban sa mga daotan.
+  * **[[:ceb:obs:notes:frames:04-08|[04-08]]]** Giisip sa Dios nga **matarong **  si Abram tungod kay mituo siya sa iyang saad.
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]** Mapaubsanon siya nga tawo, **matarong**, ug mituo ug nagatuman sa Dios.
+  * **[[:ceb:obs:notes:frames:23-01|[23-01]]]** Napamalay-an na si Maria sa usa ka tawo nga **matarong **  nga si Jose.
+  * **[[:ceb:obs:notes:frames:50-10|[50-10]]]** Ug unya ang mga **matarong **  nga mga tawo magasidlak sama sa adlaw didto sa gingharian sa Dios Amahan.
 ~~DISCUSSION~~{{tag>publish ktobs}}
