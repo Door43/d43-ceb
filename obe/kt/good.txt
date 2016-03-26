@@ -1,10 +1,10 @@
 ====== maayo,kamaayo ======
 
-===== Pagpasabot: =====
+===== Ipasabot: =====
 
-Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang sinultian ang nagagamit ug pulong sa paghubad sa nagkalain-lain nga kahulugan.
+Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang sinultian ang nagagamit ug pulong sa paghubad sa nagkalain-lain nga ipasabot niini.
 
-  * Sa kinatibuk-an,ang usa ka butang maayo kung kini haom sa kinaiya sa Ginoo,sa iyang katuyuan ug sa kabubut-on.
+  * Sa kinatibuk-an,ang usa ka butang maayo kung kini haom sa kinaiya sa Ginoo,sa iyang katuyoan ug sa kabubut-on.
   * Adunay "maayo" kung kini makapahimuot,hingpit nga pagkamaayo, makatabang,angayan,mapuslanon, ug kini anaa sa moral nga pamaagi.
   * Ang yuta nga "maayo" matawag kini nga "tabunok" o "produktibo"
   * Ang "maayo" nga tanom mahimong "mabungahon" nga tanum.
@@ -21,7 +21,7 @@ Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang
   * Ang hugpong "paghimo ug maayo sa" nagpasabot sa paghimo ug usa ka butang nga maka benepisyo sa uban ug mahimo usab nga hubaron nga " "pagpakamaayo sa" o "pagtabang"o "benepisyo".
   * Depende sa kontexto, ubang pamaagi sa paghubad sa pulong "kamaayo" mahi-apil ang "panalangin" o "pagkamaayo" o "hingpit nga pagkamaayo" o "pagkamatarung" o "pagkaputli"
 
-(See also: [[:ceb:obe:kt:holy|balaan,pagkabalaan]], [[:ceb:obe:other:profit|profit, profitable]], [[:ceb:obe:kt:righteous|matarong, pagkamatarong]], [[:ceb:obe:kt:evil|daotan, pagkadaotan]])
+(See also: [[:ceb:obe:kt:holy|balaan,pagkabalaan]], [[:ceb:obe:other:profit|pulos, mapuslanon]], [[:ceb:obe:kt:righteous|matarong, pagkamatarong]], [[:ceb:obe:kt:evil|daotan, pagkadaotan]])
 
 ===== Asa makita sa Biblia: =====
 
@@ -29,10 +29,10 @@ Ang pulong nga "maayo" magkalahi ang kahulugan depende kini sa kontexto. Daghang
 
 ===== Mga pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:01-04|[01-04]]] **Nakita sa Dios nga ** maayo **  ang iyang gibuhat.
+  * **[[:ceb:obs:notes:frames:01-04|[01-04]]]** Nakita sa Dios nga ** maayo **  ang iyang gibuhat.
   * **[[:ceb:obs:notes:frames:01-11|[01-11]]]** A dunay gitanom ang Dios nga duha ka pinasahi nga mga kahoy - ang kahoy sa kinabuhi, ug ang kahoy nga makahatag ug kahibalo kon unsa ang ** maayo **  ug daotan.
   * **[[:ceb:obs:notes:frames:01-12|[01-12]]]** Ug miingon ang Dios, “Dili gayod ** maayo **  nga mag-inusara ang tawo.”
-  * **[[:ceb:obs:notes:frames:08-12|[02-04]]]**** **"Kay nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa ** maayo **  ug daotan.”
+  * **[[:ceb:obs:notes:frames:08-12|[02-04]]]** "Kay nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa ** maayo **  ug daotan.”
   * **[[:ceb:obs:notes:frames:08-12|[08-12]]] "**Daotan ang inyong gihimo kanako ug gibaligya ko ninyo. Apan gamiton sa Dios ang daotan alang sa ** maayo! **
   * **[[:ceb:obs:notes:frames:14-15|[14-15]]]** Si Josue maoy nahimong bag-o nga pangulo tungod kay siya misalig ug mituman sa Dios.
   * **[[:ceb:obs:notes:frames:18-13|[18-13]]]** Mga ** maayong **  tawo ang ubang kanila ug naghari nga makatarunganon ug misimba sa Dios.
