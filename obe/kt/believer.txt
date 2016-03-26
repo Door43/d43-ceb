@@ -2,9 +2,9 @@
 
 ===== Ipasabot: =====
 
-Ang “magtutoo” usa ka tawo nga hingpit ang pagsalig sa usa ka tawo o panghunahuna.
+Ang “magtutuo” usa ka tawo nga hingpit ang pagsalig sa usa ka tawo o panghunahuna.
 
-  * Sa Biblia, ang “magtutoo” mahinungdanong naglambigit sa usa ka tawo diin nagtuo kang Jesu- Kristo isip ilang manluluwas.
+  * Sa Biblia, ang “magtutuo” mahinungdanong naglambigit sa usa ka tawo diin nagtuo kang Jesu Cristo isip ilang manluluwas.
   * Ang pulong “kristohanon” mao ang titulo sa mga magtutoo tungod kay kini nagpasabot nga sila nagtuo kang Cristo ug nituman sa iyang mga gipanudlo.
 ===== Posibleng paagi sa paghubad: =====
 
@@ -12,7 +12,7 @@ Ang “magtutoo” usa ka tawo nga hingpit ang pagsalig sa usa ka tawo o panghun
   * Ubang paagi sa paghubad niining "magtutuo" mahimo usab nga, "sumusunod ni Jesus" o "mga tawo nga nakaila ug nituman kang Jesus." 
   * Ang pulong “magtutoo” usa ka kinatibuk-an nga pulong alang sa mga tawo nga mituo kang Cristo, samtang ang “tinun-an” ug “apostoles” gigamit alang niadtong mga tawo nga nakaila kang Jesus samtang siya buhi pa. Mas labing maayo nga kining mga pulong hubaron sa magkalahi nga pamaagi, aron kini nga pulong magpabilin sa iiyang  kaugalingong kahulogan.
 
-(Tan-awa usab: [[:ceb:obe:kt:believe|believe, believe in]], [[:ceb:obe:kt:christian|Christian]], [[:ceb:obe:kt:disciple|disciple]])
+(Tan-awa usab: [[:ceb:obe:kt:believe|tuo, motuo kang]], [[:ceb:obe:kt:christian|Kristohanon]], [[:ceb:obe:kt:disciple|tinun-an]])
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?believer&nocomments}}
