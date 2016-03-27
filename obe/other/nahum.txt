@@ -4,13 +4,12 @@
 
 Nahum was a prophet who preached during the time when the evil King Manasseh was ruling over Judah.
 
-  * Nahum was from the town of Elkosh, approximately 20 miles from Jerusalem. 
+  * Nahum was from the town of Elkosh, approximately 20 miles from Jerusalem.
   * The book of Nahum records his prophecies about the destruction of the Assyrian city of Nineveh.
 
+(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:ceb:obe:kt:prophet]], [[:ceb:obe:other:Manasseh]])
+(See also: [[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]], [[:ceb:obe:other:manasseh|Manase]]s)
 
 ===== Bible References: =====
 
