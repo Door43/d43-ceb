@@ -1,26 +1,19 @@
 ====== Martha ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
+Si Martha usa ka babaye nga gikan sa Betania nga nga misunod kang Jesus. (Martha was a woman from Bethany who followed Jesus.)
 
+  * Si Martha adunay igsoon nga babaye nga ginganlan ug Maria ug igsoong lalaki nga ginganlan ug Lazaro, kinsa misunod usab kang Jesus. (Martha had a sister named Mary and a brother named Lazarus, who also followed Jesus.)
+  * Usa ka higayon si Martha nagkapuliki sa pag-andam sa pagkaon samtang ang iyang igsoon naglingkod ug naminaw kang Jesus nga nagtudlo.(One time Martha was distracted by meal preparation while her sister sat and listened to Jesus teach.)
+  * Sa dihang namatay si Lazaro, giingnan ni Martha si Jesus nga siya mituo nga si Jesus mao ang Cristo, ang anak sa Dios.(When Lazarus died, Martha told Jesus that she believed that Jesus was the Christ, the Son of God.)
 
-Martha was a woman from Bethany who followed Jesus.
+(Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-  * Martha had a sister named Mary and a brother named Lazarus, who also followed Jesus.
-  * One time Martha was distracted by meal preparation while her sister sat and listened to Jesus teach.
-  * When Lazarus died, Martha told Jesus that she believed that Jesus was the Christ, the Son of God.
+(See also: [[:ceb:obe:other:marysisterofmartha|Maria (Igsoon ni Martha)]], [[:ceb:obe:other:lazarus|Lazaro]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
-
-(See also: [[marysisterofmartha]], [[lazarus]])
 ===== Bible References: =====
 
+{{topic>:en:bible?martha&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
-{{topic>:en:bible?martha&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
 ~~NOCACHE~~
