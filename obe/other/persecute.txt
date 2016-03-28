@@ -2,29 +2,25 @@
 
 ===== Ipasabot: =====
 
-Ang paglutos mao ang pagbalik-balik ug bunal  sa usa ka tawo nga gipaantos sa sakit.
+Ang paglutos mao ang pagbalik-balik ug bunal sa usa ka tawo nga gipaantos sa sakit.
 
   * Mahitabo usab ang paglutos ngadto sa usa ka tawo, ug sa gagmay nga grupo sa tawo, o bisan sa mga dagkong grupo sa mga tawo.
   * Si Jesus gilutos sa mga hudyo nga pangulo sa relihiyon kay dili sila gusto sa iyang mga gipangtudlo.
   * Sa dihang si Jesus nibalik na sa langit, ang mga pangulo sa hudyo ug ang mga gobyerno sa Roma gilutos ang mga Kristohanon. Bisan pa niini, ang mga magtotoo wala gayod nag-undang sa pagwali ug pagtudlo mahitungod kang Jesus, ug ang simbahan nagpadayon sa pagtubo.
   * Ang ubang pulong sa “paglutos” mao ang “dili maayo nga pagtagad,” “pagpaantos,” "pagdaog-daog,” o “pagpasakit.”
 
-(Tan-awa usab: [[:ceb:obe:other:jewishleaders|mga pangulo sa mga Judio, mga pangulo sa relihiyon sa Judio]], [[:ceb:obe:other:rome|Roma, Romano]], [[:ceb:obe:kt:christian|Kristohanon]], [[:ceb:obe:kt:church|simbahan, Simbahan]])
+(Tan-awa usab: [[:ceb:obe:other:jewishleaders|mga pangulo sa mga Judio, mga Judio nga pangulo sa relihiyon]], [[:ceb:obe:other:rome|Roma, Romano]], [[:ceb:obe:kt:christian|Kristohanon]], [[:ceb:obe:kt:church|simbahan, Simbahan]])
 
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?persecute&nocomments}}
 
-
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-    * **[[:ceb:obs:notes:frames:33-07|[33-07]]]** “Ang kabatoan mao ang tawo nga nakadungog sa pulong sa Dios ug gidawat niya kini nga malipayon. Apan pag-abot sa mga kalisdan ug **paglutos**, niundang siya.”
-    * **[[:ceb:obs:notes:frames:45-06|[45-06]]]** Anang adlawa, nagsugod na ang **paglutos** sa mga tawo sa Jerusalem sa mga sumusunod ni Jesus, mao nga namiya ang mga magtutuo ngato sa ubang dapit.
-    * **[[:ceb:obs:notes:frames:46-02|[46-02]]]** Nadungog ni Saulo ang tingog sa tawo nga nag-ingon, “Saulo! Saulo! Nganong ginalutos mo man ako?” Nangutana si Saulo, “Kinsa ka man, Magtutudlo?” Nitubag si Jesus, “Ako si Jesus nga imong **ginalutos**!”
-    * **[[:ceb:obs:notes:frames:46-04|[46-04]]]** Apan niingon si Ananias, “Agalon, nakadungog ako kung giunsa **paglutos** niining tawhana ang mga magtutuo.”
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:33-07|[33-07]]]** “Ang kabatoan mao ang tawo nga nakadungog sa pulong sa Dios ug gidawat niya kini nga malipayon. Apan pag-abot sa mga kalisdan ug **paglutos**, niundang siya.”
+  * **[[:ceb:obs:notes:frames:45-06|[45-06]]]** Anang adlawa, nagsugod na ang **paglutos**  sa mga tawo sa Jerusalem sa mga sumusunod ni Jesus, mao nga namiya ang mga magtutuo ngato sa ubang dapit.
+  * **[[:ceb:obs:notes:frames:46-02|[46-02]]]** Nadungog ni Saulo ang tingog sa tawo nga nag-ingon, “Saulo! Saulo! Nganong ginalutos mo man ako?” Nangutana si Saulo, “Kinsa ka man, Magtutudlo?” Nitubag si Jesus, “Ako si Jesus nga imong **ginalutos**!”
+  * **[[:ceb:obs:notes:frames:46-04|[46-04]]]** Apan niingon si Ananias, “Agalon, nakadungog ako kung giunsa **paglutos**  niining tawhana ang mga magtutuo.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
