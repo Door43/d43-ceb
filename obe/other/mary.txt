@@ -1,37 +1,29 @@
 ====== Maria ======
 
-
 ===== Kamatuoran: =====
 
 Si Maria ang inahan ni Jesus nga asawa ni Jose.
 
-  * Ang pagkagamhanan sa Balaang Espirito maoy naghimo kang Maria nga maburos sa dihang ulay pa siya. Ang bata nga anaa sa iyang sabakan, Anak sa Dios. 
-  * Si Jose iyang gipangasawa si Maria, apan si Maria nagpabilin gihapon nga ulay hangtod natawo ang bata.
+  * Ang pagkagamhanan sa Balaang Espirito maoy naghimo kang Maria nga maburos sa dihang ulay pa siya. Ang bata nga anaa sa iyang sabakan, Anak sa Dios.
+  * gipangasawa ni Jose si Maria, apan si Maria nagpabilin gihapon nga ulay hangtod natawo ang bata.
   * Sa dihang natawo ang maong bata, ginganlan ni Maria ug ni Jose ang bata nga Jesus.
 
-(Posibleng paagi sa paghubad: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(Tan-awa usab: [[ceb:obe:kt:jesus]], [[josephnt]], [[ceb:obe:kt:sonofgod]], [[virgin]])
+(Tan-awa usab: [[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]], [[:ceb:obe:other:josephnt|Jose (BK)]], [[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]], [[:ceb:obe:other:virgin|ulay]])
+
 ===== Asa Makita sa Biblia: =====
-
 
 {{topic>:en:bible?mary&nocomments}}
 
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:22-04|[22-04]]]** Sa dihang unom na ka bulan nga buntis si Elizabet, mipakita na usab ang anghel kang **Maria** nga paryente ni Elizabet. Ulay siya nga babaye ug gipamalay-an na sa usa ka tawo nga ginganlan ug Jose. Miingon ang anghel, “Magmabdos ka ug manganak ug lalaki. Nganli siya ug Jesus. Mahimo siya nga anak sa Labing Gamhanan nga Dios ug maghari sa walay kataposan.” 
-  ***[[:ceb:obs:notes:frames:22-05|[22-05]]]** ug gipasabot siya sa anghel, “Duawon ka sa Balaang Espirito, ug kunsaran ka sa gahom sa Dios. Mao nga ang bata balaan, ug Anak sa Dios.” Mituo si **Maria** ug gidawat ang gisulti sa anghel.
-  ***[[:ceb:obs:notes:frames:22-06|[22-06]]]** Pagkahuman ug istorya sa anghel kang **Maria**, miadto na dayon siya kang Elizabet. Milihok ang bata sa sabakan ni Elizabet sa dihang nadungog niya ang tingog ni **Maria** nga nangayo ug katahuran.
-  ***[[:ceb:obs:notes:frames:23-02|[23-02]]]** Miingon ang anghel, “Jose, ayaw pagduhaduha sa pagpangasawa kang **Maria**. Gikan sa Balaang Espirito ang iyang gisabak."
-  ***[[:ceb:obs:notes:frames:23-04|[23-04]]]** Busa kinahanglan nga moadto si Jose ug si **Maria** sa Betlehem ug 
-layo kini gikan sa Nazareth, tungod kay didto natawo ang ilang apohan nga si David.
-  ***[[:ceb:obs:notes:frames:49-01|[49-01]]]** Giingnan sa anghel ang ulay nga ginganlan ug **Maria** nga siya maoy magpahimugso sa Anak sa Dios. Sa ulay pa siya gilamdagan siya sa Balaang Espiritu ug nagmabdos siya. Nanganak siya ug batang lalaki ug ginganlan niya'g Jesus.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:22-04|[22-04]]]** Sa dihang unom na ka bulan nga buntis si Elizabet, mipakita na usab ang anghel kang **Maria**  nga paryente ni Elizabet. Ulay siya nga babaye ug gipamalay-an na sa usa ka tawo nga ginganlan ug Jose. Miingon ang anghel, “Magmabdos ka ug manganak ug lalaki. Nganli siya ug Jesus. Mahimo siya nga anak sa Labing Gamhanan nga Dios ug maghari sa walay kataposan.”
+  * **[[:ceb:obs:notes:frames:22-05|[22-05]]]** ug gipasabot siya sa anghel, “Duawon ka sa Balaang Espirito, ug kunsaran ka sa gahom sa Dios. Mao nga ang bata balaan, ug Anak sa Dios.” Mituo si **Maria**  ug gidawat ang gisulti sa anghel.
+  * **[[:ceb:obs:notes:frames:22-06|[22-06]]]** Pagkahuman ug istorya sa anghel kang **Maria**, miadto na dayon siya kang Elizabet. Milihok ang bata sa sabakan ni Elizabet sa dihang nadungog niya ang tingog ni **Maria**  nga nangayo ug katahuran.
+  * **[[:ceb:obs:notes:frames:23-02|[23-02]]]** Miingon ang anghel, “Jose, ayaw pagduhaduha sa pagpangasawa kang **Maria**. Gikan sa Balaang Espirito ang iyang gisabak."
+  * **[[:ceb:obs:notes:frames:23-04|[23-04]]]** Busa kinahanglan nga moadto si Jose ug si **Maria**  sa Betlehem ug layo kini gikan sa Nazareth, tungod kay didto natawo ang ilang apohan nga si David.
+  * **[[:ceb:obs:notes:frames:49-01|[49-01]]]** Giingnan sa anghel ang ulay nga ginganlan ug **Maria**  nga siya maoy magpahimugso sa Anak sa Dios. Sa ulay pa siya gilamdagan siya sa Balaang Espiritu ug nagmabdos siya. Nanganak siya ug batang lalaki ug ginganlan niya'g Jesus.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
