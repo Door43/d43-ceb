@@ -1,34 +1,34 @@
-====== curse, cursed ======
+====== tunglo, tinunglo ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The term "curse" means to cause negative things to happen to the person or thing that is being cursed.
+Ang termino nga "tunglo" nagapasabot nga tugotan nga adunay negatibong mahitabo sa tawo o butang nga ginatunglo.
 
-  * A curse can be a statement that harm will happen to someone or something.
-  * To curse someone can also be an expression of desire that bad things will happen to them.
-  * It can also refer to the punishment or other negative things that someone causes to happen to someone.
+  * Ang tunglo mamahimong istorya nga kadaot ang mahimong mahitabo sa uban o sa usa ka butang.
+  * Ang pagtunglo sa uban mamahimo nga pahayag sa tinguha nga dili maayong butang ang mahitabo kanila.
+  * Mahimo usab kini nga maghisgot alang sa silot o laing negatibong butang nga mahimong hinungdan sa uban nga mahitabo sa ubang tawo.
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * This term could be translated as "cause bad things to happen to" or "declare that something bad will happen to" or "swear to cause evil things to happen to."
-  * In the context of God sending curses on his disobedient people, it could be translated as, "punish by allowing bad things to happen."
+  * Kini nga termino mamahimong hubaron isip "ang daotang butang nga mahitabo kang" o "pahayag nga adunay daotang mahitabo kang" o "manumpa nga maghimo"This term could be translated as "cause bad things to happen to" or "declare that something bad will happen to" or "swear to cause evil things to happen to."
+  * Sa konteksto sa Ginoo sa pagpadala sa tunglo sa iyang masinupakong katawhan, mahimo kining hubaron isip, "silot pinaagi sa pagtugot sa daotang butang mahitabo" In the context of God sending curses on his disobedient people, it could be translated as, "punish by allowing bad things to happen."
   * The term "cursed" when used to describe people could be translated as, "(this person) will experience much trouble."
   * The phrase "cursed be" could be translated as, "May (this person) experience great difficulties."
   * The phrase, "Cursed is the ground" could be translated as, "The soil will not be very fertile."
   * "Cursed be the day I was born" could also be translated as, "I am so miserable it would have been better not to be born."
   * However, if the target language has the phrase "cursed be" and it has the same meaning, then it is good to keep the same phrase.
 
-(See also: [[:ceb:obe:kt:bless|bless, blessed, blessing]])
+(See also: [[:ceb:obe:kt:bless|gipanalanginan, bulahan, panalangin]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:ceb:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:ceb:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:ceb:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * **[[:ceb:obs:notes:frames:02-09|[02-09]]]** Ang Dios miingon sa bitin, “ ** Tinunglo ** ka!"
+  * **[[:ceb:obs:notes:frames:02-11|[02-11]]]** "karon tinunglo na ang yuta, ug kinahanglan maghago ka sa pag-uma aron kamo makakaon."
+  * **[[:ceb:obs:notes:frames:04-04|[04-04]]] **"Panalanginan ko kadtong mopanalangin kanimo ug ** tunglohon ** ko kadtong  ** motunglo ** kanimo."
+  * **[[:ceb:obs:notes:frames:39-07|[39-07]]] ** Apan nanumpa si Pedro, “ ** Tunglohon ** ko sa Dios kung kaila ko niining tawhana!”
+  * **[[:ceb:obs:notes:frames:50-16|[50-16]]] ** Tungod kay nakasala sa Dios si Adan ug Eva ug nagdala sa sala dinhi sa kalibotan, **gitunglo** kini sa Dios ug nakahukom nga laglagon kini.
 ~~DISCUSSION~~{{tag>publish ktobs}}
