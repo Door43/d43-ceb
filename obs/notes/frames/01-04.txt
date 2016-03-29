@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-Sa ikatulong adlaw, nagsulti ang Dios ug gibahin niya ang tubig gikan sa mala nga yuta. Gitawag niya ang mala ug “yuta,” unya gitawag niya ang tubig ug “dagat.” ug nakita sa Dios nga maayo ang iyang gibuhat.
+Sa ikatulong adlaw, nagsulti ang Dios ug gibahin niya ang tubig gikan sa mala nga yuta. Gitawag niya ang mala nga “yuta,” unya gitawag niya ang tubig nga“dagat.” Ug nakita sa Dios nga maayo ang iyang gibuhat.
 
 Mahinungdanon nga mga Pulong:
 
@@ -10,9 +10,8 @@ Mahinungdanon nga mga Pulong:
   * **[[:ceb:obe:kt:good|good, goodness]]**
 **Translation Notes:**
 
-  * **ikatulong adlaw **– Mao kini ang sunod nga adlaw sa sunod-sunod nga mga adlaw nga giandam sa Dios sa paghimo sa kalibotan alang sa may kinabuhi.
-  * **nagsulti ang Dios** – Gibuhat sa Dios ang mala nga yuta pinaagi sa pagmando nga mahimo kini.
-  * **kalibotan** – Gigamit kini nga pulong sa paghisgot sa lapok o yuta, nga mao ang gigikanan sa uga nga yuta.
-  * **gibuhat** – Kini nga pulong gigamit sa paghimo sa Dios sa usa ka butang gikan sa wala.
-
+  * **ikatulong adlaw **– Mao kini ang sunod nga adlaw sa sunod-sunod nga mga adlaw nga giandam sa Dios sa paghimo sa kalibotan alang sa naay kinabuhi.
+  * **nagsulti ang Dios**  – Gibuhat sa Dios ang mala nga yuta pinaagi sa pagmando nga mahimo kini.
+  * **kalibotan**  – Gigamit kini nga pulong sa paghisgot sa lapok o yuta, nga mao ang gigikanan sa uga nga yuta.
+  * **gibuhat**  – Kini nga pulong gigamit sa paghimo sa Dios sa usa ka butang gikan sa wala.
 **[[:ceb:obs:notes:frames:01-03|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-05|>>]]**
