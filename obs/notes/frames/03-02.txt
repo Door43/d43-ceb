@@ -2,18 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&}}
 
-Apan nahimuot ang Dios kang Noe. Matarong siya bisan pa ug nagpuyo siya kauban sa mga dautan. Gisultian sa Dios si Noe bahin sa lunop. Iyang gisultian nga maghimo ug dako nga sakayan.
+Apan nahimuot ang Dios kang Noe. Matarong siya bisan pa ug nagpuyo siya kauban sa mga dautan. Gisultihan sa Dios si Noe bahin sa lunop. Iyang giingnan si Noe nga maghimo ug dako nga barko.
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:other:noah]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:righteous]]**
-
+  * **[[:ceb:obe:other:noah|Noe]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:righteous|matarong, pagkamatarong]]**
 ===== Translation Notes: =====
 
-  * **Nahimuot**  – nahimuot ang Dios kang Noe kay naa siyay kahadlok sa Dios, nisunod siya sa Dios bisan pa ug nagpuyo siya kauban ang mga dautan. Gipili siya ug ang iyang pamilya sa Dios nga maluwas sa lunop
-  * **Lunop**  – lalom nga tubig nga motabon sa kalibotan, maski sa mga lugar nga kasagaran uga, sama sa pinakataas nga bukid
-  * **Gisultian sa Dios si Noe bahin sa lunop **- nagplano ang Dios nga takuban ang kalibotan ug lalom nga tubig pinaagi sa ulan
-
- **[[ceb/obs/notes/frames/03-01|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-03|>>]]**
+  * **nahimuot**  – Nahimuot ang Dios kang Noe kay naa siyay kahadlok sa Dios, nisunod siya sa Dios bisan pa ug nagpuyo siya kauban ang mga dautan. Gipili siya ug ang iyang pamilya sa Dios nga maluwas sa lunop
+  * **lunop**  – Tan-awa kung giunsa ni nimo paghubad sa [03-01].
+  * **gisultian sa Dios si Noe bahin sa lunop **- Nagplano ang Dios nga takloban ang kalibotan pinaagi sa pagpadala ug daghang ulan.
+**[[:ceb:obs:notes:frames:03-01|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-03|>>]]**
