@@ -1,22 +1,20 @@
-===== Ang saad sa Dios [03-15] =====
+===== Ang Saad sa Dios [03-15] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&}}
 
-Niingon ang Dios, “Nagsaad ko nga dili na nako itunglo ang yuta tungod sa mga dautan nga buluhaton sa mga tawo o gub-on ang kalibutan sa lunop bisan pa sal-an na sila sukad pa sa pag ka bata“.
+Niingon ang Dios, “Nagsaad ko nga dili na nako itunglo ang yuta tungod sa mga dautan nga binuhatan sa mga tawo o gub-on ang kalibutan sa lunop bisan pa sal-an na ang mga tawo sukad pa sa pagkabata“.
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:promise]]**
-  * **[[ceb:obe:kt:curse]]**
-  * **[[ceb:obe:kt:evil]]**
-  * **[[ceb:obe:kt:sin]]**
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:curse|curse, cursed]]**
+  * **[[:ceb:obe:kt:evil|daotan, pagkadaotan]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
 ===== Translation Notes: =====
 
-  * **dili na nako**  – dili na mausab
-  * **itunglo ang yuta**  – naay kasakit ug pag-antos sa kalibotan tungod sa sala
-  * **ang kalibotan **– ang kalibotan ug tanan nga nagpuyo nini.
-  * **sal-an na sila sukad pa sa pagkabata -  ** ang tawo makasasala na sukad pa sa pagkabata ug makasala sa tibuok nilang kinabuhi
- 
-**[[ceb/obs/notes/frames/03-14|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-16|>>]]**
+  * **dili na nako**  – Napasabot kini nga "dili na gayod" o "dili mausab sa bisag kanus-a pa" o "Sa tinuoray, dili na gayod." Pananglitan: "Dili na gayod nako itunglo ang yuta" o "Dili na nako itunglo pag-usab ang yuta bisan kanus-a pa," o "Sa tinuoray, dili na gayod nako itunglo ang yuta."
+  * **itunglo ang yuta**  – Naay kasakit ug pag-antos ang kalibotan ug ubang hinimo tungod sa sala.
+  * **ang kalibotan **– Mao kini ang kalibotan ug tanan nga buhing hinimo nga nagpuyo niini.
+  * **sal-an na sila sukad pa sa pagkabata **– Ang lain nga pagsulti ani mao ang, "Ang tawo nagbuhat ug sala sa tibuok nilang kinabuhi."
+**[[:ceb:obs:notes:frames:03-14|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-16|>>]]**
