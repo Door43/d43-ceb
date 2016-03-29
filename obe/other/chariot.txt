@@ -1,28 +1,20 @@
-====== chariot ======
+====== Karwahe ======
 
+===== Ipasabot: =====
 
-===== Definition: =====
+Sa kaniadtong panahon, ang mga karwahe makagaan nga kariton nga adunay duha ka ligid diin guyuron ug mga kabayo
 
-In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
+  * Ang mga tawo mamahimong molingkod o motindog sa karwahe, gamiton nila alang sa gubat o sa biyahe.
+  * Sa gubat, ang sundalo nga dunay karwahe adunay dakong bintaha sa kakusog ug pagbalhin-balhin kaysa mga sundalo nga walay karwahe.
 
-  * People would sit or stand in chariots, using them for war or travel.
-  * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
-
-
-===== Bible References: =====
-
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?chariot&nocomments}}
 
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
-
-  ***[[:ceb:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots** to get stuck. 
-  ***[[:ceb:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:12-10|[12-10]]]** Busa gisundan nila ang mga Israelita ngadto sa nauga nga dagat, apan gihimo sa Dios nga matrantar sila ug wala niya gipatuyok ang ligid sa ilang mga  ** karwahe ** .
+  * **[[:ceb:obs:notes:frames:45-07|[45-07]]]** Samtang naglakaw siya, nakakita si Felipe ug opisyal nga taga-Etiopia nga dako ug katungdanan. Nagsakay kini sa iyang  ** karwahe. **
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
