@@ -1,8 +1,8 @@
-===== Bunga sa Kahoy nga Makahatag ug Kahibalo kon unsa ang Maayo ug Daotan [02-03] =====
+===== Ayaw Hikapa [02-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-Mitubag ang babaye, “Makahimo kami pagkaon sa tanang bunga sa kahoy sa tanaman, gawas sa bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. Ang Dios miingon, 'Kon mokaon kamo sa bunga sa kahoy o bisan mohikap man lang niini, mamatay kamo.' ”
+Mitubag ang babaye, “Makahimo ming mokaon sa tanang bunga sa kahoy sa tanaman, gawas sa bunga sa kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan. Ang Dios miingon, 'Kon mokaon kamo sa bunga sa kahoy o bisan mohikap man lang niini, mamatay kamo.' ”
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -12,7 +12,7 @@ Mitubag ang babaye, “Makahimo kami pagkaon sa tanang bunga sa kahoy sa tanaman
   * **[[:ceb:obe:kt:death|death, die, dead]]**
 ==== Translation Notes: ====
 
-  * **bunga**- Wala kita nasayod kung unsang klasiha kini sa prutas. Ang ato lang nasayran nga kini gikan nianang kahoya. Apan ang maayo niini nga atong nganlan ug prutas, ug dili lang kay ngalan sa usa ka klasi sa prutas.
-  * **kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan**  - Sa tinuod, ang babaye nakahibalo nga wala gitugot ang pagkaon sa bunga niining kahoya nga maoy makahatag sa pagsabot sa maayo ug daotan.
-  * **Mamatay kamo**  - Makahimo ka nga mogamit ug mga pulong nga naghisgot sa pagkamatay sa pisikal nga kinabuhi sa tawo, o mawad-an na siya sa kinabuhi. Ayaw ilisdi kini nga pulong tungod lang kay sakit kini ug ipasabot.
+  * **bunga**  – Wala kita nasayod kung unsang klasiha kini sa prutas. Ang ato lang nasayran nga kini gikan nianang kahoya. Ang maayo gamiton lang nato ang pulong nga prutas, ug dili lang kay ngalan sa usa ka klasi sa prutas.
+  * **kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan**  – Sa tinuod, ang babaye nakahibalo nga wala gitugot ang pagkaon sa bunga niining kahoya nga maoy makahatag sa pagsabot sa maayo ug daotan.
+  * **mamatay kamo**  – Makahimo ka nga mogamit ug ordinaryo nga pulong alang sa kamatayon, o ang pag-undang sa pisikal nga kinabuhi sa tawo. Ayaw likayi kini nga pulong tungod lang kay sakit ug ipasabot ang kamatayon.
 **[[:ceb:obs:notes:frames:02-02|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-04|>>]]**
