@@ -1,17 +1,15 @@
-===== Ang salapati [03-11] =====
+===== Ang Salapati [03-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
-Human niadtong tungura nag palupad si Noe ug salapati apan wala pud ni makakita ug uga nga yuta. Nilabay ang usa ka semana, iya napud ning gi palupad ug pag balik niini, nagtangag na ni ug sanga sa kahoy nga olibo. Nag amat-amat na ug hubas ang tubig ug nitubo napud ang mga tanum.
+Kadugayan, nagpalupad si Noe ug langgam nga ginganlag salapati. Apan wala pud ni makakita ug uga nga yuta, mao nga nilabik kini kang Noe. Nilabay ang usa ka semana, iya na pud ning gipalupad ug pag balik niini, nagtangag na ni ug sanga sa kahoy nga olibo. Nag amat-amat na ug hubas ang tubig ug nitubo na pud ang mga tanum!
 
 ===== Important Terms: =====
 
-  * **[[ceb:obe:other:noah]]**
-
+  * **[[:ceb:obe:other:noah|Noe]]**
 ===== Translation Notes: =====
 
-  * **Salapati **– gamay nga puti o abohon nga kolor nga langgam nga mokaon ug prutas o binhi/liso
-  * **Sanga sa kahoy nga olibo - ** ang bunga sa kahoy nga olibo naay lana nga gigamit sa pagluto o panambal
-  * **Nagamat-amat na ug hubas ang tubig **– naghinay hinay ug kawala ang tubig
-
-**[[ceb/obs/notes/frames/03-10|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-12|>>]]**
+  * **salapati **– Gamay nga puti o abohon nga kolor nga langgam nga mokaon ug prutas o binhi/liso.
+  * **sanga sa kahoy nga olibo **– Ang bunga sa kahoy nga olibo naay lana nga gigamit sa pagluto o panambal. Kung ang inyong panultihon walay pulong para sa "sanga sa olibo," mahimo kining hubaron nga "sanga gikan sa kahoy nga gitawag nga 'olibo'" o "sanga gikan sa kahoy nga gahatag ug lana."
+  * **nagamat-amat na ug hubas ang tubig **– Naghinayhinay ug kawala ang tubig.
+**[[:ceb:obs:notes:frames:03-10|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-12|>>]]**
