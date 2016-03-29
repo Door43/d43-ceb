@@ -1,4 +1,4 @@
-===== Nahimo nang dautan ug mapintas ang mga tawo sa kalibotan [03-01] =====
+===== Misamot ang Sala [03-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&}}
 
@@ -6,13 +6,11 @@ Nilabay ang dugay nga panahon, nidaghan na ang mga tawo sa kalibutan. Nahimo na 
 
 ===== Mahinungdanon nga pulong: =====
 
-  * **[[:ceb:obe:kt:god]]**
-
+  * **[[:ceb:obe:kt:god|Dios]]**
 ===== Translation Notes: =====
 
-  * **Nilabay ang dugay nga panahon **– nahitabo ni nga istorya pila ka gatos ka tuig sukad gimugna ang kalibotan
-  * **Dautan ug mapintas**  – grabe na ang pag pakasala sa mga tawo
-  * **Nakahukom na ang Dios nga gub-on ang kalibotan**  – dili ni gapasabot nga gub-on sa Dios ang tanan nga kalibotan kundili ang mga tawo lang nga nagrebelde kaniya lakip ang mga mananap sa yuta ug mga langgam
-  * **Lunop**  – lalom nga tubig nga motabon sa kalibotan, maski sa mga lugar nga kasagaran uga, sama sa pinakataas nga bukid
-
- **[[ceb/obs/notes/frames/02-12|<<]] | [[:ceb:obs:notes:02|Up]]  | [[/ceb/obs/notes/frames/03-02|>>]]**
+  * **nilabay ang dugay nga panahon **– nahitabo ni nga istorya pila ka gatos ka tuig sukad gimugna ang kalibotan.
+  * **dautan ug mapintas**  – Basin mas natural ang pagsulti nga "nahimong dautan ang mga tawo ug nagbuhat ug bayolente nga mga butang."
+  * **mihukom na ang Dios nga gub-on ang kalibotan**  – wala ni gapasabot nga maguba ang tibuok nga kalibotan. Hinuon, giplano sa Dios nga gub-on ang mga tawo nga nagrebelde ug nakaaingon sa maong dautan ug pagkabayolente. Mamatay usab ang mga mananap sa yuta ug mga langgam sa lunop.
+  * **lunop**  – lalom nga tubig nga motabon sa kalibotan, maski sa mga lugar nga kasagaran uga, sama sa pinakataas nga bukid.
+**[[:ceb:obs:notes:frames:02-12|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:03-02|>>]]**
