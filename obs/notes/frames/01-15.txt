@@ -1,4 +1,4 @@
-===== “Pagsanay kamo ug pun-a ninyo ang tibuok kalibotan.” [01-15] =====
+===== “Pagsanay Kamo ug Pun-a Ninyo ang Tibuok Kalibotan.” [01-15] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&}}
 
@@ -11,8 +11,8 @@ Gihimo sa Dios ang lalaki ug babaye sama sa iyang dagway. Gipanalanginan ug giin
   * **[[:ceb:obe:kt:good|good, goodness]]**
 ==== Translation Notes: ====
 
-  * **Gihimo sa Dios**  – Gihimo sa Dios ang lalaki ug babaye pinaagi sa iyang kamot o kaugalingon.
+  * **gihimo sa Dios**  – Gihimo sa Dios ang lalaki ug babaye pinaagi sa suod nga pamaagi.
   * **sama sa iyang dagway**  – Ang dagway usa ka panagway sa tawo o butang. Gibuhat ang tawo sama sa dagway sa Dios ug kini nagpasabot nga ang tawo nahisama o adunay kalambigitan sa mga kalidad o kinaiya sa Dios, apan wala makatupong o dili gayod sama kaniya.
-  * **maayo kaayo**  –Labaw pa kini sa, “maayo” nga gihisgotan sa miaging mga adlaw. Ang “maayo kaayo” nagpasabot sa tibuok nga pagpamuhat, dili lang ang paghimo sa lalaki ug babaye. Nahimo ang tanan uyon sa tumong sa Dios sa paghimo sa mga butang nga angay mahimo.
+  * **maayo kaayo**  – Labaw pa kini sa, “maayo” nga gihisgotan sa miaging mga adlaw. Ang “maayo kaayo” nagpasabot sa tibuok nga pagpamuhat, dili lang ang paghimo sa lalaki ug babaye. Nahimo ang tanan uyon sa tumong sa Dios sa paghimo sa mga butang nga angay mahimo.
   * **pagpamuhat**  – Ang unom ka adlaw sa pagpamuhat diin gihimo sa Dios ang tanan.
 **[[:ceb:obs:notes:frames:01-14|<<]] | [[:ceb:obs:notes:01|Up]] | [[:ceb:obs:notes:frames:01-16|>>]]**
