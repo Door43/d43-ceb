@@ -1,35 +1,35 @@
-====== covenant ======
+====== Pakigsaad, Kasabotan ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A covenant is a formal, binding agreement between two parties that one or both parties must fulfill.
+Ang pakigsaad usa ka pormal, hiniusa nga kasabotan tali sa duha ka grupo nga diin ang usa o ang duha ka grupo kinahanglan nga motuman.
 
-  * This agreement can be between individuals, between groups of people, or between God and people.
-  * When people make a covenant with each other, they say that they will do something, and they must do it.
-  * Examples of human covenants include marriage covenants, business agreements, and treaties between countries.
-  * Throughout the Bible, God made several different covenants with his people.
-  * In some of the covenants, God promised to fulfill his part without conditions. For example when God established his covenant with mankind, promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
-  * In other covenants, God promised to fulfill his part only if the people obeyed him and fulfilled their part of the covenant.
+  * Kini nga kasabotan mamahimong tali sa matag usa, tali sa mga grupo sa tawo, o tali sa Ginoo ug sa katawhan.
+  * Kung ang mga tawo mobuhat ug pakigsaad sa matag usa, sila moingon nga aduna silay himoon, ug ila gayod kining pagabuhaton.
+  * Ang mga pananglitan sa tawhanong pakigsaad mao ang pakigsaad sa kaminyoon, mga kasabotan sa negosyo, ug mga kasabotan tali sa mga nasod.
+  * Bisan asa sa Biblia, ang Ginoo naghimo ug daghan nga nagkalain-laing pakigsaad sa Iyang mga katawhan.
+  * Sa uban nga kasabotan, ang Ginoo nagsaad nga iyang tumanon ang iyang gisaad sa walay kondisyon. Pananglitan sa panahon nga ang Ginoo naghimo sa iyang pakigsaad sa katawhan, nagsaad siya nga dili na niya gubaon ang kalibotan pag-usab pinaagi sa lunop, kini nga saad walay kondisyon nga adunay pagabuhaton usab ang mga tawo.
+  * Sa lain nga pakigsaad, ang Ginoo nagsaad sa pagbuhat sa iyang bahin kung ang mga tawo nagtuman Kaniya ug gibuhat ang ilang bahin sa kasabutan.
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * Depending on the context, ways to translate this term could include "binding agreement" or "formal commitment" or "pledge" or "contract."
-  * Some languages may have different words for covenant depending on whether one party or both parties have made a promise they must keep. If the covenant is one-sided, it could be translated as "promise" or "pledge."
-  * Make sure the translation of this term does not sound like people proposed the covenant. In all cases of covenants between God and people, it was God who initiated the covenant.
+  * Nagadepende sa konteksto, ang mga paagi sa paghubad niini mahimong lakip ang " hugot nga kasabotan" o "pormal nga tulubagon" o "panaad" o "kontrata".
+  * Ang ubang pinulongan mamahimong adunay nagkalain-laing pulong alang sa pakigsaad ug nagadepende kung ang usa lang nga bahin o kung ang duha ka bahin ang nagbuhat ug saad nga ilang barogan. Kung ang pakigsaad madapigon sa usa lamang, mamahimo kining hubaron isip "saad" o "panaad"
+  * Siguraduha nga ang paghubad niining termino dili nga murag ang mga tawo ang nagsugod sa pakigsaad. Sa tanang higayon sa pakigsaad tali sa Ginoo ug sa mga tawo, ang Ginoo mao ang nanguna sa pakigsaad.
 
-(See also: [[:ceb:obe:kt:promise|promise]], [[:ceb:obe:kt:newcovenant|New Covenant]])
+(See also: [[:ceb:obe:kt:promise|saad]], [[:ceb:obe:kt:newcovenant|Bag-ong Pakigsaad]])
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?covenant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa mga Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * **[[:ceb:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * **[[:ceb:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * **[[:ceb:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * **[[:ceb:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:ceb:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the **covenant**  that God had made with the Israelites at Sinai.
+  * **[[:ceb:obs:notes:frames:04-09|[04-09]]]** Unya naghimo ang Dios ug  ** pakigsaad ** kang Abram. Ang  ** pakigsaad  ** mao ang kasabotan tali sa duha ka grupo.
+  * **[[:ceb:obs:notes:frames:05-04|[05-04]]] ** "Himoon ko usab si Ismael nga bantogang nasod, apan ang akong  ** saad ** magpabilin uban kang Isaac.”
+  * **[[:ceb:obs:notes:frames:06-04|[06-04]]]** Human sa taas nga panahon, namatay si Abraham ug ang tanang ** saad  ** nga gihimo sa Dios kang Abraham napasa ngadto kang Isaac.
+  * **[[:ceb:obs:notes:frames:07-10|[07-10]]]** Ang saad sa  ** kasabotan  ** sa Dios kang Abraham napasa ngadto kang Jacob gikan kang Isaac.
+  * **[[:ceb:obs:notes:frames:13-02|[13-02]]] ** Ang Dios nag-ingon kang Moises ug sa katawhan sa Israel, “Kon mosunod mo kanako ug tumanon ninyo ang akong  ** mga sugo ** , mahimo kamo nga akong bililhon nga katawhan, ug gingharian sa mga pari, ug balaang nasod..”
+  * **[[:ceb:obs:notes:frames:13-04|[13-04]]]** Unya ang Dios naghatag kanila ug ** kasabotan ** nga nag-ingon, “Ako si Yahweh, ang inyong Dios nga maoy nagluwas kaninyo gikan sa pagkaulipon sa Ehipto. Ayaw kamo pagsimba ug laing Dios."
+  * **[[:ceb:obs:notes:frames:15-13|[15-13]]]** Unya gipasidan-an usab niya ang tanang katawhan sa ilang katungdanan nga tumanon ang ** pakigsaad  ** nga gihimo sa Dios sa mga Israelita didto sa Bungtod sa Sinai.
 ~~DISCUSSION~~{{tag>publish ktobs}}
