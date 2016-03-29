@@ -1,19 +1,18 @@
-===== Ang halad ni Noe sa Dios [03-14] =====
+===== Ang Halad ni Noe [03-14] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&}}
 
-Pagkagawas niya sa sakayan, naghimo si Noe ug altar diin naghalad siya sa pipila ka mananap nga pwede gamiton sa paghalad. Nalipay ang Dios sa iyang halad ug iyang gipanalanginan si Noe ug iyang pamilya.
+Human makagawas si Noe sa barko, naghimo siya ug altar diin naghalad siya sa pipila ka mananap nga pwede gamiton sa paghalad. Nalipay ang Dios sa iyang halad ug iyang gipanalanginan si Noe ug iyang pamilya.
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:other:noah]]**
-  * **[[ceb:obe:other:altar]]**
-  * **[[ceb:obe:other:sacrifice]]**
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:kt:bless]]**
-
+  * **[[:ceb:obe:other:noah|Noe]]**
+  * **[[:ceb:obe:other:altar|altar]]**
+  * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:bless|panalangin, gipanalanginan]]**
 ===== Translation Notes: =====
 
-  * **Nalipay ang Dios **– nahimuot ang Dios kang Noe tungod sa iyang paghalad
-
- **[[ceb/obs/notes/frames/03-13|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-15|>>]]**
+  * **mananap nga pwede gamiton sa paghalad**  – Mahimo kining isulti nga "nga magamit sa mga tawo aron maghalad kaniya."
+  * **nalipay ang Dios **– Nahimuot ang Dios kang Noe tungod sa iyang paghalad aning mga mananap.
+**[[:ceb:obs:notes:frames:03-13|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-15|>>]]**
