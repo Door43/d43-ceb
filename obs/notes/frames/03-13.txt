@@ -1,18 +1,16 @@
-===== Ang paggawas sa sakayan [03-13] =====
+===== Ang Paggawas sa Barko [03-13] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-Human sa duha ka bulan, niingon ang Dios kang Noe,“ Pwede na mo mogawas sa sakayan. Ikaw, imong pamilya ug ang tanan nga mga mananap. Panaghan kamo, panagsanay ug pun-a ang tibuok kalibotan”. Ug nigawas si Noe ug iyang pamilya sa sakayan.
+Human sa duha ka bulan, niingon ang Dios kang Noe, “Pwede na mo mogawas sa sakayan. Ikaw, imong pamilya ug ang tanan nga mga mananap. Panaghan kamo, panagsanay ug pun-a ang tibuok kalibotan.” Ug nigawas si Noe ug iyang pamilya sa sakayan.
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:other:noah]]**
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:noah|Noe]]**
 ===== Translation Notes: =====
 
-  * **Human sa duha ka bulan**  – duha ka bulan sukad gipalupad ni Noe ang salapati
-  * **Panaghan kamo**  – buot sa Dios kang Noe nga daghan iyang anak
-  * **pun-a ang tibuok kalibotan –**aron daghang tawo ang mopuyo sa kalibotan
-
-**[[ceb/obs/notes/frames/03-12|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-14|>>]]**
+  * **human sa duha ka bulan**  – Magpasabot kini nga duha ka bulan sukad gipalupad ni Noe ang salapati. Basin kinahanglan kini isulti kung dili pa klaro.
+  * **panaghan kamo**  – Aron masigurado nga klaro nga buot ug mando kini sa Dios, mahimong isulti nga "Kinahanglan daghan ang imong anak," o "Ganahan ko nga daghan kag anak."
+  * **pun-a ang tibuok kalibotan **– Kung dili kini klaro, mahimong kinahanglan isulti nga "ug pun-a ug tawo ang kalibotan" o "aron daghang tawo ang mopuyo sa kalibotan."
+**[[:ceb:obs:notes:frames:03-12|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-14|>>]]**
