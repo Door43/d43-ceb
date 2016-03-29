@@ -2,7 +2,7 @@
 
 ===== Kamatuoran: =====
 
-Si David mao ang ikaduhang hari sa Israel ug nag-alagad siya sa Dios nga matinud-anon. Siya ang nagsulat sa libro sa Salmo.
+Si David mao ang ikaduhang hari sa Israel ug nag-alagad siya sa Dios nga matinud-anon. Siya ang nagsulat sa libro sa mga Salmo.
 
   * Gipili sa Dios si David nga mahimong hari sa dihang bata pa siya ug nag-atiman pa sa mga karnero sa iyang pamilya.
   * Nahimong banggiitang sundalo si David ug gipangulohan niya ang mga sundalong Israelita sa pagpakigbatok sa ilang mga kaaway.
@@ -12,7 +12,7 @@ Si David mao ang ikaduhang hari sa Israel ug nag-alagad siya sa Dios nga matinud
 
 (Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(Tan-awa usab: [[:en:obe:other:goliath|Goliat]], F[[:en:obe:other:philistines|ilistihanon]], [[:ceb:obe:other:saul|Saul (OT)]])
+(Tan-awa usab: [[:en:obe:other:goliath|Goliat]], [[:en:obe:other:philistines|Filistihanon]], [[:ceb:obe:other:saul|Saul (OT)]])
 
 ===== Asa Makita sa Biblia: =====
 
@@ -20,13 +20,13 @@ Si David mao ang ikaduhang hari sa Israel ug nag-alagad siya sa Dios nga matinud
 
 ===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]** Si **David** nga usa ka batan-on nga Israelita maoy gipili sa Dios nga mohari puli kang Saul. Magbalantay sa karnero si **David** ug didto nagpuyo sa lungsod sa Betlehem... si **David**, matarong, ug mituo ug nagatuman sa Dios.
+  * **[[:ceb:obs:notes:frames:17-02|[17-02]]]** Si **David**  nga usa ka batan-on nga Israelita maoy gipili sa Dios nga mohari puli kang Saul. Magbalantay sa karnero si **David**  ug didto nagpuyo sa lungsod sa Betlehem… si **David**, matarong, ug mituo ug nagatuman sa Dios.
   * **[[:ceb:obs:notes:frames:17-03|[17-03]]]** Sa wala pa nahimo nga bantogang sundalo ug pangulo si **David**, nakaaway pa niya ang higante nga ginganlan ug Goliat sa dihang bata pa siya.
-  * **[[:ceb:obs:notes:frames:17-04|[17-04]]]** Busa nasina si Saul kang **David** kay gusto siya sa mga tawo, ug gisulayan niya siya pagpatay sa makadaghan. Mao nga nagtago-tago si **David** gikan kaniya.
-  * **[[:ceb:obs:notes:frames:17-05|[17-05]]]**  Gipanalanginan sa Dios si **David** ug nagmalamposon siya. Nakig-away si **David** sa daghang mga gubat ug gitabangan siya sa Dios nga mabuntog ang mga kaaway sa Israel.
-  * **[[:ceb:obs:notes:frames:17-06|[17-06]]]** Unya gusto ni **David** nga magtukod ug templo aron didto mosimba ang mga Israelita sa ilang Dios ug aron makahalad sila didto.
-  * **[[:ceb:obs:notes:frames:17-09|[17-09]]]** Naghari si **David** nga makatarunganon ug matinumanon siya sa Dios sa daghang katuigan, busa gipanalanginan siya. Apan sa dihang nagkatigulang na siya, naay usa ka higayon nga nakahimo siyag dako nga sala sa Dios. 
-  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]** Nasuko ug maayo ang Dios sa gibuhat ni **David** busa gipaistoryahan niya kang propeta Natan mahitungod sa iyang sala. Naghinulsol si **David** ug gipasaylo siya sa Dios. Gikan niadto, nagmasinugtanon na siya ug nituman sa Dios bisan sa lisod nga mga panahon.
+  * **[[:ceb:obs:notes:frames:17-04|[17-04]]]** Busa nasina si Saul kang **David**  kay gusto siya sa mga tawo, ug gisulayan niya siya pagpatay sa makadaghan. Mao nga nagtago-tago si **David**  gikan kaniya.
+  * **[[:ceb:obs:notes:frames:17-05|[17-05]]]** Gipanalanginan sa Dios si **David**  ug nagmalamposon siya. Nakig-away si **David**  sa daghang mga gubat ug gitabangan siya sa Dios nga mabuntog ang mga kaaway sa Israel.
+  * **[[:ceb:obs:notes:frames:17-06|[17-06]]]** Unya gusto ni **David**  nga magtukod ug templo aron didto mosimba ang mga Israelita sa ilang Dios ug aron makahalad sila didto.
+  * **[[:ceb:obs:notes:frames:17-09|[17-09]]]** Naghari si **David**  nga makatarunganon ug matinumanon siya sa Dios sa daghang katuigan, busa gipanalanginan siya. Apan sa dihang nagkatigulang na siya, naay usa ka higayon nga nakahimo siyag dako nga sala sa Dios.
+  * **[[:ceb:obs:notes:frames:17-13|[17-13]]]** Nasuko ug maayo ang Dios sa gibuhat ni **David**  busa gipaistoryahan niya kang propeta Natan mahitungod sa iyang sala. Naghinulsol si **David**  ug gipasaylo siya sa Dios. Gikan niadto, nagmasinugtanon na siya ug nituman sa Dios bisan sa lisod nga mga panahon.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
