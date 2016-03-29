@@ -1,15 +1,13 @@
-===== Luwas sila Noe sa lunop [03-08] =====
+===== Luwas sa Lunop [03-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&}}
 
-Namatay tanan, gawas lang sa mga tawo ug mga mananap nga naa sa sakayan. Luwas ug wala sila malunod kay naglutaw lutaw ang sakayan sa tubig.
+Tanan nga nabuhi sa yuta namatay, gawas lang sa mga tawo ug mga mananap nga anaa sa barko. Luwas ug wala sila malunod ang tanan nga naa sa sulod sa barko kay naglutaw lutaw ang sakayan sa tubig.
 
 ===== Mahinungdanon nga pulong: =====
 
-  * **[[ceb:obe:kt:death]]**
-
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)//
-
-**[[ceb/obs/notes/frames/03-07|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-09|>>]]**
+  * //(Walay notes para ani nga frame)//
+**[[:ceb:obs:notes:frames:03-07|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-09|>>]]**
