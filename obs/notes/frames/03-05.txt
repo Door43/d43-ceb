@@ -1,16 +1,15 @@
-===== Ang pagsulod na sa sakayan [03-05] =====
+===== Ang Pagsulod sa Barko [03-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&}}
 
-Gisugo pud sa Dios si Noe ug iyang pamilya nga magtigum ug kalan-on para sa ilang kaugalingon ug para sa mga mananap. Kadtong naandam na tanan, giingnan siya sa Dios nga panahon na nga siya, iyang asawa, tulo ka anak nga lalaki, ilang mga asawa, nga mosulod na sa sakayan. Walo sila nga misulod sa sakayan.
+Gisugo pud sa Dios si Noe ug iyang pamilya nga magtigum ug kalan-on para sa ilang kaugalingon ug para sa mga mananap. Adtong naandam na tanan, giingnan siya sa Dios nga panahon na nga siya, iyang asawa, tulo ka anak nga lalaki, ug ilang mga asawa, nga mosulod na sa sakayan. Walo sila nga misulod sa sakayan.
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:kt:god]]**
-  * **[[ceb:obe:other:noah]]**
-
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:noah|Noe]]**
 ===== Translation Notes: =====
 
-//(There are no notes for this frame.)//
+//(Walay notes para ani nga frame.)//
 
-**[[ceb/obs/notes/frames/03-04|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-06|>>]]**
+**[[:ceb:obs:notes:frames:03-04|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-06|>>]]**
