@@ -1,18 +1,16 @@
-===== Ang paghimo sa sakayan [03-04] =====
+===== Ang Paghimo sa Sakayan [03-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
-Gisunod ni Noe ang Dios. Gihimo niya ang sakayan kauban sa iyang tulo ka anak nga lalaki sumala sa ingon sa Dios. Pila ka tuig ni nila gihimo kay dako ni kaayo . Gipasid-an ni Noe ang mga tawo bahin sa umaabot nga lunop ug giingnan niya sila nga dili na magpakasala ug motuo sa Dios, apan wala sila motuo niya
+Gisunod ni Noe ang Dios. Gihimo niya ang barko uban ang iyang tulo ka anak nga lalaki sumala sa giingon sa Dios. Pila ka tuig ni nila gihimo tungod kay dako ni kaayo. Gipasid-an ni Noe ang mga tawo bahin sa umaabot nga lunop ug giingnan niya sila nga mobalik sa Dios, apan wala sila motuo niya
 
 ===== Mahinungdanon nga mga pulong: =====
 
-  * **[[ceb:obe:other:noah]]**
-  * **[[ceb:obe:other:obey]]**
-  * **[[ceb:obe:kt:god]]**
-
+  * **[[:ceb:obe:other:noah|Noe]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
 ===== Translation Notes: =====
 
-  * **Gipasid-an ni Noe**  – gisultihan ni Noe ang tanan nga mga tawo sa plano sa Dios nga gub-on ang kalibotan tungod sa ilang mga sala.
-  * **Dili na magpakasala ug motuo  sa Dios**  – moundang na sila sa pagpakasala ug mosunod na sa Dios.
-
- **[[ceb/obs/notes/frames/03-03|<<]] | [[ceb/obs/notes/03|Up]] | [[ceb/obs/notes/frames/03-05|>>]]**
+  * **gipasid-an ni Noe**  – Gisultihan ni Noe ang tanan nga mga tawo sa plano sa Dios nga gub-on ang kalibotan tungod sa sala.
+  * **mobalik sa Dios**  – Moundang na sila sa pagpakasala ug mosunod na sa Dios.
+**[[:ceb:obs:notes:frames:03-03|<<]] | [[:ceb:obs:notes:03|Up]] | [[:ceb:obs:notes:frames:03-05|>>]]**
