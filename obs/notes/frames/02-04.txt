@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
-Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay, kay nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa maayo ug daotan.”
+Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay. Nasayod man ang Dios nga sa dihang mokaon kamo niini, mahisama kamo kaniya nga makahibalo sa maayo ug daotan.”
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -13,6 +13,6 @@ Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay, kay nasayod
   * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
 ==== Translation Notes: ====
 
-  * **mahisama kamo kaniya**- Ang lalaki ug babaye gihimo sama sa panagway sa Dios. Ang bitin nag-ingon nga ang babaye mahisama sa Dios kung siya makahibalo sa daotan. Hinuon, ang Dios dili gusto nga ang babaye makaangkon niini nga kahibalo.
-  * **makahibalo sa maayo ug daotan**- Mao kini ang pagkasayod sa kaugalingong kasinatian kung unsang mga butanga ang maayo ug butang nga dili maayo, o pagkasayod sa bisan unsang butang nga maayo ug dautan.
+  * **mahisama kamo kaniya**  – Ang lalaki ug babaye gihimo na nga sama sa panagway sa Dios. Ang bitin nag-ingon nga ang babaye mahisama sa Dios kung makahibalo siya sa daotan. Hinuon, ang Dios dili gusto nga ang babaye makaangkon niini nga kahibalo.
+  * **makahibalo sa maayo ug daotan**  – Mao kini ang pagkasayod sa kaugalingong kasinatian kung unsang mga butanga ang maayo ug butang nga dili maayo, o pagkasayod kung maayo ba o dautan ang usa ka butang.
 **[[:ceb:obs:notes:frames:02-03|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-05|>>]]**
