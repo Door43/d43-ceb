@@ -1,28 +1,23 @@
 ====== Napulo ka Sugo ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
+Gisulti sa Dios kang Moises ang mga sugo nga gusto niyang tumanon sa mga Israelita. Gisulat niya ang napulo niini sa duha ka lapad nga mga bato.
 
-  * These Ten Commandments were special commands to help the Israelites love and worship God and love other people.
-  * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him. 
+  * Kining Napulo nga Sugo mao ang pinasahi nga mga sugo aron makatabang sa mga Israelita sa paghigugma sa Dios, pagsimba kaniya, ug sa paghigugma sa ubang tawo.
+  * Kini nga mga sugo kabahin usab sa kasabotan sa Dios sa iyang mga tawo. Pinaagi sa pagtuman niini nga balaod, makita sa Dios nga gihigugma sa katawhan sa Israel ang Dios ug nahiusa sila kaniya.
 
-(See also: [[ceb:obe:kt:lawofmoses]])
+(Tan-awa usab: [[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]])
 
-
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?tencommandments&nocomments}}
 
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
-
-  ***[[:ceb:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:ceb:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:ceb:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:13-07|[13-07]]]** Unya ang Dios nagsulat sa  ** napulo ka sugo ** sa mga lapad nga bato ug gihatag kini kang Moises.
+  * **[[:ceb:obs:notes:frames:13-13|[13-13]]]** Unya nanaog si Moises gikan sa bukid ug nakita niya ang dios-dios. Nasuko siya pag-ayo mao nga iyang gidugmok ang lapad nga mga bato nga gisulatan ug  ** napulo ka sugo. **
+  * **[[:ceb:obs:notes:frames:13-15|[13-15]]]** Naghimo usab si Moises ug lapad nga mga bato alang sa  ** napulo ka sugo ** aron ilisdan ang nabuak nga mga bato.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
