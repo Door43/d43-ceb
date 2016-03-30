@@ -20,13 +20,12 @@ Ang "Hari sa mga Judio"  usa ka titulo ni Jesus, ang Mesiyas.
 
 {{topic>:en:bible?kingofthejews&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:23-09|[23-09]]]** Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new **king of the Jews**  was born.
-  * **[[:ceb:obs:notes:frames:39-09|[39-09]]]** Pilate asked Jesus, "Are you the **King of the Jews**?"
-  * **[[:ceb:obs:notes:frames:39-12|[39-12]]]** The Roman soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the **King of the Jews**!"
-  * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "**King of the Jews**" on a sign and put it on the cross above Jesus' head.
-
+  * **[[:ceb:obs:notes:frames:23-09|[23-09]]]** Wala madugay, naay maalamong mga tawo nga gikan sa sidlakang bahin nga nakakita ug kahibulongan nga bituon. Nasabtan nila nga nagpasabot kadto nga naay natawo nga bag-o nga** hari sa mga Judio.**
+  * **[[:ceb:obs:notes:frames:39-09|[39-09]]]** Nangutana si Pilato kang Jesus, “Ikaw ba ng **hari sa mga Judio**?”
+  * **[[:ceb:obs:notes:frames:39-12|[39-12]]]** Gilatos siya sa mga sundalo nga Romano, gisul-oban ug harianong bisti, ug gikoronahan siyag tunok. Gibugal-bugalan nila si Jesus sa pag-ingon, “Tan-awa ninyo, siya ang **Hari sa mga Judio**!”
+  * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Gisugo ni Pilato nga isulat kini sa usa ka karatola: “**Hari sa mga Judio**” ug ibutang sa krus ibabaw sa ulo ni Jesus.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
