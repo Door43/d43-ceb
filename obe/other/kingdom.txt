@@ -23,13 +23,13 @@ Ang gingharian usa ka grupo sa mga tawo nga gipangulohan sa usa ka hari. Kini us
 
 {{topic>:en:bible?kingdom&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
-  * **[[:ceb:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two **kingdoms**  after Solomon's death.
-  * **[[:ceb:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
-  * **[[:ceb:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
-  * **[[:ceb:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
+  * **[[:ceb:obs:notes:frames:13-02|[13-02]]]** Ang Dios nag-ingon kang Moises ug sa katawhan sa Israel, "Kon mosunod mo kanako ug tumanon ninyo ang akong mga sugo, mahimo kamo nga akong bililhon nga katawhan, ug **gingharian**  sa mga pari, ug balaang nasod,"
+  * **[[:ceb:obs:notes:frames:18-04|[18-04]]]** Unya nasuko ang Dios kang Solomon tungod kay wala na siya mosimba kaniya. Busa nisaad sa iya nga iyang bahinon ang **gingharian**  sa Israel ngadto sa duha sa dihang namatay na si Solomon, ingon nga silot sa iyang gibuhat.
+  * **[[:ceb:obs:notes:frames:18-07|[18-07]]]** Napulo ka mga tribo sa nasod Israel ang mirebelde Rehoboam, ug duha lang ka tribo ang nagpabilin nga matinud-anon kaniya. Ug kining duha ka tribo nahimo nga **gingharian**  sa Juda.
+  * **[[:ceb:obs:notes:frames:18-08|[18-08]]] ** Ang napulo ka tribo sa Israel, mipili ug tawo nga mohari kanila nga mao si Jeroboam. Didto sila sa amihang dapit nagtukod ug gingharian ug gitawag kini nga  ** gingharian ** sa Israel.
+  * **[[:ceb:obs:notes:frames:21-08|[21-08]]] **Ang hari usa ka tawo nga mohari sa usa ka **gingharian**  ug mohukom sa mga tawo.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
