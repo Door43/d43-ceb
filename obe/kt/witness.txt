@@ -9,12 +9,12 @@ Ang saksi mao ang tawo nga nakakita o nakadungog bahin sa nahitabo. Usahay ang p
   * Ang pagsaksi sa usa ka butang nagpasabot nga tan-awon kung unsa ang mahitabo.
   * Ang testigo nga dili mosulti sa tinuod kung unsa gayod ang nahitabo, tawgon nga "mini nga testigo."
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * The term "witness" or "eyewitness" could be translated with a word or phrase that means, "person-seeing-it" or "the one who saw it happen" or "those who saw and heard (those things)."
-  * The phrase "you will be my witnesses" could also be translated as, "you will tell other people about me" or "you will teach people the truth that I taught you" or "you will tell people what you have seen me do and heard me teach."
+  * Ang pulong nga "testigo" o "saksi" mahimong hubaron sa pulong nga "tawo nga nakakita niini" o "tawo nga nakakita kung unsa ang nahitabo" o "mga tawo nga nakakita o nakadungog (niadto nga mga butang)."
+  * Ang pulong nga "kamo akong mga saksi" mahimong hubaron nga "isulti ko ninyo sa mga tawo" o "tudloan ninyo ang mga tawo sa kamatuoran nga akong gitudlo kaninyo" o "isulti ninyo sa mga tawo ang mga butang nga inyong nakita ug nadungog gikan kanako."
 
-(See also: [[:ceb:obe:kt:guilt]], [[:ceb:obe:kt:judge]], [[:ceb:obe:kt:true]], [[:ceb:obe:kt:testimony]])
+(Tan-awa usab: [[:ceb:obe:kt:guilt|sad-an, pagkasad-an]], [[:ceb:obe:kt:judge|maghuhukom, paghukom]], [[:ceb:obe:kt:true|tinuod, kamatuoran]], [[:ceb:obe:kt:testimony|testimonyo, pamatuod]])
 
 ===== Bible References: =====
 
