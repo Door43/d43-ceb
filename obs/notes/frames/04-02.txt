@@ -1,8 +1,8 @@
-===== The Tore [04-02] =====
+===== Ang Tore [04-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}
 
-Mga hambugero kaayo sila, ug wala nila panumbalinga ang gisulti sa Dios. Nagsugod sila ug buhat ug taas nga tore nga mosangko sa langit. Nakita sa Dios nga kon mopadayon silang tanan sa pagbuhat ug daotan, basin ug daghan pa ang daotang mga butang nga ilang mabuhat.
+Mga hambugero kaayo sila, ug wala nila panumbalinga ang gisulti sa Dios. Nagsugod pa gani sila ug buhat ug taas nga tore nga mosangko sa langit. Nakita sa Dios nga kon mopadayon silang tanan sa pagbuhat ug daotan, basin ug makabuhat pa sila ug mas daghan pang daotang mga butang.
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -13,6 +13,6 @@ Mga hambugero kaayo sila, ug wala nila panumbalinga ang gisulti sa Dios. Nagsugo
   * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
 ===== Translation Notes: =====
 
-  * **Taas nga tore nga mosangko sa langit - **  Kini nga istruktura hilabihan ka taas ug ang tumoy niini anaa na sa kawanangan.
-  * **Langit - **  Kini mahubad usab isip “kawanangan”.
+  * **taas nga tore nga mosangko sa langit **– Kini nga istruktura hilabihan ka taas mao nga ang tumoy niini anaa na sa kawanangan.
+  * **langit **– Kini mahubad usab isip “kawanangan”.
 **[[:ceb:obs:notes:frames:04-01|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-03|>>]]**
