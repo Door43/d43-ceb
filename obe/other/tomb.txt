@@ -1,14 +1,14 @@
 ====== lubnganan, lubong, simenteryo ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A tomb is a place where people put the bodies of those who die.
+Ang lubnganan mao ang lugar diin ibutang o ilubong ang mga patay'ng lawas sa mga tawo.
 
-  * The Jews sometimes used natural caves as tombs, and sometimes they dug caves out of the rock on the side of a hill.
-  * In New Testament times, it was common to roll a large, heavy, round stone in front of the opening of a tomb in order to close it.
-  * This term can also be translated as, "grave." But if your word for grave can only refer to a hole in which the body is placed below the ground, then it might be better to translate tomb as, "cave" or "hole in a hill."
+  * Ang mga Judio kasagaran nga mogamit ug mga langob ingon nga lubnganan, ug usahay bangagan nila ang mga bato sa kilid sa mga bungtod.
+  * Sa panahon sa Bag-ong Kasabotan, dagko, bug-at, ug lingin nga mga bato ang gigamit sa pagtabon sa baba sa lubnganan aron sirad-an.
+  * Kini nga pulong mahimong hubaron nga "simenteryo." Apan kung ang pulong nga imong gigamit nagpasabot lang ug bangag nga lubngan sa patay'ng lawas, maayo pa nga "langob" o "bangag sa bungtod" ang imong gamiton.
 
-(See also: [[:ceb:obe:kt:death]], [[:ceb:obe:other:bury]])
+(Tan-awa usab: [[:ceb:obe:kt:death|kamatayon, mamatay, patay]], [[:ceb:obe:other:bury|ilubong, gilubong]])
 
 ===== Bible References: =====
 
