@@ -17,22 +17,19 @@ Ang pulong "dugo" nagpasabot sa pula nga tubig nga mogawas sa panit sa tawo kung
   * Nagadepende sa konteksto, ang sultihon nga "akong kaugalinogng unod ug dugo" mamahimong hubaron isip "akong kaugalingong pamilya" o "akong kaugalingong paryente, o "akong kaugalingong katawhan."
   * Kung adunay sultihon sa tinubdan nga pulong nga gigamit niini nga kahulogan, kana nga sultihon mamahimong gamiton sa paghubad sa "unod ug dugo"
 
-(See: [[:ceb:obe:kt:flesh|unod]])
+(Tan-awa: [[:ceb:obe:kt:flesh|unod]])
 
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?blood&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga pananglitan gikan sa mga Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:08-03|[08-03]]]** Samtang wala pa sila makabalik sa ilang panimalay, gibutangan nila ug  ** dugo ** sa kanding ang sinina ni Jose.
-  * **[[:ceb:obs:notes:frames:10-03|[10-03]
-
- Gihimo sa Dios nga ]]** **[[:ceb:obs:notes:frames:10-03|dugo ** ]]****[[:ceb:obs:notes:frames:10-03|ang Suba sa Nilo, apan si Paraon nagpabilin nga dili musugot nga makalakaw ang mga Israelita. ]]**
-  * **[[:ceb:obs:notes:frames:11-05|[11-05]]]** Ang tanang kabalayan sa mga Israelita dunay  ** dugo ** libot sa ilang pultahan, mao nga gisaylo-an sa Dios ang mga balay. Ang matag-usa nga anaa sa sulod maluwas, ug nangaluwas sila tungod sa  ** dugo ** sa karnero.
-  * **[[:ceb:obs:notes:frames:13-09|[13-09]]]** Ang  ** dugo ** sa mananap mao ang motabon sa sala sa tawo, aron ang tawo limpyo atubangan sa Dios.
-  * **[[:ceb:obs:notes:frames:38-05|[38-05]]]** Unya gikuha ni Jesus ang kopa ug miingon, “Inom mo ani. Mao kini ang akong  ** dugo ** nga giula nga nagpamatuod sa bag-ong kasabotan aron sa pagpasaylo sa mga sala sa mga tawo.
-  * **[[:ceb:obs:notes:frames:48-10|[48-10] Bisan kinsa nga motuo kang Jesus, pagabayaran ang iyang mga sala sa ]]** **[[:ceb:obs:notes:frames:48-10|dugo  ** ]]****[[:ceb:obs:notes:frames:48-10|ni Jesus ug dili na siya silotan sa Dios. ]]**  \\
+  * **[[:ceb:obs:notes:frames:08-03|[08-03]]]** Samtang wala pa sila makabalik sa ilang panimalay, gibutangan nila ug ** dugo **  sa kanding ang sinina ni Jose.
+  * **[[:ceb:obs:notes:frames:10-03|[10-03] Gihimo sa Dios nga ]]** **[[:ceb:obs:notes:frames:10-03|dugo ** ]]****[[:ceb:obs:notes:frames:10-03|ang Suba sa Nilo, apan si Paraon nagpabilin nga dili musugot nga makalakaw ang mga Israelita. ]]** * **[[:ceb:obs:notes:frames:11-05|[11-05]]]** Ang tanang kabalayan sa mga Israelita dunay ** dugo **  libot sa ilang pultahan, mao nga gisaylo-an sa Dios ang mga balay. Ang matag-usa nga anaa sa sulod maluwas, ug nangaluwas sila tungod sa ** dugo **  sa karnero.
+  * **[[:ceb:obs:notes:frames:13-09|[13-09]]]** Ang ** dugo **  sa mananap mao ang motabon sa sala sa tawo, aron ang tawo limpyo atubangan sa Dios.
+  * **[[:ceb:obs:notes:frames:38-05|[38-05]]]** Unya gikuha ni Jesus ang kopa ug miingon, “Inom mo ani. Mao kini ang akong ** dugo **  nga giula nga nagpamatuod sa bag-ong kasabotan aron sa pagpasaylo sa mga sala sa mga tawo.
+  * **[[:ceb:obs:notes:frames:48-10|[48-10] Bisan kinsa nga motuo kang Jesus, pagabayaran ang iyang mga sala sa ]]** **[[:ceb:obs:notes:frames:48-10|dugo ** ]]** **[[:ceb:obs:notes:frames:48-10|ni Jesus ug dili na siya silotan sa Dios. ]]**
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
