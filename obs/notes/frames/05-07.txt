@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&}}
 
-Milakaw si Abraham ug si Isaac padulong sa lugar nga halaran. Unya nangutana si Isaac, “Amahan naa naman ta'y kahoy nga pangsugnod alang sa halad, apan asa man ang nating karnero?” Mitubag si Abraham, “Anak, ang Dios maghatag sa ihalad nga nating karnero.”
+Milakaw si Abraham ug si Isaac padulong sa lugar nga halaran. Unya nangutana si Isaac, “Amahan, naa na man ta'y kahoy nga pangsugnod sa halad, pero asa man ang nating karnero?” Mitubag si Abraham, “Anak, ang Dios maghatag sa ihalad nga nating karnero.”
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -13,8 +13,8 @@ Milakaw si Abraham ug si Isaac padulong sa lugar nga halaran. Unya nangutana si 
   * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **milakaw padulong sa lugar nga halaran**  - Giingnan sa Dios si Abraham nga ihalad si Isaac didto sa pinasahi nga bukid nga moabot ug tulo ka adlaw kon kini pagalakwon gikan sa ilang gipuy-an.
-  * **Kahoy nga pangsugnod alang sa halad **- Alang sa paghalad, kinahanglan gayod nga patyon ang nating karnero ug ibutang kini ibabaw sa kahoy nga pangsugnod aron ang kahoy ug ang karnero maugdaw sa kalayo.
-  * **nating karnero**  - Ang nating karnero o kanding mao gayod ang kasagaran nga gamiton alang sa paghalad.
-  * **Maghatag**  - Si Abraham mituo nga si Isaac mao ang "nating karnero" nga gihatag sa Dios. Apan luyo niana, gituman sa Dios ang gisulti ni Abraham pinaagi sa paghatag niya ug nating karnero nga ihalad puli kang Isaac.
+  * **milakaw padulong sa lugar nga halaran**  – Giingnan sa Dios si Abraham nga ihalad si Isaac didto sa pinasahi nga bukid nga moabot ug tulo ka adlaw kung lakwon gikan sa ilang gipuy-an.
+  * **Kahoy nga pangsugnod alang sa halad **– Para sa paghalad, kasagaran patyon ang nating karnero ug ibutang kini ibabaw sa kahoy nga pangsugnod aron ang kahoy ug ang karnero maugdaw sa kalayo.
+  * **nating karnero**  – Ang nating karnero o kanding mao ang kasagaran nga gamiton alang sa paghalad.
+  * **Maghatag**  – Si Abraham nagtuo nga si Isaac mao ang "nating karnero" nga gihatag sa Dios. Pero gituman sa Dios ang gisulti ni Abraham pinaagi sa paghatag niya ug nating karnero nga ihalad puli kang Isaac.
 **[[:ceb:obs:notes:frames:05-06|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:05-08|>>]]**
