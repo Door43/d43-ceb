@@ -1,4 +1,4 @@
-====== lubnganan, lubong, simenteryo ======
+====== lubnganan, langob, simenteryo ======
 
 ===== Ipasabot: =====
 
@@ -10,18 +10,61 @@ Ang lubnganan mao ang lugar diin ibutang o ilubong ang mga patay'ng lawas sa mga
 
 (Tan-awa usab: [[:ceb:obe:kt:death|kamatayon, mamatay, patay]], [[:ceb:obe:other:bury|ilubong, gilubong]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?tomb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:32-04|[32-04]]]** The man lived among the **tombs**  in the area.
-  * **[[:ceb:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put Lazarus?" They told him, "In the **tomb**. Come and see."
-  * **[[:ceb:obs:notes:frames:37-07|[37-07]]]** The **tomb**  was a cave with a stone rolled in front of its opening.
-  * **[[:ceb:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus' body. They wrapped his body in cloth and placed it in a **tomb**  cut out of rock. Then they rolled a large stone in front the **tomb**  to block the opening.
-  * **[[:ceb:obs:notes:frames:41-04|[41-04]]]** He (the angel) rolled away the stone that was covering the entrance to the **tomb**  and sat on it. The soldiers guarding the **tomb**  were terrified and fell to the ground like dead men.
-  * **[[:ceb:obs:notes:frames:41-05|[41-05]]]** When the women arrived at the **tomb**, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the **tomb**  and see." The women looked into the **tomb**  and saw where Jesus' body had been laid. His body was not there!
+  * **[[:ceb:obs:notes:frames:32-04|[32-04]]]**
+Gapuyo kining tawhana sa **lubnganan ** didtong dapita
+
+
+
+
+
+ .
+  * **[[:ceb:obs:notes:frames:37-06|[37-06]]]**
+Si Jesus nangutana kanila, "Hain ba ninyo gibutang si Lazaro?" Miingon sila kaniya, "Sa **lubnganan**. Sunod kanamo ug tan-awa
+
+
+
+
+
+ ."
+  * **[[:ceb:obs:notes:frames:37-07|[37-07]]]**
+Ang lubnganan usa ka langob nga anaay usa ka bato nga gitabon sa **baba ** niini.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:40-09|[40-09]]]**
+Naay duha ka pangulo sa mga Judio nga si Jose ug Nicodemo nga mituo nga si Jesus ang Mesiyas. Gihangyo nila si Pilato nga kuhaon ang lawas ni Jesus. Giputos nila kini ug panapton ug gibutang sa **lubnganan ** nga gihimo gikan sa bato. Unya giligid nila ang dakong bato, aron masirado ang pultahan sa **lubnganan**.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:41-04|[41-04]]]**
+Iyang (ang anghel) giligid ang bato nga nakatabon sa **lubnganan ** ug iya kining gilingkoran. Nahadlok kaayo ang mga sundalo nga nagbantay ug nakuyapan sila.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:41-05|[41-05]]]**
+Sa dihang niabot na ang mga babaye sa **lubnganan**, miingon ang anghel kanila, “Ayaw kamo kahadlok. Si Jesus wala na diri. Nabanhaw siya sumala sa iyang giingon kaninyo. Tan-awa ninyo ang gibutangan kaniya.” Nisulod ang mga babaye sa **lubnganan ** ug wala na didto ang lawas ni Jesus
+
+
+
+
+
+ !
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
