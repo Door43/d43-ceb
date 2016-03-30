@@ -1,8 +1,8 @@
-===== Karnero [05-09] =====
+===== Ang Karnero [05-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-Sa dapit nga gikahimutangan ni Abraham, dunay usa ka laking karnero nga nasabod sa usa ka gamay'ng kahoy. Gihatag sa Dios ang karnero aron iyang ihalad puli kang Isaac. Nalipay pag-ayo si Abraham sa dihang naghalad siya sa maong karnero.
+Nakakita si Abraham ug laking karnero nga nasabod sa libon nga duol ra nila. Gihatag sa Dios ang karnero aron iyang ihalad puli kang Isaac. Malipayong gihalad ni Abraham ang maong karnero.
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -12,6 +12,6 @@ Sa dapit nga gikahimutangan ni Abraham, dunay usa ka laking karnero nga nasabod 
   * **[[:ceb:obe:other:isaac|Isaac]]**
 ===== Translation Notes: =====
 
-  * **laking karnero **- Ang laking karnero usa ka turo nga karnero. Ang mga karnero usa sa mga hayop nga mahimong gamiton sa katawhan aron ihalad ngadto sa Dios.
-  * **Gihatag sa Dios ang karnero**  - Diha dayon nianang higayona, nagpadala ang Dios ug karnero nga nasabod sa gamay'ng kahoy.
+  * **laking karnero **– Ang laking karnero usa ka turo nga karnero. Ang mga karnero usa sa mga hayop nga mahimong gamiton sa katawhan nga ihalad sa Dios.
+  * **gihatag sa Dios ang karnero**  – Diha sa saktong higayon, nagpadala ang Dios ug karnero nga nasabod sa libon.
 **[[:ceb:obs:notes:frames:05-08|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:05-10|>>]]**
