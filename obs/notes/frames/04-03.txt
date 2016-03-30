@@ -1,4 +1,4 @@
-===== Nagkalain-lain nga Pinulongan [04-03] =====
+===== Daghan nga Pinulongan [04-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
@@ -9,9 +9,9 @@ Busa giilisan sa Dios ang ilang pinulongan ug nagkalain-laing mga pinulongan ug 
   * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **giilisan ang ilang pinulongan **–**** Sa kalit ug milaggrosong paagi, gihatagan sila sa Dios ug nagkalainlaing sinultihan aron dili na nila masabtan ang usag-usa.
-  * **nagkalain-laing mga pinulongan **–**** Imbes sa usa ka dako nga grupo sa katawhan nga nagsulti sa usa ka pinulongan, karon adunay daghang gagmay nga grupo sa katawhan nga nagsulti sa ilang lainlain nga sinultihan.
-  * **iyang gipatibulaag **–****  Sa dihang giusab sa Ginoo ang ilang sinultihan, iya kining katuyuan aron ang mga grupo sa katawhan mukatag sa kalibotan ug ang matag grupo nanglakaw sa ilahang lugar.
+  * **giilisan ang ilang pinulongan **– Sa kalit ug milaggrosong paagi, gihatagan sila sa Dios ug nagkalainlaing sinultihan aron dili na nila masabtan ang usag-usa.
+  * **nagkalain-laing mga pinulongan **– Imbes sa usa ka dako nga grupo sa katawhan nga nagsulti sa usa ka pinulongan, karon adunay daghang gagmay nga grupo sa katawhan nga nagsulti sa ilang lainlain nga sinultihan.
+  * **iyang gipatibulaag **– Sa dihang giusab sa Ginoo ang ilang sinultihan, iya kining katuyuan aron ang mga grupo sa katawhan mukatag sa kalibotan ug ang matag grupo nanglakaw sa ilahang lugar.
   * **Babel**  – Wala kita masayod sa insakto nga nahimutangan sa maong siyudad, apan nasulod kini sa lugar nga gitawag ug karaang Middle East.
   * **nalibog**  – Nagpasabot kini nga gilibog ang mga tawo o “nagsagol” sa dihang dili na magkasinabot kay giilisan sa Dios ang ilang pinulongan.
 **[[:ceb:obs:notes:frames:04-02|<<]] | [[:ceb:obs:notes:04|Up]] | [[:ceb:obs:notes:frames:04-04|>>]]**
