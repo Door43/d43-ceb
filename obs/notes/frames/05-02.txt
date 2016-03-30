@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
-Busa gipangasawa ni Abram si Hagar, ug nakabaton siya ug anak nga lalaki, ug ginganlan siya ni Abram ug Ismael. Apan nasina si Sarai kang Hagar. Sa dihang trise na ka tuig ang idad ni Ismael, nakigsulti pag-usab ang Dios kang Abram.
+Busa gipangasawa ni Abram si Hagar. Nanganak si Hagar ug lalaki, ug ginganlan siya ni Abram ug Ismael. Apan nasina si Sarai kang Hagar. Sa dihang trise na ka tuig ang edad ni Ismael, nakigsulti pag-usab ang Dios kang Abram.
 
 ===== Mahinungdanon nga mga Pulong: =====
 
@@ -13,6 +13,6 @@ Busa gipangasawa ni Abram si Hagar, ug nakabaton siya ug anak nga lalaki, ug gin
   * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **gipangasawa **- Nahimong kaipon - ikaduhang asawa ni Abram si Hagar sa ubos nga kahimtang. Si Hagar nagpabilin nga sulugoon ni Sarai.
-  * **Nasina kang Hagar**  - Nagselos si Sarai kang Hagar tungod kay si Hagar nakabaton ug anak, ug si Sarai wala.
+  * **gipangasawa **– Nahimong kaipon ni Abram si Hagar – ikaduhang asawa sa ubos nga kahimtang. Si Hagar nagpabilin nga sulugoon ni Sarai.
+  * **nasina kang Hagar**  – Nagselos si Sarai kang Hagar tungod kay si Hagar naa nay anak, ug si Sarai wala.
 **[[:ceb:obs:notes:frames:05-01|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:05-03|>>]]**
