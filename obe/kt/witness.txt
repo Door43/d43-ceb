@@ -1,13 +1,13 @@
 ====== testigo, saksi ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A witness is someone who has seen or heard something happen. Sometimes the term "eyewitness" is used to emphasize that the person actually saw what happened.
+Ang saksi mao ang tawo nga nakakita o nakadungog bahin sa nahitabo. Usahay ang pulong nga "testigo" gamiton aron ipadayag nga nakita gayod niya ang nahitabo.
 
-  * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-  * Witnesses are expected to tell the truth about what they have seen or heard.
-  * To witness something means to see it happen.
-  * A witness who does not tell the truth about what happened is called a "false witness."
+  * Panahon sa pagtaral sa hukmanan, isulti sa mga testigo ang ilang nakita o nadungog. Mao kini ang makatabang sa husgado sa paghukom kung sad-an ba o dili ang tawo nga gikasohan.
+  * Gikinahanglan nga mosulti sa tinuod ang mga testigo bahin sa ilang nakita ug nadungog.
+  * Ang pagsaksi sa usa ka butang nagpasabot nga tan-awon kung unsa ang mahitabo.
+  * Ang testigo nga dili mosulti sa tinuod kung unsa gayod ang nahitabo, tawgon nga "mini nga testigo."
 
 ===== Translation Suggestions: =====
 
