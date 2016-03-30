@@ -22,18 +22,14 @@ Ang Nating karnero usa ka batan-on nga karnero. Ang karnero adunay upat ka tiil 
 
 {{topic>:en:bible?lamb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:05-07|[05-07]]]** As Abraham and Isaac walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
-  ***[[:ceb:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect **lamb** or goat and kill it.
-  ***[[:ceb:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by John. When John saw him, he said, "Look! There is the **Lamb of God** who will take away the sin of the world."
-  ***[[:ceb:obs:notes:frames:45-08|[45-08]]]** He read, "They led him like a **lamb** to be killed, and as a **lamb** is silent, he did not say a word.
-  ***[[:ceb:obs:notes:frames:48-08|[48-08]]]** When God told Abraham to offer his son, Isaac, as a sacrifice, God provided a **lamb** for the sacrifice instead of his son, Isaac. We all deserve to die for our sins! But God provided Jesus, the **Lamb** of God, as a sacrifice to die in our place.
-  ***[[:ceb:obs:notes:frames:48-09|[48-09]]]** When God sent the last plague on Egypt, he told each Israelite family to kill a perfect **lamb** and spread its blood around the tops and sides of their door frames. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:05-07|[05-07]]]**Milakaw si Abraham ug si Isaac padulong sa lugar nga halaran. Unya nangutana si Isaac, “Amahan naa naman ta'y kahoy nga pangsugnod alang sa halad, apan asa man ang **nating karnero**?”
+  * **[[:ceb:obs:notes:frames:11-02|[11-02]]]** Ang Dios adunay paagi nga luwason ang unang anak ni bisan kinsa nga motuo kaniya. Ang matag pamilya magpili ug hingpit nga **karnero**  ug kini ilang ihawon.
+  * **[[:ceb:obs:notes:frames:24-06|[24-06]]]** Sunod adlaw, miabot si Jesus aron sa pagpabawtismo kang Juan. Pagkakita ni Juan kaniya, miingon siya, “Tan-awa ninyo! Ania na ang **Nating Karnero**  sa Dios nga maoy magkuha sa sala sa kalibotan.”
+  * **[[:ceb:obs:notes:frames:45-08|[45-08]]]** Mao kini ang iyang gibasa, “Sama siya sa karnero nga gidala sa ihawanan aron patyon, ug sama sa **karnero**  nga hilom, wala gayod siya motingog.
+  * **[[:ceb:obs:notes:frames:48-08|[48-08]]]** Sa dihang giingnan sa Dios si Abraham nga iyang ihalad ang iyang anak nga si Isaac, gihatagan siya sa Dios ug **karnero ** nga maoy ihalad puli sa iyang anak, nga mao si Isaac. Kitang tanan angay nga mamatay tungod sa atong mga sala, apan gihatag sa Dios si Jesus, ang **Nating Karnero ** sa Dios, isip halad aron mamatay puli kanato.
+  * **[[:ceb:obs:notes:frames:48-09|[48-09]]]** Sa dihang nagpadala ang Dios sa pinakaulahi nga katalagman sa Ehipto, giingnan niya ang matag pamilya nga Israelinhon nga mag-ihaw ug hingpit nga **nating karnero**  ug ikatag ang dugo niini sa ibabaw ug sa mga kilid sa ilang pultahan.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
