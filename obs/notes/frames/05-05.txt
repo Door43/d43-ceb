@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&}}
 
-Nianang adlawa, gituli ni Abraham ang tanang mga lalaki sa iyang panimalay. Paglabay sa pipila ka katuigan, nag-idad na si Abraham ug 100 ug nag-idad na usab si Sarai ug 90, unya nanganak siya sa anak nila kang Abraham. Ginganlan nila kini'g Isaac kay sugo kini sa Dios.
+Nianang adlawa, gituli ni Abraham ang tanang mga lalaki sa iyang panimalay. Paglabay sa pipila ka katuigan, sa dihang nag-edad na si Abraham ug 100 ug nag-edad na usab si Sarai ug 90, unya nanganak siya sa anak nila ni Abraham. Ginganlan nila kini'g Isaac kay sugo kini sa Dios.
 
 Mahinungdanon nga mga Pulong:
 
@@ -14,5 +14,5 @@ Mahinungdanon nga mga Pulong:
   * **[[:ceb:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **ang tanang mga lalaki sa iyang panimalay **- Kini nagpasabot nga, "tanang kalalakihan o lalaki nga sakop ni Abraham apil na ang mga batan-on ug tigulang nga mga sulugoon."
+  * **ang tanang mga lalaki sa iyang panimalay **– Kini nagpasabot nga, "tanang kalalakihan o lalaki nga sakop ni Abraham apil na ang mga batan-on ug tigulang nga mga sulugoon."
 **[[:ceb:obs:notes:frames:05-04|<<]] | [[:ceb:obs:notes:05|Up]] | [[:ceb:obs:notes:frames:05-06|>>]]**
