@@ -16,16 +16,44 @@ Ang saksi mao ang tawo nga nakakita o nakadungog bahin sa nahitabo. Usahay ang p
 
 (Tan-awa usab: [[:ceb:obe:kt:guilt|sad-an, pagkasad-an]], [[:ceb:obe:kt:judge|maghuhukom, paghukom]], [[:ceb:obe:kt:true|tinuod, kamatuoran]], [[:ceb:obe:kt:testimony|testimonyo, pamatuod]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?witness&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
-  * **[[:ceb:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
-  * **[[:ceb:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-  * **[[:ceb:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
+  * **[[:ceb:obs:notes:frames:39-02|[39-02]]]**
+Sa sulod sa balay, gisugdan na ug pangutana si Jesus sa mga pangulo sa nga Judio. Daghan ang **mitestigo ** ug mga bakak batok kaniya.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:39-04|[39-04]]]**
+Nasuko ang pangulong pari ug gigisi niya ang iyang sanina. Misinggit siya, "Dili na kinahanglan ang mga **testigo**! Nakadungog mo nga miingon siya nga siya Anak sa Dios. Unsay man inyong hukom
+
+
+
+
+
+ ?"
+  * **[[:ceb:obs:notes:frames:42-08|[42-08]]] **"
+Nasulat usab sa kasulatan nga ang akong mga tinun-an maoy magsangyaw nga maghinulsol ang tanan aron mapasaylo sila sa ilang mga sala. Himoon nila kini sugod sa Jerusalem, ug adtoon nila ang tanang katawhan sa tibuok kalibotan. **Saksi ** kamo niining mga butanga.
+
+
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:43-07|[43-07]]] **"
+Saksi mi nga gibanhaw siya sa Dios
+
+
+
+
+
+ ."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
