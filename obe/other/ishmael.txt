@@ -1,29 +1,25 @@
-====== Ishmael ======
+====== Ismael ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
+Si Ismael mao ang anak ni Abraham ug sa ulipon ni Sarah nga si Hagar.
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar. 
+  * Ang ngalan nga "Ismael" nagpasabot nga "Ang Dios maminaw."
+  * Nakadawat si Ismael sa kaayohan sa balaanon nga saad ngadto kang Hagar mahitungod kaniya ug sa iyang kaugmaon.
+  * Hinuon, dili si Ismael ang anak ni Abraham diin tumanon sa Dios ang iyang saad nga himoon ang iyang kaliwatan sama kadaghan sa mga bituon.
 
-    * The name "Ishmael" means, "God hears."
-    * Ishmael received the benefit of a divine promise made to Hagar about himself and his future
-    * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
+(See also: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:sarah|Sara, Sarai]], [[:en:obe:other:isaac|Isaac]] )
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
-
-(See also: [[ceb:obe:other:Abraham]], [[:ceb:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
-
-
-===== Bible References: =====
-
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?ishmael&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
-  * **[[:ceb:obs:notes:frames:05-04|[05-04]]]**"I will make **Ishmael**  a great nation, too, but my covenant will be with Isaac."
+  * **[[:ceb:obs:notes:frames:05-02|[05-02]]]** Busa gipangasawa ni Abram si Hagar, ug nakabaton siya ug anak nga lalaki, ug ginganlan siya ni Abram ug ** Ismael ** .
+  * **[[:ceb:obs:notes:frames:05-04|[05-04]]] **"Himoon ko usab si ** Ismael  ** nga bantogang nasod, apan ang akong saad magpabilin uban kang Isaac.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
