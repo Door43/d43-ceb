@@ -1,4 +1,4 @@
-===== Ang Paghimo sa Sakayan [03-04] =====
+===== Ang Paghimo sa Arka [03-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
@@ -9,7 +9,7 @@ Gisunod ni Noe ang Dios. Gihimo niya ang barko uban ang iyang tulo ka anak nga l
   * **[[:ceb:obe:other:noah|Noe]]**
   * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
   * **[[:ceb:obe:kt:god|Dios]]**
-===== Translation Notes: =====
+===== Dugang nga Pasabot: =====
 
   * **gipasid-an ni Noe**  – Gisultihan ni Noe ang tanan nga mga tawo sa plano sa Dios nga gub-on ang kalibotan tungod sa sala.
   * **mobalik sa Dios**  – Moundang na sila sa pagpakasala ug mosunod na sa Dios.
