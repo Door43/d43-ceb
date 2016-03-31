@@ -1,6 +1,6 @@
 ====== joy, joyful ======
 
-===== Definition: =====
+===== Definition:     =====
 
 Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
 
@@ -25,8 +25,8 @@ Joy is a feeling of delight and deep satisfaction that comes from God. The relat
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ceb:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with **joy**."
-  * **[[:ceb:obs:notes:frames:34-04|[34-04]]]**"The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with **joy**, that he went and sold everything he had and used the money to buy that field."
+  * **[[:ceb:obs:notes:frames:33-07|[33-07]]] ** “Ang kabatoan mao ang tawo nga nakadungog sa pulong sa Dios ug gidawat niya kini nga malipayon."
+  * **[[:ceb:obs:notes:frames:34-04|[34-04]]] ** “Ang Gingharian sa Dios sama usab sa bahandi nga gilubong sa usa ka tawo sa umahan. Nakita kini sa laing tawo ug gibalhin niya ug lubong. ** Nalipay ** kaayo siya ug gibaligya niya ang tanan niyang kabtangan aron mapalit niya ang yuta nga iyang gilubngan sa maong bahandi.”
   * **[[:ceb:obs:notes:frames:41-07|[41-07]]]** The women were full of fear and great **joy**. They ran to tell the disciples the good news.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
