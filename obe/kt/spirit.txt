@@ -1,18 +1,17 @@
-====== spirit, spiritual ======
+====== espiritu, espirituhanon ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The term "spirit" refers to the non-physical part of people which cannot be seen. When a person dies, his spirit leaves his body. 
+Ang pulong nga "espiritu" nagpasabot sa dili lawasnon nga bahin sa pagkatawo ug dili kini makita. Kung mamatay ang tawo, mobiya ang espiritu sa iyang lawas.
 
-  * The term "spirit" can refer to a being that does not have a physical body, especially an evil spirit.
-  * A person's spirit is the part of him that can know God and believe in him.
-  * In general, the term "spiritual" describes anything in the non-physical world.
-  * In the Bible, the term "spiritual" especially refers to anything that relates to God, specifically to the Holy Spirit.
-  * For example, "spiritual food" refers to God's teachings that give nourishment to a person's spirit, "spiritual wisdom" refers to the knowledge and righteous behavior that come from the power of the Holy Spirit.
-  * God is a spirit and he created other spirit beings which do not have physical bodies.
-  * Angels are spirit beings, including those who rebelled against God and became evil spirits.
-  * The term "spirit of" can also mean "having the characteristics of," such as the "spirit of wisdom."
-
+  * Ang "espiritu" mahimong magpasabot sa usa ka binuhat nga walay makita nga lawas, ilabi na ang daotang espiritu.
+  * Ang espiritu sa tawo mao ang kabahin sa iyang kinabuhi nga makaila sa Dios ug motuo kaniya.
+  * Sa kinatibuk-an, ang "espirituhanon" naghulagway sa bisan unsa nga dili makita sama sa bisan unsa dinhi sa kalibotan.
+  * Sa Biblia, ang pulong nga "espirituhanon" nagpasabot sa mga butang nga adunay kalambigitan sa Dios, ilabi na ngadto sa Balaang Espiritu.
+  * Pananglitan, "espirituhanong pagkaon" nagpasabot sa pagtulon-an sa Dios nga nagpalambo sa espiritu sa tawo, ang espirituhanong kaalam" nagpasabot sa kahibalo ug pagkamatarong nga gikan sa gahom sa Balaang Espiritu.
+  * Ang Dios espiritu ug gibuhat niya ang ubang espirituhanong binuhat nga walay lawas.
+  * Ang mga anghel mga espiritu, lakip na ang nirebelde batok sa Dios ug nahimong daotang espiritu.
+  * Ang pulong nga "espiritu" mahimo usab nga magpasabot ug "adunay kinaiya nga" sama sa "espiritu sa kaalam."
 
 ===== Translation Suggestions: =====
 
@@ -26,8 +25,7 @@ The term "spirit" refers to the non-physical part of people which cannot be seen
       * spiritual maturity = "godly behavior that shows obedience to the Holy Spirit."
       * spiritual gift = "special ability that the Holy Spirit gives."
 
-
-(See also: [[:ceb:obe:kt:angel]], [[:ceb:obe:kt:satan]], [[:ceb:obe:kt:demon]], [[:ceb:obe:kt:holyspirit]])
+(See also: [[:ceb:obe:kt:angel|anghel, arkanghel]], [[:ceb:obe:kt:satan|Satanas, demonyo, yawa]], [[:ceb:obe:kt:demon|demonyo, daotang espiritu, hugaw nga espiritu]], [[:ceb:obe:kt:holyspirit|holyspirit]])
 
 ===== Bible References: =====
 
