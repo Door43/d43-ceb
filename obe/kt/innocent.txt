@@ -1,15 +1,15 @@
 ====== inosente ======
 
-===== Ipasabot:     =====
+===== Ipasabot: =====
 
 Ang pulong "inosente" nagpasabot nga dili sad-an sa krimen o laing dili maayon g binuhatan ayop ang tawo nga giakusahan.
 
-  * A person accused of doing something wrong is innocent if he has not committed that wrong.Ang tawo nga giakusahan nga nagbuhat ug dili maayo inosente kung wala niya nabuhat ang sala
+  * Ang tawo nga giakusahan nga nagbuhat ug dili maayo usa ka inosente kung wala niya nabuhat ang sala.
   * Si Jesus lang ang tawo nga inosente gayod, tungod kay wala gayod siyay nabuhat nga daotan. Siya walay sala.
   * Si Apostol Pablo migamit ug "inosente" isip paagi sa pagtawag sa mga tawo nga simple, walay kaagi, ug tanga.
-  * Ang pulong "inosente" magamit usab sa paghisgot sa dili pakiglambigit sa daotang mga butangThe term "innocent" is also used to refer generally to not being involved in evil things.
+  * Ang pulong "inosente" magamit usab sa paghisgot sa dili pakiglambigit sa daotang mga binuhatan.
 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa paghubad: =====
 
   * The term "innocent" could also be translated as "not guilty" or "having done nothing wrong."
   * If possible, it is best to translate "sinless" and "innocent" differently.
@@ -24,9 +24,9 @@ Ang pulong "inosente" nagpasabot nga dili sad-an sa krimen o laing dili maayon g
 
 ===== Mga panaglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:08-06|[08-06]]]** Nilabay nalang ang duha ka tuig, na priso gihapon si Jose, bisag  ** inosente ** siya.
-  * **[[:ceb:obs:notes:frames:40-04|[40-04]]]** Nagbugal-bugal ang usa kang Jesus apan ang usa miingon, “Wala ka ba mahadlok sa Dios? Kitang duha nakasala, apan kining tawhana  ** walay sala ** .”
-  * **[[:ceb:obs:notes:frames:40-08|[40-08]]]** Nakita sa sundalo nga nagbantay kang Jesus ang tanan nga nahitabo ug miingon siya, “ ** Inosente ** gayod kini nga tawo. Siya ang Anak sa Dios.”
+  * **[[:ceb:obs:notes:frames:08-06|[08-06]]]** Nilabay nalang ang duha ka tuig, na priso gihapon si Jose, bisag ** inosente **  siya.
+  * **[[:ceb:obs:notes:frames:40-04|[40-04]]]** Nagbugal-bugal ang usa kang Jesus apan ang usa miingon, “Wala ka ba mahadlok sa Dios? Kitang duha nakasala, apan kining tawhana ** walay sala **  .”
+  * **[[:ceb:obs:notes:frames:40-08|[40-08]]]** Nakita sa sundalo nga nagbantay kang Jesus ang tanan nga nahitabo ug miingon siya, “ ** Inosente **  gayod kini nga tawo. Siya ang Anak sa Dios.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
