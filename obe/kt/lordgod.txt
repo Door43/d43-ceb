@@ -8,16 +8,16 @@ Ang termino nga "Ginoo" naghisgot sa usa ka tawo nga adunay pagpanag-iya ug awto
   * Sa  Bag-ong Kasabotan, ang mga apostoles gigamit kini nga termino sa mga ekspresyon nga sama sa, "Ginoong Jesus" ug "Ginoong Jesu Cristo," nga nagpasabot nga si Jesus Ginoo.
   * Ang pulong nga "Ginoo" sa ULB ug UDB gigamit lamang aron sa paghubad sa Hebreo ug Gregoryo nga pulong sa "Ginoo." Kini wala gayud gigamit sa paghubad sa ngalan sa Dios nga "Yahweh."
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * Some languages translate this term as "Master" or some other term that communicates ownership or supreme ruler.
-  * Many translations capitalize the first letter of this term to make it clear to the reader that this is a title referring to God.
+  * Ang ubang pinulongan gihubad kini nga termino sa "Agalon" o uban pang pulong nga nagpasabot nga pagpanag-iya o labawng tagamando.
+  * Kadaghanan sa ubang mga paghubad ginadagko ang una nga letra niini nga termino aron klarohon sa mga tigbasa nga titulo kini nga naghisgot mahitungod sa Dios.
 
-(See: Jesus, Jesus Christ, Christ Jesus, lord, master, sir, Yahweh other)
+(Tan-awa: Jesus, Jesus Christ, Christ Jesus, lord, master, sir, Yahweh other)
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:ceb:obe:kt:lord]], [[:ceb:obe:kt:god]], [[:ceb:obe:kt:yahweh]])
+(Tan-awa usab: [[:ceb:obe:kt:lord|lord, master, sir]], [[:ceb:obe:kt:god|Dios]], [[:ceb:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
