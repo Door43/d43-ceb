@@ -6,14 +6,14 @@ Ang Dios miingon sa bitin, “Tinunglo ka! Magkamang ka ug mokaon ug abog. Magka
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:curse|curse, cursed]]**
-  * **[[:ceb:obe:other:descendant|descendant]]**
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:curse|tunglo, tinunglo]]**
+  * **[[:ceb:obe:other:descendant|kaliwat]]**
+===== Dugang nga Pasabot: =====
 
   * **tinunglo ka **– Kini ginahubad nga,"Gitunglo ko ikaw" o "Ang dakong kadaot moabot kanimo." Ayaw paggamit ug pulong nga nagpasabot ug salamangka.
-  * **magkaaway kamo** – Dumtan sa babaye ang bitin ug dumtan usab sa bitin ang babaye. Ang kaliwat sa babaye modumot sa kaliwat sa bitin, ug ang kaliwat sa bitin modumot usab kanila.
-  * **kaliwat sa babaye** – Nagpasabot kini sa usa sa iyang kaliwatan.
-  * **dugmokon ang imong ulo** – Pamatyon sa kaliwat sa babaye ang kaliwat sa bitin.
-  * **p****aakon ang iyang tikod** – Paakon sa kaliwat sa bitin ang kaliwat sa babaye.
+  * **magkaaway kamo**  – Dumtan sa babaye ang bitin ug dumtan usab sa bitin ang babaye. Ang kaliwat sa babaye modumot sa kaliwat sa bitin, ug ang kaliwat sa bitin modumot usab kanila.
+  * **kaliwat sa babaye**  – Nagpasabot kini sa usa sa iyang kaliwatan.
+  * **dugmokon ang imong ulo**  – Pamatyon sa kaliwat sa babaye ang kaliwat sa bitin.
+  * **p****aakon ang iyang tikod**  – Paakon sa kaliwat sa bitin ang kaliwat sa babaye.
 **[[:ceb:obs:notes:frames:02-08|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-10|>>]]**
