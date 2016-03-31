@@ -1,34 +1,26 @@
-====== proud, pride, prideful ======
+====== mapahitas-on, garbo, hambugero ======
 
+===== Ipasabot: =====
 
-===== Definition: =====
+Ang pulong nga "mapahitas-on" ug "hambugero" naghisgot mahitungod sa tawo nga naghunahuna nga walay sama kaniya ug nakaminus sa ubang tawo.
 
-The terms "proud" and "prideful" refer to a person thinking too highly of himself, and thinking that he is better than other people.
+  * Ang mapahitas-on nga tawo dili moangkon sa iyang sayop. Dili siya mapaubsanon.
+  * Ang garbo moresulta sa pagsupak sa Dios sa daghang paagi.
+  * Ang pulong "mapahitas-on" ug "garbo" mahimo usab nga maayo ang ipasabot sama sa "ipagarbo" ang nahimo sa ubang tawo ug "ipagarbo" and iyang mga anak. Ang pulong "ipagarbo ang imong trabaho" nagpasabot nga pagtrabaho ug maayo nga adunay kalipay.
+  * Mahimo nga magpagarbo ang tawo sa iyang nahimo bisan ug dili niya ipanghambog kini.
+  * Ang pulong "hambugero" kanunay nga dili maayo ang ipasabot, ug kini naglambigit ug "garbo" o "pagminus" o "pagpataas sa kaugalingon."
+  * Ang pulong (noun) "garbo" mahimong hubaron nga "pagpataas sa kaugalingon" o "pagminus sa uban" o "nagpalabaw sa iyang kaugalingon."
 
-  * A proud person often does not admit his own faults. He is not humble.
-  * Pride can lead to disobeying God in other ways.
-  * The terms "proud" and "pride" can also be used in a positive sense, such as being "proud of" what someone else has achieved and being "proud of" your children. The expression, "take pride in your work" means to find joy in doing your work well.
-  * Someone can be proud of what he has done without being prideful about it.
-  * The term "prideful" is always negative, with the meaning of being "arrogant" or "conceited" or "self-important."
-  * The noun "pride" could be translated as, "arrogance" or "conceit" or "self-importance."
+(Tan-awa usab: [[:ceb:obe:other:humble|mapaubsanon, pagpaubos]])
 
-
-(See also: [[:ceb:obe:other:humble]])
-
-
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?proud&nocomments}}
 
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
-
-  ***[[:ceb:obs:notes:frames:04-02|[04-02]]]** They were very **proud**, and they did not care about what God said.
-  ***[[:ceb:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is **proud**, and he will lift up whoever humbles himself."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:04-02|[04-02]]]** Mga  ** hambugero  ** kaayo sila, ug wala nila panumbalinga ang gisulti sa Dios.
+  * **[[:ceb:obs:notes:frames:34-10|[34-10]]]** Dayon miingon si Jesus, “Sultian ko kamo sa tinuod, nadungog sa Dios ang pag-ampo sa maniningil ug buhis ug giisip siya nga matarong. Apan wala siya mahimuot sa pag-ampo sa pangulo sa mga Judio. Ipaubos sa Dios ang mga  ** mapahitas-on ** , ug iyang ipataas ang mga mapaubsanon ."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
