@@ -6,13 +6,13 @@ Ang bitin miingon sa babaye, “Dili kana tinuod! Dili kamo mamatay. Nasayod man
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:true|true, truth]]**
-  * **[[:ceb:obe:kt:death|death, die, dead]]**
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:good|good, goodness]]**
-  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:true|tinuod, kamatuoran]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:good|maayo, pagkamaayo]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+==== Dugang nga Pasabot: ====
 
   * **mahisama kamo kaniya**  – Ang lalaki ug babaye gihimo na nga sama sa panagway sa Dios. Ang bitin nag-ingon nga ang babaye mahisama sa Dios kung makahibalo siya sa daotan. Hinuon, ang Dios dili gusto nga ang babaye makaangkon niini nga kahibalo.
-  * **makahibalo sa maayo ug daotan**  – Mao kini ang pagkasayod sa kaugalingong kasinatian kung unsang mga butanga ang maayo ug butang nga dili maayo, o pagkasayod kung maayo ba o dautan ang usa ka butang.
+  * **makahibalo sa maayo ug daotan**  – Mao kini ang pagkasayod sa kaugalingong kasinatian kung unsang mga butanga ang maayo ug butang nga dili maayo, o pagkasayod kung maayo ba o daotan ang usa ka butang.
 **[[:ceb:obs:notes:frames:02-03|<<]] | [[:ceb:obs:notes:02|Up]] | [[:ceb:obs:notes:frames:02-05|>>]]**
