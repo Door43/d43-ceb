@@ -1,35 +1,29 @@
-====== Pilate ======
+====== Pilato ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
+Si Pilato usa ka Romanong gobernador nga maoy mihukom sa kamatayon ni Jesus.
 
-Pilate was the Roman governor who sentenced Jesus to death.
+  * Tungod kay si Pilato usa ka gobernador, aduna siya'y katungod sa pagpapatay sa mga kriminal.
+  * Ang mga pangulo sa relihiyon sa mga Judio gusto nga ilansang si Jesus sa krus, busa namakak sila ug miingon nga kriminal si Jesus.
+  * Naamgohan ni Pilato nga dili sad-an si Jesu, apan nahadlok usab siya sa mga tawo, busa gisugo na lang niya ang iyang mga sundalo nga ilansang si Jesus sa krus.
 
-  * Because Pilate was the governor, he had the authority to put criminals to death.
-  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names|How to Translate Names]])
+(Tan-awa usab: [[:ceb:obe:other:rome|Roma, Romanhon]], [[:ceb:obe:kt:crucify|ilansang sa krus]], [[:ceb:obe:kt:guilt|sad-an, nasad-an]], [[:ceb:obe:other:governor|gobernador, mando]])
 
-(See also: [[rome|Rome, Roman]], [[ceb:obe:kt:crucify|crucify]], [[ceb:obe:kt:guilt|guilt, guilty]], [[governor]])
-
-
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?pilate&nocomments}}
 
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-===== Examples from the Bible stories: =====
-
-  ***[[:ceb:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate** would condemn Jesus as guilty and sentenced him to be killed. **Pilate** asked Jesus, "Are you the King of the Jews?"
-  ***[[:ceb:obs:notes:frames:39-10|[39-10]]]** **Pilate** said, "What is truth?"
-  ***[[:ceb:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate** went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate** replied, "He is not guilty." But they shouted even louder. Then **Pilate** said a third time, "He is not guilty!"
-  ***[[:ceb:obs:notes:frames:39-12|[39-12]]]** **Pilate** became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  ***[[:ceb:obs:notes:frames:40-02|[40-02]]]** **Pilate** commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  ***[[:ceb:obs:notes:frames:41-02|[41-02]]]** **Pilate** said, "Take some soldiers and make the tomb as secure as you can."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:39-09|[39-09]]]** Sunod nga adlaw, sayo pa sa buntag, gidala si Jesus didto kang  ** Pilato ** , ang Romano nga gobernador. Nagdahom sila nga mahukman si Jesus nga sad-an ug ipapatay. Nangutana si  ** Pilato  ** kang Jesus, “Ikaw ba ng hari sa mga Judio?
+  * **[[:ceb:obs:notes:frames:39-10|[39-10]]]** Nangutana si Pilato, “Unsa ba ang kamatuoran?”
+  * **[[:ceb:obs:notes:frames:39-11|[39-11]]]** Pagkahuman niya ug pakigsulti kang Jesus, migawas siya didto sa katawhan ug miingon, “Wala akoy nakit-an nga sala niining tawhana.” Apan ang mga pangulo sa mga Judio ug ang mga katawhan naninggit, “Ilansang siya sa krus!” Nitubag si  ** Pilato ** , “Wala man siyay sala.” Apan gipakusgan pa gayod nilag singgit. Sa ikatulong higayon miingon si  ** Pilato ** , “Wala siyay sala.”
+  * **[[:ceb:obs:notes:frames:39-12|[39-12]]]** Nahadlok si  ** Pilato  ** nga magkagubot ang katawhan mao na nga nisugot na lang siya nga ilansang sa mga sundalo si Jesus.
+  * **[[:ceb:obs:notes:frames:40-02|[40-02]]]** Gisugo ni  ** Pilato  ** nga isulat kini sa usa ka karatola: “Hari sa mga Judio” ug ibutang sa krus ibabaw sa ulo ni Jesus.
+  * **[[:ceb:obs:notes:frames:41-02|[41-02]]]** Mitubag si  ** Pilato ** , “Pagdala mo ug pipila ka sundalo ug pabantayi ninyo ug maayo ang lubnganan.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
