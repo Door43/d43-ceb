@@ -1,33 +1,26 @@
-======  Nile River, River of Egypt ======
+====== Suba sa Nilo, Suba sa Ehitpo ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
+Ang Nilo usa ka luag ug dako nga suba sa tunga-tunga sa Amihan ug Sidlakang Africa. Nailhan kini ug maayo ingon nga pinakamahinungdanon nga suba sa Ehipto.
 
-The Nile is a very long and wide river in northeastern Africa. It is especially well-known as the main river of Egypt.
+  * Ang Suba sa Nilo nagadagayday gikan sa Amihang bahin sa Ehipto ug mipadulong sa Dagat sa Mediteraneo.
+  * Maayo kaayo ang pagtubo sa mga tanom didto sa kapatagang bahin sa suba.
+  * Kadaghanan sa mga Ehiptohanon sa Suba sa Nilo tungod kay mahinungdanon kini nga tinubdan sa tubig ug pagkaon.
+  * Sa bata pa si Moises, gibutang siya sa basket ug gibutang didto sa kasagbotan sa Nilo.
 
-  * The Nile River flows north through Egypt and empties into the Mediterranean Sea.
-  * Crops grow well in its fertile valley.
-  * Most Egyptians live near the Nile River since it is an important source of water and food crops.
-  * As a baby, Moses was placed in a basket among the reeds of the Nile. 
+(Tan-awa: [[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]], [[:ceb:obe:other:moses|Moises]] uban pa)
 
-(See: [[egypt]], [[moses]] other)
-
-
-===== Bible References: =====
-
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?nileriver&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
-  ***[[:ceb:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-  ***[[:ceb:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
-  ***[[:ceb:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:08-04|[08-04]]]** Dako ug gamhanan nga nasod ang Ehipto, nga nahimutang duol sa  ** Suba sa Nilo. **
+  * **[[:ceb:obs:notes:frames:09-04|[09-04]]]** Nakita sa Paraon nga nakabaton pa ug daghang mga anak ang mga Israelita. Busa nagsugo siya nga ipapatay ang tanang mga batang lalaki sa mga Israelita ug ipanglabay sa  ** Suba sa Nilo. **
+  * **[[:ceb:obs:notes:frames:09-06|[09-06]]]** Sa dihang dili na makaantigo sa pagtago ang mga ginikanan sa batang lalaki, ila na lang kining gihimoan ug basket nga molutaw ug gibutang nila kini sa kasagbotan daplin sa  ** Suba sa Nilo, ** aron maluwas siya sa kamatayon.
+  * **[[:ceb:obs:notes:frames:10-03|[10-03]]]** Gihimo sa Dios nga dugo ang  ** Suba sa Nilo ** , apan si Paraon nagpabilin nga dili musugot nga makalakaw ang mga Israelita.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
