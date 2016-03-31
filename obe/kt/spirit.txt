@@ -13,30 +13,67 @@ Ang pulong nga "espiritu" nagpasabot sa dili lawasnon nga bahin sa pagkatawo ug 
   * Ang mga anghel mga espiritu, lakip na ang nirebelde batok sa Dios ug nahimong daotang espiritu.
   * Ang pulong nga "espiritu" mahimo usab nga magpasabot ug "adunay kinaiya nga" sama sa "espiritu sa kaalam."
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
-  * Depending on the context, some ways to translate "spirit" might include, "soul" or "non-physical being" or "inside part" or "inner being."
-  * In some contexts, the term "spirit" could be translated as "evil spirit" or "evil spirit being."
-  * Sometimes the term "spirit" is used to express the feelings of a person as in, "my spirit was grieved in my inmost being." This could also be translated as, "I felt grieved in my spirit" or "I felt deeply grieved."
-  * The phrase "spirit of" could be translated as, "wisdom of" or "character of" or "influence of."
-  * Depending on the context, "spiritual" could be translated as, "non-physical" or "from the Holy Spirit" or "God's" or "part of the non-physical world."
-  * The following are possible translations for these phrases:
-      * spiritual milk = "basic teachings from God" or "God's teachings that nourish the spirit (like milk does)."
-      * spiritual maturity = "godly behavior that shows obedience to the Holy Spirit."
-      * spiritual gift = "special ability that the Holy Spirit gives."
+  * Depende sa sitwasyon, mahimong hubaron ang "espiritu" nga "kalag" o "walay lawas nga binuhat" o "kinauyokang bahin sa pagkatawo" o "binuhat nga anaa sa sulod."
+  * Sa ubang bahin, ang pulong nga "espiritu" mahimong hubaron nga "daotang espiritu" o "binuhat nga daotang espiritu."
+  * Usahay ang pulong nga "espiritu" magamit sa pagpadayag sa pagbati sa tawo sama sa, "ang akong espiritu nagbakho sa akong kinauyokan." Mahimo kining hubaron nga "Nagbakho ang akong espiritu" o "Nabati nako ang pagbakho sa akong sulod."
+  * Ang pulong nga "espiritu" mahimong hubaron nga "kaalam sa" o "kinaiya nga" o "pagbati nga."
+  * Depende sa sitwasyon, ang "espirituhanon" mahimong hubaron nga "dili lawasnon" o "gikan sa Balaang Espiritu" o "iya sa Dios" o "kabahin sa dili kalibotanong butang."
+  * Mao kini ang posibleng mga paagi sa paghubad niining mosunod:
+      * espirituhanong gatas = "salabtonon nga mga pagtulon-an gikan sa Dios" o "Pagtulon-an sa Dios nga nagpalambo sa espiritu (sama sa mabuhat sa gatas)."
+      * espirituhanong pagkahamtong = "diosnong kinaiya nga nagpakita sa pagtuman sa Balaang Espiritu."
+      * spirituhanong gasa = "pinasahi nga abilidad nga gihatag sa Balaang Espiritu."
 
-(See also: [[:ceb:obe:kt:angel|anghel, arkanghel]], [[:ceb:obe:kt:satan|Satanas, demonyo, yawa]], [[:ceb:obe:kt:demon|demonyo, daotang espiritu, hugaw nga espiritu]], [[:ceb:obe:kt:holyspirit|holyspirit]])
+(Tan-awa usab: [[:ceb:obe:kt:angel|anghel, arkanghel]], [[:ceb:obe:kt:satan|Satanas, demonyo, yawa]], [[:ceb:obe:kt:demon|demonyo, daotang espiritu, hugaw nga espiritu]], [[:ceb:obe:kt:holyspirit|balaangespiritu]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?spirit&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast.
-  * **[[:ceb:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! Father, I give my **spirit**  into your hands." Then he bowed his head and gave up his **spirit**.
-  * **[[:ceb:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, receive my **spirit**."
-  * **[[:ceb:obs:notes:frames:48-07|[48-07]]]** All the people groups are blessed through him, because everyone who believes in Jesus is saved from sin, and becomes a **spiritual**  descendant of Abraham.
+  * **[[:ceb:obs:notes:frames:13-03|[13-03]]]**
+Human sa tulo ka adlaw nga **espirituhanong**  pagpangandam sa mga katawhan alang sa Dios, nanaog ang Dios sa taas nga bahin sa Bukid sa Sinai uban ang dalugdog, kilat, ug panganod, ug sa kusog nga tingog sa trumpeta.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:40-07|[40-07]]]**
+Unya misinggit si Jesus, "Nahuman na! Amahan, itugyan ko sa imong mga kamot ang akong **espiritu**.
+
+
+
+
+
+ "
+
+Niduko siya ug namatay.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:45-05|[45-05]]]**
+Kadtong hapit na mamatay si Esteban, misinggit siya, "Jesus, dawata ang akong **espiritu**.
+
+
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:48-07|[48-07]]]**
+Kaliwat ni Abraham si Jesus busa ang tanan nga mga grupo sa mga tawo mapanalanginan usab pinaagi kang Jesus. Ang tanan nga mituo kang Jesus maluwas gikan sa sala ug mahimong **espirituhanong ** kaliwat ni Abraham
+
+
+
+
+
+ .
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
