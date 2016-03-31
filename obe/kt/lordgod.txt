@@ -19,10 +19,6 @@ Ang termino nga "Ginoo" naghisgot sa usa ka tawo nga adunay pagpanag-iya ug awto
 
 (Tan-awa usab: [[:ceb:obe:kt:lord|lord, master, sir]], [[:ceb:obe:kt:god|Dios]], [[:ceb:obe:kt:yahweh|Yahweh]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
-{{topic>:en:bible?lordgod&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>publish}}
+{{topic>:en:bible?lordgod&nocomments}}~~DISCUSSION~~{{tag>publish}}
