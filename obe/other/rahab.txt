@@ -2,10 +2,10 @@
 
 ===== Ipasabot: =====
 
-Usa siya ka babaye nga mamaligya ug dungog. Si Rahab usa ka babaye diin nagpuyo sa Jirecho sa dihang giatake sa Israel ang lungsod.
+Usa siya ka babaye nga mamaligya ug dungog. Si Rahab usa ka babaye diin nagpuyo sa Jireco sa dihang giatake sa Israel ang lungsod.
 
-  * Gitagoan ni Rahab ang duha ka mga Israelita nga niabot aron sa pagpaniid sa Jirecho sa wala pa sila giatake sa mga taga Israelita. Iyang gitabangan ang mga espiya nga makasibat balik ngadto sa kampo sa mga taga Israelita.
-  * Si Rahab nahimong magtutuo ni Yahweh ug siya ug ang iyang pamilya naluwas sa dihang nahugno ang Jirecho. Nabuhi sila uban ang mga taga israelita.
+  * Gitagoan ni Rahab ang duha ka mga Israelita nga niabot aron sa pagpaniid sa Jireco sa wala pa sila giatake sa mga taga Israelita. Iyang gitabangan ang mga espiya nga makasibat balik ngadto sa kampo sa mga Israelita.
+  * Si Rahab nahimong magtutuo ni Yahweh ug siya ug ang iyang pamilya naluwas sa dihang nahugno ang Jireco. Nabuhi sila uban ang mga taga israelita.
 
 (Posibleng paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
@@ -15,8 +15,8 @@ Usa siya ka babaye nga mamaligya ug dungog. Si Rahab usa ka babaye diin nagpuyo 
 
 {{topic>:en:bible?rahab&nocomments}}
 
-===== mga Pananglitan gikan sa estorya sa Biblia: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:15-01|[15-01]]]** Adunay nagpuyo didto nga usa ka babaye nga nagbaligya sa iyang dungug nga ginganla'g Rahab nga maoy mitago sa espiya ug mitabang kanila nga makaikyas. Iya kining gihimo tungod kay mituo man siya sa Dios. Unya gisaaran nila nga protektahan si Rahab ug ang iyang pamilya sa panahon nga gub-on sa mga Israelita ang Jerico. \\
-  * **[[:ceb:obs:notes:frames:15-05|[15-05]]]** Unya giguba sa mga Israelita ang tanan nga anaa sa sulod sa siyudad tungod mao kini ang gisugo sa Dios kanila. Si Rahab lang ug ang iyang pamilya ang wala malaglag ug nahimo silang kauban sa mga Israelita.
+  * **[[:ceb:obs:notes:frames:15-01|[15-01]]]** Adunay nagpuyo didto nga usa ka babaye nga nagbaligya sa iyang dungug nga ginganla'g **Rahab ** nga maoy mitago sa espiya ug mitabang kanila nga makaikyas. Iya kining gihimo tungod kay mituo man siya sa Dios. Unya gisaaran nila nga protektahan si Rahab ug ang iyang pamilya sa panahon nga gub-on sa mga Israelita ang Jerico.
+  * **[[:ceb:obs:notes:frames:15-05|[15-05]]]** Unya giguba sa mga Israelita ang tanan nga anaa sa sulod sa siyudad tungod mao kini ang gisugo sa Dios kanila. Si **Rahab ** lang ug ang iyang pamilya ang wala malaglag ug nahimo silang kauban sa mga Israelita.
 ~~DISCUSSION~~{{tag>publish ktobs}}
