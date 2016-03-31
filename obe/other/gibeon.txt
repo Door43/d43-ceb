@@ -1,6 +1,6 @@
 ====== Gibeon, Gibeonite ======
 
-===== Facts: =====
+===== Ipasabot: =====
 
 Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
 
@@ -8,15 +8,15 @@ Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
   * The Gibeonites had heard about how the Israelites had destroyed Jericho, and they were afraid. So the Gibeonites came to the leaders of Israel and pretended to be people from a far-away country.
   * Israel made a treaty with the Gibeonites and did not destroy them.
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?gibeon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:15-06|[15-06]]]** Apan usa sa Canaanhong pundok sa katawhan nga gitawag ug  ** Gibeonhon, ** namakak kang Josue. Nag-ingon sila nga gikan sila sa layong dapit sa Canaan.
-  * **[[:ceb:obs:notes:frames:15-07|[15-07]]]** Sa pipila ka adlaw, nadungog sa mga hari sa ubang pundok sa katawhan sa Canaan nga gitawag ug mga Amorihanon, nga naghimo ug kasabotan ang mga  ** Gibeonhon  ** tali sa mga Israelita, mao nga ilang gihiusa ang ilang mga kasundalohan ug misulong sa  ** Gibeon ** .
-  * **[[:ceb:obs:notes:frames:15-08|[15-08]]]** Unya gitapok ni Josue ang mga kasundalohan sa Israel ug nanglakaw sila tibuok gabii aron adtoon ang mga  ** Gibeonhon ** .
+  * **[[:ceb:obs:notes:frames:15-06|[15-06]]]** Apan usa sa Canaanhong pundok sa katawhan nga gitawag ug ** Gibeonhon, **  namakak kang Josue. Nag-ingon sila nga gikan sila sa layong dapit sa Canaan.
+  * **[[:ceb:obs:notes:frames:15-07|[15-07]]]** Sa pipila ka adlaw, nadungog sa mga hari sa ubang pundok sa katawhan sa Canaan nga gitawag ug mga Amorihanon, nga naghimo ug kasabotan ang mga ** Gibeonhon **  tali sa mga Israelita, mao nga ilang gihiusa ang ilang mga kasundalohan ug misulong sa ** Gibeon **  .
+  * **[[:ceb:obs:notes:frames:15-08|[15-08]]]** Unya gitapok ni Josue ang mga kasundalohan sa Israel ug nanglakaw sila tibuok gabii aron adtoon ang mga ** Gibeonhon **  .
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
