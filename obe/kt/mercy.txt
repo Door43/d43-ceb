@@ -2,7 +2,7 @@
 
 ===== Ipasabot: =====
 
-Ang "kalooy" pagtabang sa mga tawo nga nanginahanglan, hilabina kung sila mga mapainubsanon o mapaubsanong kahimtang.
+Ang "kalooy" mao ang pagtabang sa mga tawo nga nanginahanglan, hilabina kung sila mga mapainubsanon o anaa sa mapaubsanong kahimtang.
 
   * Ang pulong nga "maloloy-on" mahimo usab nga magpasabot nga dili pagsilot sa usa katawo nga adunay nabuhat nga dili maayo.
   * Ang tawo nga adunay katungdanan sama sa usa ka hari ginatawag nga "maloloy-on" kung iyang ayuhon ang mga tawo pagtrato imbes nga dauton sila.
