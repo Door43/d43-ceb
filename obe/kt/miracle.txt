@@ -23,13 +23,13 @@ Ang mga milagro usa ka butang nga dili gayud mahitabo gawas kung buhaton kini sa
 
 {{topic>:en:bible?miracle&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:16-08|[16-08]]]** Gideon asked God for two **signs**  so he could be sure that God would use him to save Israel.
-  * **[[:ceb:obs:notes:frames:19-14|[19-14]]]** God did many **miracles**  through Elisha.
-  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Many of the Jews believed in Jesus because of this **miracle**.
-  * **[[:ceb:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty **signs**  and **wonders**  by the power of God, as you have seen and already know."
-  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** Jesus did many **miracles**  that prove he is God. He walked on water, calmed storms, healed many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  * **[[:ceb:obs:notes:frames:16-08|[16-08]]]** Apan nangayo si Gideon ug duha ka **timailhan**  nga siya gayod ang gamiton sa Dios sa pagluwas sa Israel.
+  * **[[:ceb:obs:notes:frames:19-14|[19-14]]]** Gipabuhat siya sa Dios ug daghang mga **milagro**.
+  * **[[:ceb:obs:notes:frames:37-10|[37-10]]]** Daghan sa mga Judio ang mituo kang Jesus tungod niining **milagroha**.
+  * **[[:ceb:obs:notes:frames:43-06|[43-06]]]**“Mga katawhan sa Israel, nakita ninyo ug nakahibalo mo nga si Jesus nagbuhat ug daghan, gamhanan, ug** kahibulongang ** mga butang, tungod sa gahom sa Dios.
+  * **[[:ceb:obs:notes:frames:49-02|[49-02]]]** Si Jesus naghimo ug mga **milagro**  sa pagpamatuod nga siya Dios. Nilakaw siya sa tubig, gipahunong ang mga balod, nag-ayo ug mga masakiton, giabog ang mga demonyo, gibanhaw ang mga patay, ug gipakaon ang kapin sa 5,000 ka mga tawo pinaagi sa lima lang ka pan ug duha ka gagmay nga isda.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
