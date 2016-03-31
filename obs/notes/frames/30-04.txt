@@ -1,8 +1,9 @@
-===== The People Were Hungry [30-04] =====
+===== Ang mga Tawo Gigutom [30-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
-**Late in the day**, the **disciples** told **Jesus**, “It is late and there are no towns nearby. **Send the people away** so they can go get something to eat.”
+Pagkahapon, ang mga tinun-an miingon kang Jesus, "Lampas na sa adlaw wala pa banay nga duol. Ipalakaw nalang ang mga tawo aron makapangita silag pagkaon."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:disciple]]**
