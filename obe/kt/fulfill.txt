@@ -1,26 +1,26 @@
-====== fulfill ======
+====== pagtuman, katumanan ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-The term "fulfill" means to complete or accomplish something that was predicted, desired, required, or expected.
+Ang pulong "katumanan" nagpasabot nga paghuman o pagtapos sa usa ka butang nga gitagna, gitinguha, gikinahanglan o gidahom.
 
-  * When a prophecy is fulfilled, it means that God causes to happen what was predicted in the prophecy.
-  * If a person fulfills a promise or a vow, it means that he does what he has promised to do.
-  * To fulfill a responsibility means to do the task that was assigned or required.
+  * Kung ang propesiya matuman, kini nagpasabot nga gitugotan sa Dios nga mahitabo kung unsay gitagna sa propesiya.
+  * Kung ang tawo motuman sa iyang saad o panaad, kini nagpasabot nga iyang gibuhat ang iyang gisaad nga buhaton.
+  * Ang pagtuman sa responsilidad nagpasabot sa pagbuhat sa buluhaton nga gisangon o gipiyal.
 
-===== Translation Suggestions: =====
+===== Posibleng Paagi sa Paghubad: =====
 
   * Depending on the context, "fulfill" could be translated as "accomplish" or "complete" or "cause to happen" or "obey" or "perform."
   * The phrase "has been fulfilled" could also be translated as, "has come true" or "has happened" or "has taken place."
   * Ways to translate "fulfill" as in "fulfill your ministry" could include, "complete" or "perform" or "practice" or "serve other people as God has called you to do."
 
-(See also: [[:ceb:obe:kt:prophet]], [[:ceb:obe:kt:christ]], [[:ceb:obe:kt:minister]], [[:ceb:obe:kt:call]])
+(See also: [[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]], [[:ceb:obe:kt:christ|Christ, Messiah]], [[:ceb:obe:kt:minister|minister, ministry]], [[:ceb:obe:kt:call|call, calling]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?fulfill&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa Istorya sa Biblia: =====
 
   * **[[:ceb:obs:notes:frames:24-04|[24-04]]]** John **fulfilled**  what the prophets said, "See I send my messenger ahead of you, who will prepare your way."
   * **[[:ceb:obs:notes:frames:40-03|[40-03]]]** The soldiers gambled for Jesus' clothing. When they did this, they **fulfilled**  a prophecy that said, "They divided my garments among them, and gambled for my clothing."
