@@ -1,17 +1,16 @@
 ====== Lazarus ======
 
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Lazarus was a friend of Jesus whom he raised from the dead.
+Si Lazarus higala ni Jesus nga iyang gibanhaw gikan sa kamatayon.
 
-  * Lazarus had two sisters, named Mary and Martha, who also believed in Jesus.
-  * After Jesus raised Lazarus from the dead, the Jewish leaders were angry and tried to find a way to kill both of them.
+  * Si Lazarus adunay duha ka igsoon nga babaye nga ginganlan ug Mary ug Martha, sila nagtuo usab kang Jesus.
+  * Pagkahuman ug banhaw ni Jesus kang Lazarus gikan sa kamatayon, ang mga Judio nga pangulo nasuko ug nangitag pamaagi nga mapatay nila silang duha.
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(Posibleng Paagi sa Paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[ceb:obe:kt:raise]], [[jewishleaders]])
-
+(Tan-awa usab: [[:ceb:obe:kt:raise|bayaw, gibayaw, banhaw, pagbangon, nibangon]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]])
 
 ===== Bible References: =====
 
