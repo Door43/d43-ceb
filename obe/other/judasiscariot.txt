@@ -1,34 +1,27 @@
-====== Judas Iscariot ======
+====== Judas Iscariote ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
+Si Judas usa sa dose ka apostoles ni Jesus. Apan, gibudhi niya si Jesus ngadto sa mga Pangulo sa mga Judio.
 
-Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
+  * Si Judas ang naggunit sa kuwarta sa mga apostoles, apan mangupit siya alang sa iyang kaugalingon.
+  * Gibudhi ni Judas si Jesus pinaagi sa pagsulti sa mga pangulo sa mga Judio kung asa nahimutang si Jesus aron ila siyang madakpan.
+  * Sa dihang ang mga pangulo sa relihiyon mihukom nga si Jesus mamatay, nagbasol si Judas sa iyang pagbudhi kang, maong naghikog siya.
 
-  * Judas managed the apostles' money, but he stole some of it for himself.
-  * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
-  * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
+(Posibleng paagi sa paghubad: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(Translation suggestions: [[ceb:ta:vol1:translate:translate_names]])
+(See also: [[:ceb:obe:kt:apostle|apostoles, pagkaapostol]], [[:ceb:obe:kt:betray|magluib, magbubudhi]], [[:ceb:obe:other:jewishleaders|Jewish leaders, religious leaders]])
 
-(See also: [[ceb:obe:kt:apostle]], [[ceb:obe:kt:betray]], [[jewishleaders]])
-
-
-===== Bible References: =====
-
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?Judasiscariot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pananglitan gikan sa Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:38-02|[38-02]]]** One of Jesus' disciples was a man named **Judas**. ... After Jesus and the disciples arrived in Jerusalem, **Judas** went to the Jewish leaders and offered to betray Jesus to them in exchange for money. 
-  ***[[:ceb:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid **Judas** thirty silver coins to betray Jesus.
-  ***[[:ceb:obs:notes:frames:38-14|[38-14]]]** **Judas** came with the Jewish leaders, soldiers, and a large crowd. They were all carrying swords and clubs. **Judas** came to Jesus and said, "Greetings, teacher," and kissed him.
-  ***[[:ceb:obs:notes:frames:39-08|[39-08]]]** Meanwhile, **Judas**, the betrayer, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:38-02|[38-02]]]** Naay usa ka sumusunod si Jesus nga ang ngalan niya ** Judas ** .. . Kadtong niabot na sila Jesus ug ang mga sumusunod sa Jerusalem, niadto si  ** Judas  ** sa mga pangulo sa mga Judio ug iyang gihanyag si Jesus ug gibaylo ug kwarta.
+  * **[[:ceb:obs:notes:frames:38-03|[38-03]]]** Gipangulohan sa pangulong pari, gibayaran nila si ** Judas  ** ug 30 nga salapi para magluib kang Jesus.
+  * **[[:ceb:obs:notes:frames:38-14|[38-14]]]** Kuyog ni  ** Judas  ** ang mga pangulo sa mga Judio, mga sundalo ug daghan nga mga tawo. Nagdala sila ug mga espada ug mga bunal. Niduol si  ** Judas ** kang Jesus ug miingon, “Kumusta ka, Mangtutudlo?” ug iya ning gihag-kan.
+  * **[[:ceb:obs:notes:frames:39-08|[39-08]]] ** Nahibaw-an ni ** Judas  ** nga maoy nagluib kang Jesus nga gihukman na siya nga patyon. Naguol kaayo siya ug naghikog.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
