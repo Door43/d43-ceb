@@ -1,26 +1,62 @@
 ====== Rebeca ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-Rebekah was a daughter of one of Abraham's nephews. Her grandfather was Abraham's brother.
+Si Rebeca anak sa usa sa pag-umangkon nga lalaki ni Abraham. Ang iyang lolo mao ang igsoon ni Abraham.
 
-  * God chose Rebekah to be the wife of Abraham's son Isaac.
-  * Rebekah left her country and went with Abraham's servant to go to Isaac's country, marry Isaac, and live there with his family.
-  * For a long time Rebekah did not have any children, but finally God blessed her with twin boys, Esau and Jacob.
+  * Gipili sa Dios si Rebeca nga mahimo nga asawa sa anak ni Abraham nga si Isaac.
+  * Si Rebeca nibiya sa ilang nasod ug nikuyog sa sulugoon ni Abraham sa pag-adto sa nasod ni Isaac aron makigminyo kang Isaac ug magpuyo didto sa iyang panimalay.
+  * Sa taas nga katuigan si Rebeca wala nakabaton ug anak, apan sa kadugayan gipanalanginan siya sa Dios ug nakabaton siya ug anak nga kaluha nga lalaki, nga si Esau ug si Jacob.
 
 (Translation suggestions: [[:ceb:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:isaac|Isaac]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:esau|Esau]])
+(Tan-aw usab: [[:ceb:obe:other:abraham|Abraham, Abram]], [[:ceb:obe:other:isaac|Isaac]], [[:ceb:obe:other:jacob|Jacob, Israel]], [[:ceb:obe:other:esau|Esau]])
 
-===== Bible References: =====
+===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?rebekah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Pananglitan gikan sa istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:06-02|[06-02]]]** After a very long journey to the land where Abraham's relatives lived, God led the servant to **Rebekah**. She was the granddaughter of Abraham's brother.
-  * **[[:ceb:obs:notes:frames:06-06|[06-06]]]** God told **Rebekah**, "There are two nations inside of you."
-  * **[[:ceb:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, **Rebekah**  loved Jacob, but Isaac loved Esau.
-  * **[[:ceb:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his blessing to Esau. But before he did, **Rebekah**  and Jacob tricked him by having Jacob pretend to be Esau.
-  * **[[:ceb:obs:notes:frames:07-06|[07-06]]]** But **Rebekah**  heard of Esau's plan. So she sent Jacob far away to live with her relatives.
+  * **[[:ceb:obs:notes:frames:06-02|[06-02]]]**
+Human sa taas nga panaw sa yuta kon asa nagpuyo ang mga paryente ni Abraham, gitultolan sa Dios ang sulugoon ngadto kang **Rebeca**. Apo siya sa igsoon ni Abraham.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:06-06|[06-06]]]**
+Giingnan sa Dios si **Rebeca**, "Duha ka nasod ang moabot gikan sa duha nimo ka anak nga anaa sa imong sabakan.
+
+
+
+
+
+ "
+  * **[[:ceb:obs:notes:frames:07-01|[07-01]]]**
+Sa dagko na ang mga bata, gusto ni Jacob sa balay lang siya kanunay, apan gusto ni Esau ang pagpangayam. Gihigugma ni **Rebeca ** si Jacob, ug gihigugma usab ni Isaac si Esau.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:07-03|[07-03]]]**
+Unya gusto na ni Isaac nga ihatag ang panalangin kang Esau. Apan sa wala pa kini mahitabo, giilad siya ni **Rebeca ** ug ni Jacob. Nagpakaaron-ingnon si Jacob nga siya si Esau.
+
+
+
+
+
+
+  * **[[:ceb:obs:notes:frames:07-06|[07-06]]]**
+Apan nahibaw-an ni **Rebeca ** ang plano ni Esau, busa gipalakaw niya ug ni Isaac si Jacob ngadto sa layong dapit ug didto magpuyo sa iyang paryente.
+
+
+
+
+
+
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
