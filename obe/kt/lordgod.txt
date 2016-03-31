@@ -1,13 +1,12 @@
 ====== Ginoo ======
 
-===== Facts: =====
+===== Kamatuoran: =====
 
-The term "Lord" refers to someone who has ownership or authority over people. When it is capitalized, it is a title that refers to God.
+Ang termino nga "Ginoo" naghisgot sa usa ka tawo nga adunay pagpanag-iya ug awtoridad sa katawhan. Kung dagko ang pagkasulat sa tanan letra, kini nga titulo naghisgot sa Dios.
 
-  * In the Old Testament, this term is used in references to God such as "Lord God Almighty" or "Lord Yahweh" or "Yahweh our Lord."
-  * In the New Testament, the apostles used this term in expressions such as, "Lord Jesus" and "Lord Jesus Christ," which communicate that Jesus is God.
-  * The word "Lord" in the ULB and the UDB is only used to translate the Hebrew and Greek words for "Lord." It is never used as a translation of God's name, "Yahweh."
-
+  * Sa Daang Kasabotan, kini nga termino gigamit aron sa paghisgot mahitungod sa Dios sama sa "Ginoong Dios nga Labing Gamhanan" o "Ginoong Yahweh" o "Yahweh nga Ginoo."
+  * Sa  Bag-ong Kasabotan, ang mga apostoles gigamit kini nga termino sa mga ekspresyon nga sama sa, "Ginoong Jesus" ug "Ginoong Jesu Cristo," nga nagpasabot nga si Jesus Ginoo.
+  * Ang pulong nga "Ginoo" sa ULB ug UDB gigamit lamang aron sa paghubad sa Hebreo ug Gregoryo nga pulong sa "Ginoo." Kini wala gayud gigamit sa paghubad sa ngalan sa Dios nga "Yahweh."
 
 ===== Translation Suggestions: =====
 
