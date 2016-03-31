@@ -3,13 +3,14 @@
 
 ===== Kamatuoran: =====
 
-Ang Filipos usa ka siyudad nga makit-an dapit sa amihang dapit sa Grecia sa kaniadtong panahon.
+Ang Filipos usa ka siyudad nga makit-an sa amihang dapit sa Grecia sa kaniadtong panahon.
 
-    * Si Pablo ug si Silas tig-adtoan sila sa Filipos aron sa pagsangyaw ngadto sa tawo sa mahitungod kang Jesus.
-    * Si Pablo ug si Silas gipriso sa Filipos, apan ang Dios nagpakita sa iyang kahibulongang gahom.
-    * Si Pablo nagpadala ug sulat ngadto sa mga Kristohanon sa Filipos nga makita sa Biblia ug gitawag kini nga “sulat alang sa mga taga-Filipos.”
+  * Si Pablo ug si Silas nag-adto sa Filipos aron sa pagsangyaw ngadto sa mga tawo mahitungod kang Jesus.
+  * Si Pablo ug si Silas gipriso sa Filipos, apan ang Dios nagpakita sa iyang kahibulongang gahom.
+  * Si Pablo nagpadala ug sulat ngadto sa mga Kristohanon sa Filipos nga makita sa Biblia ug gitawag kini nga “sulat alang sa mga taga-Filipos.”
 
-(Tan-awa usab: [[paul]], [[silas]], [[ceb:obe:kt:christian]])
+(Tan-awa usab: [[:ceb:obe:other:paul|Pablo, Saulo]], [[:ceb:obe:other:silas|Silas, Silvano]], [[:ceb:obe:kt:christian|Kristohanon]])
+
 ===== Asa Makita sa Biblia: =====
 
 {{topic>:en:bible?philippi&nocomments}}
