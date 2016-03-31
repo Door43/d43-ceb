@@ -1,38 +1,31 @@
-====== Jewish leaders, religious leaders ======
+====== mga pangulo sa mga Judio, mga pangulo sa relihiyon sa mga Judio ======
 
+===== Kamatuoran: =====
 
-===== Facts: =====
-
-The Jewish leaders were religious leaders, such as priests and experts in God's laws.
+Ang mga pangulo sa mga Judio mao ang mga pangulo sa relihiyon sa mga Judio, sama sa mga pari ug mga hanas sa balaod sa Dios.
 
   * Many of the religious leaders did not believe that Jesus was the Messiah and Son of God. They were jealous of Jesus and did not want other people to believe in him either.
-  * Some of the religious leaders did believe in Jesus--especially after he rose from the dead.
+  * Some of the religious leaders did believe in Jesus–especially after he rose from the dead.
   * Many of the religious leaders believed that they were more righteous than other people, and they were too proud to admit their sins. They lied about Jesus to the Roman rulers and demanded that he be killed.
   * Jesus condemned the Jewish leaders for being hypocrites. They claimed to know God, but did not obey him.
 
-(See also: [[jew]], [[ceb:obe:kt:priest]])
+(Tan-awa usab: [[:ceb:obe:other:jew|Judio, mga Judio]], [[:ceb:obe:kt:priest|pari, pagkapari]])
 
-
-===== Bible References: =====
-
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?Jewishleaders&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pananglitan gikan sa mga Istorya sa Biblia: =====
 
-  ***[[:ceb:obs:notes:frames:24-03|[24-03]]]** Many **religious leaders** also came to be baptized by John, but they did not repent or confess their sins.
-  ***[[:ceb:obs:notes:frames:37-11|[37-11]]]** But the **religious leaders of the Jews** were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  ***[[:ceb:obs:notes:frames:38-02|[38-02]]]** He (Judas) knew that the **Jewish leaders** denied that Jesus was the Messiah and that they were plotting to kill him.
-  ***[[:ceb:obs:notes:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty silver coins to betray Jesus.
-  ***[[:ceb:obs:notes:frames:39-05|[39-05]]]** The **Jewish leaders** all answered the high priest, "He (Jesus) deserves to die!"
-  ***[[:ceb:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the **Jewish leaders** brought Jesus to Pilate, the Roman governor.
-  ***[[:ceb:obs:notes:frames:39-11|[39-11]]]** But the **Jewish leaders** and the crowd shouted, "Crucify him!"
-  ***[[:ceb:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two **Jewish leaders** who believed Jesus was the Messiah, asked Pilate for Jesus' body.
-  ***[[:ceb:obs:notes:frames:44-07|[44-07]]]** The next day, the **Jewish leaders** brought Peter and John to the high priest and the other **religious leaders**.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ceb:obs:notes:frames:24-03|[24-03]]] ** Daghan usab ang  ** mga pangulo sa relihiyon sa mga Judio ** nga miadto kang Juan aron pagpabawtismo, apan wala sila maghinulsol o magsugid sa ilang mga sala.
+  * **[[:ceb:obs:notes:frames:37-11|[37-11]]]** Apan nasina ang  ** mga pangulo sa relihiyon sa mga Judio  ** kaniya, ug nagtapok sila aron pagplano kung unsaon pagpatay si Jesus ug si Lazaro.
+  * **[[:ceb:obs:notes:frames:38-02|[38-02]]]**He (Judas) knew that the **Jewish leaders**  denied that Jesus was the Messiah and that they were plotting to kill him.
+  * **[[:ceb:obs:notes:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty silver coins to betray Jesus.
+  * **[[:ceb:obs:notes:frames:39-05|[39-05]]]** Tanan nga  ** mga pangulo sa mga Judio ** mitubag,”Angay siya (Jesus) patyon!”
+  * **[[:ceb:obs:notes:frames:39-09|[39-09]]]** Sunod nga adlaw, sayo pa sa buntag, gidala sa  ** mga pangulo sa mga Judio ** si Jesus didto kang Pilato, ang Romano nga gobernador.
+  * **[[:ceb:obs:notes:frames:39-11|[39-11]]]** Apan ang  ** mga pangulo sa relihiyon sa mga Judio ** ug ang mga katawhan naninggit, “Ilansang siya sa krus!”
+  * **[[:ceb:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two **Jewish leaders**  who believed Jesus was the Messiah, asked Pilate for Jesus' body.
+  * **[[:ceb:obs:notes:frames:44-07|[44-07]]]** The next day, the **Jewish leaders**  brought Peter and John to the high priest and the other **religious leaders**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
