@@ -1,18 +1,16 @@
-====== judge ======
+====== Maghuhukom ======
 
-===== Definition: =====
+===== Ipasabot: =====
 
-A judge is a person who decides what is right or wrong in civil, legal or spiritual matters.
+Ang maghuhukom mao ang tawo nga magdesisyon unsay maayo o daotan sa sibil, legal o espirituhanong mga butang.
 
-  * In the Bible, God is often referred to as a judge because he is the one perfect judge who makes the final decisions about what is right or wrong.
-  * After the people of Israel entered the promised land and before they had kings, God appointed judges to lead them in times of trouble. Often the judges rescued the Israelites from their enemies.
+  * Kasagaran sa Biblia, ang Dios mao angmaghuhukom tungod kay siya ang insaktong maghuhukom nga magbuhat sa kataposang hukom mahitungod sa kung unsay maayo o daotan.
+  * Human ang katawhan makasullod sa yutang saad ug sa wala pa sila'y hari, ang Dios nagpili ug mga maghuhukom aron sa paggiya kanila panahon sa kagubot. Kasagaran, ang mga maghuhukom moluwas sa mga Israelita gikan sa ilang mga kaaway.
 
-(See also: [[ceb:obe:kt:judge]])
+(Tan-awa usab: [[:ceb:obe:kt:judge|maghuhukom, paghukom]])
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
-{{topic>:en:bible?judgeposition&nocomments}}
-~~DISCUSSION~~
-{{tag>publish}}
+{{topic>:en:bible?judgeposition&nocomments}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
