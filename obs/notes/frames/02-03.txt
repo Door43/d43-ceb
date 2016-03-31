@@ -6,11 +6,11 @@ Mitubag ang babaye, “Makahimo ming mokaon sa tanang bunga sa kahoy sa tanaman,
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:good|good, goodness]]**
-  * **[[:ceb:obe:kt:evil|evil, wicked, wickedness]]**
-  * **[[:ceb:obe:kt:death|death, die, dead]]**
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:good|maayo, goodness]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+==== Dugang nga Pasabot: ====
 
   * **bunga**  – Wala kita nasayod kung unsang klasiha kini sa prutas. Ang ato lang nasayran nga kini gikan nianang kahoya. Ang maayo gamiton lang nato ang pulong nga prutas, ug dili lang kay ngalan sa usa ka klasi sa prutas.
   * **kahoy nga makahatag ug kahibalo kon unsa ang maayo ug daotan**  – Sa tinuod, ang babaye nakahibalo nga wala gitugot ang pagkaon sa bunga niining kahoya nga maoy makahatag sa pagsabot sa maayo ug daotan.
