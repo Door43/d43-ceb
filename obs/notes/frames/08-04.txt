@@ -8,11 +8,11 @@ Gidala sa mga negosyante si Jose ngadto sa Ehipto. Dako ug gamhanan nga nasod an
 
   * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
   * **[[:ceb:obe:other:josephot|Joseph (OT)]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:nileriver|Nile River, River of Egypt]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+  * **[[:ceb:obe:other:nileriver|Suba sa Nilo, River of Egypt]]**
   * **[[:ceb:obe:kt:god|God]]**
   * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
-==== Translation Notes: ====
+==== Dugang nga Pasabot: ====
 
   * **opisyal sa Ehipto - **  Kining mga tawhana sakop sa panggobyerno sa Ehipto. Ang ubang paagi sa pagsulti niini mao kini, "pangulo sa panggobyerno sa Ehipto."
 **[[:ceb:obs:notes:frames:08-03|<<]] | [[:ceb:obs:notes:08|Up]] | [[:ceb:obs:notes:frames:08-05|>>]]**
