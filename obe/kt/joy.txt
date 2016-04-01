@@ -1,33 +1,33 @@
-====== joy, joyful ======
+====== lipay, malipayon ======
 
-===== Definition:     =====
+===== Ipasabot: =====
 
-Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
+Ang lipay usa ka pagbati sa Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
 
   * A person feels joy when he has a deep sense that what he is experiencing is very good.
   * God is the one who gives true joy to people.
   * Having joy does not depend on pleasant circumstances. God can give people joy even when very difficult things are happening in their lives.
   * Sometimes things such as houses or cities are described as "joyful," which means that the people who live there are joyful.
 
-===== Translation Suggestions: =====
+===== Posibleng paagi sa Paghubad: =====
 
-  * The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
-  * The phrase, "be joyful" could be translated as "rejoice" or "be glad."
-  * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
-  * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
-  * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people."
+  * Ang pulong "lipay" mahimo usab nga hubaron isip, "kasadya" o "lingaw" o "labihang kalipay"The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
+  * Ang pulong "paglipay" mahimo usab nga hubaron isip, "pagsadya" o "pagmalipayon."
+  * Ang tawo "malipayon" mahimong ihulagway isip, "labing kalipay" o "nalingaw" o "nalipay pag-ayo."
+  * Ang pulong nga, "paghimo ug malipayong pagsinggit" mahimong hubaron isip, "pagsinggit sa pamaagi nga nagpakita nga kamo malipayon."
+  * Ang "malipayong syodad" o "malipayong panimalay" mahimong hubaron isip, "syudad diin ang mga malipayong mga tawo namuyo" o "balay nga puno ug malipayong mga tawo."
 
-(See also: [[:ceb:obe:other:rejoice|rejoice]])
+(Tan-awa usab: [[:ceb:obe:other:rejoice|paglipay]])
 
-===== Bible References: =====
+===== Asa makita sa Biblia: =====
 
 {{topic>:en:bible?joy&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pananglitan gikan sa Istorya sa Biblia: =====
 
-  * **[[:ceb:obs:notes:frames:33-07|[33-07]]] ** “Ang kabatoan mao ang tawo nga nakadungog sa pulong sa Dios ug gidawat niya kini nga malipayon."
-  * **[[:ceb:obs:notes:frames:34-04|[34-04]]] ** “Ang Gingharian sa Dios sama usab sa bahandi nga gilubong sa usa ka tawo sa umahan. Nakita kini sa laing tawo ug gibalhin niya ug lubong. ** Nalipay ** kaayo siya ug gibaligya niya ang tanan niyang kabtangan aron mapalit niya ang yuta nga iyang gilubngan sa maong bahandi.”
-  * **[[:ceb:obs:notes:frames:41-07|[41-07]]]** The women were full of fear and great **joy**. They ran to tell the disciples the good news.
+  * **[[:ceb:obs:notes:frames:33-07|[33-07]]] ** “Ang kabatoan mao ang tawo nga nakadungog sa pulong sa Dios ug gidawat niya kini nga **malipayon**."
+  * **[[:ceb:obs:notes:frames:34-04|[34-04]]]** “Ang Gingharian sa Dios sama usab sa bahandi nga gilubong sa usa ka tawo sa umahan. Nakita kini sa laing tawo ug gibalhin niya ug lubong. ** Nalipay **  kaayo siya ug gibaligya niya ang tanan niyang kabtangan aron mapalit niya ang yuta nga iyang gilubngan sa maong bahandi.”
+  * **[[:ceb:obs:notes:frames:41-07|[41-07]]]** Nahadlok sila pag-ayo, apan ** nalipay ** usab sa hilabihan. Nanagan sila aron sultian ang iyang mga tinun-an bahin sa maayong balita.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
