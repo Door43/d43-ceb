@@ -1,4 +1,4 @@
-===== Nagpadala ang Dios ug Daghang Baki sa tibuok Ehipto [10-04] =====
+===== Nagpadala ang Dios ug Daghang Baki sa Tibuok Ehipto [10-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
@@ -6,14 +6,14 @@ Nagpadala ang Dios ug baki sa tibuok Ehipto, ug naghangyo si Paraon kang Moises 
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[God]]**
-  * **[[Egypt, Egyptian]]**
-  * **[[Pharaoh, king of Egypt]]**
-  * **[[pakiluoy, makililimos]]**
-  * **[[Moses]]**
-  * **[[Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obs:notes:frames:god|God]]**
+  * **[[:ceb:obs:notes:frames:egypt-egyptian|Egypt, Egyptian]]**
+  * **[[:ceb:obs:notes:frames:pharaoh-king-of-egypt|Pharaoh, king of Egypt]]**
+  * **[[:ceb:obs:notes:frames:pakiluoy-makililimos|pakiluoy, makililimos]]**
+  * **[[:ceb:obs:notes:frames:moses|Moses]]**
+  * **[[:ceb:obs:notes:frames:israel-israelites-nation-of-israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
   * **Nagpadala ang Dios ug baki sa tibuok Ehipto - **  Kini nagpasabot nga, “Ang Dios maoy hinungdan nga daghan ang mga baki nga migawas sa Ehipto.”
   * **nagpagahi si Paraon sa iyang kasingkasing - **  Siya nahimong nagmagahi sa iyang kasingkasing ug misupak sa Dios.
-**[[<<]] | [[Up]] | [[>>]]**
+**[[:ceb:obs:notes:frames:lt:lt:home|<<]] | [[:ceb:obs:notes:frames:up|Up]] | [[:ceb:obs:notes:frames:chevronescc|>>]]**
