@@ -42,7 +42,7 @@ Ang Uwak [03-10]\\
 Ang Salapati [03-11]\\
 \\
 [[:ceb:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
-Nihubas na ang Tubig sa Yuta [03-12]\\
+Uga nga Yuta [03-12]\\
 \\
 [[:ceb:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&200}}]]\\
 Ang Paggawas sa Sakayan [03-13]\\
