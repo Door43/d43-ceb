@@ -1,4 +1,4 @@
-===== Nag-kauli si Esau ug Jacob [07-10] =====
+===== Nagkauli si Esau ug Jacob [07-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
@@ -9,17 +9,17 @@ Apan gipasaylo na diay ni Esau si Jacob, ug malipayon kaayo ang matag usa kanila
   * **[[:ceb:obe:other:esau|Esau]]**
   * **[[:ceb:obe:kt:forgive|pagpasaylo, pasaylo]]**
   * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
-  * **[[:ceb:obe:other:peace|peace, peaceful]]**
-  * **[[:ceb:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ceb:obe:other:peace|kalinaw, malinawon]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
   * **[[:ceb:obe:other:isaac|Isaac]]**
   * **[[:ceb:obe:kt:covenant|covenant]]**
   * **[[:ceb:obe:kt:promise|promise]]**
   * **[[:ceb:obe:kt:god|God]]**
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
-===== Translation Notes: =====
+===== Dugang nga Pasabot: =====
 
   * **Nagpuyo nga malinawon. - **  Mao kini ang resulta nga wala na nagkasuk-anay o nagkaaway pa si Esau ug si Jacob.
-  * **gilubong siya - N**agpasabot kini nga nagkalot o nagbangag sila ug yuta aron ipahimutang didto ang patayng lawas. Unya gitabonan ug bato ang bangag sa yuta. Mahimo usab kini nga magpasabot nga gibutang nila ang lawas ni Isaac sa langob ug gitabonan ang baba niini.
+  * **gilubong siya - ** Nagpasabot kini nga nagkalot o nagbangag sila ug yuta aron ipahimutang didto ang patayng lawas. Unya gitabonan ug bato ang bangag sa yuta. Mahimo usab kini nga magpasabot nga gibutang nila ang lawas ni Isaac sa langob ug gitabonan ang baba niini.
   * **saad sa kasabotan - **  Mao kini ang saad ug panumpa sa Dios nga gihatag Niya kang Abraham.
   * **napasa ngadto kang Jacob gikan kang Isaac - **  Ang saad gikan kang Abraham ngadto kang Isaac, ug karon gikan kang Isaac ngadto sa iyang anak nga si Jacob.
 **[[:ceb:obs:notes:frames:07-09|<<]] | [[:ceb:obs:notes:07|Up]] | [[:ceb:obs:notes:frames:08-01|>>]]**
