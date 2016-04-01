@@ -6,10 +6,10 @@ Sa dihang nakita ni Moises nga walay nagtan-aw, gipatay niya ang Ehiptohanon, ug
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:moses|Moses]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+==== Dugang nga Pasabot: ====
 
-* //(There are no notes for this frame.)//
+* //(Walay mga pulong nga ipasabot ani nga frame.)//
 
 **[[:ceb:obs:notes:frames:09-08|<<]] | [[:ceb:obs:notes:09|Up]] | [[:ceb:obs:notes:frames:09-10|>>]]**
