@@ -1,8 +1,9 @@
-===== More than Enough [30-09] =====
+===== Sobra pa sa Gikinahanglan [30-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
-After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
+Pagkahuman, gikolekta sa mga **tinun-an ** ang mga pagkaon nga wala nakaon ug aduna pay dose ka basket ang nabilin. Ang tanan nga pagkaon gikan lamang sa lima ka pan ug duha ka isda.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:disciple]]**
