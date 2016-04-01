@@ -2,11 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
-Human niana, nagpadala ang Dios ug yelo nga makadaot sa mga tanom sa Ehipto ug mopatay sa tanan nga naa sa gawas. Gipatawag ni Paraon si Moises ug si Aaron ug nag-ingon kanila, “Nakasala ako. Makalakaw na kamo.” Mao nga nag-ampo si Moises, ug niondang ang yelo gikan sa kawanangan.
+Human niana, nagpadala ang Dios ug yelo nga makadaot sa mga tanom sa Ehipto ug mopatay sa tanan nga naa sa gawas. Gipatawag ni Paraon si Moises ug si Aaron ug nag-ingon kanila, “Nakasala ako. Makalakaw na kamo.” Mao nga nag-ampo si Moises, ug niundang ang yelo gikan sa kawanangan.
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:god|GDios]]**
   * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
   * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
   * **[[:ceb:obe:other:moses|Moses]]**
@@ -17,6 +17,6 @@ Human niana, nagpadala ang Dios ug yelo nga makadaot sa mga tanom sa Ehipto ug m
 
   * **Human niana - **  Nagpasabot kini nga, “human nahimo sa Dios ang sakit sa panit sa tibuok Ehiptohanon.”
   * **nagpadala ang Dios ug yelo - **  Nagpadala ang Dios ug yelo gikan sa langit.
-  * **Yelo - **  Ang yelo sama sa usa ka tibugol nga ice nga mahulog gikan sa panganod sama sa ulan. Kining tibugol nga ice donay gagmay ug donay dagko usab. Ang dako nga ice mahimong sakit ug makapatay kung mahulogan ka niini.
+  * **Yelo - **  Ang yelo sama sa usa ka tibugol nga ice nga mahulog gikan sa panganod sama sa ulan. Kining tibugol nga ice dunay gagmay ug dunay dagko usab. Ang dako nga ice mahimong sakit ug makapatay kung mahulogan ka niini.
   * **Makalakaw na kamo - **  Ang pulong nga “kamo,” nagpasabot kini kang Moses, Aaron ug sa mga Israelita.
 **[[:ceb:obs:notes:frames:10-07|<<]] | [[:ceb:obs:notes:10|Up]] | [[:ceb:obs:notes:frames:10-09|>>]]**
