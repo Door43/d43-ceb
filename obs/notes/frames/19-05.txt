@@ -1,25 +1,22 @@
-===== Elijah Challenged Ahab [19-05] =====
+===== Gihagit ni Elias si Ahab [19-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink}}
+Paglabay sa tulo ka tuig ug tunga, gipabalik sa Dios si Elias didto sa Israel aron istoryahon si Ahab kay paulanon na sa Dios. Pagkakita ni Ahab kang Elias miingon siya, “Nia na gayod ning samokan!” Mitubag si Elias, “Ikaw maoy samokan! Gisalikway nimo si Yahweh, ang tinuod nga Dios, ug misimba kang Baal. Dad-a ang tanang tawo sa Israel didto sa Bukid sa Carmel.”
 
-After three and a half years, **God** told **Elijah** to return to the **kingdom of Israel** and **speak with Ahab because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” Elijah replied to him, “You are the troublemaker! **You have abandoned Yahweh**, the true God, and **worshiped Baal**. Bring all the people of the kingdom of Israel to **Mount Carmel**.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-  * **[[:ceb:obe:other:ahab]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:baal]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+  * **[[:ceb:obe:other:ahab|Ahab]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:other:baal|Baal]]**
+==== Dugang nga pagpasabot: ====
 
   * **aron istoryahon si Ahab kay paulanon na sa Dios **- Mahubad usab kini nga, “sultihi si Ahab nga ang Dios magpadala ug.”
-  * **Samokan - ** Kini nagpasabot nga, “ikaw usa ka tawong samokan!” Gipasanginlan ni Ahab si Elias nga naghimo ug kasamok pinaagi sa pagsulti nga si Ahab naghimo ug daotan ug tungod sa pagpaundang niya sa ulan.
+  * **Samokan - **  Kini nagpasabot nga, “ikaw usa ka tawong samokan!” Gipasanginlan ni Ahab si Elias nga naghimo ug kasamok pinaagi sa pagsulti nga si Ahab naghimo ug daotan ug tungod sa pagpaundang niya sa ulan.
   * **Gisalikway nimo si Yahweh **- Kini nagpasabot nga, si Ahab ang nangulo sa Israel nga dili mosimba kang Yahweh ug dili na motuman kaniya.
   * **Bukid sa Carmel **- Bukid sa Carmel ang ngalan sa bukid nga nahimutang sa amihanang bahin sa Israel. 500 ka metros ang kahabogon niini.
 **[[:ceb:obs:notes:frames:19-04|<<]] | [[:ceb:obs:notes:19|Up]] | [[:ceb:obs:notes:frames:19-06|>>]]**
