@@ -1,25 +1,19 @@
-===== A Promise for the Whole World [21-02] =====
+===== Ang Saad Alang sa Tibuok Kalibutan [21-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
+Gikan pa sa sinugdanan, giplano na daan sa Dios nga magpadala ug Mesiyas. Ang unang saad bahin sa Mesiyas nahitabo ngadto kang Adan ug Eva. Nagsaad ang Dios nga matawo ang kaliwat ni Eva nga maoy modugmok sa ulo sa bitin. Ang bitin mao si Satanas nga maoy naglimbong kang Eva. Ang saad nagpasabot nga pildihon sa Mesiyas si Satanas.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-**God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
-
-
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:peoplegroup]]**
-  * **[[:ceb:obe:kt:bless]]**
-  * **[[:ceb:obe:kt:fulfill]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:save]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:peoplegroup|katawhan, tribo]]**
+  * **[[:ceb:obe:kt:bless|pagpanalangin, gipanalanginan, panalangin]]**
+  * **[[:ceb:obe:kt:fulfill|pagtuman, katumanan, mahitabo]]**
+  * **[[:ceb:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+==== Dugang nga pagpasabot: ====
 
   * **pinaagi kaniya**  - Nagpasabot kini nga, “tungod sa usa sa iyang mga kaliwat.”
 **[[:ceb:obs:notes:frames:21-01|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:21-03|>>]]**
