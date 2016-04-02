@@ -1,22 +1,21 @@
-===== An Angel Spoke to Gideon [16-05] =====
+===== Nag-istorya ang Anghel kang Gideon [16-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-05.jpg?nolink}}
+Usa ka adlaw, naggiok ang usa ka Israelinhon sa tago lang aron dili ilogan sa Midianhon. Giadtoan siya sa anghel ni Yahweh ug giingnan, “Giubanan ka sa Dios, isog nga manggugubat. Lakaw ug luwasa ang mga Israelita gikan sa mga Midianhon.”
 
-One day, a man of Israel named **Gideon** was **threshing grain secretly** so the **Midianites** would not steal it. The **angel** of **Yahweh** came to Gideon and said, “**God is with you**, mighty warrior. Go and save **Israel** from the Midianites.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:other:midian]]**
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:other:midian|Midian, Midianhon]]**
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+==== Dugang nga pasabot: ====
 
-==== Translation Notes: ====
-
-  * **usa ka adlaw - ** Kini nga pulong nagpakita sa panghitabo nga miagi na, apan dili klaro ang panahon o takna kon kanus-a gayod kini nahitabo. Daghang mga pinulongan ang mogamit ug sama niini kung mag-istorya sila ug tinuod nga sugilanon.
-  * **Naggiok - ** Liso/bunga kini sa trigo, ug tumoy'ng bahin sa trigo nga daghan kaayo. Ang “paggiok” mao ang pagkuha ug paglahi sa liso/bunga gikan sa uhay niini. Makaon ang liso/bunga niini apan dili ang uhay.
-  * **sa tago - ** Si Gideon naggiok sa tagong dapit, aron dili siya makit-an sa mga Midianhon.
-  * **Ang Dios uban kanimo - ** kini nagpasabot,”ang Dios uban kanato sa pinasahi nga paagi”o,”ang Dios adunay plano nga gamiton ka sa pinasahi nga  paagi.”
+  * **usa ka adlaw - **  Kini nga pulong nagpakita sa panghitabo nga miagi na, apan dili klaro ang panahon o takna kon kanus-a gayod kini nahitabo. Daghang mga pinulongan ang mogamit ug sama niini kung mag-istorya sila ug tinuod nga sugilanon.
+  * **Naggiok - **  Liso/bunga kini sa trigo, ug tumoy'ng bahin sa trigo nga daghan kaayo. Ang “paggiok” mao ang pagkuha ug paglahi sa liso/bunga gikan sa uhay niini. Makaon ang liso/bunga niini apan dili ang uhay.
+  * **sa tago - **  Si Gideon naggiok sa tagong dapit, aron dili siya makit-an sa mga Midianhon.
+  * **Ang Dios uban kanimo - **  kini nagpasabot,”ang Dios uban kanato sa pinasahi nga paagi”o,”ang Dios adunay plano nga gamiton ka sa pinasahi nga paagi.”
 **[[:ceb:obs:notes:frames:16-04|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-06|>>]]**
