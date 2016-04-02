@@ -1,24 +1,21 @@
-===== The Deliverer [16-03] =====
+===== Ang Manluluwas [16-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-03.jpg?nolink}}
+Busa nagtuboy ang Dios ug tawo nga moluwas sa mga Israelita ug maghatag ug kalinaw sa ilang pinuy-anan. Apan nalimtan sa mga tawo ang Dios ug nagsimba na usab sila sa mga dios-dios busa gitugotan na usab sa Dios ang ilang mga kaaway nga mga Midianhon aron pildihon sila.
 
-Then **God provided a deliverer** who rescued them from their enemies and **brought peace** to **the land**. But then **the people forgot about God** and started **worshiping idols** again. So God allowed the **Midianites**, a nearby enemy people group, to defeat them.
-===== Important Terms: =====
+===== Mahinungdanon nga mga pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:deliverer]]**
-  * **[[:ceb:obe:other:peace]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:other:midian]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:deliverer|luwason,manluluwas]]**
+  * **[[:ceb:obe:other:peace|kalinaw, malinawon]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:other:midian|Midia, Midianhon]]**
+==== Dugang nga pasabot: ====
 
   * **nagtuboy ang Dios**  - Mahimo usab kining hubaron nga, “ang Dios nagpili” o “ang Dios maoy nagbuot” o “ang Dios nagtawag.”
-  * **maghatag ug kalinaw - ** Kini mahimong hubaron nga, “gitugotan ang katawhan sa pagkinabuhi nga walay gikahadlokan” o, “giundang ang panag-away” o, “gipugngan ang ilang mga kaaway sa pag-ataki kanila.”
-  * **pinuy-anan - ** Ang gipasabot niini mao ang Canaan, ang Yutang Saad nga gihatag sa Dios kang Abraham.
-  * **nalimtan sa mga tawo ang Dios - ** Kini nagpasabot nga, “ang mga tawo wala na maghunahuna sa Dios ug wala na nila panumbalinga ang gisugo sa Dios kanila.”
+  * **maghatag ug kalinaw - **  Kini mahimong hubaron nga, “gitugotan ang katawhan sa pagkinabuhi nga walay gikahadlokan” o, “giundang ang panag-away” o, “gipugngan ang ilang mga kaaway sa pag-ataki kanila.”
+  * **pinuy-anan - **  Ang gipasabot niini mao ang Canaan, ang Yutang Saad nga gihatag sa Dios kang Abraham.
+  * **nalimtan sa mga tawo ang Dios - **  Kini nagpasabot nga, “ang mga tawo wala na maghunahuna sa Dios ug wala na nila panumbalinga ang gisugo sa Dios kanila.”
 **[[:ceb:obs:notes:frames:16-02|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-04|>>]]**
