@@ -1,26 +1,23 @@
-===== Nathan Rebuked David [17-13] =====
+===== Gibadlong ni Natan si David [17-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?nolink}}
+Namatay gayod si Uria ug unya giminyoan ni David si Batseba ug nanganak siya ug lalaki. Nasuko ug maayo ang Dios sa gibuhat ni David busa gipaistoryahan niya kang propeta Natan mahitungod sa iyang sala. Naghinulsol si David ug gipasaylo siya sa Dios. Gikan niadto, nagmasinugtanon na siya ug nituman sa Dios bisan sa lisod nga mga panahon.
 
-After **Uriah** was killed, **David** married **Bathsheba**. Later, she gave birth to David's son. **God** was very angry about what David had done, so he sent the **prophet Nathan** to tell David how **evil** his **sin** was. David **repented** of his sin and God **forgave** him. For the rest of his life, David **followed and obeyed God**, even in difficult times.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:uriah]]**
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:other:bathsheba]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:nathan]]**
-  * **[[:ceb:obe:kt:evil]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:repent]]**
-  * **[[:ceb:obe:kt:forgive]]**
-  * **[[:ceb:obe:other:obey]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:uriah|Uria]]**
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:other:bathsheba|Batseba]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:nathan|Natan]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+  * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+==== Dugang nga pagpasabot: ====
 
   * **sa gibuhat ni David **- Kini naay kalambigitan sa pagpanapaw ni David kang Batseba ug ang iyang pagpatay sa bana niini nga si Uria.
 **[[:ceb:obs:notes:frames:17-12|<<]] | [[:ceb:obs:notes:17|Up]] | [[:ceb:obs:notes:frames:17-14|>>]]**
