@@ -1,25 +1,22 @@
-===== Israel Sinned [20-01] =====
+===== Nakasala ang Israel [20-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink}}
+Nakasala sa Dios ang gingharian sa Juda ug ang gingharian sa Israel. Gisupak nila ang kasabotan nga gibuhat sa Dios kanila didto sa Sinai. Gipadal-an sila sa Dios ug mga propeta aron pasidan-an sila sa paghinulsol ug pagbalik pagsimba kaniya, apan wala sila mituo.
 
-The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against **God**. They **broke the covenant** that God had made with them at **Sinai**. God sent his **prophets** to **warn them to repent** and **worship** him again, but they refused to **obey**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:covenant]]**
-  * **[[:ceb:obe:other:sinai]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:repent]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:obey]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:covenant|Pakigsaad, Kasabotan]]**
+  * **[[:ceb:obe:other:sinai|Sinai, Bukid sa Sinai]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+==== Dugang nga pagpasabot: ====
 
   * **gisupak ang kasabotan -**  Nagpasabot kini nga, “gisupak nila ang mga sugo nga gihatag kanila sa Dios diha sa iyang kasabotan didto sa Bukid sa Sinai.”
   * **aron pasidan-an sila sa paghinulsol ug pagbalik pagsimba kaniya**  - Mahimo kining hubaron nga, “sultihan sila nga moundang na sa pagpakasala ug dili na mosimba ug laing dios-dios, kondili si Yahweh lang, aron walay daotang mahitabo kanila.”
