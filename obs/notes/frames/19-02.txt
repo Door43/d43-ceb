@@ -1,20 +1,21 @@
-===== Elijah Rebuked Ahab [19-02] =====
+===== Gibadlong ni Elias si Ahab [19-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink&}}
 
-**Elijah** was a **prophet** when **Ahab** was **king** over the **kingdom of Israel**. Ahab was an **evil** man who encouraged people to **worship** a false **god** named **Baal**. Elijah said to Ahab, “There will be no rain or dew in the kingdom of Israel **until I say so**.” **This made Ahab very angry**.
-===== Important Terms: =====
+Si Elias maoy propeta sa panahon nga is Ahab ang hari sa Israel. Daotan nga tawo is Ahab ug ginatukmod niya ang mga tawo nga mosimba sa dios-dios nga si Baal. Unya giingnan ni Elias si Ahab, “Dili moulan dinhi sa Israel hangtod nga moingon ko nga moulan.” Ug tungod niana, nasuko si Ahab ug maayo.
 
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:ahab]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-  * **[[:ceb:obe:kt:evil]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-  * **[[:ceb:obe:other:baal]]**
-==== Translation Notes: ====
+===== Mahinungdanon nga mga Pulong: =====
+
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:ahab|Ahab]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:falsegod|dios-dios, langyaw nga dios, dios, diosa]]**
+  * **[[:ceb:obe:other:baal|Baal]]**
+==== Dugang nga pagpasabot: ====
 
   * **hangtod nga moingon ko **- Mahubad usab kini isip, “hangtod nga mandoan nako ang ulan ug ang yamog nga motungha pag-usab.”
   * **tungod niana, nasuko si Ahab ug maayo **- Mahubad usab kini nga, “sa dihang nadungog ni Ahab ang gisulti ni Elias, nasuko siya pag-ayo.”
