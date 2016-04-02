@@ -1,19 +1,16 @@
-===== Naaman Was Healed [19-15] =====
+===== Naayo si Naaman [19-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?nolink}}
+Sa permiro nasuko si Naaman ug nagdumili tungod kay abi niyag binuang kadto. Kadugayan nausab ra ang iyang hunahuna ug mitiglom ug kapito sa Suba sa Jordan. Sa kataposan niyang pagtunga, naayo na ang sakit sa iyang panit. Giayo siya sa Dios.
 
-At first **Naaman** was angry and **would not do it because it seemed foolish**. But later **he changed his mind** and dipped himself seven times in the **Jordan River**. When he came up the last time, his skin was completely **healed**! **God** had healed him.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:naaman]]**
-  * **[[:ceb:obe:other:jordanriver]]**
-  * **[[:ceb:obe:other:heal]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:naaman|Naaman]]**
+  * **[[:ceb:obe:other:jordanriver|Suba sa Jordan]]**
+  * **[[:ceb:obe:other:heal|ayo, tambal]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+==== Dugang nga pagpasabot: ====
 
   * **nagdumili tungod kay abi niyag binuang kadto **- Wala buhata ni Naaman ang gisulti ni Eliseo tungod kay iyang nahibaloan nga ang paghugas dili makaayo sa iyang sakit.
   * **nausab ra ang iyang hunahuna **- Nagpasabot nga, “nakadesisyon siya nga buhaton niya kung unsa ang giingon kaniya ni Eliseo nga angay niyang buhaton.
