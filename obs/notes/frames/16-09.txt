@@ -1,24 +1,21 @@
-===== The Sheep Skin [16-09] =====
+===== Ang Panit sa Karnero [16-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink}}
+Alang sa unang timailhan, nagbutang siya ug panit sa karnero didto sa yuta ug ipabasa niya sa yamog ang panit sa karnero apan uga gihapon ang yuta. ug gibuhat kadto sa Dios. Pagkagabii na, gipabasa na usab niya sa Dios ang yuta apan ipauga ang panit sa karnero. Ug gibuhat gihapon kadto sa Dios. Ug kining duha ka timailhan maoy nag-aghat kang Gideon nga mutuo nga gamiton siya sa Dios sa pagluwas sa mga Israel gikan sa mga Midianhon.
 
-For the first **sign**, **Gideon** laid a **sheep skin** on the ground and asked **God** to **let the morning dew fall** only on the sheep skin and not on the ground. **God did that**. The next night, he asked that the ground be wet but that the sheep skin be dry. God did that too. These two signs convinced Gideon that God would use him to **save Israel** from the **Midianites**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:other:sheep]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:save]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:midian]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:other:sheep|karnero, turong karnero, bayeng karnero]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:midian|Midian, Midianhon]]**
+==== Dugang nga pagpasabot: ====
 
   * **timailhan**  - Kini mahimong hubaron nga, “milagro” o “imposible nga mahitabo.”
-  * **panit sa karnero - ** Kini nga panit sa karnero adunay balahibo. Ang balahibo usa ka kulot ug baga nga buhok diin makasuyop ug ubay-ubay nga tubig. Ang paghubad niini kinahanglan nga maklaro nga ang maong panit nalukop sa baga, kulot, ug humok nga balahibo.
-  * **ipabasa sa yamog - ** Mahimo kini nga hubaron nga, “ipakita ang yamog sa kabuntagon” o, “patunghaa ang yamog sa kabuntagon”. Ang “yamog” usa kini ka tinulo sa tubig nga makita diha sa yuta panahon sa kabuntagon. Ang yamog kasagaran gayod nga molukop ug basa sa usa ka butang.
-  * **Gibuhat kadto sa Dios - ** Mahimo kining hubaron nga, “gibuhat sa Dios ang gihangyo ni Gideon ngadto kaniya.”
+  * **panit sa karnero - **  Kini nga panit sa karnero adunay balahibo. Ang balahibo usa ka kulot ug baga nga buhok diin makasuyop ug ubay-ubay nga tubig. Ang paghubad niini kinahanglan nga maklaro nga ang maong panit nalukop sa baga, kulot, ug humok nga balahibo.
+  * **ipabasa sa yamog - **  Mahimo kini nga hubaron nga, “ipakita ang yamog sa kabuntagon” o, “patunghaa ang yamog sa kabuntagon”. Ang “yamog” usa kini ka tinulo sa tubig nga makita diha sa yuta panahon sa kabuntagon. Ang yamog kasagaran gayod nga molukop ug basa sa usa ka butang.
+  * **Gibuhat kadto sa Dios - **  Mahimo kining hubaron nga, “gibuhat sa Dios ang gihangyo ni Gideon ngadto kaniya.”
 **[[:ceb:obs:notes:frames:16-08|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-10|>>]]**
