@@ -1,26 +1,23 @@
 ===== Israel Worshiped Idols [16-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink}}
+Pagkamatay ni Josue, nagmasupilon na usab ang mga Israelita ug wala nila aboga ang uban nga taga-Canaan ug wala usab sila motuman sa mga balaod sa Dios. Gisimba nila ang mga dios-dios sa mga taga-Canaan ug dili si Yahweh nga mao ang tinuod nga Dios. Tungod kay wala silay hari, nag-iyahay ra sila ug buhat ug bisan unsa nga gituohan nila nga maayo. .
 
-After **Joshua** died, the **Israelites disobeyed God** and **did not drive out the rest of the Canaanites** or **obey God's laws**. The Israelites began to **worship** the Canaanite **gods** instead of **Yahweh**, **the true God**. The Israelites had no king, so everyone did **what they thought was right for them**.
 ===== Important Terms: =====
 
-
-  * **[[:ceb:obe:other:joshua]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:disobey]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:true]]**
-  * **[[:ceb:obe:other:king]]**
-
-
+  * **[[:ceb:obe:other:joshua|Josue]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:disobey|supak, masinupakon, pagsupak]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:falsegod|dios-dios, langyaw nga dios, dios, diosa]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:true|tinuod, kamatuoran]]**
+  * **[[:ceb:obe:other:king|hari]]**
 ==== Translation Notes: ====
 
   * **ug wala nila aboga**  - Kini nagpasabot giunsa nila pagsupak ang Dios, sa ubang pinulongan, maayo nga usbon kini ug sugdan niini nga mga pulong, “Wala nila”.
