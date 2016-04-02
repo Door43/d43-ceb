@@ -6,9 +6,10 @@ Apan si Paraon nakasala pag-usab ug nagpagahi sa iyang kasingkasing. Dili siya m
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ceb:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:other:pharaoh|Paraon, hari sa Ehipto]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sa-an, pagpakasala]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+
 ==== Dugang nga Pasabot: ====
 
   * **nagpagahi sa iyang kasingkasing - **  Tan-awa kini sa **[[:ceb:obs:notes:frames:10-04|[10-04]]]**.
