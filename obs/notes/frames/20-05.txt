@@ -1,26 +1,23 @@
-====== Judah also Worshiped Idols [20-05] ======
+====== Nagsimba usab Juda ug mga Rebulto [20-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
-The people in the **kingdom of Judah** saw how **God** had **punished** the people of the **kingdom of Israel for not believing and obeying him**. But they still **worshiped idols**, including the **gods** of the **Canaanites**. God sent **prophets** to **warn them**, but **they refused to listen**.
+Nakita sa katawhan sa Juda nga gisilotan sa Dios ang gingharian sa Israel tungod kay wala sila mituo ug mituman kaniya. Apan gisimba pa gihapon nila ang mga dios-dios apil ang mga dios-dios sa taga-Canaan. Nagpadala ang Dios ug mga propeta nga mopasidaan kanila, apan wala sila maminaw.
 
+====== Mahinungdanon nga mga Pulong: ======
 
-====== Important Terms: ======
-
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-  * **[[:ceb:obe:kt:believe]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-  * **[[:ceb:obe:other:canaan]]**
-  * **[[:ceb:obe:kt:prophet]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+  * **[[:ceb:obe:kt:believe|pagtuo, pagtuo sa, tinuohan]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:kt:falsegod|dios-dios, langyaw nga dios, dios, diosa]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+===== Dugang nga pagpasabot: =====
 
   * **tungod kay wala sila mituo ug mituman kaniya -**  Mao kini ang ubang paghubad niini, “tungod kay wala sila motoo ug motuman kaniya.”
   * **mopasidaan kanila**  - Nagpasabot kini nga, “sultihan sila nga moundang na sa pagpakasala aron walay daotan nga mahitabo nila.”
