@@ -1,22 +1,16 @@
-===== Gideon Destroyed the Idol [16-06] =====
+===== Gilumpag ni Gideon ang Rebulto [16-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-06.jpg?nolink&}}
 
 **Gideon's** father had an **altar** dedicated to an **idol**. **God** told Gideon **to tear down** that altar. But Gideon was **afraid of the people**, so he **waited until nighttime**. Then he tore down the altar and smashed it to pieces. He built a new altar to God near where the altar to the idol used to be and made a **sacrifice** to God on it.
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:other:altar]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:other:altar|altar]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
+==== Dugang nga pasabot: ====
 
   * **sa pagguba**  - Kini nagpasabot, “pagbungkag pag-ayo niini” o “itumba ug gub-on.”
   * **nahadlok sa mga tawo**  - Nahadlok si Gideon nga ang iyang isigka-Israelita nga nagsimba sa maong dios-dios, masuko kaniya.
