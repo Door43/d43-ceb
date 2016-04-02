@@ -1,18 +1,15 @@
-===== Israel Was Removed from the Land [20-03] =====
+===== Gibalhin ang Israel gikan sa ilang Yuta [20-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink}}
+Gitigom sa mga taga-Asiria ang mga pangulo sa mga tawo, ang mga dato, ug ang naay mga abilidad ug gidala sa Asiria. Ang mga makaluluoy nga wala nangamatay sa gubat mao nalang ang nabilin didto sa Israel.
 
-The **Assyrians** gathered all the leaders, the rich people, and the people with **skills** and took them to Assyria. Only the very poor **Israelites** who had not been killed **remained** in the **kingdom of Israel**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:assyria]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:assyria|Asiria, taga Asiria, Emperyo sa Asiria, Asshur]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+==== Dugang nga pagpasabot: ====
 
   * **abilidad**  - Naghisgot kini sa kahibalo sa pagbuhat sa bisan unsa nga gikan sa kahoy, puthaw, ug pagpamanday.
   * **nabilin**  - Nagpasabot kini nga, “gipabilin” o “gibiyaan” o “gitugotan nga magpabilin lang.”
