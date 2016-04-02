@@ -1,19 +1,16 @@
-===== Persia Defeated Babylon [20-11] =====
+===== Gibuntog sa Persia ang Babilonia [20-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink}}
+Sa ika-70 na ka tuig, napildi sa hari sa Persia nga si Cyrus ang Babilonya ug napulihan na ang gingharian sa Babilonia sa pagmando. Ang mga Israelita gitawag na nga mga Judio ug kadaghanan sa ila didto na gayod natigulang sa Babilonya. Pipila lang ka mga tigulang ang nakahinumdom sa yuta nga Juda.
 
-About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:babylon]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:jew]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:babylon|Babilonia, mga taga-Babilonia]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+==== Dugang nga pagpasabot: ====
 
   * **paglabay sa 70 ka tuig**  - Naghisgot kini mahitungod sa 70 ka tuig nga milabay pagkahuman madala sa mga sundalo nga taga-Babilonia ang mga katawhan sa Jerusalem.
   * **Cyrus**  - Gitawag usab si Cyrus nga “Cyrus nga Bantogan.” Ang ngalan nga Cyrus nagpasabot nga “sama sa adlaw” sa Persia nga pinulongan. Apan tungod kay mahinungdanong tawo si Cyrus sa kasaysayan, maayo nga maoy gamiton ang iyang pangalan dinhi ug dili ang ipasabot sa iyang ngalan.
