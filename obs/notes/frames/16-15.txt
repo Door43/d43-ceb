@@ -1,18 +1,15 @@
 ===== An Offering for Gideon [16-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-15.jpg?nolink}}
+Gusto sa mga tawo nga himoong hari si Gideon apan wala siya mosugot sa ilang himoon. Gipangayo ra hinuon niya ang ubang mga singsing nga bulawan nga ilang nailog sa mga Midianhon. Ug gihatagan nila si Gideon ug daghan kaayo nga bulawan.
 
-The people wanted to make **Gideon** their **king**. Gideon **did not allow them to do this**, **but he asked them** for some of the gold rings that each of them had taken from the **Midianites**. The people gave Gideon a large amount of gold.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:midian]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:midian|Midian, Midianhon]]**
+==== Dugang nga pagpasabot: ====
 
   * **wala mosugot sa ilang himoon **- Nakahibalo si Gideon nga labing maayo alang sa mga Israelita nga ang Dios maoy mahimo nilang hari.
   * **gipangayo ra hinoon niya **- Kini nga mga pulong nagsugod sa “apan” ingon nga timaan sa sunod niyang buhaton nga dili maayo.
