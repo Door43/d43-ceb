@@ -1,18 +1,14 @@
-===== Killing the Prophets of Baal [19-12] =====
+===== Gipamatay ang mga Propeta ni Baal [19-12] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?nolink&}}
 
 Then **Elijah** said, “Do not let any of the **prophets** of **Baal escape**!” So the people **captured** the prophets of Baal. Then Elijah took them away from there and killed them.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:baal]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:baal|Baal]]**
+==== Dugang nga pagpasabot: ====
 
   * **Paikyasa **- Ang mga propeta ni Baal nisulay ug palayo human mapamatud-i nga ang ilang dios dili tinuod.
   * **Nadakpan **- Nagpasabot kini nga, “gidakop ug gipugngan” o, “gipanggunitan pag-ayo.”
