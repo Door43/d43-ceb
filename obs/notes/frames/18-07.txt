@@ -1,22 +1,19 @@
-===== Israel Rebelled against Judah [18-07] =====
+===== Mirebelde ang Israel Batok sa Judah [18-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink}}
+Napulo ka mga tribo sa nasod Israel ang mirebelde kang Rehoboam, ug duha lang ka tribo ang nagpabilin nga matinud-anon kaniya. Ug kining duha ka tribo nahimo nga gingharian sa Juda.
 
-Ten of the **tribes of the nation of Israel rebelled against Rehoboam**. Only two tribes **remained faithful to him**. These two tribes became the **kingdom of Judah**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:rebel|pagsupak, masinupakon]]**
+  * **[[:ceb:obe:other:rehoboam|Rehoboam]]**
+  * **[[:ceb:obe:kt:faithful|matinud-anon, pagkamatinud-anon]]**
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:rebel]]**
-  * **[[:ceb:obe:other:rehoboam]]**
-  * **[[:ceb:obe:kt:faithful]]**
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-
-
-==== Translation Notes: ====
-
-  * **mga tribo sa nasod sa Israel  - ** Ang mga kaliwat sa dose ka anak ni Jacob nahimong mga “tribo” o dako kaayo nga banay sa nasod sa Israel. Ang matag usa nga nagpuyo sa Israel apil sa usa sa mga kaliwat sa dose ka tribo.
+  * **mga tribo sa nasod sa Israel - **  Ang mga kaliwat sa dose ka anak ni Jacob nahimong mga “tribo” o dako kaayo nga banay sa nasod sa Israel. Ang matag usa nga nagpuyo sa Israel apil sa usa sa mga kaliwat sa dose ka tribo.
   * **Mirebelde kang Rehoboam -**  Nagpasabot kini nga, “nibalibad sa pagtuman kang Rehoboam isip ilang hari.” Makatabang usab kung sugdan kini sa pulong nga, “Busa” o “Tungod niana” o “Tungod sa giingon ni Rehoboam.”
-  * **nagpabilin nga matinud-anon kaniya - ** Kini nagpasabot, “nagpabilin nga matinud-anon ngadto kaniya” o “nagpadayon nga matinumanon kaniya isip hari.”
+  * **nagpabilin nga matinud-anon kaniya - **  Kini nagpasabot, “nagpabilin nga matinud-anon ngadto kaniya” o “nagpadayon nga matinumanon kaniya isip hari.”
 **[[:ceb:obs:notes:frames:18-06|<<]] | [[:ceb:obs:notes:18|Up]] | [[:ceb:obs:notes:frames:18-08|>>]]**
