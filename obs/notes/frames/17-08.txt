@@ -1,22 +1,18 @@
-===== David Praised God [17-08] =====
+===== Gidayeg ni David ang Dios[17-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink&}}
 
 When **David** heard **these words**, he immediately thanked and **praised God** because he had **promised** David t**his great honor** and many **blessings**. David did not know when God would do these things. But as it happened, the **Israelites** would have to wait a long time before the **Messiah** came, almost 1,000 years.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:other:praise]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:bless]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:christ]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:other:praise|dayeg]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:bless|pagpanalangin, gipanalanginan, panalangin]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+==== Dugang nga pagpasabot: ====
 
   * **sa iyang gisulti **- Kini nagpasabot nga, “ang mga pulong nga gisulti lang gayod sa propeta.” Adunay kalambigitan kini balik sa mga saad diha sa **[[:ceb:obs:notes:frames:17-07|[17-07]]]**.
   * **dakong kadungganan **- Ang mga katawhan nga mahimong lumulopyo unya [sa sunod nga henerasyon] maghatag ug dakong pagtahod kang David, tungod kay sa iyang mga kaliwat adunay mahimong hari sa Israel ug usa kanila ang mahimong Mesiyas.
