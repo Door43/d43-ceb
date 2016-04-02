@@ -12,10 +12,11 @@ Apan gipasaylo na diay ni Esau si Jacob, ug malipayon kaayo ang matag usa kanila
   * **[[:ceb:obe:other:peace|kalinaw, malinawon]]**
   * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
   * **[[:ceb:obe:other:isaac|Isaac]]**
-  * **[[:ceb:obe:kt:covenant|covenant]]**
-  * **[[:ceb:obe:kt:promise|promise]]**
-  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:covenant|kasabotan]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **Nagpuyo nga malinawon. - **  Mao kini ang resulta nga wala na nagkasuk-anay o nagkaaway pa si Esau ug si Jacob.
