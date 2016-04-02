@@ -1,29 +1,25 @@
-===== The Prayer of Elijah [19-10] =====
+===== Ang Pag-ampo ni Elias [19-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink}}
+Ug miampo si Elias, “O Yahweh Dios ni Abraham, Isaac, ug Jacob. Ipakita karon kanamo nga ikaw ang Dios sa Israel ug pagpamatuod nga ako imo gayod nga sulugoon. Tubaga ako aron kining mga tawhana makahibalo nga ikaw ang tinuod nga Dios.”
 
-Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **Jacob**, **show us** today that you are the God of **Israel** and that **I am your servant**. **Answer me** so that **these people will know** that you are the **true** God.”
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:other:pray]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:abraham]]**
-  * **[[:ceb:obe:other:isaac]]**
-  * **[[:ceb:obe:other:jacob]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:true]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:other:pray|ampo, pag-ampo]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ceb:obe:other:isaac|Isaac]]**
+  * **[[:ceb:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+  * **[[:ceb:obe:kt:true|tinuod, kamatuoran]]**
+==== Dugang nga pagpasabot: ====
 
   * **Ipakita kanamo **- Sa ubang pagkasulti, “pamatud-i nganhi kanamo” o, “ipakita kanamo.”
   * **ako imo gayod nga sulugoon **- Mahubad usab kini nga, “gihatagan nimo akog katungod sa pag-alagad kanimo ug pagbuhat niining mga butanga.”
-  * **Tubaga ako - ** Nagpasabot kini nga, “tubag sa akong mga pag-ampo” o, “ipadala ang kalayo nga gipangayo ko kanimo.”
+  * **Tubaga ako - **  Nagpasabot kini nga, “tubag sa akong mga pag-ampo” o, “ipadala ang kalayo nga gipangayo ko kanimo.”
   * **aron kining mga tawhana makahibalo **- Mahubad usab kini nga, “kining mga tawhana makakita ug makasabot.”
 **[[:ceb:obs:notes:frames:19-09|<<]] | [[:ceb:obs:notes:19|Up]] | [[:ceb:obs:notes:frames:19-11|>>]]**
