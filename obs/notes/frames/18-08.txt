@@ -1,21 +1,18 @@
-===== Jeroboam Ruled Israel [18-08] =====
+===== Nagmando si Jeroboam sa Israel [18-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?nolink}}
+Ang napulo ka tribo sa Israel, mipili ug tawo nga mohari kanila nga mao si Jeroboam. Didto sila sa amihang dapit nagtukod ug gingharian ug gitawag kini nga gingharian sa Israel.
 
-The other ten tribes of the **nation of Israel** that rebelled against **Rehoboam appointed a man named Jeroboam to be their king**. T**hey set up their kingdom** in the northern part of the land and were called the **kingdom of Israel**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:rehoboam|Rehoboam]]**
+  * **[[:ceb:obe:other:jeroboam|Jeroboam]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:kingdom|Gingharian]]**
+  * **[[:ceb:obe:other:kingdomofisrael|gingharian sa Israel]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:rehoboam]]**
-  * **[[:ceb:obe:other:jeroboam]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:kingdom]]**
-  * **[[:ceb:obe:other:kingdomofisrael]]**
-
-
-==== Translation Notes: ====
-
-  * **nagtukod ug gingharian - ** mahimo kining hubaron nga, “gihimo” o “gibuhat” ang ilang gingharian. Kini nga pulong mahubad usab nga, “naglahi sila gikan sa duha ka tribo ug nagpuyo sa amihang bahin, ug ginganlan nila ug “Israel” ang ilang nasod.”
+  * **nagtukod ug gingharian - **  mahimo kining hubaron nga, “gihimo” o “gibuhat” ang ilang gingharian. Kini nga pulong mahubad usab nga, “naglahi sila gikan sa duha ka tribo ug nagpuyo sa amihang bahin, ug ginganlan nila ug “Israel” ang ilang nasod.”
 **[[:ceb:obs:notes:frames:18-07|<<]] | [[:ceb:obs:notes:18|Up]] | [[:ceb:obs:notes:frames:18-09|>>]]**
