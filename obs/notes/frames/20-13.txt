@@ -1,20 +1,16 @@
-===== The Temple Was Rebuilt [20-13] =====
+===== Giayo ang Templo [20-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
+Pag-abot nila didto, giayo nila ang Templo ug ang paril palibot sa siyudad. Bisan ug nasakop gihapon sila sa ubang tawo, nakapuyo gihapon sila sa Yutang Saad ug nagasimba didto sa Templo.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:jerusalem]]**
-  * **[[:ceb:obe:kt:temple]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-  * **[[:ceb:obe:kt:worship]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+==== Dugang nga pagpasabot: ====
 
   * **nila**  - Nagpasabot kini sa mga Israelita, ang mga kaliwat ni Jacob nga ginganlan na karon nga mga Judio.
   * **ang pader -**  Baga kaayo kini nga pader (2.5 metros) ug gihimo aron panagang sa siyudad gikan niadtong mosulong niini.
