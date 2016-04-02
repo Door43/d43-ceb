@@ -1,24 +1,21 @@
-===== Jeroboam Made an Idol [18-09] =====
+===== Nagbuhat si Jeroboam  ug Rebulto [18-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink}}
+Misupak si Jeroboam sa Dios ug mao nay hinungdan nga nakasala ang mga tawo. Nagbuhat siya ug duha ka dios-dios aron simbahon sa iyang katawhan ug wala na nila gisimba ang Dios didto sa Templo sa gingharian sa Juda.
 
-**Jeroboam rebelled** against **God** and **caused the people to sin**. He built two **idols** for his people to **worship instead of worshiping God at the Temple in the kingdom of Judah**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:jeroboam|Jeroboam]]**
+  * **[[:ceb:obe:other:rebel|pagsupak, masinupakon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:jeroboam]]**
-  * **[[:ceb:obe:other:rebel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:temple]]**
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-
-
-==== Translation Notes: ====
-
-  * **hinungdan nga nakasala ang mga tawo - ** Mahimo kining hubaron nga, “nangulo sa katawhan aron makasala”, o “nag-aghat sa katawhan ngadto sa sala.” Nangulo si Rehoboam sa iyang katawhan ngadto sa pagpakasala pinaagi sa paghimo ug dios-dios nga ilang gisimba.
-  * **wala na nila gisimba ang Dios... sa Juda -** vMahimo kining hubaron nga, “aron dili na nila simbahon ang Dios didto” o, “imbis nga moadto sa gingharian sa Juda sa pagsimba sa Dios didto sa Templo.”
+  * **hinungdan nga nakasala ang mga tawo - **  Mahimo kining hubaron nga, “nangulo sa katawhan aron makasala”, o “nag-aghat sa katawhan ngadto sa sala.” Nangulo si Rehoboam sa iyang katawhan ngadto sa pagpakasala pinaagi sa paghimo ug dios-dios nga ilang gisimba.
+  * **wala na nila gisimba ang Dios… sa Juda -**  vMahimo kining hubaron nga, “aron dili na nila simbahon ang Dios didto” o, “imbis nga moadto sa gingharian sa Juda sa pagsimba sa Dios didto sa Templo.”
 **[[:ceb:obs:notes:frames:18-08|<<]] | [[:ceb:obs:notes:18|Up]] | [[:ceb:obs:notes:frames:18-10|>>]]**
