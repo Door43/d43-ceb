@@ -7,10 +7,11 @@ Usa ka adlaw, sa dihang ulitawo na si Moises, nakita niya ang Ehiptohanon nga na
 ===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:moses|Moises]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelites, nasod sa Israel]]**
+  * **[[:ceb:obe:other:servant|sulugoon, katabang, ulipon, pag-ulipon]]**
   * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+
 ==== Dugang nga Pasabot: ====
 
   * **ulitawo - **  Ubang paagi sa pagsulti niini mao ang, "nagdako na ug ulitawo na."
