@@ -1,22 +1,19 @@
-===== Naaman Came to Elisha [19-14] =====
+===== Miduol si Naaman kang Elisio [19-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?nolink}}
+Sa dihang wala na si Elias, gipapuli sa Dios si Eliseo. Gipabuhat siya sa Dios ug daghang mga milagro. Usa sa mga milagro mao ang mahitungod kang Naaman nga usa ka pangulo sa ilang mga kaaway, nga adunay makalilisang nga sakit. Nakadungog siya mahitungod kang Eliseo busa miadto siya ug naghangyo nga tambalan siya. Giingnan siya ni Eliseo nga motiglom ug kapito sa Suba sa Jordan.
 
-After the time of **Elijah**, **God** chose a man named Elisha to be his **prophet**. God did many **miracles** through Elisha. One of the miracles happened to **Naaman**, **an enemy commander**, who had a horrible skin disease. **He had heard of Elisha** so **he went and asked Elisha** to **heal** him. Elisha told Naaman to dip himself seven times in the **Jordan River**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:miracle]]**
-  * **[[:ceb:obe:other:naaman]]**
-  * **[[:ceb:obe:other:heal]]**
-  * **[[:ceb:obe:other:jordanriver]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:miracle|milagro, kahibulongan, ilhanan]]**
+  * **[[:ceb:obe:other:naaman|Naaman]]**
+  * **[[:ceb:obe:other:heal|ayo, tambal]]**
+  * **[[:ceb:obe:other:jordanriver|Suba sa Jordan]]**
+==== Dugang nga pagpasabot: ====
 
   * **pangulo sa ilang mga kaaway **- Si Naaman usa ka komandante sa kasundalohan sa usa nasod nga kaaway sa mga Israelita.
   * **Nakadungog siya mahitungod kang Eliseo **- Kini nagpasabot nga ang mga tawo nag-ingon kang Naaman nga si Eliseo makahimo ug mga milagro.
