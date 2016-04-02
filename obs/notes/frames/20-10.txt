@@ -1,21 +1,18 @@
-===== God Remembered His Promise [20-10] =====
+===== Ang Dios Nahinumdom sa Iyang Saad [20-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink}}
+Apan wala gihapon kalimti sa Dios ang iyang mga saad sa iyang katawhan bisan ug gisilotan niya sila pinaagi sa pagpabihag kanila ngadto sa layo. Gibantayan niya sila ug nakig-istorya pinaagi sa iyang mga propeta. Gisaaran niya sila nga pagkahuman sa 70 ka tuig, ipabalik gihapon niya sila sa Yutang Saad.
 
-Even though **God punished** his people for their **sin** by taking them away into **exile**, he **did not forget** them or his **promises**. God continued to **watch over** his people and **speak to them through his prophets**. He promised that, after seventy years, they would return to the **Promised Land** again.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:promisedland]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:promisedland|Yutang Saad]]**
+==== Dugang nga pagpasabot: ====
 
   * **pagkabihag -**  Tan-awa kon giunsa nimo kini paghubad sa **[[:ceb:obs:notes:frames:20-09|[20-09]]]**.
   * **wala kalimti**  - Mahimo kining hubaron nga, “wala pasagdi” o “wala gibiyaan.” Mahimo usab ang hubaron ang tanan sama niini, “nagpadayon siya nga matinud-anon sa iyang panaad sa iyang katawhan ug sa iyang mga saad.”
