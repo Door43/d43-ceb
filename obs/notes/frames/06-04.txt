@@ -7,12 +7,13 @@ Human sa taas nga panahon, namatay si Abraham ug ang tanang saad nga gihimo sa D
 ===== Mahinungdanon nga Pulong: =====
 
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ceb:obe:kt:promise|promise]]**
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:covenant|covenant]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:covenant|kasabotan]]**
   * **[[:ceb:obe:other:isaac|Isaac]]**
   * **[[:ceb:obe:other:descendant|kaliwat]]**
   * **[[:ceb:obe:other:rebekah|Rebeca]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **ang tanang saad … napasa ngadto kang - **  Ang saad nga gihimo sa Dios kang Abraham dili kay kaniya lang, kondili ngadto usab sa iyang kaliwatan.
