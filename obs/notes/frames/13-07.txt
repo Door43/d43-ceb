@@ -6,15 +6,16 @@ Unya ang Dios nagsulat sa napulo ka sugo sa mga lapad nga bato ug gihatag kini k
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:other:tencommandments|Ten Commandments]]**
-  * **[[:ceb:obe:other:moses|Moses]]**
-  * **[[:ceb:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
-  * **[[:ceb:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:ceb:obe:kt:promise|promise]]**
-  * **[[:ceb:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:ceb:obe:other:disobey|disobey, disobedient, disobedience]]**
-  * **[[:ceb:obe:other:punish|punish, punishment]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:tencommandments|Napulo ka sugo]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, balaod sa Dios, Balaod ni Yahweh]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagkamatinumanon]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:kt:bless|pagpanalangin, napanalanginan, panalangin]]**
+  * **[[:ceb:obe:other:disobey|supak, masinupakon, pagsupak]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+
 ==== Dugang nga Pasabot: ====
 
   * **sa napulo ka sugo - **  Kini nagpasabot sa mga sugo nga gihatag sa Dios kang Moises aron tumanon sa mga Israelita. Kini nasulat sa bahin [13-06]
