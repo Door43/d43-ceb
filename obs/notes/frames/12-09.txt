@@ -6,9 +6,10 @@ Unya gikoha sa Dios ang gabon pataas aron makita sa mga Ehiptohanon ang mga Isra
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+
 ==== Dugang nga Pasabot: ====
 
 * //(Walay pulong nga ipasabot ani nga frame.)//
