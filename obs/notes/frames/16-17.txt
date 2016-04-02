@@ -1,22 +1,19 @@
-===== Sin and Deliverance [16-17] =====
+===== Sala ug Kaluwasan [16-17] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-17.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-17.jpg?nolink}}
+Nagbalik-balik lang kini nga panghitabo: nagpakasala ang mga Israelita, unya silotan sila sa Dios, ug mohinulsol sila, unya mopadala ang Dios sa ilang manluluwas. Sa daghang mga katuigan, kadaghan nagpadala ang Dios sa mga tawo nga maoy moluwas sa mga Israelita gikan sa ilang mga kaaway.
 
-**This pattern repeated many times**: the **Israelites** would **sin**, **God** would **punish** them, they would **repent**, and God would send a **deliverer** to **save** them. Over many years, God sent many deliverers who saved the Israelites from their enemies.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:kt:repent]]**
-  * **[[:ceb:obe:kt:deliverer]]**
-  * **[[:ceb:obe:kt:save]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+  * **[[:ceb:obe:kt:deliverer|luwason,manluluwas]]**
+  * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+==== Dugang nga pagpasabot: ====
 
   * **Nagbalik-balik lang kini nga panghitabo**  - Mahubad usab kini nga, “kining mga butanga nagbalik-balik ug kahitabo” o “kining mga butanga nahitabo sa makadaghan nang higayon.”
 **[[:ceb:obs:notes:frames:16-16|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-18|>>]]**
