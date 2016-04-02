@@ -8,10 +8,11 @@ Napulo ka tuig human miabot si Abram ug Sarai sa yuta sa Canaan, wala gihapon si
 
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
   * **[[:ceb:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ceb:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ceb:obe:other:canaan|Canaan, Canaanhon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pag-ulipon]]**
   * **[[:ceb:obe:other:hagar|Hagar]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **wala gihapon silay anak**– Si Abraham walay anak, mao nga wala siyay mga kaliwat nga maoy mahimong dakong nasod.
