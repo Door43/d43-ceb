@@ -1,20 +1,16 @@
-===== The Death of the Messiah [21-12] =====
+===== Ang Kamatayon sa Mesiyas [21-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-12.jpg?nolink}}
+Ang propeta misulti usab kung unsang paagi nga mamatay ang Mesiyas. Gitagna ni Isaias nga luwaan siya sa mga tawo, biay-biayon, ug bun-ogon. Dunggabon nila siya ug mamatay nga mag-antos pag-ayo, bisan pa man ug wala siya'y nabuhat nga sala.
 
-The **prophets** also told about how the **Messiah** would **die**. **Isaiah prophesied** that people would spit on, mock, and beat the Messiah. They would **pierce** him and he would die in great suffering and agony, even though he had not done anything wrong.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:other:isaiah]]**
-
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+  * **[[:ceb:obe:other:isaiah|Isaias]]**
+==== Dugang nga pagpasabot: ====
 
   * **Dunggabon**  - Nagpasabot kini nga, “giduslak.” Dunggabon siya ug hait nga hinagiban kauban sa ubang silot tungod sala sa katawhan.
 **[[:ceb:obs:notes:frames:21-11|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:21-13|>>]]**
