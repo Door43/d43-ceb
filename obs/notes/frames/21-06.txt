@@ -1,20 +1,17 @@
-===== Prophet, Priest and King [21-06] =====
+===== Propeta, Pari ug Hari [21-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-06.jpg?nolink}}
+Nag-ingon usab ang mga propeta sa Dios nga ang Mesiyas usa ka propeta, pari, ug hari. Ang propeta usa ka tawo nga makadungog sa pulong sa Dios ug isulti kini niya sa mga tawo. Ang Mesiyas nga gisaad sa Dios nga ipadala mao ang hingpit nga propeta.
 
-**God's prophets** also said that the **Messiah** would be a prophet, a **priest**, and a **king**. A prophet is a person who hears the words of God and then proclaims God’s words to the people. The Messiah that God promised to send would be the **perfect prophet**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:priest]]**
-  * **[[:ceb:obe:other:king]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
+  * **[[:ceb:obe:other:king|hari]]**
+==== Dugang nga pagpasabot: ====
 
   * **hingpit nga propeta**: - Ang Mesiyas mao ang propeta nga hingpit nga matinumanon sa Dios, ug isulti niya sa mga tawo ang tanang isulti sa Dios. Ipaila niya ang Dios sa hingpit ngadto sa mga tawo, ug tabangan sila nga makaila sa Dios.
 **[[:ceb:obs:notes:frames:21-05|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:21-07|>>]]**
