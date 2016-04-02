@@ -1,24 +1,19 @@
-===== Babylon Destroyed Judah [20-07] =====
+===== Gigun-ob sa Babilonia ang Juda [20-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink}}
+Apan wala madugay, nagrebilde ang hari sa Juda batok sa Babilonia. Busa gibalikan sila sa taga-Babilonia ug gisulong ang ilang gingharian. Nailog nila ang siyudad sa Jerusalem, ug giguba nila ang Templo, ug gikuha nila ang tanang bahandi sa siyudad ug sa templo.
 
-But after a few years, the king of **Judah rebelled** against **Babylon**. So, the Babylonians **came back** and attacked the kingdom of Judah. They **captured the city** of **Jerusalem**, destroyed the **Temple**, and **took away** all the treasures of the city and the Temple.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-  * **[[:ceb:obe:other:rebel]]**
-  * **[[:ceb:obe:other:babylon]]**
-  * **[[:ceb:obe:other:jerusalem]]**
-  * **[[:ceb:obe:kt:temple]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+  * **[[:ceb:obe:other:rebel|pagsupak, masinupakon]]**
+  * **[[:ceb:obe:other:babylon|Babilonia, mga taga-Babilonia]]**
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+==== Dugang nga pagpasabot: ====
 
   * **gibalikan -**  Mahimo kining hubaron nga, “milakaw balik sa agi” o “miadto na usab sa Juda.”
   * **nailog ang siyudad -**  Nagpasabot kini nga, “gimandoan ang siyudad ug mga tawo didto.”
   * **Gikuha -**  Gikuha nila ang mga bahandi ug gidala nila balik sa Babilonia.
-
-
 **[[:ceb:obs:notes:frames:20-06|<<]] | [[:ceb:obs:notes:20|Up]] | [[:ceb:obs:notes:frames:20-08|>>]]**
