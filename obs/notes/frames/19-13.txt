@@ -1,21 +1,18 @@
-===== A Storm Ended the Drought [19-13] =====
+===== Naundang ang Hulaw Tungod sa Ulan [19-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink}}
+Unya giingnan ni Elias si Hari Ahab, “Balik dayon didto sa siyudad, tungod kay moulan na.” Sa kalit lang nga midag-om, ug mibundak ang ulan. Gipaundangg ni Yahweh ang hulaw ug gipamatud-an nga siya ang tinuod nga Dios.
 
-Then **Elijah** said to **King Ahab**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **Yahweh** had ended the **drought** and proved that he is the true **God**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:ahab|Ahab]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:ahab]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-  * **midag-om - ** Nagpasabot kini nga, “ningitngit pag-ayo ang langit.” Baga kaayo ang dag-om nga panganod ang nitabon sa langit, mao nga itom kini tan-awon.
+  * **midag-om - **  Nagpasabot kini nga, “ningitngit pag-ayo ang langit.” Baga kaayo ang dag-om nga panganod ang nitabon sa langit, mao nga itom kini tan-awon.
   * **Hulaw **- Nagpasabot nga, “taas nga nga walay ulan”.
 **[[:ceb:obs:notes:frames:19-12|<<]] | [[:ceb:obs:notes:19|Up]] | [[:ceb:obs:notes:frames:19-14|>>]]**
