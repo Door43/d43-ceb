@@ -6,12 +6,13 @@ Ang Dios nagmando sa mga Israelita sa pagsaulog sa Pagsaylo sa matag tuig aron s
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ceb:obe:kt:passover|Passover]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ceb:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:passover|Pagsaylo]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+  * **[[:ceb:obe:other:servant|sulugoon, katabang, ulipon, pag-ulipon]]**
+  * **[[:ceb:obe:kt:lamb|nating karnero, Karnero sa Dios]]**
+
 ==== Dugang nga Pasabot: ====
 
   * **Pagsaylo - **  Mahubad , "ang pagsaylo nga boluhaton," o "ang pagsalyo mao ang pagsaulog" o, "ang pagsaylo sa panihapon."
