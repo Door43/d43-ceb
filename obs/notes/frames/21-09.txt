@@ -1,22 +1,19 @@
-===== The Virgin Birth [21-09] =====
+===== Pagpanganak sa usa ka Ulay [21-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink}}
+Gitagna na sa mga propeta sa Dios nga daghan pa ang buhaton sa Mesiyas. Gisulti na daan ni propeta Malaquias nga ang halangdong propeta mouna pag-abot sa Mesiyas. Gipropesiya ni propeta Isaias nga matawo ang Mesiyas sa babayeng ulay. Si propeta Miqueas usab miingon nga didto siya matawo sa Betlehem
 
-**God's prophets** predicted many other things about the **Messiah**. The prophet **Malachi foretold** that a great prophet would come before the Messiah came. The prophet **Isaiah prophesied** that **the Messiah would be born from a virgin**. The prophet **Micah** said that he would be born in the town of **Bethlehem**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:other:isaiah]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:virgin]]**
-  * **[[:ceb:obe:other:bethlehem]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ceb:obe:other:isaiah|Isaias]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:virgin|ulay]]**
+  * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
+==== Dugang nga pagpasabot: ====
 
   * **Malaquias**  - Si Malaquias ang kataposang propeta sa Daang Kasabotan.
   * Gisulti na daan: Mahimo kining hubaron nga, “gitagna” o “gipropesiya.” Nagpasabot kini nga ipahibalo kung unsa man ang mahitabo sa umaabot. Gisulti ni Malaquias ang mensahe sa Dios ngadto sa mga tawo sa 400 pa ka tuig ayha moabot ang Mesiyas.
