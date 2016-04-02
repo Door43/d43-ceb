@@ -1,18 +1,17 @@
-===== How Many Times? [29-01] =====
+===== Kapila ba Gayod? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
+Usa ka adlaw, nangutana si Pedro kang Jesus, “Magtutudlo, kapila ba gayod ako mopasaylo sa akong igsoon nga nakasala kanako? Kapito ba?” Mitubag si Jesus, “Dili lang kapito, kondili pasayloa siya sa makadaghan.” Ang buot ipasabot ni Jesus nga gikinahanglan nga kanunay gayod kitang mopasaylo. Unya gisulti ni Jesus kini nga istorya.
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:lord]]**
-  * **[[:ceb:obe:kt:forgive]]**
-  * **[[:ceb:obe:kt:sin]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:lord|Ginoo, Agalon, Amo]]**
+  * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+===== Dugang nga pagpasabot: =====
 
   * **Usa ka Adlaw**- Kini nga mga pulong nagpahibalo sa usa ka panghitabo sa miaging panahon, apan dili klaro kung unsa gayod ang insaktong takna o panahon nga kini nahitabo. Daghang mga pinulongan nga adunay samang pamaagi sa pagsulti sa usa ka tinuod nga istorya.
   * **akong igsoon**- Kini nga pulong wala kini nagpasabot sa tawhanong igsoon, apan adunay hugot nga relasyon sa tawo nga kauban niya sa relihiyon, sa tribo, ug uban pa.
