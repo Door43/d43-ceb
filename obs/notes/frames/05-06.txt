@@ -7,12 +7,13 @@ Samtang nidako na si Isaac, gisulayan sa Dios ang pagtuo ni Abraham sa pag-ingon
 ===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:isaac|Isaac]]**
-  * **[[:ceb:obe:kt:god|God]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
   * **[[:ceb:obe:kt:faith|pagtuo]]**
-  * **[[:ceb:obe:kt:son|son]]**
-  * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
-  * **[[:ceb:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:ceb:obe:kt:son|anak nga lalaki]]**
+  * **[[:ceb:obe:kt:son|[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagkamatinumanon]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **gisulayan sa Dios ang pagtuo ni Abraham**  – Gusto sa Dios nga ipakita ni Abraham nga matinud-anon siya nga motuman sa Dios, nga iyang buhaton ang bisan unsa nga ipahimo sa Dios kaniya.
