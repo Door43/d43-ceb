@@ -1,24 +1,18 @@
-===== The Kind of Judah Was Punished [20-08] =====
+===== Ang Paagi sa Pagsilot sa Juda [20-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink}}
+Tungod sa ilang pagrebilde, gipatay sa mga sundalo ni Nebucadnezar ang mga anak sa hari sa iyang atubangan ug ila siyang gibutahan. Pagkahuman, gidala nila ang hari ug gipriso sa Babilonia hangtod sa iyang kamatayon.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-To **punish** the **king** of **Judah** for rebelling, **Nebuchadnezzar's** soldiers killed the king’s **sons in front of him** and then **made him blind**. After that, they took the king away to die in prison in **Babylon**.
-
-
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-  * **[[:ceb:obe:other:nebuchadnezzar]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:other:babylon]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+  * **[[:ceb:obe:other:nebuchadnezzar|Nebucadnezar]]**
+  * **[[:ceb:obe:kt:son|anak nga lalaki]]**
+  * **[[:ceb:obe:other:babylon|Babilonia, mga taga-Babilonia]]**
+==== Dugang nga pagpasabot: ====
 
   * **aron sa pagsilot kaniya**  - Gisilotan ni Nebucadnezar ang hari sa Juda pinaagi sa pagsugo sa iyang kasundalohan.
   * **sa iyang atubangan**  - Mahimo kining hubaron nga, “kon diin makita niya” o “aron makita niya” o “sa atubangan sa iyang mga mata.”
