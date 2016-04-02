@@ -9,11 +9,12 @@ Paglabay sa daghang mga katuigan, wala gihapon makaanak ang magtiayon nga si Abr
   * **[[:ceb:obe:other:abraham|Abraham, Abram]]**
   * **[[:ceb:obe:other:sarah|Sarah, Sarai]]**
   * **[[:ceb:obe:kt:son|anak nga lalaki]]**
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:kt:promise|saad]]**
-  * **[[:ceb:obe:other:descendant|descendant]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:god|[[:ceb:obe:kt:promise|saad]]**]]**
+  * **[[:ceb:obe:other:descendant|Kaliwat]]**
   * **[[:ceb:obe:kt:believe|pagtuo, pagtuo sa, tinuohan]]**
   * **[[:ceb:obe:kt:righteous|matarong, pagkamatarong]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **paglabay sa mga katuigan **– Pipila ka mga tuig ang milabay sukad nga ang Dios unang misaad kang Abram nga aduna siya'y anak nga moabot.
