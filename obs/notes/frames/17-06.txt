@@ -1,23 +1,20 @@
 ===== David Wanted to Build a Temple [17-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+Unya gusto ni David magtukod ug templo aron didto sila mosimba sa ilang Dios ug aron makahalad sila didto, kay 400 na katuig nga didto lang sila mosimba ug mohalad sa Tolda nga Tagboanan nga gibuhat ni Moises.
 
-**David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
+  * **[[:ceb:obe:other:tentofmeeting|tolda nga tagboanan]]**
+  * **[[:ceb:obe:other:moses|Moises]]**
+==== Dugang nga pasabot: ====
 
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:kt:temple]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:other:tentofmeeting]]**
-  * **[[:ceb:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-  * **magtukod ug templo - ** Gusto ni David nga magbuhat ug simbahan aron didto na sila magsimba sa Dios ug dili na didto sa Tolda nga Tagboanan.
+  * **magtukod ug templo - **  Gusto ni David nga magbuhat ug simbahan aron didto na sila magsimba sa Dios ug dili na didto sa Tolda nga Tagboanan.
 **[[:ceb:obs:notes:frames:17-05|<<]] | [[:ceb:obs:notes:17|Up]] | [[:ceb:obs:notes:frames:17-07|>>]]**
