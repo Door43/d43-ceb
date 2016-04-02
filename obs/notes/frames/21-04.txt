@@ -1,20 +1,17 @@
-===== A Descendant of David [21-04] =====
+===== Kaliwat ni David [21-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+Gisaaran usab sa Dios si Moises nga moabot ang panahon nga magsugo siya ug lahi nga propeta sama kang Moises. Mao kini ang laing saad bahin sa Mesiyas nga moabot sa ulahing panahon.
 
-**God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:promise]]**
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:other:descendant]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:promise|saad]]**
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:other:descendant|kaliwat]]**
+==== Dugang nga pagpasabot: ====
 
   * **kaugalingong kaliwat ni David**  - Sa uban nga pagkasulti, “ang kaliwat ni David nga gikan sa iyang kaugalingon.”
 **[[:ceb:obs:notes:frames:21-03|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:21-05|>>]]**
