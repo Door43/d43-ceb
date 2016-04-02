@@ -1,25 +1,21 @@
-===== David Became King [17-05] =====
+===== Nahimong Hari si David [17-05] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink&}}
 
 Eventually, **Saul** died in battle, and **David** became **king** of **Israel**. He was a good king, and the people **loved** him. **God blessed** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **Jerusalem** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:saul|Saul (OT)]]**
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:love|gugma]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:bless|pagpanalangin, gipanalanginan, panalangin]]**
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+==== Dugang nga pasabot: ====
 
-  * **[[:ceb:obe:other:saul]]**
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:love]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:bless]]**
-  * **[[:ceb:obe:other:jerusalem]]**
-
-
-==== Translation Notes: ====
-
-  * **Nagmalamposon - ** Kini nagpasabot nga, “nagtabang kaniya nga mahuman ang mga maayong butang nga gusto niya buhaton.”
-  * **sentro nga siyudad - ** Kini nagpasabot nga, “ang sentro nga siyudad sa iyang gingharian.” Si David nagpuyo sa Jerusalem ug nagdumala siya didto isip hari.”
-  * **Sa panahon sa paghari ni David - ** Kini nagpasabot nga, “ang panahon sa dihang si David ang hari sa Israel” o, “ang panahon sa dihang si David ang nagdumala isip hari sa Israel.”
+  * **Nagmalamposon - **  Kini nagpasabot nga, “nagtabang kaniya nga mahuman ang mga maayong butang nga gusto niya buhaton.”
+  * **sentro nga siyudad - **  Kini nagpasabot nga, “ang sentro nga siyudad sa iyang gingharian.” Si David nagpuyo sa Jerusalem ug nagdumala siya didto isip hari.”
+  * **Sa panahon sa paghari ni David - **  Kini nagpasabot nga, “ang panahon sa dihang si David ang hari sa Israel” o, “ang panahon sa dihang si David ang nagdumala isip hari sa Israel.”
 **[[:ceb:obs:notes:frames:17-04|<<]] | [[:ceb:obs:notes:17|Up]] | [[:ceb:obs:notes:frames:17-06|>>]]**
