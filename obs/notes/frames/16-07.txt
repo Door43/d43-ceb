@@ -1,18 +1,15 @@
-===== Gideon Was Rescued [16-07] =====
+===== Naluwas si Gideon [16-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink}}
+Pagkabuntag, nakita sa mga tawo nga naguba na ang ilang altar busa nasuko sila pag-ayo. Miadto sila sa balay ni Gideon aron patyon siya, apan miingon ang iyang amahan, “Nganong gipanalipdan man ninyo ang dios-dios. Kung dios pa siya, panalipdan unta niya ang iyang kaugalingon!” Ug tungod niini, wala na nila patya si Gideon.
 
-The next morning the people saw that someone had torn down and destroyed the **altar**, and they were very angry. They went to **Gideon's** house to kill him, but Gideon's father said, “**Why are you trying to help your god**? **If he is a god**, **let him protect himself**!” Because he said this, the people did not kill Gideon.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:altar]]**
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:altar|altar]]**
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:kt:falsegod|dios-dios, langyaw nga dios, dios, diosa]]**
+==== Dugang nga pagpasabot: ====
 
   * **Nganong gipanaplidan man ninyo ang inyong dios-dios? **- Dili kini pangutana nga nagpaabot ug tubag. Ang lahi nga paagi sa pagsulti niini mao kini, “Dili ninyo angay nga panalipdan ang inyong dios-dios” o “Dili ninyo kinahanglang panalipdan ang inyong dios-dios.”
   * **Kung dios pa siya, panalipdan unta niya ang iyang kaugalingon **- Kini nagpasabot nga, “Kung tinuod siya nga dios, makapanalipod siya sa iyang kaugalingon.”
