@@ -1,17 +1,14 @@
-===== The Attack [16-13] =====
+===== Ang Pag-atake [16-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink}}
+Unya, gibuak sa mga Israelita ang ilang mga banga ug nakita na ang ilang mga suga. Ug gipatingog nila ang ilang mga budyong ug naninggit, “Gamiton nato ang atong espada alang sa Dios ug kang Gideon!”
 
-Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and **shouted**, “**A sword for Yahweh and for Gideon**!”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:kt:yahweh]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:kt:yahweh|Yahweh]]**
+==== Dugang nga pagpasabot: ====
 
   * **naninggit**  - Mahubad usab kini nga, “naninggit ug kusog” o “nagsulti sa kusog kaayo nga tingog.”
   * **espada**  - Ang espada usa hinagiban sa panggubatan, taas kini ug hait ug adunay pul-an. Gigamit kini sa mga tawo aron pagbuntog sa ilang mga kaaway pinaagi sa pagtigbas kanila, hait kining butanga. Kung walay ingon niini nga hinagiban sa inyong grupo o katawhan, mahimo nimo kining hubaron nga, “taas nga sundang” o “kampilan” o, “lagaraw”.
