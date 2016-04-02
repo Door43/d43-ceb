@@ -1,29 +1,26 @@
-===== Judah Was Unfaithful [18-13] =====
+===== Wala Nagmatinumanon ang Juda [18-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink}}
+Ang mga kaliwat ni David ang naghari sa Juda. Mga maayong tawo ang ubang kanila ug naghari nga makatarunganon ug misimba sa Dios. Apan daotan ang kadaghanan sa mga hari ug dili matarong, ug nagasimba sila sa mga dios-dios. Gihalad sa ubang hari ang ilang mga anak ngadto sa mga dios-dios. Daghan sa mga taga-Juda ang misupak sa Dios ug misimba sa ubang mga dios-dios.
 
-The **kings** of **Judah** were **descendants** of **David**. Some of these kings were **good** men who **ruled justly** and **worshiped God**. But most of Judah’s kings were **evil**, **corrupt**, and they worshiped **idols**. Some of the kings even **sacrificed** their children to false **gods**. Most of the people of Judah also **rebelled** against God and worshiped other gods.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:kingdomofjudah]]**
-  * **[[:ceb:obe:other:descendant]]**
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:kt:good]]**
-  * **[[:ceb:obe:kt:justice]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:evil]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:other:sacrifice]]**
-  * **[[:ceb:obe:kt:falsegod]]**
-  * **[[:ceb:obe:other:rebel]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:kingdomofjudah|Juda, gingharian sa Juda]]**
+  * **[[:ceb:obe:other:descendant|kaliwat]]**
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:kt:good|maayo,kamaayo]]**
+  * **[[:ceb:obe:kt:justice|makatarunganon, hustisya, makiangayon]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
+  * **[[:ceb:obe:kt:falsegod|dios-dios, langyaw nga dios, dios, diosa]]**
+  * **[[:ceb:obe:other:rebel|pagsupak, masinupakon]]**
+==== Dugang nga pagpasabot: ====
 
   * **naghari nga matarong**  - Kini nagpasabot nga nagdumala sila sumala sa balaod sa Dios. Mahimo usab kining hubaron nga,”sa dihang sila nagdumala, ilang gibuhat kung unsa ang maayo.”
-  * **dili matarong - ** Mahimo usab kining hubaron nga, “nagbuhat ug daotan aron makuha ang ilang gusto.”
+  * **dili matarong - **  Mahimo usab kining hubaron nga, “nagbuhat ug daotan aron makuha ang ilang gusto.”
 **[[:ceb:obs:notes:frames:18-12|<<]] | [[:ceb:obs:notes:18|Up]] | [[:ceb:obs:notes:frames:19-01|>>]]**
