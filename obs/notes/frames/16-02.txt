@@ -1,21 +1,17 @@
 ===== Enemies Defeated Israel [16-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-02.jpg?nolink}}
+Nagpadayon ang mga Israelita sa pagsupak sa Dios, ug tungod niana iya silang gitugotan nga mapildi sa ilang mga kaaway. Gipangilog gikan kanila ang ilang mga gamit, kabtangan, ug daghan ang namatay kanila. Sa kadugayon sa ilang pagsupak ug pag-antos tungod sa ilang mga kaaway, naghinulsol sila ug nagpakitabang sila Dios.
 
-Because the **Israelites** kept **disobeying God**, he **punished** them by allowing their enemies to defeat them. These enemies stole things from the Israelites, destroyed their property, and killed many of them. After many years of disobeying God and being oppressed by their enemies, the Israelites **repented** and **asked God to rescue them**.
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:disobey]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:kt:repent]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:disobey|supak, masinupakon, pagsupak]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+==== Dugang nga pasabot: ====
 
   * **nagpakitabang sila sa Dios**  - Kini nagpasabot nga, naghangyo sila sa Dios nga tabangan ug himoong gawasnon gikan sa ilang mga kaaway.
 **[[:ceb:obs:notes:frames:16-01|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-03|>>]]**
