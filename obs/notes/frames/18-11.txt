@@ -1,20 +1,16 @@
-===== The Evil Kings of Israel [18-11] =====
+===== Ang Daotan nga mga Hari sa Israel [18-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink}}
+Ang tanang hari sa bag-ong gingharian sa Israel, managsama sila nga mga daotan. Daghan kanila ang gipatay sa ilang kauban ra nila nga mga Israelita aron lang pulihan sila sa paghari.
 
-In the new **kingdom** of **Israel**, all the **kings** were **evil**. Many of these kings were killed by other **Israelites** who wanted to become king in their place.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:kingdom|Gingharian]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:kingdom]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:kt:evil]]**
-
-
-
-==== Translation Notes: ====
-
-  * **mga Israelita - ** Ang mga “Israelita” dinhi, naghisgot lang sa mga tawo nga nagpuyo sa amihang bahin nga mao ang gingharian sa Israel, ug wala maapil ang mga tawo nga nagpuyo sa habagatang bahin nga mao ang gingharian sa Juda.
+  * **mga Israelita - **  Ang mga “Israelita” dinhi, naghisgot lang sa mga tawo nga nagpuyo sa amihang bahin nga mao ang gingharian sa Israel, ug wala maapil ang mga tawo nga nagpuyo sa habagatang bahin nga mao ang gingharian sa Juda.
 **[[:ceb:obs:notes:frames:18-10|<<]] | [[:ceb:obs:notes:18|Up]] | [[:ceb:obs:notes:frames:18-12|>>]]**
