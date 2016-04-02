@@ -1,19 +1,16 @@
-===== Messiah Will Be Betrayed [21-11] =====
+===== Ang Mesiyas Pagabudhian [21-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?nolink}}
+Gitagna usab ni propeta Isaias nga ang Mesiyas dumtan ug isalikway bisan walay igong rason. Gitagna na daan sa ubang mga propeta nga magbunot-bunot ang mga tawo nga mopatay kaniya aron bahinon ang iyang mga sapot ug luiban sa iyang amigo. Gitagna usab ni propeta Zacarias nga bayaran ang iyang higala ug trayenta ka salapi ingon nga bayad sa pagluib kaniya.
 
-The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated without reason and rejected**. Other prophets **foretold** that those who killed the Messiah would **gamble for his clothes** and that a friend would **betray** him. The prophet **Zechariah** predicted that the friend would be paid **thirty silver coins** as payment for betraying the Messiah.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:isaiah]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:betray]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:isaiah|Isaias]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:kt:betray|magluib, magbubudhi]]**
+==== Dugang nga pagpasabot: ====
 
   * **dumtan ug isalikway bisan walay igong rason **- Mahimo kining hubaron nga, “dumtan ug isalikway, bisan walay sayop nga iyang nabuhat” o “bisan wala siya'y sala.”
   * **gitagna na daan **- Nagpasabot kini nga ila nang gisulti ang mga butang nga mahitabo sa umaabot. Ang mga pulong nga parehas ang ipasabot niini mao kini, “gitagna” ug “gipropesiya.”
