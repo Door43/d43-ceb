@@ -1,21 +1,17 @@
-===== Messiah Will Heal [21-10] =====
+===== Motambal ang Mesiyas  [21-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink}}
+Miingon si propeta Isaias nga ang Mesiyas mopuyo sa Galilea, molamdag sa nasakitan nga mga tawo, ug mopadayag sa kagawasan ngadto sa mga dinakpan ug mopagawas sa mga piniriso. Gitagna usab niya nga ang Mesiyas moayo sa mga tawo nga bungol, buta, amang, ug mga bakol.
 
+===== Mahinungdanon nga mga Pulong: =====
 
-The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **broken-hearted people**, and **proclaim freedom to captives** and **release to prisoners**. He also predicted that the **Messiah** would **heal** sick people and those who **could not hear**, **see**, **speak**, **or walk**.
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:isaiah]]**
-  * **[[:ceb:obe:other:galilee]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:other:heal]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:isaiah|Isaias]]**
+  * **[[:ceb:obe:other:galilee|Galilea, mga taga-Galilea]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:other:heal|ayo, tambal]]**
+==== Dugang nga pagpasabot: ====
 
   * **nasakitan nga mga tawo**  - Ang ginapasabot niini mao ang mga tawo nga nagsubo sa hilabihan gayod.
   * **mopadayag sa kagawasan ngadto sa mga dinakpan -**  Nagpasabot kini nga, “sultihan ang mga ulipon nga mahimo silang gawasnon.” Nagpasabot usab kini nga mahimong gawasnon ang mga tawo nga naulipon sa sala.
