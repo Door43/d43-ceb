@@ -1,27 +1,23 @@
 ===== David the Shepherd [17-02] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink&}}
 
 **God** chose a young **Israelite** named David to be **king** after **Saul**. David was a **shepherd** from the town of **Bethlehem**. At different times while he was **watching** his father's **sheep**, David had killed both a lion and a bear that had attacked the sheep. David was a **humble** and **righteous** man who **trusted** and **obeyed** God.
-===== Important Terms: =====
+===== Mahinumdanong nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:david]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:saul]]**
-  * **[[:ceb:obe:other:shepherd]]**
-  * **[[:ceb:obe:other:bethlehem]]**
-  * **[[:ceb:obe:other:sheep]]**
-  * **[[:ceb:obe:other:humble]]**
-  * **[[:ceb:obe:kt:righteous]]**
-  * **[[:ceb:obe:kt:trust]]**
-  * **[[:ceb:obe:other:obey]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:david|David]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:saul|Saul (OT)]]**
+  * **[[:ceb:obe:other:shepherd|magbalantay, mobantay sa karnero]]**
+  * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
+  * **[[:ceb:obe:other:sheep|karnero, turong karnero, bayeng karnero]]**
+  * **[[:ceb:obe:other:humble|mapaubsanon, pagpaubos]]**
+  * **[[:ceb:obe:kt:righteous|matarong, pagkamatarong]]**
+  * **[[:ceb:obe:kt:trust|salig, kasaligan]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+==== Dugang nga pasabot: ====
 
   * **Gibantayan **- Kini nagpasabot, “nag-amping” o, “nanalipod” o, “nag-atiman.”
 **[[:ceb:obs:notes:frames:17-01|<<]] | [[:ceb:obs:notes:17|Up]] | [[:ceb:obs:notes:frames:17-03|>>]]**
