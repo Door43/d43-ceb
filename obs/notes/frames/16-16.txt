@@ -1,24 +1,21 @@
-===== Gideon Made an Idol [16-16] =====
+===== Nagbuhat si Gideon ug Rebulto  [16-16] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-16.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-16.jpg?nolink}}
+Unya gihimo ni Gideon ang bulawan nga sanina nga nindot sama sa ginasul-ob sa pangulong pari. Apan gisimba kini sa mga tawo isip dios-dios. Busa gisilotan na usab sa Dios ang Israel tungod sa pagsimba nila sa mga dios-dios. Gitugotan sa Dios nga mapildi sila sa ilang mga kaaway. Apan nagpakitabang gihapon sila sa Dios, ug gipadal-an sila ug lain na usab nga manluluwas.
 
-Then **Gideon used the gold to make a special garment** like the **high priest** used to wear. But the people started **worshiping** it as if it were an **idol**. So **God punished Israel** again because they worshiped idols. God allowed their enemies to defeat them. They finally asked God for help again, and God sent them another **deliverer**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:kt:highpriest|pangulong pari]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:other:idol|rebulto, pagsimba ug dios-dios]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:punish|silot, pagsilot]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:deliverer|luwason,manluluwas]]**
+==== Dugang nga pagpasabot: ====
 
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:kt:highpriest]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:other:idol]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:punish]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:deliverer]]**
-
-
-==== Translation Notes: ====
-
-  * **gihimo ni Gideon ang bulawan sanina nga talagsaon - ** Mahubad usab kini isip, “Gitunaw ni Gideon ang mga bulawan nga gihatag kaniya sa mga tawo ug gihimo niya kini nga usa ka talagsaon nga sanina.”
-  * **nagsimba sa mga dios-dios - ** Mahubad usab kini nga, “misupak sa Dios” o, “wala na misimba sa Dios.”
+  * **gihimo ni Gideon ang bulawan sanina nga talagsaon - **  Mahubad usab kini isip, “Gitunaw ni Gideon ang mga bulawan nga gihatag kaniya sa mga tawo ug gihimo niya kini nga usa ka talagsaon nga sanina.”
+  * **nagsimba sa mga dios-dios - **  Mahubad usab kini nga, “misupak sa Dios” o, “wala na misimba sa Dios.”
 **[[:ceb:obs:notes:frames:16-15|<<]] | [[:ceb:obs:notes:16|Up]] | [[:ceb:obs:notes:frames:16-17|>>]]**
