@@ -1,17 +1,14 @@
-===== Gideon's Army [16-12] =====
+===== Ang Kasundalohan ni Gideon [16-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink}}
+Unya mibalik dayon si Gideon ngadto sa iyang mga sundalo ug gihatagan niya sila ug budyong, banga, ug sulo. Ug gilibotan nila ang kampo sa mga Midianhon nga nangatulog apan gibutang nila ang mga sulo sa ilang mga banga aron dili makita sa mga kaaway ang siga sa sulo.
 
-Then **Gideon** returned to his soldiers and gave each of them a **horn**, a clay pot, and **a torch**. They surrounded the camp where the **Midianite** soldiers were sleeping. Gideon's 300 soldiers had the torches in the pots so the Midianites could not see the light of the torches.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-
-  * **[[:ceb:obe:other:gideon]]**
-  * **[[:ceb:obe:other:midian]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:other:gideon|Gideon]]**
+  * **[[:ceb:obe:other:midian|Midian, Midianhon]]**
+==== Dugang nga pagpasabot: ====
 
   * **budyong**  - Mahimo kining hubaron nga, “trumpeta” o “gikan sa sungay sa turo nga karnero.” Kini nga sungay gikan sa turo nga karneo ug kini gigamit alang sa pagtawag sa mga lalaki nga makig-away sa gubat.
   * **Sulo**  - Kini usa ka sanga sa kahoy nga giputos ug panapton unya gituslob sa lana aron kini mosiga. (Kini dili sama sa suga sa atong panahon karon nga ipasiga pinaagi sa baterya).
