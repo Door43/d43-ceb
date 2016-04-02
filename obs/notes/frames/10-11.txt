@@ -6,9 +6,10 @@ Unya ang Dios nagpadala ug kangitngit sulod sa tulo ka adlaw. Ngitngit kaayo ug 
 
 ===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:god|God]]**
-  * **[[:ceb:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ceb:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ceb:obe:kt:god|GDiosod]]**
+  * **[[:ceb:obe:other:egypt|Ehipto, Ehiptohanon]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+
 ==== Dugang nga Pasabot: ====
 
   * **ang Dios nagpadala ug kangitngit - **  Ang Dios nagpadala ug kangitngit sa tibuok Ehipto. Sa ubang pagkasulti, “gikoha sa Dios ang kahayag sa tibuok Ehipto.”
