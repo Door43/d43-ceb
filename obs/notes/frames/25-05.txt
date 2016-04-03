@@ -1,18 +1,17 @@
-===== Do Not Test God [25-05] =====
+===== Ayaw Tintala ang Dios [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
-===== Important Terms: =====
+Apan gitubag ni  ** Jesus  ** si ** Satanas ** , pinaagi sa pagkutlo sa ** Kasulatan ** , Miingon siya, “ ** Ang pulong sa Dios, nagsugo sa mga tawo nga nag-ingon, 'Ayaw tintala ang Ginoo nga imong Dios ** .'”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:kt:wordofgod]]**
-  * **[[:ceb:obe:kt:lord]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:satan|Satanas, demonyo, yawa]]**
+  * **[[:ceb:obe:kt:wordofgod|pulong sa Dios, pulong ni Yahweh, ang pulong sa Ginoo, kasulatan]]**
+  * **[[:ceb:obe:kt:lord|Ginoo, Agalon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
   * **Ang pulong sa Dios, nagsugo sa mga tawo nga nag-ingon, “Ayaw tintala ang Ginoo nga imong Dios.'”**  - Mahimo kining hubaron sa diretso nga pagsulti: “Gimandoan kita sa Dios sa iyang pulong nga dili nato sulayan ang Ginoo nga atong Dios.”
   * **Ayaw tintala ang Ginoo nga imong Dios -**  Mahimo kining hubaron nga “Ayaw sulayi ang Ginoo nga imong Dios sa pagmatuod kanimo kon kinsa siya” o “Ayaw sulayi ang Ginoo nga imong Dios sa pagmatuod nga maayo siya.”
