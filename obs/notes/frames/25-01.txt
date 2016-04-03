@@ -1,20 +1,19 @@
-===== Satan Tempted Jesus [25-01] =====
+===== Gitintal ni Satanas si Jesus [25-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
-===== Important Terms: =====
+Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**. Pagkahuman ni  ** Jesus **  ** mabawtismohi ** ,  ** gidala dayon siya sa Balaang Espirito ** dito ** sa kamingawan  ** aron  ** makapuasa ** ug k ** warenta (40) ka adlaw ug kwarenta (40) usab ka gabii ** . Unya miabot si  ** Satanas ** ug  ** gitintal niya si Jesus aron makasala ** .
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:baptize]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
-  * **[[:ceb:obe:other:fast]]**
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:kt:tempt]]**
-  * **[[:ceb:obe:kt:sin]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:baptize|pagbawtismo, bunyag]]**
+  * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Spiritu sa Ginoo]]**
+  * **[[:ceb:obe:other:fast|puasa]]**
+  * **[[:ceb:obe:kt:satan|Satanas, demonyo, yawa]]**
+  * **[[:ceb:obe:kt:tempt|tintal, tintasyon]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+===== Dugang nga pagpasabot: =====
 
   * **Gidala siya sa Balaang Espirito**  - Nagapasabot kini nga, “gigiyahan siya sa Espirito Santo” o “gisugo siya sa Espirito Santo nga palakwon siya.”
   * **sa kamingawan -**  Mahimo usab kini nga hubaron nga “desirto” o “mingaw nga dapit, og walay mga tanom ug pipila lang ang mga tawo.” Gamay lang siguro ang mga kahoy didto ug mga tanom, mao nga dili mabuhi ang daghang tawo didto.
