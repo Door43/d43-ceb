@@ -1,16 +1,15 @@
-===== The Levite [27-07] =====
+===== Ang Lebita [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
+“Wala madugay, usa ka Libita ang  ** miagi sa maong dalan ** , ( ** ang mga Libita usa ka tribo sa mga Judio ** nga motabang sa mga bulohaton sa mga ** pari  ** sa templo). Ug mipadaplin usab siya sa dalan ug  ** wala magpakabana  ** sa nanginahanglan ug tabang.”
 
-  * **[[:ceb:obe:other:jew]]**
-  * **[[:ceb:obe:kt:priest]]**
-  * **[[:ceb:obe:kt:temple]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+===== Dugang nga pagpasabot: =====
 
   * (mipadayon si Jesus ug istorya.)
   * **miagi sa maong dalan**  – Nagpasabot nga, ““mipadayon paglakaw sa maong dalan.”
