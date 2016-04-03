@@ -1,18 +1,17 @@
 ===== The Camel and the Needle [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
+Ug giingnan ni  ** Jesus ** ang iyang  ** mga tinun-an ** , “Lisod gayod  ** makasulod ang mga dato sa gingharian sa Dios ** ! Sa tinuod, masayon pa sa usa ka ** kamelyo  ** sa pag-agi sa  ** mata sa dagom ** kay sa dato nga mosulod sa gingharian sa Dios.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:kingdomofgod]]**
+===== Mahinungdanon nga Pulong: =====
 
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:kingdomofgod|gingharian sa Dios, gingharian sa langit]]**
+===== Dugang nga pagpasabot: =====
 
-===== Translation Notes: =====
-
-  * **makasulod ... sa gingharian sa Dios **- Mahimo usab kining hubaron nga, “mahimong usa ka lumolupyo sa gingharian sa Dios.”
+  * **makasulod … sa gingharian sa Dios **- Mahimo usab kining hubaron nga, “mahimong usa ka lumolupyo sa gingharian sa Dios.”
   * **kamelyo**- Ang kamelyo usa ka dako nga mananap nga makahimo sa pagkarga ug bug-at nga mga butang. Kung wala mailhi sa usa ka pinulongan, mahimo magamit ang “dako nga mananap” o, “kusgan sa pagkarga” o mahimo usab nga kini pulihan ug ngalan sama sa mga dagkong mananap, apan gikinahanglan ang ngalan sa mananap nga gipuli ug nailhan usab kini sa mga tawo nga gisultian ni Jesus, sama sa, “baka” o, “asno.”
-  * **mata sa dagom**-  Kini usa ka gamay nga bangag sa ulo sa dagom. Gituyo kining pamaagi  (nga makasulod ang usa ka dakong mananap sa bangag sa dagom) aron mapasundayag ang mga butang nga imposibleng mahitabo.
+  * **mata sa dagom**- Kini usa ka gamay nga bangag sa ulo sa dagom. Gituyo kining pamaagi (nga makasulod ang usa ka dakong mananap sa bangag sa dagom) aron mapasundayag ang mga butang nga imposibleng mahitabo.
 **[[:ceb:obs:notes:frames:28-05|<<]] | [[:ceb:obs:notes:28|Up]] | [[:ceb:obs:notes:frames:28-07|>>]]**
