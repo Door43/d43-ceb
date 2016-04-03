@@ -1,17 +1,16 @@
-===== A Call to Repent [24-02] =====
+===== Ang Tawag sa Paghinulsol [24-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
-Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
-===== Important Terms: =====
+Nangadto ang daghang mga tawo sa ** kamingawan ** aron pagpamati kang  ** Juan ** . Unya  ** giwalihan ** niya sila sa pag-ingon, “ ** Paghinulsol kamo kay hapit na moabot ang gingharian sa Dios ** !”
 
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:other:preach]]**
-  * **[[:ceb:obe:kt:repent]]**
-  * **[[:ceb:obe:kt:kingdomofgod]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:other:preach|wali]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+  * **[[:ceb:obe:kt:kingdomofgod|gingharian sa Dios, gingharian sa langit]]**
+===== Dugang nga pagpasabot: =====
 
   * **Kamingawan**  - Tan-awa kon giunsa nimo kini paghubad sa **[[:ceb:obs:notes:frames:24-01|[24-01]]]**.
   * **Hinulsol -**  Maayo tingali nga hubaron sama niini, “Paghinulsol sa inyong mga sala.”
