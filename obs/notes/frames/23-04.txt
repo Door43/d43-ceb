@@ -1,22 +1,20 @@
-===== The Trip to Bethlehem [23-04] =====
+===== Ang Panaw Ngadto sa Betlehem [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+** Sa dihang hapit na manganak si Maria ** , miingon  ** ang gobyerno sa Roma ** nga kinahanglan nga  ** mopasensos ** ang tanan didto sa lugar sa ilang katigulangan. Busa kinahanglan nga moadto si ** Jose ** ug si Maria sa ** Betlehem  ** ug layo kini gikan sa  ** Nazaret ** , tungod kay didto natawo ang ilang apohan nga si David.
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:other:mary]]**
-  * **[[:ceb:obe:other:rome]]**
-  * **[[:ceb:obe:other:josephnt]]**
-  * **[[:ceb:obe:other:nazareth]]**
-  * **[[:ceb:obe:other:bethlehem]]**
-  * **[[:ceb:obe:other:david]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:mary|Maria]]**
+  * **[[:ceb:obe:other:rome|Roma, Romano]]**
+  * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
+  * **[[:ceb:obe:other:nazareth|Nazaret, Nazarino]]**
+  * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
+  * **[[:ceb:obe:other:david|David]]**
+===== Dugang nga pagpasabot: =====
 
   * **Sa dihang hapit na manganak si Maria -**  Nagpasabot kini nga, “Sa dihang hapit na mahuman ang pagbuntis ni Maria.”
-  * **gobyerno sa Roma - ** Nabuntog sa Roma ang Israel ug gidumalahan nila kini niining panahona.
+  * **gobyerno sa Roma - **  Nabuntog sa Roma ang Israel ug gidumalahan nila kini niining panahona.
   * **Magpasensos**  - Nagpasabot kini nga, “ihapon alang sa listahan sa gobyerno” o “aron masulat sa gobyerno ang ilang mga ngalan sa listahan” o “aron maihap sa gobyerno.” Kini nga sensos gihimo alang siguro sa pagbuhis sa mga tawo.
 **[[:ceb:obs:notes:frames:23-03|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-05|>>]]**
