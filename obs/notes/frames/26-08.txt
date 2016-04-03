@@ -1,16 +1,15 @@
-===== Jesus Healed the Sick [26-08] =====
+===== Giayo ni Jesus ang Nagsakit [26-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
-Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-===== Important Terms: =====
+Ug  ** milibot-libot si Jesus sa rehiyon sa Galilea ** , ug daghan kaayong mga tawo ang mitagbo kaniya. Gidala nila ang mga masakiton, ang mga baldado, ang mga buta, mga bakol, mga bungol, mga amang, ug  ** giayo ** sila ni Jesus.
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:galilee]]**
-  * **[[:ceb:obe:other:heal]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:other:galilee|Galilea, mga taga-Galilea]]**
+  * **[[:ceb:obe:other:heal|ayo, tambal]]**
+===== Dugang nga pagpasabot: =====
 
   * **milibot-libot si Jesus sa rehiyon sa Galilea**  - Nagpasabot kini nga “tanang dapit sa Galilea” o “kada lugar sa Galilea.”
 **[[:ceb:obs:notes:frames:26-07|<<]] | [[:ceb:obs:notes:26|Up]] | [[:ceb:obs:notes:frames:26-09|>>]]**
