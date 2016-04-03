@@ -1,16 +1,15 @@
-===== The Priest [27-06] =====
+===== Ang Pari [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
+“Human niadtong tungora, usa ka ** pari sa mga Judio ang miagi  ** usab didto nga dalan. Sa pagkakita niya sa tawo nga gitulis ug gibun-og, mipadaplin siya sa dalan ug milabay lang.  ** Wala siya nagpakabana sa tawo ** nga nanginahanglan ug tabang, ug  ** mipadayon siya sa paglakaw ** .
 
-  * **[[:ceb:obe:other:jew]]**
-  * **[[:ceb:obe:kt:priest]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
+  * **[[:ceb:obe:other:jewishleaders|mga pangulo sa mga Judio, mga pangulo sa relihiyon sa mga Judio]]**
+===== Dugang nga pagpasabot: =====
 
   * (mipadayon si Jesus ug istorya.)
   * **miagi usab didto **– Nagpasabot nga, “nahitabo nga nagpanaw.” Sa ubang pinulongan gikinahanglan nga gamiton ang pulong nga “panaw” kaysa “lakaw” tungod kay wala lang nagalakaw ang pari sa dalan apan nagapanaw kini paingon sa pikas lungsod.
