@@ -1,16 +1,15 @@
-===== Not the Messiah [24-05] =====
+===== Dili Mesiyas  [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
+Gipangutana si  ** Juan ** sa uban nga mga  ** Judio ** kung siya ba ang ** Mesiyas ** . Apan mitubag si Juan, “Dili ako ang Mesiyas. Apan adunay moabot sunod kanako, ug  ** halangdon ** pa siya kanako kay ** dili ko takos bisan nalang sa paghukas sa iyang sandalyas ** .”
 
-  * **[[:ceb:obe:other:jew]]**
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:kt:christ]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+===== Dugang nga pagpasabot: =====
 
   * **halangdon siya -**  Mahimo kining hubaron nga, “mahinungdanon siya kaayo.”
   * **dili ko takos bisan nalang sa paghukas sa iyang sandalyas**  - Sa ubang pagkasulti, “kon itandi kaniya, dili ko takos bisan nalang sa pagbuhat sa ubos nga trabaho alang kaniya.” Ang paghukas sa sandalyas sa laing tawo, usa kini ka ubos nga trabaho nga kasagaran ginabuhat sa mga ulipon.
