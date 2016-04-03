@@ -1,12 +1,12 @@
-===== The Robbers [27-05] =====
+===== Ang mga Kawatan [27-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
-===== Important Terms: =====
+Sa dihang naglakaw kining tawhana, gitulis siya sa usa ka grupo sa mga tulisan.  ** Gikuha nila ang tanan nga anaa kaniya ** ug gibun-og nila siya ug maayo hangtod nga hapit na siya mamatay. Ug gibiyaan nila ang tawo.”
 
+===== Mahinungdanon nga Pulong: =====
 
-===== Translation Notes: =====
+===== Dugang nga pagpasabot: =====
 
   * (mipadayon si Jesus ug istorya.)
   * **tanan nga anaa kaniya**  – Kini nagpasabot nga, “tanan niyang kabtangan nga naa niya, lakip na ang bisti nga iyang gisuot.”
