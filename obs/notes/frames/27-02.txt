@@ -1,26 +1,23 @@
-===== Obey the Commandments [27-02] =====
+===== Tumana ang Kasugoan [27-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink&}}
 
+Mitubag ang  ** hanas sa balaod ** , “Ang  ** balaod sa Dios nagaingon ** nga  ** higugmaa ang Ginoo nga imong Dios sa tibuok mong kasingkasing, kalag, kusog ug hunahuna ** , ug ** higugmaa ang imong silingan sama sa paghigugma nimo sa imong kaugalingon ** .” Mitubag si  ** Jesus ** , “Tinuod kana, himoa kini ug ikaw  ** mabuhi ** .”
 
+===== Mahinungdanon nga Pulong: =====
 
-The **law expert** replied that **God's law** says, “**Love the Lord your God with all your heart, soul, strength, and mind**. And **love your neighbor as yourself**.” **Jesus** answered, “You are correct! Do this and you will **live**.”
-===== Important Terms: =====
-
-  * **[[:ceb:obe:kt:lawofmoses]]**
-  * **[[:ceb:obe:kt:love]]**
-  * **[[:ceb:obe:kt:lord]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:life]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]]**
+  * **[[:ceb:obe:kt:love|gugma]]**
+  * **[[:ceb:obe:kt:lord|Ginoo, agalon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+===== Dugang nga pagpasabot: =====
 
   * **hanas sa balaod **– Kana nagpasabot nga, “usa ka hanas sa balaod sa mga Judio.” Tan-awa kung giunsa paghubad kini nga pulong sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**
-  * **higugmaa ang Ginoo nga imong Dios **– Mahimo ka magpili sa imong pagasultion bahin niini,  “Higugmaon nato ang Dios.” Siguraduhon lang nga dili kini magpasabot nga gimandoan si Jesus. Hinuon, nagkutlo siya sa gisulti sa mando sa Dios nga himoon sa katawhan.
+  * **higugmaa ang Ginoo nga imong Dios **– Mahimo ka magpili sa imong pagasultion bahin niini, “Higugmaon nato ang Dios.” Siguraduhon lang nga dili kini magpasabot nga gimandoan si Jesus. Hinuon, nagkutlo siya sa gisulti sa mando sa Dios nga himoon sa katawhan.
   * **sa tibuok mong kasingkasing, kalag, kusog ug hunahuna**  – Kini nagpasabot nga, “sa tibuok nimong kaugalingon” o, “sa tanang bahin sa imong kaugalingon.” Sa ubang pinulongan gihubad kini nga, “sa tibuok nimong pagkatawo, ginhawa, kusog, ug mga hunahuna.” Wala kini magtutok sa bahin sa lawas, apan sa atong tibuok nga kaugalingon. Kini nga panghunahuna naghisgot mahitungod sa usa ka tibuok pagkatawo ug gamita ang angayang pulong sa imong pinulongan.
-  * **Kasingkasing- ** Bahin kini sa lawas sa tawo nga naay mga tinguha ug pagbati.
+  * **Kasingkasing- **  Bahin kini sa lawas sa tawo nga naay mga tinguha ug pagbati.
   * **kalag **– Naghisgot kini sa dili lawasnon ug kalagnon nga bahin sa usa ka tawo.
   * **kusog **– Naghisgot kini sa usa ka lawasnong kusog sa usa ka tawo ug sa iyang mga abilidad.
   * **Hunahuna **– Naghisgot kini sa bahin sa lawas sa tawo nga naay hunahuna, mga plano, ug naay mga panghunahuna.
