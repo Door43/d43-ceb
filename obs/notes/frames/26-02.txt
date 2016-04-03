@@ -1,23 +1,21 @@
-===== Jesus in Nazareth [26-02] =====
+===== Si Jesus sa Nazaret [26-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
-===== Important Terms: =====
+Unya miadto si  ** Jesus ** sa lungsod sa  ** Nazaret ** kon asa siya nidako. Pag-abot sa  ** Adlaw'ng Igpapahulay ** , miadto siya sa  ** balay simbahanan ** . Gihatagan siya ug linukot nga  ** basahon ni propeta Isaias ** aron ipabasa kaniya.  ** Gibukhad ni Jesus ang linukot ** ug gibasa niya ang usa ka bahin niini alang sa mga tawo.
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:nazareth]]**
-  * **[[:ceb:obe:kt:sabbath]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:isaiah]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:other:nazareth|Nazaret, Nazarino]]**
+  * **[[:ceb:obe:kt:sabbath|pahulay]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:isaiah|Isaias]]**
+===== Dugang nga pagpasabot: =====
 
   * **balay ampoanan -**  Mao kini ang “balay nga tigomanan sa mga Judio aron magsimba sa Dios.” Mahimo usab kini nga hubaron nga, “balay nga simbahanan.”
   * **linukot nga basahon**  - Ang linukot nga basahon taas kini nga papel o panit nga gilukot ug naay sulat niini.
   * **ang linukot nga basahon ni propeta Isaias -**  Mao kini ang “linukot nga basahon nga gisulatan ni propeta sa iyang gipanulti.”
   * **Gibukhad niya ang linukot nga basahon -**  Mahimo kini nga hubaron nga, “giablihan ang linukot nga basahon.”
-
 **[[:ceb:obs:notes:frames:26-01|<<]] | [[:ceb:obs:notes:26|Up]] | [[:ceb:obs:notes:frames:26-03|>>]]**
