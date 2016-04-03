@@ -1,22 +1,20 @@
-===== The Second Temptation [25-04] =====
+===== Ang Ikaduhang Tintasyon [25-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}
 
-**Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+Unya  ** gidala si Jesus ni Satanas ** sa kinatas-ang bahin sa  ** templo ** ug giingnan, “Kung ikaw ang  ** Anak sa Dios ** , a ** mbak sa ubos ** kay  ** nasulat man kini ** , 'Sugoon sa ** Dios ** ang iyang mga  ** anghel ** aron sa pagsalo kanimo  ** aron dili mabunal sa mga bato ang imong mga tiil ** .”
 
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:temple]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:angel]]**
+  * **[[:ceb:obe:kt:satan|Satanas, demonyo, yawa]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:temple|templo]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+===== Dugang nga pagpasabot: =====
 
-
-===== Translation Notes: =====
-
-  * **ambak sa ubos - ** Nagapasabot kini nga “ambak gikan sa taas nga templo padulong sa yuta.”
+  * **ambak sa ubos - **  Nagapasabot kini nga “ambak gikan sa taas nga templo padulong sa yuta.”
   * **nasulat man kini**  - Nagpasabot kini nga “gisulat kini sa propeta sa Dios kaniadto pa.”
   * **aron dili mabunal sa mga bato ang imong mga tiil**  - Nagpasabot kini nga “aron dili ka masakitan; bisan ang imong tiil dili gani maigo sa bato.” Mahimo usab kini nga hubaron nga “aron bisan ang imong tiil dili mabunal sa bato; dili ka mabalibalian.”
 **[[:ceb:obs:notes:frames:25-03|<<]] | [[:ceb:obs:notes:25|Up]] | [[:ceb:obs:notes:frames:25-05|>>]]**
