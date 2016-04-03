@@ -1,16 +1,13 @@
-===== Not Willing to Obey [28-05] =====
+===== Dili gusto nga Mosunod [28-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
-When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+Sa ** pagkadungog niya sa gisulti ni Jesus ** , naguol siya pag-ayo, tungod kay dato man siya kaayo ug dili niya gusto nga ipanghatag ang tanan niyang mga bahandi. Mitalikod siya ug milakaw palayo kang Jesus.
 
+===== Mahinungdanon nga Pulong: =====
 
-===== Important Terms: =====
-
-  * **[[:ceb:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+===== Dugang nga pagpasabot: =====
 
   * **Sa pagkadungog niya sa gisulti ni Jesus**- Mahimo usab kini nga hubaron, “Nadungog niya ang gisulti ni Jesus nga ipanghatag ang tanan niyang gipanag-iyahan.”
 **[[:ceb:obs:notes:frames:28-04|<<]] | [[:ceb:obs:notes:28|Up]] | [[:ceb:obs:notes:frames:28-06|>>]]**
