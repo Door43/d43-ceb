@@ -1,17 +1,16 @@
-===== Sell Everything [28-04] =====
+===== Ibaligya ang Tanan  [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
-===== Important Terms: =====
+Mitubag si  ** Jesus ** , “Kung gusto  ** nimo ** nga mahimo kang ** hingpit ** , lakaw ug ibaligya ang ** tanan nimong kabtangan ** , ug ang halin niini ihatag sa mga kabos, ug aron anaa kay  ** bahandi ** didto  ** sa langit ** . Unya balik ug sunod ka kanako.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:heaven]]**
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:heaven|langit, kawanangan, kalangitan, langitnon]]**
+===== Dugang nga pagpasabot: =====
 
-===== Translation Notes: =====
-
-  * **ikaw**- //Sa ubang pinulongan, usa lang ka pulong ang ilang gigamit sa “ikaw” nga naghisgot sa usa lang ka tawo, ug sa “kaninyo” nga naghisgot sa daghang tawo. Apan dinhi, usa ra ka tawo ang gipasabot ni Jesus sa iyang gisulti.//
+  * **ikaw**- Sa ubang pinulongan, usa lang ka pulong ang ilang gigamit sa “ikaw” nga naghisgot sa usa lang ka tawo, ug sa “kaninyo” nga naghisgot sa daghang tawo. Apan dinhi, usa ra ka tawo ang gipasabot ni Jesus sa iyang gisulti.
   * **hingpit**- Nagpasabot kini nga, “hingpit nga matarong.”
   * **tanan nimong kabtangan**- Mahimo kining ingnon nga, “ang tanan nimong mga katigayonan.”
   * **bahandi**- Mahimo usab kini nga hubaron, “mga salapi” o, “daghang bahandi.”
