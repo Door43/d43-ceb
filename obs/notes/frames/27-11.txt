@@ -1,22 +1,20 @@
-===== Do the Same [27-11] =====
+===== Buhata ang Sama Usab Niini [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.” Ug unya gipangutana ni  ** Jesus ** ang  ** hanas sa balaod ** , “Unsay hunahuna nimo? Kinsa sa ** tulo ka tawo ang silingan ** sa gitulis ug gibun-og nga tawo?” Mitubag siya, “Kadtong adunay  ** kaluoy ug mitabang ** kaniya.” Miingon si Jesus kaniya, “ ** Lakaw ug buhata usab ang sama niini ** .”
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:mercy]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:mercy|kalooy, maloloy-on]]**
+===== Dugang nga pagpasabot: =====
 
   * **hanas sa balaod **– Kana Nagpasabot nga, “usa ka hanas sa balaod sa mga Judio.” Tan-awa kung gi-unsa kining pulonga paghubad sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**.
-  * **tulo ka tawo** – ang tulo ka tawo mao ang Pari, Libita, ug Samaritanhon.
-  * **silingan** – Gigamit ni Jesus ang lalom nga pulong nga “silingan” nga makita usab sa **[[:ceb:obs:notes:frames:27-02|[27-02]]]**. Ang “Silingan” niining tungora nagpasabot sa tanang tawo nga nagkinahanglan sa atong mga tabang.
-  * **Ang silingan** – Mahimo usab kining hubaron nga, “adunay batasan sama sa usa ka tinuod nga silingan” o, “usa ka higala” o, “milihok sa mahigugmaong pamaagi”. Tan-awa kung giunsa nimo paghubad ang **[[:ceb:obs:notes:frames:27-02|[27-02]]]** ug **[[:ceb:obs:notes:frames:27-03|[27-03]]]**.
+  * **tulo ka tawo**  – ang tulo ka tawo mao ang Pari, Libita, ug Samaritanhon.
+  * **silingan**  – Gigamit ni Jesus ang lalom nga pulong nga “silingan” nga makita usab sa **[[:ceb:obs:notes:frames:27-02|[27-02]]]**. Ang “Silingan” niining tungora nagpasabot sa tanang tawo nga nagkinahanglan sa atong mga tabang.
+  * **Ang silingan**  – Mahimo usab kining hubaron nga, “adunay batasan sama sa usa ka tinuod nga silingan” o, “usa ka higala” o, “milihok sa mahigugmaong pamaagi”. Tan-awa kung giunsa nimo paghubad ang **[[:ceb:obs:notes:frames:27-02|[27-02]]]** ug **[[:ceb:obs:notes:frames:27-03|[27-03]]]**.
   * **lakaw ug buhata**  – Nagpasabot nga, “ikaw usab, lakaw ug himoa kini” o, “himoa kini karon dayon.” Gimandoan ni Jesus ang hanas sa balaod nga himoon usab niya ang gihimo sa Samaritanhon.
   * **buhata usab ang sama niini **– Nagpasabot nga, “higugmaon ang uban, bisan pa nga kaaway nimo kini.” Apan kinahanglan nga maklaro nga dili lang kini magpasabot nga ang nasamdan lang maoy tabangan.
-  * **//kini nga istoya sa Biblia- ang mga  kasayuran niinig istoryaha naay kalahian sa uban hubad sa ubang Biblia Usa ka istorya sa Biblia gikan sa: Lukas 10:25-37// **
+  * **//kini nga istoya sa Biblia- ang mga kasayuran niinig istoryaha naay kalahian sa uban hubad sa ubang Biblia Usa ka istorya sa Biblia gikan sa: Lukas 10:25-37// **
 **[[:ceb:obs:notes:frames:27-10|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:28-01|>>]]**
