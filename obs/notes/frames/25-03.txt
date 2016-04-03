@@ -1,18 +1,16 @@
-===== God's Word Gives Life [25-03] =====
+===== Ang Pulong sa Dios Makahatag ug Kinabuhi [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
+Mitubag si  ** Jesus ** , “Nasulat sa  ** pulong sa Dios ** nga nag-ingon, 'Dili lang ** pagkaon ** ang gikinahanglan sa mga tawo aron mabuhi,  ** kondili nagkinahanglan usab sila sa matag pulong nga isulti sa Dios ** !”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:wordofgod]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:wordofgod|pulong sa Dios, pulong ni Yahweh, ang pulong sa Ginoo, kasulatan]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
   * **Pan**  – Mahimo kining hubaron nga “pagkaon” ngadto sa ubang mga pinulongan nga dili pan ang kasagarang ginakaon. Ang pan mao ang kasagarang ginakaon sa mga Judio nga tribo.
   * **apan nagkinahanglan usab sila sa matag pulong nga isulti sa Dios!**  - Ang ubang paagi sa paghubad niini mao ang “Hinuon, kinahanglang maminaw ang mga tawo ug motuman sa tanan nga isulti sa Dios” o “Hinuon, makabaton ang mga tawo ug tinuod nga kinabuhi pinaagi sa pagtuo ug pagtuman sa isulti sa Dios.”
-
 **[[:ceb:obs:notes:frames:25-02|<<]] | [[:ceb:obs:notes:25|Up]] | [[:ceb:obs:notes:frames:25-04|>>]]**
