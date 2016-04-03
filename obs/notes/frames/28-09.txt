@@ -1,16 +1,15 @@
-===== What Is Our Reward? [28-09] =====
+===== Unsay Among Ganti? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
-**Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
-===== Important Terms: =====
+Mitubag si ** Pedro ** kang ** Jesus ** , “Among  ** gibiyaan ang tanan ** ug misunod kami kanimo.  ** Unsa lang man diay ang among ganti ** ?”
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+===== Dugang nga pagpasabot: =====
 
   * **gibiyaan ang tanan**- Nagpasabot kini nga, “gitalikdan ang tanan” o, “tanan nga gipanag-iyahan iyang gibiyaan.”
-  * **Unsa lang man diay ang among ganti?-**  Ubang pamaagi sa paghubad niini, “unsang gantiha ang among madawat” o, “unsaon namo pagdawat ang among mga ganti?” o, “unsay ihatag sa Dios kanamo isip ganti?” Mahimo usab nga dugangan kung kinahanglan, “...tungod amo kining gihimo?”
+  * **Unsa lang man diay ang among ganti?-**  Ubang pamaagi sa paghubad niini, “unsang gantiha ang among madawat” o, “unsaon namo pagdawat ang among mga ganti?” o, “unsay ihatag sa Dios kanamo isip ganti?” Mahimo usab nga dugangan kung kinahanglan, “…tungod amo kining gihimo?”
 **[[:ceb:obs:notes:frames:28-08|<<]] | [[:ceb:obs:notes:28|Up]] | [[:ceb:obs:notes:frames:28-10|>>]]**
