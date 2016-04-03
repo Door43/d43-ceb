@@ -1,19 +1,18 @@
-===== What Must I Do? [28-01] =====
+===== Unsay Akong Pagahimoon? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
-**One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
+** Usa ka adlaw ** ,  ** miadto kang Jesus ang usa ka batan-on ug dato nga pangulo ** ug nangutana kaniya, “ ** Maayong magtutudlo ** , unsay akong pagahimoon  ** aron makabaton ko ug kinabuhi nga walay kataposan ** ?” Miingon si Jesus kaniya, “ ** Nganong gitawag mo ako nga ‘maayo’ ** ?  ** Usa ra ang maayo, ang Dios ** . Apan kung gusto nimo makabaton ug kinabuhing walay kataposan,  ** tumana ang mga balaod sa Dios ** .”
+
 ===== Important Terms: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:good]]**
-  * **[[:ceb:obe:kt:teacher]]**
-  * **[[:ceb:obe:kt:eternity]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:good|maayo,kamaayo]]**
+  * **[[:ceb:obe:kt:teacher|magtutudlo, Magtutudlo]]**
+  * **[[:ceb:obe:kt:eternity|kahangtoran, walay kataposan, walay kinutoban]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]]**
 ===== Translation Notes: =====
 
   * **Usa ka Adlaw**  – Kini nga mga pulong nagahisgot ug usa ka kaagi nga milabay sa dugay na nga panahon, apan wala maghisgot kung kanus-a kini nahitabo. Kadaghanan sa mga pinulongan adunay samang pamaagi sa pagsugod sa usa ka tinuod nga istorya.
@@ -21,7 +20,7 @@
   * bisan pa tuod ug batan-on pa siya.
   * **Miadto kang Jesus**- Mahimo usab nga “miduol kang Jesus.”
   * **Maayong magtutudlo**- Mahimo usab nga “matarong nga magtutudlo.” Wala siya mag-ingon nga si Jesus usa lang ka yanong hanas nga magtutudlo.
-  * **Makabaton ug kinabuhi nga walay kataposan**- Mahimo usab nga “makadawat ug kinabuhing walay kataposan” o, “magpuyo uban sa Dios  hangtod sa kahangturan.” mahimo usab nga i-apil ang “kinabuhing walay kataposan” nga nahubad sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**
+  * **Makabaton ug kinabuhi nga walay kataposan**- Mahimo usab nga “makadawat ug kinabuhing walay kataposan” o, “magpuyo uban sa Dios hangtod sa kahangturan.” mahimo usab nga i-apil ang “kinabuhing walay kataposan” nga nahubad sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**
   * ug basihan ang nahisulat didto mahitungod niining pulonga.
   * **Nganong gitawag mo ako nga ‘maayo’?- W**ala maglimod si Jesus sa iyang pagka-Dios. Hinuon, nangutana siya kung ang batan-on nakasabot ba nga si Jesus ang Dios.
   * **Usa ra ang maayo, ang Dios**- Sa ubang pagkasulti, “usa ra ang maayo ang Dios” o, “Ang Dios ra ang maayo.”
