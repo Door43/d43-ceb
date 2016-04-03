@@ -1,19 +1,18 @@
-===== The Ministry of Elisha [26-06] =====
+===== Ang Ministeryo ni Eliseo [26-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
-**Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
+Nagpadayon si  ** Jesus ** sa pagsulti, “Sa panahon usab ni  ** propeta Eliseo ** , daghan usab ang mga ** Israelita ** nga naay sakit sa panit, apan wala sila  ** giayo ** ni Eliseo. Si  ** Naaman  ** lang ang iyang giayo  ** nga pangulo ** sa mga kaaway sa Israel.” Mga ** Judio ** ang mga tawo nga naminaw kang Jesus. Busa sa pagkadungog nila sa gisulti ni Jesus,  ** nasuko sila pag-ayo kaniya ** .
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:other:heal]]**
-  * **[[:ceb:obe:other:naaman]]**
-  * **[[:ceb:obe:other:jew]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:other:heal|ayo, tambal]]**
+  * **[[:ceb:obe:other:naaman|Naaman]]**
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+===== Dugang nga pagpasabot: =====
 
   * **Eliseo**: Propeta sa Dios si Eliseo nga misunod kang Elias. Sama siya kang Elias nga nagpahimangno sa mga hari nga Israelita nga nagpakasala sa Dios ug nagbuhat usab siya ug mga milagrosong mga butang nga gipabuhat sa Dios kaniya.
   * **pangulo**: Nagpasabot kini nga “pangulo sa mga kasundalohan.”
