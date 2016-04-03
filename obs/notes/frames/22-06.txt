@@ -1,17 +1,15 @@
-===== Mary and Elizabeth [22-06] =====
+===== Si Maria ug Elizabet [22-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&}}
 
+Pagkahuman ug istorya sa  ** anghel ** kang Mariya, miadto na dayon siya kang  ** Elizabe ** t.  ** Milihok ang bata sa sabakan ni Elizabet sa dihang nadungog niya ang tingog ni Maria nga nangayo ug katahuran ** . Nalipay ang mga babaye sa gibuhat sa Dios kanila. Mipuyo si Maria uban kang Elizabet sulod sa tulo ka bulan, ug unya mipauli siya.
 
-Soon after the **angel** spoke to **Mary**, she went and visited **Elizabeth**. **As soon as Elizabeth heard Mary’s greeting**, Elizabeth’s **baby jumped inside her**. The women rejoiced together about **what God had done for them**. After Mary visited Elizabeth for three months, Mary returned home.
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:other:mary]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:other:mary|Maria]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
   * **Elizabet**  - Tan-awa ang gisulat mahitungod kang Elizabet sa **[[:ceb:obs:notes:frames:22-04|[22-04]]]**.
   * **Sa dihang nadungog niya ang tingog ni Maria nga nangayo ug katahoran**  - Maayo nga ingon niini ang pagkahubad sa ubang mga pinulongan, “Giabi-abi ni Maria si Elizabet ug sa dihang nadunggan dayon siya ni Elizabet.”
