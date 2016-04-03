@@ -1,23 +1,21 @@
-===== Mary Was Pregnant [23-01] =====
+===== Buntis si Maria [23-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
+Napamalay-an na si ** Maria ** sa usa ka tawo nga  ** matarong ** nga si  ** Jose ** . Pagkadungog niya nga buntis na si Maria,  ** nakahibalo gayod siya nga dili niya anak ang bata ** . Apan dili niya gusto nga ** pakaulawan si Maria ** , busa  ** naghunahuna siya nga bulagan niya si Maria sa tago lang ** . Apan sa wala pa niya kini mahimo, giadtoan siya sa  ** anghel ** ug giistoryahan pinaagi sa iyang  ** damgo ** .
 
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:other:mary]]**
-  * **[[:ceb:obe:kt:righteous]]**
-  * **[[:ceb:obe:other:josephnt]]**
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:other:dream]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:mary|Maria]]**
+  * **[[:ceb:obe:kt:righteous|matarong, pagkamatarong]]**
+  * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:other:dream|damgo]]**
+===== Dugang nga pagpasabot: =====
 
   * **Nakahibalo gayod siya nga dili niya anak ang bata -**  Nagpasabot kini nga “nasayod siya nga dili siya ang nakabuntis kaniya.”
   * **nga pakaulawan si Maria -**  Nagpasabot kini nga, “aron pakaulawan siya sa atubangan sa mga tawo” o “aron pakaulawan si Maria sa kadaghanan.” Naluoy si Jose kang Maria, bisan pa mura ug nakapanapaw siya.
   * **naghunahuna siya nga bulagan siya sa tago**  - Mahimo usab kini nga hubaron nga, “Nagplano siya nga bulagan siya ug dili sultihan ang uban kon ngano,” o “Nagplano siya nga bulagan siya ug dili niya sultihan ang uban nga buntis siya.” Tungod kay matarong si Jose, gusto niya nga sulbaron ang problema sa maayong pamaagi, ug sa ilang kultura mahimo kini pinaagi sa pagbulag kang Maria sa sikreto lang.
-  * **bulagan niya -**  Sa ubang mga pinulongan, maayo nga hubaron kini sama niini, “bugtuon ang ilang panagsaad nga magminyo.” Napamalay-an na ni Jose si Maria  o “nagsinaaray na nga magminyo.” Apan sa kultura sa mga Judio, gikinahanglan ang panagbulag aron mabugto ang panagsaad nga magminyo sila.
+  * **bulagan niya -**  Sa ubang mga pinulongan, maayo nga hubaron kini sama niini, “bugtuon ang ilang panagsaad nga magminyo.” Napamalay-an na ni Jose si Maria o “nagsinaaray na nga magminyo.” Apan sa kultura sa mga Judio, gikinahanglan ang panagbulag aron mabugto ang panagsaad nga magminyo sila.
   * **sa damgo**: Nagpasabot nga, “samtang natulog siya ug nagdamgo.”
 **[[:ceb:obs:notes:frames:22-07|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-02|>>]]**
