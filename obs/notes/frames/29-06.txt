@@ -1,14 +1,13 @@
-===== To Prison [29-06] =====
+===== Gipapriso [29-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
-“The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
-===== Important Terms: =====
+“Ang iyang ** kauban nga sulugoon miluhod sa iyang atubangan ** ug miingon, ‘Kaloy-i intawon ako. Pagabayran ko ikaw sa tanan kong mga utang kanimo.’ Apan ang nahitabo,  ** gipapriso hinuon niya ang iyang kauban nga sulugoon ** hangtod mabayran niya ang iyang mga utang.”
 
-  * **[[:ceb:obe:other:servant]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+===== Dugang nga pagpasabot: =====
 
   * **kauban nga sulugoon**- Hubaron kini sama sa **[[:ceb:obs:notes:frames:29-05|[29-05]]]**.
   * **miluhod**- Kining pulong sama sa buot ipasabot sa **[[:ceb:obs:notes:frames:29-04|[29-04]]]**.
