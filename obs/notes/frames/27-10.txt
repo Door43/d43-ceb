@@ -1,18 +1,17 @@
-===== Generous Help [27-10] =====
+===== Ang Pagkamatinabangon [27-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
-“The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
-===== Important Terms: =====
+“Sunod adlaw, gikinahanglan nga  ** mopadayon  ** ang  ** Samaritanhon ** sa ** iyang lakaw ** . Gihatagan niya ug salapi ang  ** gabantay ** sa balay nga abanganan ug giingnan, ' ** Atimana siya ** . Kon kulang ang kwarta nga akong gihatag,  ** ako rang bayran ** inigbalik nako ang ** imong magasto ** .'”
 
-  * **[[:ceb:obe:other:samaria]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:samaria|Samaria, Samaritanhon]]**
+===== Dugang nga pagpasabot: =====
 
   * (mipadayon si Jesus ug istorya.)
-  * **modayon sa iyang lakaw** – Mahimo usab kining hubaron nga, “mipadayon sa iyang panaw ngadto sa iyang padulngan.”
+  * **modayon sa iyang lakaw**  – Mahimo usab kining hubaron nga, “mipadayon sa iyang panaw ngadto sa iyang padulngan.”
   * **gabantay**- Nagpasabot kini nga, “ang midumala.” Mahimo usab nga ang nagdumala mao usab ang tag-iya sa balay katulganan.
   * **Atimana siya**- Sa ubang pinulongan mahimo usab kining ingnon nga, “palihog atimana siya ug maayo” aron maklaro nga usa kini ka pamalihog ug dili mando.
-  * **bayran ang magasto** – pwede usab kining hubaron nga, “bayran ka” o, “bayran ang salapi” o, “bayran ra na.”
+  * **bayran ang magasto**  – pwede usab kining hubaron nga, “bayran ka” o, “bayran ang salapi” o, “bayran ra na.”
 **[[:ceb:obs:notes:frames:27-09|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:27-11|>>]]**
