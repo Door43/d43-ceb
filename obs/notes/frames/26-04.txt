@@ -1,18 +1,16 @@
-===== The Prophesy about Jesus [26-04] =====
+===== Ang Propesiya Mahitungod kang Jesus [26-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
+Unya milingkod si  ** Jesus ** , ug gitutokan siya pag-ayo sa tanang tawo. Nakahibalo sila nga kadtong iyang gibasa, ** sinulat ** kadto mahitungod sa  ** Mesiyas ** . Miingon si Jesus, “ ** Ang akong gibasa kaninyo, nahitabo na karon ** .”  // Natingala  // ang tanan ug nag-ingon, “ ** Di ba siya man ang anak ni Jose ** ?”
 
-Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:wordofgod]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:other:josephnt]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:wordofgod|pulong sa Dios, pulong ni Yahweh, ang pulong sa Ginoo, kasulatan]]**
+  * **[[:ceb:obe:kt:christ|Cristo, Mesiyas]]**
+  * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
+===== Dugang nga pagpasabot: =====
 
   * **Natingala**  - Hubara ang pulong nga “natingala” sa pulong nga nagapasabot ug nakurat, nakalitan, ug nalibog kon nganong nahitabo man kadto.
   * **Ang mga pulong nga akong gibasa kaninyo, nagakahitabo karon**  - Kini ang ubang pamaagi sa paghubad niini, “Ang mga pulong nga inyong nadunggan nga akong gibasa natuman na karon” o “Karon ang mga pulong nga akong gibasa kaninyo nahimong tinuod sama sa pagkadungog ninyo niini.”
