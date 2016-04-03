@@ -1,18 +1,17 @@
-===== A Baptism of Repentance [24-03] =====
+===== Ang Bawtismo sa Paghinulsol [24-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
-===== Important Terms: =====
+Sa pagkadungog sa mga tawo sa iyang mensahe, daghan ang  ** naghinulsol sa ilang mga sala ** , ug  ** gibawtismohan ** sila ni Juan. Daghan usab ang  ** mga pangulo sa relihiyon sa mga Judio  ** nga miadto kang Juan aron pagpabawtismo,  ** apan wala sila maghinulsol o magsugid sa ilang mga sala. **
 
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:kt:repent]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:baptize]]**
-  * **[[:ceb:obe:other:jewishleaders]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:kt:repent|paghinulsol, hinulsol]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:baptize|pagbawtismo, bunyag]]**
+  * **[[:ceb:obe:other:jewishleaders|mga pangulo sa mga Judio, mga pangulo sa relihiyon sa mga Judio]]**
+===== Dugang nga pagpasabot: =====
 
   * **naghinulsol sa ilang mga sala -**  Mahimo kining hubaron nga “nanghinulsol sila tungod sa ilang mga sala” o “nausab ang ilang mga hunahuna mahitungod sa ilang mga sala” o “nagpalayo sila sa ilang mga sala.”
   * **wala maghinulsol**  - Nagapasabot kini nga, “wala sila mobiya sa silang mga sala.”
