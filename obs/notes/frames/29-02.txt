@@ -1,19 +1,18 @@
-===== The Huge Debt [29-02] =====
+===== Ang Dako nga Utang [29-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
-Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
-===== Important Terms: =====
+Miingon si Jesus, “ ** Ang gingharian sa Dios sama sa usa ka hari ** nga gusto  ** makighusay sa utang sa iyang mga sulugoon ** . Usa sa mga sulugoon niya naay utang nga dako kaayo nga nagkantidad ug 200,000 ka tuig nga suhol sa pagtrabaho.”
 
-  * **[[:ceb:obe:kt:kingdomofgod]]**
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:servant]]**
+===== Mainungdanon nga mga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:kingdomofgod|gingharian sa Dios, gingharian sa langit]]**
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+===== Dugang nga pagpasabot: =====
 
   * **Ang gingharian sa Dios sama sa **- Usa ka pamaagi sa pagsulti mao kini, “Ang paghari sa Dios sa katawhan sama sa” o, “Ang paagi sa paghari sa Dios maitandi sa.”
-  * **sama sa usa ka hari- ** Mahimo kining hubaron nga, “sama sa gingharian sa usa ka hari” o, “maitandi kini sa paghari sa usa ka hari.”
+  * **sama sa usa ka hari- **  Mahimo kining hubaron nga, “sama sa gingharian sa usa ka hari” o, “maitandi kini sa paghari sa usa ka hari.”
   * makighusay sa utang sa iyang mga sulugoon -Mahimo kining hubaron nga, “naningil siya sa utang sa iyang sulugoon” o, “naningil sa kwarta nga gihulaman sa iyang sulugoon kaniya.”
 
 **[[:ceb:obs:notes:frames:29-01|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:29-03|>>]]**
