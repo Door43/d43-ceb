@@ -1,22 +1,20 @@
-===== Jesus Is the Son of God [24-09] =====
+===== Si Jesus mao ang Anak sa Dios [24-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
-**God had told John**, “**The Holy Spirit will come down and rest on** someone you **baptize**. That person is the **Son of God**.” There is only one God. But when John baptized Jesus, he heard **God the Father** speak, he saw God the Son, who is **Jesus**, and he saw God the Holy Spirit.
-===== Important Terms: =====
+** Giingnan sa Dios si Juan ** , “ ** Manaug ang Balaang Espirito ug motugdon ** sa tawo nga imong  ** bawtismohan ** . Ug kana nga tawo,  ** Anak sa Dios ** .” Wala nay lain nga Dios. Sa dihang gibawtismohan ni Juan si Jesus, nadunggan niya ang ** Dios nga Amahan ** nga nagsulti, nakita niya ang anak sa Dios nga mao si  ** Jesus ** , ug nakita ang Balang Espirito.
 
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
-  * **[[:ceb:obe:kt:baptize]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-  * **[[:ceb:obe:kt:godthefather]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Espiritu sa Ginoo]]**
+  * **[[:ceb:obe:kt:baptize|pagbawtismo, bunyag]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+  * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+===== Dugang nga pagpasabot: =====
 
   * **Giingnan sa Dios si Juan**  - Nagpasabot nga, “Sa wala pa kini mahitabo, gisultian na sa Dios si Juan” o “Sa wala pa miabot si Jesus aron magpabawtismo, gisultian na daan sa Dios si Juan.”
 **[[:ceb:obs:notes:frames:24-08|<<]] | [[:ceb:obs:notes:24|Up]] | [[:ceb:obs:notes:frames:25-01|>>]]**
