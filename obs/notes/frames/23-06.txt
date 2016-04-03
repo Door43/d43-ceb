@@ -1,21 +1,17 @@
-===== The Angel and the Shepherds [23-06] =====
+===== Ang Anghel ug ang MAgbalantay sa Karnero [23-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
-That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
+That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!” Nianang gabhiona, naay mga  ** magbalantay ** nga  ** nagbantay sa ilang mga mananap ** duol sa Betlehem. Sa kalit lang, nagpakita kanila ang  ** anghel nga sulaw kaayo ** tan-awon, ug  ** nangahadlok sila ** . Ug miingon ang anghel, “ ** Ayaw mo'g kahadlok ** . Naa koy maayong balita alang kaninyo. Ang  ** Mesiyas ** nga mao ang  ** Labaw sa Tanan ** , natawo na didto sa  ** Betlehem ** !”
 
+===== Mahinungdanon nga Pulong: =====
 
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:other:shepherd]]**
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:christ]]**
-  * **[[:ceb:obe:kt:lord]]**
-  * **[[:ceb:obe:other:bethlehem]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:shepherd|magbalantay, mobantay sa karnero]]**
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:christ|Crist, Mesiyas]]**
+  * **[[:ceb:obe:kt:lord|Agalon]]**
+  * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
+===== Dugang nga pagpasabot: =====
 
   * **nagbantay sa ilang mga mananap**  - Usa kini ka pundok sa mga karnero. Giatiman sa mga magbalantay ang ilang mga karnero, ug ilang giprotektahan sa bisan unsa nga makadaot ug bisan sa mga kawatan.
   * **anghel nga sulaw tan-awon**  - Mahimo usab kini nga hubaron nga, “ang naghel nalibotan sa kahayag.” Tungod kay gabii kadto, mao nga sulaw kaayo ang kahayag sa anghel.
