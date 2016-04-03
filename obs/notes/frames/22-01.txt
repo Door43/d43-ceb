@@ -1,18 +1,17 @@
-===== God Spoke to Zechariah [22-01] =====
+===== Ang Dios Nag-istorya Kang Zacarias [22-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
-In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
-===== Important Terms: =====
+Kaniadto, nakigsulti ang ** Dios ** sa ** iyang mga katawhan ** pinaagi sa mga  ** anghel ** ug mga  ** propeta ** . Apan  ** wala siya makig-istorya kanila sulod sa 400 ka tuig ** . Unya sa kalit lang, naay anghel nga miadto kang ** Zacarias ** aron ipaabot ang mensahe sa Dios.  ** Matinumanon sa Dios si Zacarias ** ug si Elizabet nga iyang asawa, apan wala gayod makaanak si Elizabet.
 
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:priest]]**
-  * **[[:ceb:obe:other:zechariahnt]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:priest|pari, pagkapari]]**
+  * **[[:ceb:obe:other:zechariahnt|Zacarias (BK)]]**
+===== Dugang nga pagpasabot: =====
 
   * **iyang mga katawhan**  - Mahimo kining hubaron nga, “iyang katawhan, ang mga Israelita” o “ang iyang katawhan, ang mga Judio.” Apan idugang lang kini kon dili klaro kinsa kining mga katawhan.
   * **sulod sa 400 ka tuig**  - Ingon niini ang ubang paagi sa pagsulti niini, “400 ka tuig ang miagi” o “adunay 400 ka tuig ang nahuman.” 400 ka tuig ang milabay pagkahuman sa kataposang propeta nga si Malaquias sa Karaang Kasabotan.
