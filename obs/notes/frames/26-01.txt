@@ -1,22 +1,21 @@
-===== Jesus in Galilee [26-01] =====
+===== Si Jesus sa Galilea [26-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
-**After overcoming Satan's temptations**, **Jesus returned in the power of the Holy Spirit** to the region of **Galilee** where he lived. Jesus **went from place to place teaching**. **Everyone spoke well of him**.
-===== Important Terms: =====
+** Human madaog ni Jesus ang pagtintal kaniya ni Satanas ** ,  ** mibalik siya sa rehiyon sa Galilea kon asa siya nagpuyo ug anaa kaniya ang gahom sa Balaang Espiritu. **  ** Naglibot-libot siya sa mga lugar didto aron sa pagpanudlo, ug maayo ang pagtagad kaniya sa tanang mga tawo. **
 
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:kt:tempt]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:power]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
-  * **[[:ceb:obe:other:galilee]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:satan|Satanas, demonyo, yawa]]**
+  * **[[:ceb:obe:kt:tempt|tintal, tintasyon]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:power|gahom]]**
+  * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Spiritu sa Ginoo]]**
+  * **[[:ceb:obe:other:galilee|Galilea, mga taga-Galilea]]**
+===== Dugang nga pagpasabot: =====
 
   * **H****uman madaog ni Jesus ang pagtintal kaniya ni Satanas, mibalik si Jesus****
- - ** Mahimo kini nga bahinon sa duha ka panid, “Wala buhata ni Jesus ang dili maayo nga mga butang nga ipabuhat kaniya ni Satanas busa midaog si Jesus kaniya. Pagkahuman niana, miuli na si Jesus.” Ang pulong nga “madaog” mahimo usab nga hubaron nga “gipakawalay bili” o “nagdumili.”
+ - **  Mahimo kini nga bahinon sa duha ka panid, “Wala buhata ni Jesus ang dili maayo nga mga butang nga ipabuhat kaniya ni Satanas busa midaog si Jesus kaniya. Pagkahuman niana, miuli na si Jesus.” Ang pulong nga “madaog” mahimo usab nga hubaron nga “gipakawalay bili” o “nagdumili.”
   * **anaa kaniya ang gahom sa Espiritu Santo -**  Mahimo kining hubaron nga “tungod sa gahom sa Espirito Santo nga nagalihok pinaagi kaniya” o “gamhanan kaayo ang Espirito Santo nga nagagiya kaniya.”
   * **Naglibot-libot siya sa mga lugar aron sa pagpanudlo -**  Nagpasabot kini nga “naglakaw-lakaw siya sa lain-laing lungsod og mga lugar aron manudlo sa mga tawo didto.”
   * **tanang mga tawo -**  Nagpasabot kini nga, “tanan nga nakaila kaniya o nakadangog mahitungod kaniya.”
