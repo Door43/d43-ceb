@@ -1,19 +1,18 @@
-===== Jesus Removed the Demons [26-09] =====
+===== Gipagawas ni Jesus ang mga Demonyo [26-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-09.jpg?nolink&}}
 
-Many people **who had demons in them** were brought to **Jesus**. **At Jesus' command**, the **demons** came out of the people, and often shouted, “You are the **Son of God**!” The crowds of people were amazed and **worshiped God**.
-===== Important Terms: =====
+Daghan usab ang mga tawo nga  ** giyawaan ** nga gidala nila kang ** Jesus ** .  ** Gimandoan ni Jesus ang mga demonyo ** nga mogawas gikan sa mga tawo. Ang ubang mga demonyo naninggit pa, “Ikaw ang ** Anak sa Dios ** !” Nahibulong pag-ayo ang daghang mga tawo ug  ** gisimba nila ang Dios ** .
 
-  * **[[:ceb:obe:kt:demon]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:demon]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:demon|demonyo, daotang espiritu, hugaw nga espiritu]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:demon|demonyo, daotang espiritu, hugaw nga espiritu]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
   * **mga tawo nga giyawaan -**  Nagpasabot kini nga, “gidumalahan sila sa mga daotang espirito.”
   * **Gimandoan ni Jesus ang mga demonyo -**  Mahimo usab kini nga hubaron nga, “Gisulti ni Jesus ang iyang mando kanila.”
