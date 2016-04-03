@@ -1,17 +1,15 @@
-===== John the Prophet [24-01] =====
+===== Si Juan nga Propeta [24-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
+Midako na si  ** Juan ** nga anak ni  ** Zacarias ** ug Elizabet, ug nahimo siya nga ** propeta ** . Didto siya nagpuyo sa  ** kamingawan ** , ug  ** dugos ** ug  ** dulon ** ang iyang kinaon, ug  ** hinimo gikan sa buhok sa kamelyo ang iyang sanina ** .
 
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:other:zechariahnt]]**
-  * **[[:ceb:obe:kt:prophet]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:other:zechariahnt|Zacarias (BK)]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+===== Dugang nga pagpasabot: =====
 
   * **kamingawan**  - Mao kini ang “deserto” o “awaaw nga lugar, ug sama sa desirto.” Pipila lamang ka mga tawo ang magpuyo niining lugara.
   * **dugos**  - Mao kini ang dugos nga gikan sa mga putyokan nga nabuhi sa kamingawan; wala kini giatiman sa mga tawo. Kon sabton sa mga tawo nga inatiman kining dugos, maayo nga dugangan ug pulong nga “halas.”
