@@ -1,17 +1,16 @@
-===== All Things Are Possible [28-08] =====
+===== Ang Tanan Mahimo sa Dios [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
-===== Important Terms: =====
+Gitan-aw ni  ** Jesus ** ang mga ** tinun-an  ** ug miingon, “ ** Dili kini mahimo sa tawo ** , apan  ** ang tanan mahimo sa Dios ** .”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga Pulong: =====
 
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
-===== Translation Notes: =====
-
-  * **Dili kini mahimo sa tawo - ** Mahimo usab nga sama niini, “kini dili mahimo sa tawo” o, “dili maluwas sa tawo ang iyang kaugalingon.”
-  * **ang tanan mahimo Dios **- Mahimo kining hubaron sama niini, “mahimo sa Dios ang tanan**, ** bisan pa sa pagluwas sa usa dato” o, “ang tanang butang posibleng mahimo sa Dios, tungod niini maluwas niya bisan ang dato.”
+  * **Dili kini mahimo sa tawo - **  Mahimo usab nga sama niini, “kini dili mahimo sa tawo” o, “dili maluwas sa tawo ang iyang kaugalingon.”
+  * **ang tanan mahimo Dios **- Mahimo kining hubaron sama niini, “mahimo sa Dios ang tanan**, **  bisan pa sa pagluwas sa usa dato” o, “ang tanang butang posibleng mahimo sa Dios, tungod niini maluwas niya bisan ang dato.”
 **[[:ceb:obs:notes:frames:28-07|<<]] | [[:ceb:obs:notes:28|Up]] | [[:ceb:obs:notes:frames:28-09|>>]]**
