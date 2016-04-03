@@ -1,15 +1,14 @@
-===== Who Can Be Saved? [28-07] =====
+===== Kinsa ang Maluwas? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
-===== Important Terms: =====
+Pagkadungog sa mga ** tinun-an  ** sa giingon ni Jesus, ** natingala ** sila ug miingon, “ ** Kinsa ra diay ang mangaluwas ani ** ?”
 
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:save]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+===== Dugang nga pagpasabot: =====
 
   * **natingala **- Nagpasabot kini nga, “nahibulong pag-ayo.”
   * **Kinsa ra diay ang mangaluwas -**  Mahimo usab kining hubaron sama sa, “kung dili maluwas bisan ang mga dato, unsaon man pagkaluwas ni bisan kinsa?” Nagtuo ang kadaghanan nga kung dato ang usa ka tawo timaan kini nga ang Dios nidapig kaniya.
