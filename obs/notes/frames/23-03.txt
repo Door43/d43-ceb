@@ -1,15 +1,13 @@
-===== Joseph Married Mary [23-03] =====
+===== Giminyoan ni Jose si Maria [23-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
-So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
-===== Important Terms: =====
+Busa giminyoan ni** Jose** si** Maria ** ug gidala sa iyang panimalay. Apan **wala niya siya hilabti** hangtod nga nanganak na siya.
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:other:josephnt]]**
-  * **[[:ceb:obe:other:mary]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
+  * **[[:ceb:obe:other:mary|Maria]]**
+===== Dugang nga pagpasabot: =====
 
   * **wala niya siya hilabti -**  Nagpasabot kini nga, “wala siya makighilawas kaniya.” Gipasagdan niya nga ulay siya hangtod nga matawo na ang bata.
 **[[:ceb:obs:notes:frames:23-02|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-04|>>]]**
