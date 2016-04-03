@@ -1,19 +1,20 @@
-===== Forgive Your Brother [29-09] =====
+===== Pasayloa ang Imong Isigkatawo [29-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
 **Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
-===== Important Terms: =====
 
-  * **[[:ceb:obe:kt:jesus]] said**
-  * **[[:ceb:obe:kt:godthefather]]**
-  * **[[:ceb:obe:kt:forgive]]**
+** Human niini miingon si Jesus ** , “Mao usab kini ang himoon sa  ** akong Amahan sa langit ** sa tanan nga dili makapasaylo sa kinasingkasing sa  ** iyang isigkatawo nga nakasala kaniya ** .”
 
+===== Mahinungdanon nga Pulong: =====
 
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
+  * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
+===== Dugang nga pagpasabot: =====
 
-  * **Human niini miingon si Jesus **- Sa uban nga mga pinulongan adunay gidugang niini, “...sa iyang mga tinun-an.”
+  * **Human niini miingon si Jesus **- Sa uban nga mga pinulongan adunay gidugang niini, “…sa iyang mga tinun-an.”
   * **kini **- Nagpasabot ang “kini” sa paagi sa hari sa pagsilot sulugoon nga wala nagpasaylo sa iyang kauban sa **[[:ceb:obs:notes:frames:29-08|[29-08]]]**.
   * **Amahan sa langit **- Nagpasabot kini nga, “ang akong Amahan nga anaa sa langit.” Gisulti ni Jesus ang iyang nga relasyon sa Dios Amahan.
   * **iyang isigkatawo **- Tan-awa ang **[[:ceb:obs:notes:frames:29-01|[29-01]]]** kung giunsa kini paghubad.
-  * **sa kinasingkasing**-  Nagpasabot kini nga, “tinud-anay” o, “tinuoray” o, “tinud-on” o, “matinud-anon.”
+  * **sa kinasingkasing**- Nagpasabot kini nga, “tinud-anay” o, “tinuoray” o, “tinud-on” o, “matinud-anon.”
