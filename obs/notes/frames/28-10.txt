@@ -1,15 +1,14 @@
-===== The First and the Last [28-10] =====
+===== Ang Mauna ug Maulahi [28-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
-===== Important Terms: =====
+Mitubag si ** Jesus ** , “Ang tanan nga  ** mibiya ** sa ilang balay, mga igsoon, mga ginikanan, mga anak, ug mga kabtangan ** tungod ug alang kanako ** , makadawat ug sobra pa sa u ** sa ka gatos ka bahin ** ug makadawat ug  ** kinabuhi nga walay kataposan ** . Apan  ** daghan ang mauna nga maulahi ** , ug  ** daghan ang maulahi nga mauna ** .”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:eternity]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:eternity|kahangtoran, walay kataposan, walay kinutoban]]**
+===== Dugang nga pagpasabot: =====
 
   * **mibiya**- Sa ubang pagkasulti, “gitalikdan” o, “gibiyaan” o, “walay hinungdan ug bili nganha sa Dios.”
   * **tungod ug alang kanako**- Mahimo usab kinin hubaron sama niini, “tungod kanako” o, “alang kanako.”
