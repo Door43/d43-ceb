@@ -1,18 +1,16 @@
-===== What Else Must I Do? [28-03] =====
+===== Unsa Pay Kinahanglan nga Akong Himoon? [28-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink&}}
 
+But the young man said, “I have **obeyed** all these **laws ever since I was a boy**. **What do I still need to do** in order to live forever?” **Jesus** looked at him and **loved him**.Apan miingon ang batan-on nga lalaki, “ ** Natuman ** na nako kining mga balaora  ** sukad sa bata pa ako ** .  ** Unsa pay kinahanglan nga akong himoon ** aron makabaton ko ug kinabuhi nga walay kataposan?” Gitan-aw siya ni  ** Jesus ** ug  ** nahangawa kaniya ** .
 
-But the young man said, “I have **obeyed** all these **laws ever since I was a boy**. **What do I still need to do** in order to live forever?” **Jesus** looked at him and **loved him**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:obey]]**
-  * **[[:ceb:obe:kt:lawofmoses]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:love]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+  * **[[:ceb:obe:kt:lawofmoses|balaod, balaod ni Moises, Balaod sa Dios, balaod ni Yahweh]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:love|gugma]]**
+===== Dugang nga pagpasabot: =====
 
   * **sukad pa sa bata pa ako**- Sa ubang pagkasulti niini, “sugod sa akong pagkabata hangtod karon.”
   * **Unsa pay kinahanglan nga akong himoon?**- Sa ubang pagkasulti niini, “unsa pa man ang gikinahanglan nakong pagahimoon” o, “unsa pa may dugang nakong pagahimoon human niining mga butanga?”
