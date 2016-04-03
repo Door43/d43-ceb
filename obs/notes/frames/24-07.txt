@@ -1,18 +1,16 @@
-===== John Baptized Jesus [24-07] =====
+===== Gibawtismohan ni Juan si Jesus [24-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&}}
 
-**John** said to **Jesus**, “**I am not worthy to baptize you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **sinned**.
-===== Important Terms: =====
+Miingon si  ** Juan  ** kang  ** Jesus ** , “ ** Dili ko takos sa pagbawtismo nimo ** . Ikaw unta ang mobawtismo sa akoa.” Apan nag-ingon si Jesus, “Bawtismohi ako,  ** tungod kay mao na ang maayo nato nga buhaton ** .” Busa gibawtismohan siya ni Juan, bisan pa man ug  ** walay sala ** si Jesus.
 
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:baptize]]**
-  * **[[:ceb:obe:kt:sin]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:baptize|pagbawtismo, bunyag]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+===== Dugang nga pagpasabot: =====
 
   * **dili ko takos sa pagbawtismo nimo**  - Mahimong kining hubaron nga, “Dili ako maayong tawo aron makabawtismo kanimo” o “Makasasala ako, mao nga dili ko mobawtismo kanimo.”
   * **mao na ang maayo nato nga buhaton -**  Mahimo kining hubaron nga, “kini ang insaktong butang nga himoon” o “kini ang gusto sa Dios nga akong buhaton.”
