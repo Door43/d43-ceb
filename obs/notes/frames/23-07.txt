@@ -1,23 +1,22 @@
-===== The Angels Praised God [23-07] =====
+===== Ang mga Anghel Nidayeg sa Dios [23-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink&}}
 
-“Go search for the baby, and you will find him **wrapped in pieces of cloth** and lying in a feeding trough.” Suddenly, the skies were **filled with angels** praising God, saying, “**Glory to God** in **heaven** and **peace on earth** to **the people he favors**!”
-===== Important Terms: =====
+Adtoa ninyo ug pangitaa ang bata, ug makita ninyo ang bata nga  ** giputos ug panapton  ** ug gipahigda sa pasungan.” Diha-diha,  ** napuno ang langit ug mga anghel  ** nga nagdayeg sa Dios nga nag-ingon, “ ** Himayaon ang Dios sa langit, ug naay kalinaw sa kalibotan ug sa mga tawo nga iyang gikaloy-an ** !”
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:glory]]**
-  * **[[:ceb:obe:kt:heaven]]**
-  * **[[:ceb:obe:other:peace]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:glory|himaya, himayaon, mahimayaon]]**
+  * **[[:ceb:obe:kt:heaven|langit, kawanangan, kalangitan, langitnon]]**
+  * **[[:ceb:obe:other:peace|kalinaw, malinawon]]**
+===== Dugang nga pasabot: =====
 
   * **giputos ug panapton**  - Ang kasagarang ginabuhat kaniadto sa ilang panahon, mao nga ginaputos sa taas nga panapton ang mga bata nga bag-o lang gianak. Kinahanglan siguro nga hubaron kini nga “giputos sa taas nga panapton, nga kasagaran nilang buhaton.”
   * **Pasungan**  - Mao kini ang, “kahon nga pakan-an sa mga hayop.” Tan-awa usab kon giunsa paghubad sa **[[:en:obs:notes:frames:23-05|[23-05]]]**.
   * **napuno ug mga anghel **- Nagpasabot kini nga daghan kaayo ang mga anghel nga murag nakapuno sa langit.
-  * **Himayaon ang Dios -** Mahimo usab kining hubaron nga “Atong ihatag sa Dios ang tanang himaya!” o “Ang atong Dios takos sa himaya ug kadungganan!” o “Atong ihatag sa Dios ang himaya!”
+  * **Himayaon ang Dios -**  Mahimo usab kining hubaron nga “Atong ihatag sa Dios ang tanang himaya!” o “Ang atong Dios takos sa himaya ug kadungganan!” o “Atong ihatag sa Dios ang himaya!”
   * **kalinaw sa kalibotan -**  Ang uban nga paghubad niini mao ang “adunay kalinaw sa kalibotan.”
   * **mga tawo nga iyang gikaloy-an**  - Mahimo kining hubaron nga “mga katawhan nga gikaluy-an, gikahimut-an, ug gusto sa Dios.”
 **[[:ceb:obs:notes:frames:23-06|<<]] | [[:ceb:obs:notes:23|Up]] | [[:ceb:obs:notes:frames:23-08|>>]]**
