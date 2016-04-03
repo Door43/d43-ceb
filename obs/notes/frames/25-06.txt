@@ -1,20 +1,19 @@
-===== The Third Temptation [25-06] =====
+===== Ang Ikatulong Tintasyon [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
+Unya gipakita ni ** Satanas  ** kang  ** Jesus ** ang tanang  ** gingharian sa kalibotan ** ug ang tanang  ** bahandi ug himaya niini ** . Ug miingon siya, “ ** Ihatag ko kining tanan kanimo ** kung moyukbo ka kanako ug imo kong  ** simbahon ** .”
 
-  * **[[:ceb:obe:kt:satan]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:kingdom]]**
-  * **[[:ceb:obe:kt:glory]]**
-  * **[[:ceb:obe:kt:worship]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:satan|Satanas, demonyo, yawa]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:other:kingdom|Gingharian]]**
+  * **[[:ceb:obe:kt:glory|himaya, himayaon, mahimayaon]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+===== Dugang nga pagpasabot: =====
 
   * **tanang gingharian sa kalibotan**  - Nagpasabot kini sa tanan nga maayong mga siyudad, nasod, og uban pang mga lugar sa kalibotan.
-  * **Himaya niini - ** Mao kini ang “ilang mga gahom ug mga bahandi.”
+  * **Himaya niini - **  Mao kini ang “ilang mga gahom ug mga bahandi.”
   * **Ihatag ko kining tanan kanimo -**  Mahimo kining hubaron nga “Ihatag nako ang tanang bahandi ug gahom niining mga gingharian” o “Himoon ko ikaw nga maoy momando niining tanan nga mga nasod, siyudad, ug mga katawhan.”
 **[[:ceb:obs:notes:frames:25-05|<<]] | [[:ceb:obs:notes:25|Up]] | [[:ceb:obs:notes:frames:25-07|>>]]**
