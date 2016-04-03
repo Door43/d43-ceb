@@ -1,19 +1,18 @@
-===== The Ministry of Elijah [26-05] =====
+===== Ang Ministeryo ni Jesus [26-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
-Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
-===== Important Terms: =====
+Unya miingon si  ** Jesus ** , “ ** Wala gayoy propeta nga dawaton sa iyang lungsod ** , ug tinood na. Sa panahon ni propeta  ** Elias ** , dagdan kaayo ang mga balo sa Israel. Sa dihang naay hulaw nga tulo ka tuig ug tunga wala gipadala sa ** Dios ** si Elias ngadto sa balo sa Israel. Didto siya gipadala sa balo nga nagpuyo sa laing nasod.”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:true]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:other:elijah]]**
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:true|tinuod, kamatuoran]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:other:elijah|Elias]]**
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga pagpasabot: =====
 
   * **Wala gayoy propeta nga dawaton sa iyang lungsod**  - Kini nga mga pulong nagapasabot nga “dili dawaton sa mga tawo ang katungod sa usa ka propeta nga nagdako ra pud sa usa ka lugar kauban nila.”
 **[[:ceb:obs:notes:frames:26-04|<<]] | [[:ceb:obs:notes:26|Up]] | [[:ceb:obs:notes:frames:26-06|>>]]**
