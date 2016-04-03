@@ -1,14 +1,13 @@
-===== The Small Debt [29-05] =====
+===== Ang Gamay nga Utang [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
+”Apan pagbiya niya sa hari, nakita niya ang usa niya ka  ** kauban nga sulugoon ** nga nakautang kaniya ug upat ka bulan nga suhol sa pagtrabaho. Giliab niya ang iyang kauban nga sulugoon ug giingnan, ‘Bayri ko sa imong utang kanako.’”
 
-  * **[[:ceb:obe:other:servant]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+===== Dugang nga pagpasabot: =====
 
   * **kauban nga sulugoon-**  Kini nagpasabot nga adunay usa ka tawo nga solugoon usab sa hari.
 **[[:ceb:obs:notes:frames:29-04|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:29-06|>>]]**
