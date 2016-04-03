@@ -1,18 +1,17 @@
-===== The Wicked Servant [29-08] =====
+===== Ang Daotan nga Sulugoon [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
+“ ** Gipatawag sa hari ang sulugoon ** ug giingnan, ‘Daotan ka nga sulugoon!  ** Gikalimtan ko na gani ang imong mga utang ** tungod kay ** nagpakiluoy ka kanako ** . ** Unya wala nimo buhata ang gihimo nako kanimo ** .’ Nasuko ug maayo ang hari mao nga iyang  ** gipapriso ** ang  ** daotan ** nga sulugoon hangtod mabayran niya ang tanan niyang mga utang.”
 
-  * **[[:ceb:obe:other:king]]**
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:forgive]]**
-  * **[[:ceb:obe:other:beg]]**
-  * **[[:ceb:obe:kt:evil]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:king|hari]]**
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+  * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
+  * **[[:ceb:obe:other:beg|pakiluoy, makililimos]]**
+  * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
+===== Dugang nga pagpasabot: =====
 
   * **Gipatawag … ang sulugoon **- Nagpasabot kini nga, “gimandoan niya ang sulugoon nga moadto kaniya” o, “gisugo niya ang iyang mga magbalantay nga dad-on ang sulugoon kaniya.”
   * **nagpakiluoy ka kanako**- Mahimo kini nga hubaron sama niini, “nangaliyupo kanako” o, “nangayo dayon ka ug kalooy kanako,” o, "nanghangyo kanako nga kaloy-an dayon ta ka.”
