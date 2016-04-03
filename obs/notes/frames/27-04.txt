@@ -1,19 +1,18 @@
-===== The Jewish Traveler [27-04] =====
+===== Ang Judio nga Nagalakaw  [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
-===== Important Terms: =====
+Gitubag siya ni  ** Jesus ** pinaagi sa usa ka istoya. “Adunay usa ka  ** Judio ** nga naglakaw gikan sa  ** Jerusalem  ** paingon sa ** Jerico ** .”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:other:jew]]**
-  * **[[:ceb:obe:other:jerusalem]]**
-  * **[[:ceb:obe:other:jericho]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:other:jew|Judio, mga Judio]]**
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ceb:obe:other:jericho|Jerico]]**
+===== Dugang nga pagpasabot: =====
 
   * **hanas sa balaod **- Tan-awa kung gi-unsa kining pulong paghubad sa **[[:ceb:obs:notes:frames:27-01|[27-01]]]**.
   * (ang murag panganod nga paglarawan sa litrato nagpasabot nga nag-istorya si Jesus ug dili na kinahanglan isulti ang kaagi niining kalihokan.)
-  * **Gikan sa Jerusalem paingon sa Jericho** – Sa ubang pinulongan mahimo kining hubaron sama niini, “gikan sa siyudad sa Jerusalem paingon sa siyudad sa Jerico” o, “gikan sa lungsod sa Jerusalem paingon sa lungsod sa Jericho.”
+  * **Gikan sa Jerusalem paingon sa Jericho**  – Sa ubang pinulongan mahimo kining hubaron sama niini, “gikan sa siyudad sa Jerusalem paingon sa siyudad sa Jerico” o, “gikan sa lungsod sa Jerusalem paingon sa lungsod sa Jericho.”
 **[[:ceb:obs:notes:frames:27-03|<<]] | [[:ceb:obs:notes:27|Up]] | [[:ceb:obs:notes:frames:27-05|>>]]**
