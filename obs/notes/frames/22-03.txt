@@ -1,18 +1,16 @@
-===== Unable to Speak [22-03] =====
+===== Dili na Makasulti [22-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
+The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.  Mitubag ang  ** anghel ** , “Gipadala ako sa  ** Dios ** aron pagsulti kaninyo niining maayong balita. Ug tungod kay w ** ala ka man motuo ** , maamang ka hangtod nga matawo ang bata.” Diha-diha, dili na makasulti si  ** Zacarias ** . Unya mibiya na ang anghel, ug mipauli na usab si Zacarias. Unya  ** nagmabdos ** na ang iyang asawa.
 
-The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
-===== Important Terms: =====
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:believe]]**
-  * **[[:ceb:obe:other:zechariahnt]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:believe|pagtuo, pagtuo sa, tinuohan]]**
+  * **[[:ceb:obe:other:zechariahnt|Zacarias (BK)]]**
+===== Dugang nga pagpasabot: =====
 
   * **nagmabdos**  - Adunay maayo nga pagsulti sa “nagmabdos” sa ubang mga pinulongan. Gamita ang pulong nga dili lain paminawon.
 **[[:ceb:obs:notes:frames:22-02|<<]] | [[:ceb:obs:notes:22|Up]] | [[:ceb:obs:notes:frames:22-04|>>]]**
