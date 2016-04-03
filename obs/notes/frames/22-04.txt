@@ -1,26 +1,23 @@
-===== An Angel Spoke to Mary [22-04] =====
+===== Ang Anghel Nisulti kang Maria [22-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink}}
+Sa dihang  ** unom na ka bulan nga buntis ** si  ** Elizabet ** , mipakita na usab ang  ** anghel ** kang Maria nga  ** paryente ni Elizabet ** .  ** Ulay ** siya nga babaye ug  ** gipamalay-an ** na sa usa ka tawo nga ginganlan ug ** Jose ** . Miingon ang anghel, “Magmabdos ka ug manganak ug lalaki. Nganli siya ug  ** Jesus ** . Mahimo siya nga  ** anak  ** sa ** Labing Gamhanan nga Dios ** ug maghari sa walay kataposan.”
 
+===== Mahinungdanon nga Pulong: =====
 
-When **Elizabeth** was **six months pregnant**, the same **angel** suddenly appeared to **Elizabeth’s relative**, whose name was **Mary**. She was a **virgin** and **was engaged** to be married to a man named **Joseph**. The angel said, “You will become pregnant and give birth to a son. You are to name him **Jesus**. He will be the **Son** of the **Most High God** and will rule forever.”
-===== Important Terms: =====
-
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:other:mary]]**
-  * **[[:ceb:obe:other:virgin]]**
-  * **[[:ceb:obe:other:josephnt]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-  * **[[:ceb:obe:kt:godthefather]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:other:mary|Maria]]**
+  * **[[:ceb:obe:other:virgin|ulay]]**
+  * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+  * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
+===== Dugang nga pasabot: =====
 
   * **unom na ka bulan nga buntis**  - Mahimo nga nagpasabot kini nga unom na siya ka bulan nga buntis o ikaunom na niya nga bulan nga buntis.
   * **magmabdos**  - Nagkalain-lain ang mga sambingay nga magamit sa lain-laing mga pinulongan mahitungod sa pagmabdos sa babaye sama sa “nagsabak siya” o “naay sulod nga bata sa iyang lawas” o “naa na siya'y tiyan.” Adunay maayo nga pagkasulti niini sa uban nga mga pinulongan nga dili sakit paminawon, sama sa “nagpaabot na siya.” Gamita ang pulong nga dili lain paminawon.
   * **Elizabet**  - Asawa siya ni Zacarias. Giingnan sa anghel si Zacarias nga manganak si Elizabet ug bata nga lalaki.
-  * **paryente ni Elizabet**  - Daghan ang gihubad nga nag-ingon, “ig-agaw apan wala kita masayod  kon unsa gayod ang relasyon sa duha ka babaye. Mahimong gamiton dinhi ang pulong nga “paryente,” “kapamilya” o “ig-agaw.”
+  * **paryente ni Elizabet**  - Daghan ang gihubad nga nag-ingon, “ig-agaw apan wala kita masayod kon unsa gayod ang relasyon sa duha ka babaye. Mahimong gamiton dinhi ang pulong nga “paryente,” “kapamilya” o “ig-agaw.”
   * **gipamalay-an**  - Nagpasabot nga, “gisaaran na.”
 **[[:ceb:obs:notes:frames:22-03|<<]] | [[:ceb:obs:notes:22|Up]] | [[:ceb:obs:notes:frames:22-05|>>]]**
