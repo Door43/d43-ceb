@@ -1,15 +1,14 @@
-===== Worship for the Baby [23-10] =====
+===== Pagsimba sa Bata [23-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&}}
 
-When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
-===== Important Terms: =====
+M akita sa  ** maalamong mga tawo ** si Jesus ug ang iyang inahan, ug  ** mihapa  ** sila ug  ** misimba  ** kaniya. Gihatagan nila si Jesus ug  ** mahalon ** nga mga gasa. Unya namauli na sila.
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:worship]]**
+===== Mahinungdanon nga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+===== Dugang nga pagpasabot: =====
 
   * **maalamong mga tawo**  - Tan-awa kon giunsa nimo paghubad sa **[[:ceb:obs:notes:frames:23-09|[23-09]]]**.
   * **mihapa sila**  - Nagpasabot kini nga, “naghapa sila sa yuta.” Mao kini ang ginabuhat nila subay sa ilang kultura sa pagpakita ug dakong pagrespito ug pagtahod.
