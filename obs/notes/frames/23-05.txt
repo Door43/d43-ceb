@@ -1,15 +1,14 @@
-===== The Birth of Jesus [23-05] =====
+===== Ang Pagkatawo ni Jesus [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
+Pag-abot nila sa  ** Betlehem ** , wala na sila'y  ** kadayonan nga balay ** . Didto nalang sila misulod sa  ** puy-anan sa mga mananap ** . Natawo ang bata didto ug gibutang siya sa iyang inahan didto sa  ** pasungan ** , tungod kay wala na silay katulgan. Ug ginganlan nila ang bata ug  ** Jesus ** .
 
-  * **[[:ceb:obe:other:bethlehem]]**
-  * **[[:ceb:obe:kt:jesus]]**
- 
+===== Mahinungdanon nga Pulong: =====
 
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+===== Dugang nga pagpasabot: =====
 
   * **Wala nay kadayonan nga balay**  - Nagpasabot kini nga, “wala nay lugar nga kapuy-an.” Tungod kay daghan kaayong mga tawo sa Betlehem niadtong tungora, mao nga puno na ang mga kwarto ug wala nay kwarto nga mahimong puy-an sa mga bisita.
   * **puy-anan sa mga mananap**  - Mao kini ang pasungan nga ginapuy-an sa mga hayop, ug dili sa mga tawo. Sa imong paghubad, gamita ang pulong nga nagapasabot nga kini nga balay mao ang puy-anan sa mga hayop.
