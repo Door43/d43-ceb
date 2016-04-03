@@ -1,18 +1,17 @@
-===== The Debt Is Canceled [29-04] =====
+===== Giwala ang Utang [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
-===== Important Terms: =====
+“ ** Miluhod siya sa atubangan sa hari ** ug miingon, ‘Palihog kaloy-i intawon ako. Pagabayran ko ikaw sa tanan kong mga utang kanimo.’ Ug mibati ug  ** kaluoy  ** ang hari sa sulugoon, mao nga  ** giwala sa hari ang tanan niyang mga utang ** ug gipalakaw siya.”
 
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:other:king]]**
+===== Mahinungdanon nga Pulong: =====
 
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+  * **[[:ceb:obe:other:king|hari]]**
+===== Dugang nga pagpasabot: =====
 
-===== Translation Notes: =====
-
-  * **Miluhod**- Sa ubang pagkasulti, “ug miluhod dayon siya yuta.” Kini usa ka paagi nga nagpakita sa iyang mapaubsanon nga tinguha aron matabangan siya sa hari.  Apan kinahanglan nga ipaklaro gayod kini nga wala siya madagma mao nga nakaluhod siya.
+  * **Miluhod**- Sa ubang pagkasulti, “ug miluhod dayon siya yuta.” Kini usa ka paagi nga nagpakita sa iyang mapaubsanon nga tinguha aron matabangan siya sa hari. Apan kinahanglan nga ipaklaro gayod kini nga wala siya madagma mao nga nakaluhod siya.
   * **atubangan sa hari**- Ang buot ipasabot niini nga, “naa mismo sa atubangan sa hari siya miluhod.”
   * **mibati ug kalooy**- Nagpasabot kini nga, “gikaloy-an siya” o, “naguol siya kanila.” Nakahibalo ang hari nga magkalisod gayod sila ug ang iyang pamilya kung ibaligya sila sa pagkaulipon.
-  * **Giwala ... ang tanan niyang mga utang**- Mahubad kini nga, “giingnan siya sa hari nga dili na kinahanglan nga bayran ang kwarta nga iyang nautang.”
+  * **Giwala … ang tanan niyang mga utang**- Mahubad kini nga, “giingnan siya sa hari nga dili na kinahanglan nga bayran ang kwarta nga iyang nautang.”
 **[[:ceb:obs:notes:frames:29-03|<<]] | [[:ceb:obs:notes:29|Up]] | [[:ceb:obs:notes:frames:29-05|>>]]**
