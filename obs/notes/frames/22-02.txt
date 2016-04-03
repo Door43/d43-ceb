@@ -1,19 +1,17 @@
-===== You Will Have a Son [22-02] =====
+===== Makabaton ka ug Anak nga Lalaki [22-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-===== Important Terms: =====
+Giingnan sa  ** anghel ** si ** Zacarias ** , “Manganak ug lalaki ang imong asawa. Nganli siya ug  ** Juan ** .  ** Mapuno siya sa Balaang Espirito ** , ug  ** andamon niya ang mga tawo sa pag-abot sa Mesiyas ** !” Mitubag si Zacarias, “Tigulang na kaayo 'mi aron makaanak! Unsaon man nako pagkahibalo nga matuman na?”
 
+===== Mahinungdanon nga Pulong: =====
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:other:zechariahnt]]**
-  * **[[:ceb:obe:other:johnthebaptist]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
-  * **[[:ceb:obe:kt:christ]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:other:zechariahnt|Zacarias (BK)]]**
+  * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
+  * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Spiritu sa Ginoo]]**
+  * **[[:ceb:obe:kt:christ|Crist, Mesiyas]]**
+===== Dugang nga pagpasabot: =====
 
   * **ang anghel**  - Mao kini ang anghel nga miadto kang Zacarias **[[:ceb:obs:notes:frames:22-01|[22-01]]]**.
   * **mapuno sa Espiritu Santo**  - Nagpasabot kini nga, “gikunsaran sa Espiritu Santo” o “gihatagan ug kaalam ug gahom sa Espiritu Santo.”
