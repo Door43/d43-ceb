@@ -1,16 +1,15 @@
 ===== God's Commandments [28-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink&}}
 
-“**Which ones do I need to obey**?” he asked. **Jesus** replied, “Do not murder. Do not commit **adultery**. Do not steal. Do not lie. Honor your father and mother, and love your neighbor **as you love yourself**.”
-===== Important Terms: =====
+“ ** Asa man ani ang angayan nakong tumanon ** ?” pangutana niya. Mitubag si Jesus, “Ayaw pagpatay. Ayaw panapaw. Ayaw ug pangawat. Ayaw pamakak. Tahora ang imong mga ginikanan, ug higugmaa ang imong isigkatawo  ** sama sa paghigugma nimo sa imong kaugalingon ** .”
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:adultery]]**
-  * **[[:ceb:obe:kt:love]]**
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:adultery|panapaw, mananapaw, nagpanapaw, mananapaw nga babaye]]**
+  * **[[:ceb:obe:kt:love|gugma]]**
+===== Dugang nga pagpasabot: =====
 
   * **Asa man ani ang angayan nakong tumanon**?- Sama usab sa, “unsang balaora ang insakto sa ako aron makabaton ug kinabuhing walay kataposan?”
   * **sama sa paghigugma nimo sa imong kaugalingon**- Sama usab sa, “sama sa dakong gugma nimo sa imong kaugalingon” o, “sama sa kadako sa imong paghigugma sa imong kaugalingon.”
