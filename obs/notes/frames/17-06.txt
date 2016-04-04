@@ -1,4 +1,4 @@
-===== Gusto ni David Motukod ug Templo  [17-06] =====
+===== Gusto ni David Motukod ug Templo [17-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
@@ -14,7 +14,7 @@ Unya gusto ni David magtukod ug templo aron didto sila mosimba sa ilang Dios ug 
   * **[[:ceb:obe:other:sacrifice|halad, halad nga mananap]]**
   * **[[:ceb:obe:other:tentofmeeting|tolda nga tagboanan]]**
   * **[[:ceb:obe:other:moses|Moises]]**
-==== Dugang nga pasabot: ====
+==== Dugang nga Pasabot: ====
 
   * **magtukod ug templo - **  Gusto ni David nga magbuhat ug simbahan aron didto na sila magsimba sa Dios ug dili na didto sa Tolda nga Tagboanan.
 **[[:ceb:obs:notes:frames:17-05|<<]] | [[:ceb:obs:notes:17|Up]] | [[:ceb:obs:notes:frames:17-07|>>]]**
