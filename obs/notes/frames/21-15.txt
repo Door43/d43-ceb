@@ -1,20 +1,16 @@
-===== At the Perfect Time [21-15] =====
+===== Sa Perpekto nga Panahon [21-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?nolink}}
+Ang** Dios** nagpadayag ug daghang mga butang sa mga **propeta ** mahitungod sa **Mesiyas**, apan ang Mesiyas wala miabot sa panahon sa mga propeta. Sobra sa 400 ka tuig pagkahuman gipadayag ang tulo ka ulahing propesiya, sa sakto ug tama nga panahon, ipadala sa Dios ang Mesiyas **sa kalibotan**.
 
-**God** revealed to the **prophets** many things about the **Messiah**, but the Messiah did not come during the time of any of those prophets. More than 400 years after the last of these prophecies was given, at exactly the right time, God would send the Messiah **into the world**.
+//Mga Istorya gikan sa Biblia: Genesis 3:15; 12:1-3; Deuteronomio 18:15; 2 Samuel 7; Jeremias 31; Isaias 59:16; Daniel 7; Malaquias 4:5; Isaias 7:14; Miqueas 5:2; Isaias 9:1-7; 35:3-5; 61; 53; Mga Salmo 22:18; 35:19; 69:4; 41:9; Zacarias 11:12-13; Isaias 50:6; Mga Salmo 16:10-11//
+===== Mahinungdanon nga mga Pulong: =====
 
-//A Bible story from: Genesis 3:15; 12:1-3; Deuteronomy 18:15; 2 Samuel 7; Jeremiah 31; Isaiah 59:16; Daniel 7; Malachi 4:5; Isaiah 7:14; Micah 5:2; Isaiah 9:1-7; 35:3-5; 61; 53; Psalm 22:18; 35:19; 69:4; 41:9; Zechariah 11:12-13; Isaiah 50:6; Psalm 16:10-11//
-===== Important Terms: =====
-
-
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:prophet]]**
-  * **[[:ceb:obe:kt:christ]]**
-
-
-==== Translation Notes: ====
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:prophet|propeta, propesiya, pagpropesiya, mananagna]]**
+  * **[[:ceb:obe:kt:christ|Christ, Messiah]]**
+==== Dugang nga Pasabot : ====
 
   * **sa kalibotan **- mahimo kining hubaron nga, “ngadto sa mga tawo sa kalibotan.” Ipadala ang Mesiyas dili lang ngadto sa mga Judio, kondili ngadto sa tanang katawhan.
 **[[:ceb:obs:notes:frames:21-14|<<]] | [[:ceb:obs:notes:21|Up]] | [[:ceb:obs:notes:frames:22-01|>>]]**
