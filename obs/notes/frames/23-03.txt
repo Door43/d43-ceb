@@ -3,10 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
 Busa giminyoan ni** Jose** si** Maria ** ug gidala sa iyang panimalay. Apan **wala niya siya hilabti** hangtod nga nanganak na siya.
-===== Mahinungdanon nga Pulong: =====
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
   * **[[:ceb:obe:other:mary|Maria]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **wala niya siya hilabti -**  Nagpasabot kini nga, “wala siya makighilawas kaniya.” Gipasagdan niya nga ulay siya hangtod nga matawo na ang bata.
