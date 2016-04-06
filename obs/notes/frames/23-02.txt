@@ -4,7 +4,7 @@
 
 Sa iyang damgo, miingon ang ** anghel**, “**Jose**, **ayaw pagduha-duha sa pagpangasawa kang Maria**. ** Gikan sa Balaang Espirito ** ang iyang gisabak. Manganak siya ug ** lalaki**. Nganli siya ug ** Jesus ** (nga nagpasabot, '**Manluluwas si Yahweh**'), tungod kay luwason niya ang mga tawo gikan sa ilang ** mga sala**.”
 
-===== Mahinungdanon nga Pulong: =====
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
   * **[[:ceb:obe:other:josephnt|Jose (BK)]]**
@@ -15,6 +15,7 @@ Sa iyang damgo, miingon ang ** anghel**, “**Jose**, **ayaw pagduha-duha sa pag
   * **[[:ceb:obe:kt:yahweh|Yahweh]]**
   * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
   * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **ayaw pagduhaduha sa pagpangasawa kang Maria -**  Mahimo usab kini nga hubaron nga, “Ayaw paghunahuna nga dili na nimo dayonon sa pagminyo si Maria” o “Ayaw pagduhaduha sa pagpangasawa kang Maria.”
