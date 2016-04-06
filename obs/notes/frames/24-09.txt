@@ -4,7 +4,7 @@
 
 **Giingnan sa Dios si Juan**, “**Manaug ang Balaang Espirito ug motugdon ** sa tawo nga imong ** bawtismohan**. Ug kana nga tawo, ** Anak sa Dios**.” Wala nay lain nga Dios. Sa dihang gibawtismohan ni Juan si Jesus, nadunggan niya ang ** Dios nga Amahan ** nga nagsulti, nakita niya ang anak sa Dios nga mao si ** Jesus**, ug nakita ang Balang Espirito.
 
-===== Mahinungdanon nga Pulong: =====
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:kt:god|Dios]]**
   * **[[:ceb:obe:other:johnthebaptist|Juan (nga magbabawtismo)]]**
@@ -14,6 +14,7 @@
   * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
   * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
   * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **Giingnan sa Dios si Juan**  - Nagpasabot nga, “Sa wala pa kini mahitabo, gisultian na sa Dios si Juan” o “Sa wala pa miabot si Jesus aron magpabawtismo, gisultian na daan sa Dios si Juan.”
