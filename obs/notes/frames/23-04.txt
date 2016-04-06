@@ -4,7 +4,7 @@
 
 ** Sa dihang hapit na manganak si Maria ** , miingon  ** ang gobyerno sa Roma ** nga kinahanglan nga  ** mopasensos ** ang tanan didto sa lugar sa ilang katigulangan. Busa kinahanglan nga moadto si ** Jose ** ug si Maria sa ** Betlehem  ** ug layo kini gikan sa  ** Nazaret ** , tungod kay didto natawo ang ilang apohan nga si David.
 
-===== Mahinungdanon nga Pulong: =====
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:mary|Maria]]**
   * **[[:ceb:obe:other:rome|Roma, Romano]]**
@@ -12,6 +12,7 @@
   * **[[:ceb:obe:other:nazareth|Nazaret, Nazarino]]**
   * **[[:ceb:obe:other:bethlehem|Betlehem, Eprata]]**
   * **[[:ceb:obe:other:david|David]]**
+
 ===== Dugang nga Pasabot: =====
 
   * **Sa dihang hapit na manganak si Maria -**  Nagpasabot kini nga, “Sa dihang hapit na mahuman ang pagbuntis ni Maria.”
