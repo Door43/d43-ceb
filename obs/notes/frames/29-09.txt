@@ -2,14 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
-**Human niini miingon si Jesus ** , “Mao usab kini ang himoon sa ** akong Amahan sa langit ** sa tanan nga dili makapasaylo sa kinasingkasing sa ** iyang isigkatawo nga nakasala kaniya ** .”
-
-===== Mahinungdanon nga Pulong: =====
+**Human niini miingon si Jesus ** , “Mao usab kini ang himoon sa ** akong Amahan sa langit ** sa tanan nga dili makapasaylo sa kinasingkasing sa ** iyang isigkatawo nga nakasala kaniya**.”
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
   * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
   * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
-===== Dugang nga pagpasabot: =====
+===== Dugang nga Pasabot: =====
 
   * **Human niini miingon si Jesus **- Sa uban nga mga pinulongan adunay gidugang niini, “…sa iyang mga tinun-an.”
   * **kini **- Nagpasabot ang “kini” sa paagi sa hari sa pagsilot sulugoon nga wala nagpasaylo sa iyang kauban sa **[[:ceb:obs:notes:frames:29-08|[29-08]]]**.
