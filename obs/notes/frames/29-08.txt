@@ -2,16 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“ ** Gipatawag sa hari ang sulugoon ** ug giingnan, ‘Daotan ka nga sulugoon!  ** Gikalimtan ko na gani ang imong mga utang ** tungod kay ** nagpakiluoy ka kanako ** . ** Unya wala nimo buhata ang gihimo nako kanimo ** .’ Nasuko ug maayo ang hari mao nga iyang  ** gipapriso ** ang  ** daotan ** nga sulugoon hangtod mabayran niya ang tanan niyang mga utang.”
-
-===== Mahinungdanon nga Pulong: =====
+“ ** Gipatawag sa hari ang sulugoon ** ug giingnan, ‘Daotan ka nga sulugoon! ** Gikalimtan ko na gani ang imong mga utang ** tungod kay ** nagpakiluoy ka kanako ** . ** Unya wala nimo buhata ang gihimo nako kanimo ** .’ Nasuko ug maayo ang hari mao nga iyang ** gipapriso ** ang ** daotan ** nga sulugoon hangtod mabayran niya ang tanan niyang mga utang.”
+===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:king|hari]]**
   * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
   * **[[:ceb:obe:kt:forgive|pasaylo, pagpasaylo]]**
   * **[[:ceb:obe:other:beg|pakiluoy, makililimos]]**
   * **[[:ceb:obe:kt:evil|daotan, salaod, pagkadaotan]]**
-===== Dugang nga pagpasabot: =====
+===== Dugang nga Pasabot: =====
 
   * **Gipatawag … ang sulugoon **- Nagpasabot kini nga, “gimandoan niya ang sulugoon nga moadto kaniya” o, “gisugo niya ang iyang mga magbalantay nga dad-on ang sulugoon kaniya.”
   * **nagpakiluoy ka kanako**- Mahimo kini nga hubaron sama niini, “nangaliyupo kanako” o, “nangayo dayon ka ug kalooy kanako,” o, "nanghangyo kanako nga kaloy-an dayon ta ka.”
