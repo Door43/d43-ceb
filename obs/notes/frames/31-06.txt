@@ -1,15 +1,13 @@
-===== Peter Walked on the Water [31-06] =====
+===== Nilakaw si Pedro sa Tubig [31-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&}}
 
-So, **Peter** got out of the boat and started walking to **Jesus** on the surface of the water. But after walking a short distance, he **turned his eyes away from** Jesus and began to look at the waves and to feel the strong wind.
-===== Important Terms: =====
+Mao nga si Pedro naghawa sa bangka ug nagsulay ug lakaw padulong kang Jesus sa tubig. Apan paghuman niya ug lakaw sa mubo lamang nga distansya, **wala siya makatan-aw** kang Jesus ug nagtan-aw hinoon sa mga balod ug kusog nga hangin.
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+===== Dugang nga Pasabot: =====
 
   * **wala siya makatan-aw:**  Kini nagpasabot nga, “nitan-aw sa layo.” Ug mahimo usab kining hubaron nga, “mihunong ug tan-aw sa iyaha.”
 **[[:ceb:obs:notes:frames:31-05|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:31-07|>>]]**
