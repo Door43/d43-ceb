@@ -1,21 +1,17 @@
-====== Peter Sank [31-07] ======
+====== Naunlod si Pedro [31-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
+Unya si **Pedro ** nakabati ug kahadlok mao nga naunlod siya sa tubig. Nisyagit siya, "Master,** luwasa** ko! Diha-diha dayon gibira siya ni **Jesus. ** Unya miingon siya kang Pedro, "**Kagamay ba sa imong pagtuo, nganong nagduha-duha man ka?"**
+===== Mahinungdanon nga mga Pulong: =====
 
-
-===== Important Terms: =====
-
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:lord]]**
-  * **[[:ceb:obe:kt:save]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:faith]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:lord|lord, master, sir]]**
+  * **[[:ceb:obe:kt:save|luwas, pagluwas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:faith|Pagtuo]]**
+===== Dugang nga Pasabot: =====
 
   * **Kagamay ba sa imong pagtuo**: Mahimo usab kini nga hubaron, “Pagkagamay ba sa imong pagtuo nako!” o, “Wala gayod kay pagtuo kanako!”
-  * **Nganong nagduha-duha man ka?: ** Nagpasabot kini nga, “Nagsalig unta ka nako sa hingpit gayod!” o “Wala unta ka nagduha-duha nako!” Kini dili usa ka tinuod nga pangutana apan gigamit lang kini aron klaro nga maipasabot ang ka punto. Sa ubang pinulongan, mahimo kining hubaron nga dili pangutana ang pagkasulti.
+  * **Nganong nagduha-duha man ka?: **  Nagpasabot kini nga, “Nagsalig unta ka nako sa hingpit gayod!” o “Wala unta ka nagduha-duha nako!” Kini dili usa ka tinuod nga pangutana apan gigamit lang kini aron klaro nga maipasabot ang ka punto. Sa ubang pinulongan, mahimo kining hubaron nga dili pangutana ang pagkasulti.
 **[[:ceb:obs:notes:frames:31-06|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:31-08|>>]]**
