@@ -1,18 +1,14 @@
-===== Jesus Walked on the Water [31-03] =====
+===== Naglakaw si Jesus sa Tubig [31-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
-Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
-===== Important Terms: =====
+Paghuman ni **Jesus** ug ampo miadto siya sa mga tinun-an. Naglakaw siya sa tubig patabok sa linaw ngadto sa ilang bangka!
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:other:pray]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:other:pray|ampo, pag-ampo]]**
+===== Dugang nga Pasabot: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(Walay mga pulong nga ipasabot ani nga frame.)//
 **[[:ceb:obs:notes:frames:31-02|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:31-04|>>]]**
