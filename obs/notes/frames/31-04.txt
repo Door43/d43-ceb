@@ -1,17 +1,15 @@
-===== The Disciples Were Afraid [31-04] =====
+===== Nahadlok ang mga Tinun-an [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
-===== Important Terms: =====
+Nahadlok ang mga **tinun-an** pagkakita nila kang **Jesus**, tungod kay nagtuo sila nga nakakita silag **ungo**. Nakahibalo si Jesus nga sila nahadlok, mao nga gitawag niya sila ug miingon, "**Ayaw kamog kahadlok. Ako ni!**"
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+===== Dugang nga Pasabot: =====
 
-
-===== Translation Notes: =====
-
-  * **kalag: ** Nagpasabot kini nga, “espiritu.” Abi nila ug kalag si Jesus, tungod kay dili makahimo sa paglakaw ang tawo sa tubig.
-  * **Ayaw kamo ug kahadlok:**  Sa uban nga pinulongan mahimo kini nga ipaklaro ang pagkasulti sama sa, “Ayaw na kamo ug kahadlok.”
-  * **Ako kini! - ** Sa uban, maayo nga hubaron kini niining paagi, “Ako kini, si Jesus.”
+  * **kalag- ** Nagpasabot kini nga, “espiritu.” Abi nila ug kalag si Jesus, tungod kay dili makahimo sa paglakaw ang tawo sa tubig.
+  * **Ayaw kamo ug kahadlok-** Sa uban nga pinulongan mahimo kini nga ipaklaro ang pagkasulti sama sa, “Ayaw na kamo ug kahadlok.”
+  * **Ako kini! - **  Sa uban, maayo nga hubaron kini niining paagi, “Ako kini, si Jesus.”
 **[[:ceb:obs:notes:frames:31-03|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:31-05|>>]]**
