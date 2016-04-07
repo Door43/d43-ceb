@@ -1,8 +1,9 @@
-===== The Storm [31-02] =====
+===== Ang Bagyo [31-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
+**Samtang ** ang mga **tinun-an ** kamulo sa **pagsagwan sa ilang bangka**, naabtan sila ug lampas na sa gabii apan naa ra gihapon sila sa tunga sa linaw. **Naglisod sila pag-ayo** ug sagwan tungod kay ang hangin naghuyop padulong kanila.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:disciple]]**
