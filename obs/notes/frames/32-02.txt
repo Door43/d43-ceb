@@ -1,8 +1,9 @@
-===== A Man with Evil Spirits [32-02] =====
+===== Ang Tawo nga Adunay Dautang Espiritu [32-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
+Sa dihang nakaabot na sila sa pikas nga bahin sa linaw, **ang tawo nga adunay dautang espiritu midangan padulong kang Jesus**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:demonpossessed]]**
