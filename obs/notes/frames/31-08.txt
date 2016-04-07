@@ -1,22 +1,20 @@
-===== The Son of God [31-08] =====
+===== Ang Anak sa Dios [31-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&}}
 
-**When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
-===== Important Terms: =====
+**Pagsakay ni Pedro ug ni Jesus sa bangka, ang hangin **nikalit lang ug undang ug ang tubig nahimong kalmado. Ang mga** tinun-an** nahibulong. Ilang gisimba si Jesus, ug miingon, "**Tinuod gayod nga ikaw ang anak sa Dios.****"**
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:worship]]**
-  * **[[:ceb:obe:kt:true]]**
-  * **[[:ceb:obe:kt:sonofgod]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:worship|simba]]**
+  * **[[:ceb:obe:kt:true|tinuod, kamatuoran]]**
+  * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
+===== Dugang nga Pasabot: =====
 
   * **Pagsakay ni Pedro ug ni Jesus sa bangka … ang hangin **- Mahimo usab kining ingnon nga, “Pagsakay ni Pedro ug Jesus sa sakayan, unya ang hangin..”
-  * **Gisimba nila si Jesus **- Mahimo usab kini nga hubaron ug, “Miluhod ug misimba sila kang Jesus."  Kini nga mga pulong naghisgot sa pagyukbo sa usa ka tawo sa atubangan sa laing tawo aron sa pagtahod ug pagrespeto kaniya.
+  * **Gisimba nila si Jesus **- Mahimo usab kini nga hubaron ug, “Miluhod ug misimba sila kang Jesus." Kini nga mga pulong naghisgot sa pagyukbo sa usa ka tawo sa atubangan sa laing tawo aron sa pagtahod ug pagrespeto kaniya.
   * **Tinuod gayod nga ikaw ang anak sa Dios **- Sa laing paagi, mahubad kini nga, “Ikaw gayod ang Anak sa Dios” o, “Tinuod gayod nga ikaw mao ang Anak sa Dios.”
   * **//Kining istorya gikan sa Biblia, ug alang sa kasayoran niining istoryaha aduna kini kalahian sa ubang mga hubad sa uban nga Biblia.// **
 **[[:ceb:obs:notes:frames:31-07|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:32-01|>>]]**
