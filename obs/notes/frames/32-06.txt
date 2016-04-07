@@ -1,8 +1,9 @@
-===== My Name Is Legion [32-06] =====
+===== Lehiyon ang Akong Ngalan [32-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
-The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
+Ang **lalaki nga adunay demonyo nisyagit**, "**Unsa imong kinahanglan kanako, Jesus, Anak sa Labing Halangdon nga Dios?** Palihog ayaw ako siloti!" Unya nangutana si Jesus sa demonyo, "Unsa imong pangalan?" **Siya mitubag**, "**Lehiyon** ang akong ngalan, tungod kay **daghan kami**." (Ang "lehiyon" grupo sa pipila ka libong sundalo sa Roman nga kasundalohan.)"
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:demonpossessed]]**
