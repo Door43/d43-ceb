@@ -1,8 +1,11 @@
-===== The Country of the Gerasenes [32-01] =====
+===== Ang Nasud sa Gerasenes [32-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
 **One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
+
+**Usa ka adlaw**, si **Jesus** ug ang mga **tinun-an** niadto sa bangka patabok sa linaw padulong sa rehiyon diin nagpuyo ang **katawhan sa Gerasene**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
