@@ -1,17 +1,15 @@
-===== Jesus Called Peter [31-05] =====
+===== Gitawag ni Jesus si Pedro [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+Unya miingon si **Pedro ** kang **Jesus**, "**Master, kung ikaw kana**, ingna ko nga muadto kanimo diha sa tubig." Miingon si Jesus kang Pedro, "**Ali!**"
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:peter]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:lord]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:peter|Pedro, Simon Pedro, Cepas]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:lord|lord, master, sir]]**
+===== Dugang nga Pasabot: =====
 
   * **Kung ikaw kana**: Nagpasabot kini nga, "Kung tinuod nga ikaw na Jesus ug dli kalag."
-  * **Ali diri! - ** (sa literal, ali.)  Nagpasabot kini nga, “Anhi sa ako’ o, “Anhi kanako” o, “Ali, lakaw nganhi kanako.”
+  * **Ali diri! - **  (sa literal, ali.) Nagpasabot kini nga, “Anhi sa ako’ o, “Anhi kanako” o, “Ali, lakaw nganhi kanako.”
 **[[:ceb:obs:notes:frames:31-04|<<]] | [[:ceb:obs:notes:31|Up]] | [[:ceb:obs:notes:frames:31-06|>>]]**
