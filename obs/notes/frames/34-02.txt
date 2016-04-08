@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
 "Apan kung ang liso sa mustasa motubo, mahimo na kining dako nga mga pananom sa umahan, sakto sa kadako nga bisan ang mga langgam **mopahulay sa** iyang sanga.
-
 ===== Mahinungdanon nga mga Pulong: =====
 
-===== Translation Notes: =====
+===== Dugang nga Pasabot: =====
 
   * **liso sa mustasa**- tan-awa kung giunsa nimo paghubad kining terminoha sa **[[:ceb:obs:notes:frames:34-01|[34-01]]]**.
-  * **pagtubo** – Mahimo usab nga dugangan ug, “... motubo kini nga usa ka dako nga tanom.”
-  * **mga pananom sa umahan** – Mahimo usab kining hubaron nga, “tanom nga pwede matanom sa tanaman.”
-  * **mopahulay sa** – Mahimo usab kining hubaron nga, “motugpa” o, “mobatog.”
+  * **pagtubo**  – Mahimo usab nga dugangan ug, “… motubo kini nga usa ka dako nga tanom.”
+  * **mga pananom sa umahan**  – Mahimo usab kining hubaron nga, “tanom nga pwede matanom sa tanaman.”
+  * **mopahulay sa**  – Mahimo usab kining hubaron nga, “motugpa” o, “mobatog.”
 **[[:ceb:obs:notes:frames:34-01|<<]] | [[:ceb:obs:notes:34|Up]] | [[:ceb:obs:notes:frames:34-03|>>]]**
