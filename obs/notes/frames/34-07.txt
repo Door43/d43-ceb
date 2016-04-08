@@ -4,14 +4,13 @@
 
 "Ang **pangulo sa relihiyon moampo sama niini**, 'Salamat, **Dios**, nga **dili ako makasasala sama sa** ubang tawo- sama sa kawatan,** dili matarong nga tawo, mananapaw, ** o sama sa **tigkolekta ug buwis**."
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:jewishleaders]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:adultery]]**
-  * **[[:ceb:obe:other:taxcollector]]**
-
+  * **[[:ceb:obe:other:jewishleaders|mga pangulo sa mga Judio, mga pangulo sa relihiyon sa mga Judio]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:adultery|panapaw, mananapaw, nagpanapaw, mananapaw nga babaye]]**
+  * **[[:ceb:obe:other:taxcollector|maniningil ug buhis]]**
 
 ===== Translation Notes: =====
 
