@@ -1,8 +1,9 @@
-===== Who Touched Me? [32-15] =====
+===== Kinsa ang Naghikap kanako? [32-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
+Diha-diha dayon, napansin ni Jesus nga adunay **migawas nga gahom kaniya**. Mao nga milingi siya ug nangutana, "kinsa ang naghikap kanako?" Nitubag ang** tinun-an**, "**Nganong mangutana pa man ka kon kinsay mihikap kanimo?"**
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
