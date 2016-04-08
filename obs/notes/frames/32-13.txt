@@ -1,8 +1,9 @@
-===== The Sick Woman [32-13] =====
+===== Ang Masakiton nga Babaye [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
+Si **Jesus** nibalik sa pikas bahin sa linaw. Pag-abot niya didto, daghanng mga tawo ang **nagdasok sa pag-alirong kaniya. ** Sa dakong pundok sa mga tawo adunay usa ka babaye nga nag-antus ug pagregla sulod sa dose(12) ka tuig. Nabayad na niya ang tanan niyang kwarta sa mga doktor aron **ayohon** nila siya, **apan nisamot hinuon kini**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
