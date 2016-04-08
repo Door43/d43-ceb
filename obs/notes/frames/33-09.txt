@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:good]]**
-  * **[[:ceb:obe:kt:wordofgod]]**
-  * **[[:ceb:obe:kt:believe]]**
-
+  * **[[:ceb:obe:kt:good|maayo,kamaayo]]**
+  * **[[:ceb:obe:kt:wordofgod|pulong sa Dios, pulong ni Yahweh, ang pulong sa Ginoo, kasulatan]]**
+  * **[[:ceb:obe:kt:believe|pagtuo, pagtuo sa, tinuohan]]**
 
 ===== Translation Notes: =====
 
