@@ -1,8 +1,9 @@
-===== Persecution and Hardship [33-07] =====
+===== Ang Paglutos ug Kalisdanan [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
+"Ang **kabatohan mao ang tawo** nga nakadungog sa **pulong sa Dios** ug **gidawat niya kini nga malipayon. ** Apan sa dihang nakabaton siya ug kalisdanan ug **paglutos**, siya **niundang**."
+
 ===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:kt:wordofgod|pulong sa Dios, pulong ni Yahweh, ang pulong sa Ginoo, kasulatan]]**
