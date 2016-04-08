@@ -1,8 +1,9 @@
-===== Healed by Faith [32-16] =====
+===== Naayo Tungod sa Pagtuo [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
+**Miluhod ang babaye sa atubangan ni Jesus, nagkurog ug nahadlok pag-ayo. **Unya giangkon niya iyang gibuhat, ug nga tungod ato siya naayo. Miingon si Jesus kaniya, "**Ang imong pagtuo maoy nakaayo kanimo. Lakaw nga malinawon.**"
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
