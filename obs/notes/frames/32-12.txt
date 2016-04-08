@@ -1,8 +1,9 @@
-===== The Testimony of the Man [32-12] =====
+===== Ang Tistimonyas sa Lalaki [32-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink&}}
 
-So the man went away and told everyone about what **Jesus** had done for him. Everyone who **heard his story was filled with wonder and amazement**.
+Ang lalaki nilakaw ug gisultihan ang tanan sa maayong gibuhat kaniya ni **Jesus**. Ang tanan nga **nakadungog sa iyang istorya na puno ug katingalahan ug kahibulongan.**
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
