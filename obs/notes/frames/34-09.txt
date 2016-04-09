@@ -3,7 +3,6 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
 "Apan ang **tigkolekta ug buhis** **mitindog palayo** sa **pangulo sa relihiyon**, ug **wala gani mitan-aw sa langit**. Hinoon, **iyang gidukdok ang iyang dughan** ug **niampo**, "**Dios**, **kaloy-i ** ako kay ako **makasasala**.
-
 ===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:other:taxcollector|maniningil ug buhis]]**
@@ -13,8 +12,7 @@
   * **[[:ceb:obe:kt:god|Dios]]**
   * **[[:ceb:obe:kt:mercy|kalooy, maloloy-on]]**
   * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
-
-===== Translation Notes: =====
+===== Dugang nga Pasabot: =====
 
   * **mitindog mipalayo **- mahimo usab kining hubaron sama niini, “mitindog sa halayo” o, “naglain.”
   * **wala gani mitan-aw sa langit**  – Ang pulong nga “wala man gani” nagpasabot nga kasagaran sa mga tawo mohangad sa langit kung mag-ampo sa Dios, apan kining tawhana wala mohangad tungod kaw naulaw siya pag-ayo sa iyang mga sala.
