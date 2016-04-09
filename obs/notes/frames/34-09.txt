@@ -1,8 +1,9 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== Ang Ampo sa Tigkolekta ug Buhis [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
+"Apan ang **tigkolekta ug buhis** **nagtindog layo** sa **pangulo sa relihiyon**, ug **wala man lang nihangad sa langit**. Hinoon, **giduk-dok niya iyang dughan sa iyang kumo** ug **niampo**, "**Dios**, **kaloy-i ** ako kay ako **makasasala**."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:other:taxcollector]]**
