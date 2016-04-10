@@ -1,17 +1,15 @@
-===== Prepare the Feast [35-09] =====
+===== Andama ang Pagsaulog [35-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
+"Apan ang iyang amahan miingon sa iyang sulugoon, 'Lakaw ug dalaha ang pinaka maayong biste ug ipasul-ob kini sa akong anak! Sul-obi siyag sing-sing sa iyang tudlo ug hatagi siyag sandal sa iyang tiil. Ug ihawa **ang labing maayo nga nating baka ** aron kita magsaulog, tungod kay **ang akong anak nga lalaki patay na, apan karon buhi na siya! Siya nawala, apan karon nakit-an na! **
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:servant]]**
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:kt:life]]**
-
-
-===== Translation Notes: =====
+  * **[[:ceb:obe:other:servant|sulugoon, ulipon, pagkaulipon]]**
+  * **[[:ceb:obe:kt:son|anak nga lalaki]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+===== Dugang nga Pasabot: =====
 
   * **ang labing maayo nga nating baka**  – Mahimo usab kining hubaron nga, “pinakatambok nga baka.” Mao ning gipatambok nga baka aron ihawon ug lutoon nga lamian kaayo.
   * **ang akong anak nga lalaki patay na, apan karon buhi na siya **– Nagpasabot nga, “kini sama sa akong anak nga namatay na ug nabuhi pag-usab!” o, “naguol ako sama sa pagkamatay sa akong anak, apan nagakalipay ako sama sa pagkabuhi niya gikan sa kamatayon.” Gigamit kining pagpahayag sa amahan aron mapakita nga malipayon siya nga mibalik na ang iyang anak.
