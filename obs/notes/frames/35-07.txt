@@ -1,18 +1,13 @@
-===== The Father's Welcome [35-07] =====
+===== Ang Pagdawat sa Amahan [35-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink&}}
 
-“So the younger **son** started back towards his father's home. When he was **still far away**, his father saw him and **felt compassion** for him. He ran to his son and hugged him and kissed him.”
+"Ang manghod nga **anak** mipauli sa balay sa iyang amahan. **Sa diha nga layo pa siya**, nakita siya sa iyang amahan ug nalooy. Midagan siya sa iyang anak ug gigakos ug kihalukan kini."
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:kt:son|anak nga lalaki]]**
+===== Dugang nga Pasabot: =====
 
-===== Important Terms: =====
-
-  * **[[:ceb:obe:kt:son]]**
-
-
-===== Translation Notes: =====
-
-  * **Sa diha nga layo pa siya,**
- - Mahimo usab kining hubaron nga, “Makita na ang balay sa iyang amahan, apan sa layo-layo pa.” Nagpasabot nga duol-duol na ang anak sa balay sa iyang amahan apan layo-layo pa gihapon tungod kay wala pa siya mailhi sa mga tawo sa balay. Ipaklaro gayod kini nga dili magpasabot nga anaa pa siya sa laing lungsod.
+  * **Sa diha nga layo pa siya - ** Mahimo usab kining hubaron nga, “Makita na ang balay sa iyang amahan, apan sa layo-layo pa.” Nagpasabot nga duol-duol na ang anak sa balay sa iyang amahan apan layo-layo pa gihapon tungod kay wala pa siya mailhi sa mga tawo sa balay. Ipaklaro gayod kini nga dili magpasabot nga anaa pa siya sa laing lungsod.
   * **nalooy**– Nagpasabot nga, “mibati ug paghigugma ug kalooy.”
 **[[:ceb:obs:notes:frames:35-06|<<]] | [[:ceb:obs:notes:35|Up]] | [[:ceb:obs:notes:frames:35-08|>>]]**
