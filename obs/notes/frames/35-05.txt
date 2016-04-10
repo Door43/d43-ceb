@@ -2,14 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
-"Pagkahuman, **usa ka grabe nga tinggutom ang nahitabo ** sa dapit diin tua ang manghod nga anak nga lalai, ug **wala na siyay kuwarta nga ikapalit ug pagkaon. ** Mao nga mitrabaho siya, **tigbahog sa mga baboy. ** Makalolooy ug gutom kaayo siya nga gusto na niya kaunon ang pagkaon sa mga baboy."
-
+"Pagkahuman, **usa ka grabe nga tinggutom ang nahitabo ** sa dapit diin tua ang manghod nga anak nga lalai, ug **wala na siyay kuwarta nga ikapalit ug pagkaon. ** Mao nga **mitrabaho** siya, **tigbahog sa mga baboy. ** Makalolooy ug gutom kaayo siya nga gusto na niya kaunon ang pagkaon sa mga baboy."
 ===== Mahinungdanon nga mga Pulong: =====
 
-===== Translation Notes: =====
+===== Dugang nga Pasabot: =====
 
   * **usa ka grabe nga tinggutom ang nahitabo**  – Nagpasabot nga, “gamay na lang ang makaon.” Sa ubang pinulongan mahimong hubaron kini sama niini, “adunay hilabihan nga gutom.”
   * **wala na siyay kuwarta nga ikapalit ug pagkaon**  – Tungod sa tinggutom, nagmahal ug maayo ang mga makaon, ug nagasto na niya ang tanan niyang kwarta.
-  * **mitrabaho** – Ang bout ipasabot niini nga nagtrabaho siya sa ubang tawo aron makakwarta. Kung dili ni siya klaro, pwede sugdan ang istorya nga “aron makakwarta, mitrabaho na lang siya sa usa ka trabaho nga walay gusto motrabaho.”
+  * **mitrabaho**  – Ang bout ipasabot niini nga nagtrabaho siya sa ubang tawo aron makakwarta. Kung dili ni siya klaro, pwede sugdan ang istorya nga “aron makakwarta, mitrabaho na lang siya sa usa ka trabaho nga walay gusto motrabaho.”
   * **tigbahog sa mga baboy **– Nagpasabot nga, “tigpakaon sa mga baboy.” Mao kini ang pinakaubos nga trabaho sa katilingban niadtong panahona. Kung ang imong pinulongan adunay mga pulong nga magamit alang niining trabahoa, mahimo kining gamiton dinhi.
 **[[:ceb:obs:notes:frames:35-04|<<]] | [[:ceb:obs:notes:35|Up]] | [[:ceb:obs:notes:frames:35-06|>>]]**
