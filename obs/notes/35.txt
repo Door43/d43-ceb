@@ -9,7 +9,7 @@ Ang mga pangulo sa relihiyon nagreklamo sa matag usa tungod kay si Jesus nagtudl
 I-click ang mga litrato para sa paghubad sa kada bahin sa istorya:
 
 [[:ceb:obs:notes:frames:35-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&200}}]]\\
-Si Jesus Gitudloan ang mga Makasasala [35-01]
+Gitudloan ni Jesus ang mga Makasasala [35-01]
 
 [[:ceb:obs:notes:frames:35-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&200}}]]\\
 Ang Pangulo sa Relihiyon Nagbagulbol [35-02]
@@ -21,7 +21,7 @@ Ang Duha ka Anak nga Lalaki [35-03]
 Ang Manghod nga Anak nga Lalaki [35-04]
 
 [[:ceb:obs:notes:frames:35-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&200}}]]\\
-Ang Taggutom [35-05]
+Ang Tinggutom [35-05]
 
 [[:ceb:obs:notes:frames:35-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&200}}]]\\
 Ang Anak Nangayog Pasaylo [35-06]
