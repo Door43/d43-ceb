@@ -1,8 +1,9 @@
-===== The Brother Is Angry [35-11] =====
+===== Ang Igsoon Nasuko [35-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
-“When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
+"Sa dihang nahibaw-an sa magulang nga anak nga nagsaulog sila tungod kay niuli na ang igsoon niya, nasuko siya pag-ayo ug wala misulod sa balay. Nigawas ang iyang amahan ug **nihangyo** kaniya nga musulod ug magsaulog kauban nila, apan siya wala misugot."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:son]]**
