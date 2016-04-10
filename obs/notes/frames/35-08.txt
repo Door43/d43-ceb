@@ -1,17 +1,16 @@
-===== I Have Sinned [35-08] =====
+===== Ako Nakasala [35-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
-“The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
-===== Important Terms: =====
+"Ang anak miingon, '**Amahan, nakasala ako batok sa Dios ug batok kanimo. Dili na ako takos **aron mahimo nimong anak.
 
-  * **[[:ceb:obe:kt:son]]**
-  * **[[:ceb:obe:kt:sin]]**
-  * **[[:ceb:obe:kt:god]]**
+===== Mahinungdanon nga mga Pulong: =====
 
+  * **[[:ceb:obe:kt:son|anak nga lalaki]]**
+  * **[[:ceb:obe:kt:sin|sala, makasasala, sad-an, pagpakasala]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga Pasabot: =====
 
-===== Translation Notes: =====
-
-  * **Amahan, nakasala ako batok sa Dios ug batok kanimo**  – mahimo kining hubaron nga, “nakasala sa Dios, ug nakasala  kanimo.”
+  * **Amahan, nakasala ako batok sa Dios ug batok kanimo**  – mahimo kining hubaron nga, “nakasala sa Dios, ug nakasala kanimo.”
   * **Dili na ako takos**  – Mahimo usab kining isulti nga, “wala na koy katungod” o, “tungod niini, wala koy katakos.”
 **[[:ceb:obs:notes:frames:35-07|<<]] | [[:ceb:obs:notes:35|Up]] | [[:ceb:obs:notes:frames:35-09|>>]]**
