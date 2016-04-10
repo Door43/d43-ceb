@@ -1,8 +1,9 @@
-===== Working for Nothing [35-12] =====
+===== Nagtrabaho sa Wala [35-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
+"Ang magulang nga anak miingon sa iyang amahan, 'Sa pipila ka niaging tuig **matinud-anon** ko nga nagtrabaho kanimo! Wala gayud ako **nagsupak** kanimo, unya wala man lang ko nimo gihatagan bisag **usa lang ka gamay nga kanding ** aron makasaulog ko kauban akong mga amigo. Apan **kining anak nimo ** nga **nag-usik-usik sa imong kwarta** sa **makasasala** nga binuhatan niabot, **giihawan dayon nimo siya ug labing maayo nga nating baka!**"
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:faithful]]**
