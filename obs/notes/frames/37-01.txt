@@ -1,8 +1,9 @@
-===== Lazarus Was Sick [37-01] =====
+===== Nagsakit si Lasaro [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
+**Usa ka adlaw**, si **Jesus** nakadawat ug balita nga si **Lasaro** nagsakit. Si Lasaro ug ang duha niya ka babae nga igsoon, **Maria** ug Marta, suod kaayo nga higala ni Jesus. Pagdungod ni Jesus niini nga balita, miingon siya, "**Kining sakita dili matapos sa kamatayon, ** apan **kini alang sa himaya sa Dios.**" Palangga ni Jesus iyang mga higala, **apan mihulat siya atong dapita sa duha ka adlaw.**
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
