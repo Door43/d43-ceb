@@ -1,8 +1,9 @@
-===== Mary Met Jesus [37-06] =====
+===== Gisugat ni Maria si Jesus [37-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
+Unya niabot si Maria. **Mihapa sa yuta ** sa tiilan ni Jesus ug miingon, "Master, kung anaa lang unta ka ato nga panahon, wala unta mamatay akong igsoon." Nangutana si Jesus kanila, "Asa ninyo gibutang si Lasaro?" Nitubag sila, "Tua sa lubnganan. Ali ug tan-awa." Unya si Jesus mihilak.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
