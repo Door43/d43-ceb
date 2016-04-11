@@ -1,8 +1,9 @@
-===== Keep the Secret [36-07] =====
+===== Tagu-i ang Sekreto [36-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
+Si **Jesus** ug ang tulo ka **tinun-an** milakaw panaog sa bungtod. Unya si Jesus miingon kanila, "Ayaw usa ninyo iingon bisan kinsa ang nahitabo diri. **Mamatay** ko puhon ug mabanhaw pag-usab. Pagkahuman niana, mahimo na ninyong ingnan ang mga tawo."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
