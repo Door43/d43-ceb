@@ -1,8 +1,9 @@
-===== Open the Tomb [37-07] =====
+===== Ablihi ang Lubnganan [37-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
+Ang lubnganan usa ka langob nga adunay bato nga iligid aron maablihan. Pag-abot ni Jesus sa lubnganan, **miingon siya kanila, "Iligid ninyo  paabli ang bato." **Apan miingon si Marta, "**Upat ka adlaw na siyang patay. ** Baho na gayud sa sulod."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:other:tomb]]**
