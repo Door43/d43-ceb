@@ -1,8 +1,9 @@
-===== I Am the Resurrection [37-05] =====
+===== Ako ang Pagkabanhaw [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
+Mitubag si Jesus, "**Ako mao ang Pagkabanhaw ug ang Kinabuhi. Bisan kinsa nga motuo kanako mabuhi, bisan siya mamatay. **Tanan nga muto kanako **dili gayod mamatay**. Motuo ba kami niini?" Mitubag si Marta, "O, Master! nagtuo ko nga ikaw ang Mesiyas, ang Anak sa Dios."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
