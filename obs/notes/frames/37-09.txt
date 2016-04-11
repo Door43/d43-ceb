@@ -1,8 +1,9 @@
-===== Jesus' Prayer [37-09] =====
+===== Ang Pag-ampo ni Jesus [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
+Unya si Jesus mihangad sa langit ug miingon, "Amahan, salamat sa imong **pagpaminaw kanako**. Kabalo ko kanunay ka nga nagapaminaw kanako, apan iingon ko kini kanimo aron makita sa tanan, aron sila **mutuo** nga ako gipadala nimo." Unya si Jesus miingon, "**Lasaro, gawas**!"
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
