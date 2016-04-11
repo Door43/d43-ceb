@@ -1,8 +1,9 @@
-===== The Two Robbers [40-04] =====
+===== Ang Duha ka Kawatan [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
+**Gilansang** si **Jesus** taliwala sa **duha ka kawatan**. Usa kanila** gibugalbugalan** si Jesus, apan ang isa miingon, "Wala ba kay kahadlok sa** Dios**? **Sad-an kita, apan kining tawhana walay sala.**" Unya miingon siya kang Jesus, "**Palihog hinumdomi ko sa imong gingharian.**" Mitubag si Jesus, "Karon ikaw makauban nako sa **Paraiso**."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
