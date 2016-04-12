@@ -1,8 +1,9 @@
-===== The Soldier's Testimony [40-08] =====
+===== Ang Testimonyas sa Sundalo [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
+**Pinaagi sa iyang pagkamatay**, **si Jesus nag abri ug dalan** aron ang mga tawo **makaduol sa Dios**. Pagkakita sa sundalo nga nagbantay kang Jesus sa tanang nahitabo, miingon siya, "Kining tawhana **inosente**, siya **Anak sa Dios**."
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:death]]**
