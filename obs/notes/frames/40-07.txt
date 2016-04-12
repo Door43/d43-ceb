@@ -1,8 +1,9 @@
-===== Jesus Died [40-07] =====
+===== Namatay si Jesus[40-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
+Misinggit si **Jesus**, "**Human na! Amahan**, ihatag ko na sa** imong kamot ang akong kalag.**" Unya** miduko siya** ug **gihatag ang iyang kalag**. **Pagkamatay** niya, adunay kusog nga linog unya ang **dakong kurtina** nga nakabulag sa mga tawo sa prisensya sa **Dios** sa **Templo** kay napikas, sugod sa taas hangtud sa ubos.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
