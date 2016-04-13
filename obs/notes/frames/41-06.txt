@@ -4,15 +4,14 @@
 
 Unya ang **anghel** miingon sa babaye, "Adto ug ingna ang mga** tinun-an**, si **Jesus** nabanhaw na ug **mouna na kaninyo ug adto sa Galilee**."
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:raise]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:other:galilee]]**
-
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:raise|bayaw, gibayaw, banhaw, pagbangon, nibangon]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+  * **[[:ceb:obe:other:galilee|Galilea, mga taga-Galilea]]**
 
 ===== Translation Notes: =====
 
