@@ -1,8 +1,9 @@
-===== The Women [41-03] =====
+===== Ang Kababainhan [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
+Gilubong si **Jesus** sa adlaw nga **Igpapahulay**, ug ang mga **Judio wala gitugotan** nga moduaw sa lubnganan atong adlawa. Mao nga sayo pa kaayo sa buntag pagkahuman sa adlaw sa Igpapahulay, daghang kababainhan ang nag-andam sa pagduaw sa** lubnganan ** ni Jesus aron magbutang ug mga **panakot nga mahumot** sa lawas ni Jesus.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
