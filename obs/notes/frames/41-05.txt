@@ -4,14 +4,13 @@
 
 Pag-abot sa kababainhan sa lubnganan, miingon ang **anghel** kanila, "**Ayaw kamo kahadlok**. Si **Jesus** wala diri. **Siya nabanhaw gikan sa kamatayon**, sama sa giingon niya! Tan-awa sa sulod sa lubnganan. Ang mga kababainhan misulod sa lubnganan ug nakita nga wala na sa ang lawas ni Jesus sa iyang gihigdaan. Wala na ang iyang lawas!
 
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:angel]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:raise]]**
-  * **[[:ceb:obe:kt:death]]**
-  * **[[:ceb:obe:other:tomb]]**
-
+  * **[[:ceb:obe:kt:angel|anghel, arkanghel]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:raise|bayaw, gibayaw, banhaw, pagbangon, nibangon]]**
+  * **[[:ceb:obe:kt:death|kamatayon, mamatay, patay]]**
+  * **[[:ceb:obe:other:tomb|lubnganan, langob, simenteryo]]**
 
 ===== Translation Notes: =====
 
