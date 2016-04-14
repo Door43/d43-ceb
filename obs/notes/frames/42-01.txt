@@ -1,8 +1,9 @@
-===== The Two Disciples [42-01] =====
+===== Ang Duha ka Tinun-an [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
+Sa adlaw nga si **Jesus nabuhi ** gikan sa kamatayon, duha sa iyang** tinun-an ** nag-adto sa duol nga lungsod. Samtang naglakaw sila, nag-istorya sila bahin sa nahitabo kang Jesus. Nag-handom gayod sila nga siya mao ang **Mesiyas**, apan siya gipatay. Unya karon ang mga kababainhan miingon nga **nabanhaw** siya. Wala sila kamao unsa ang **tuohan**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
