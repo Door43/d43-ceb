@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?nolink}}
 
 During the next forty days, **Jesus** appeared to his **disciples** many times. Once, he even appeared to more than 500 people at the same time! He proved to his disciples in many ways that he was **alive**, and he taught them about the **kingdom of God**.
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:kt:life]]**
-  * **[[:ceb:obe:kt:kingdomofgod]]**
-
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:kt:life|kinabuhi, nagginhawa, buhi, nabuhi]]**
+  * **[[:ceb:obe:kt:kingdomofgod|gingharian sa Dios, gingharian sa langit]]**
 
 ===== Translation Notes: =====
 
