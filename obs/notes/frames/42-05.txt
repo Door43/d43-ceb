@@ -1,8 +1,9 @@
-===== Jesus Is Alive [42-05] =====
+===== Buhi si Jesus [42-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
-The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
+Ang duha ka lalaki miingon sa usag usa, "Mao kadto si **Jesus**! mao nga **ang atong mga kasing kasing nagbaga** sa dihang gitin-aw niya ang **pulong sa Dios** kanato! Diha diha dayon, nibalik sila sa **Jerusalem**. Pag-abot nila, giingnan nila ang mga **tinun-an**, "**Buhi ** si Jesus! Nakita namo siya!"
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
