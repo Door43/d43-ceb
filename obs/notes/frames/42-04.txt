@@ -1,8 +1,9 @@
-===== Breaking the Bread [42-04] =====
+===== Pagpikas sa Pan [42-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
-The two men invited **Jesus** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **God** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
+Ang duha ka lalaki gi-agda si **Jesus** nga mopuyo kanila, unya misugot siya. Sa dihang andam na sila nga mokaon sa panihapon, gikuha ni Jesus ang usa ka pan, nagpasalamat sa **Dios ** niini, ug gipikas kini. Sa kalit lang, nakita nila nga siya mao si Jesus. Apan pagkahuman **nawala na siya sa ilang panan-aw**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
