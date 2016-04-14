@@ -3,26 +3,22 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
 40 ka adlaw paghuman sa pagkabanhaw ni Jesus sa kamatayon, miingon siya sa mga tinun-an, “Pagpuyo kamo sa Jerusalem hangtud sa hatagan kamo sa akong **Amahan ** ug gahom **pagmoabot na ang Balaang Espiritu kaninyo**. “Unya si Jesus mikayab na padulong sa **langit,** ug **ang panganod nagtabon kaniya sa ilahang panan-aw.** Si Jesus milingkod **sa tuo nga kamot sa Dios ** aron magdumala sa **tanang butang**.
+===== Mahinungdanon nga mga Pulong: =====
 
-===== Important Terms: =====
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:disciple|tinun-an]]**
+  * **[[:ceb:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ceb:obe:kt:godthefather|Dios nga Amahan, Langitnon nga Amahan]]**
+  * **[[:ceb:obe:kt:power|gahom]]**
+  * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Spiritu sa Ginoo]]**
+  * **[[:ceb:obe:kt:heaven|langit, kawanangan, kalangitan, langitnon]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+===== Dugang nga Pasabot: =====
 
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:disciple]]**
-  * **[[:ceb:obe:other:jerusalem]]**
-  * **[[:ceb:obe:kt:godthefather]]**
-  * **[[:ceb:obe:kt:power]]**
-  * **[[:ceb:obe:kt:holyspirit]]**
-  * **[[:ceb:obe:kt:heaven]]**
-  * **[[:ceb:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **pagmoabot … kaninyo**
+ - Nagpasabot nga, “monaog kaninyo” o, “monaog taliwala kaninyo.”
+  * **ang panganod nagtabon kaniya sa ilahang panan-aw**  - Kini usab mahimong hubaron nga, “nawala siya sa panganod.”
+  * **sa tuo nga kamot sa Dios **- Kini usab hubaron nga, “tuo nga kiliran sa Dios.”
+  * **Tanang butang** - Nagpasabot nga, “sa tibuok nga butang.”
+  * //Istorya gikan sa Biblia// -Kini nga pakisayran lahi sa  uban nga pagkahubad sa ubang Biblia.
 **[[:ceb:obs:notes:frames:42-10|<<]] | [[:ceb:obs:notes:42|Up]] | [[:ceb:obs:notes:frames:43-01|>>]]**
