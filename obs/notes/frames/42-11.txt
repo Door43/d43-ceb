@@ -1,8 +1,9 @@
-===== Jesus Went to Heaven [42-11] =====
+===== Si Jesus Mikayab sa Langit [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
+40 ka adlaw paghuman sa pagkabanhaw ni Jesus sa kamatayon, miingon siya sa mga tinun-an, “Pagpuyo kamo sa Jerusalem hangtud sa hatagan kamo sa akong **Amahan ** ug gahom **pagmoabot na ang Balaang Espiritu kaninyo**. “Unya si Jesus mikayab na padulong sa **langit,** ug **ang panganod nagtabon kaniya sa ilahang panan-aw.** Si Jesus milingkod **sa tuo nga kamot sa Dios ** aron magdumala sa **tanang butang**.
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:jesus]]**
