@@ -3,7 +3,6 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
 Si Jesus miingon sa iyang mga **tinun-an, **“**Tanan nga awtoridad sa langit ug sa yuta gihatag kanako**. Mao nga lakaw, **pagbuhat ug tinun-an sa tanang grupo sa tawo** pinaagi sa **pagbawtismo** kanila **sa ngalan sa** Amahan, sa Anak, ug sa **Balaang Espiritu**, ug pinaagi sa pagtudlo kanila nga **masunod ** sa tanan nga akong gimando kaninyo. Hinumdumi, ako kanunay nga anaa kaninyo.”
-
 ===== Mahinungdanon nga mga Pulong: =====
 
   * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
@@ -15,12 +14,10 @@ Si Jesus miingon sa iyang mga **tinun-an, **“**Tanan nga awtoridad sa langit u
   * **[[:ceb:obe:kt:sonofgod|Anak sa Dios, ang Anak]]**
   * **[[:ceb:obe:kt:holyspirit|Balaang Espiritu, Espiritu sa Dios, Spiritu sa Ginoo]]**
   * **[[:ceb:obe:other:obey|tuman, matinumanon, pagtuman]]**
+===== Dugang nga Pasabot: =====
 
-===== Translation Notes: =====
-
-  * **All authority in heaven and on earth has been given to me** - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
-  * **make disciples of all people groups** - That is, "help people from every people group become my disciples."
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language. This phrase can also be repeated as in, "in the name of the Father, in the name of the Son, and in the name of the Holy Spirit."
-
-
+  *  **Tanan nga awtoridad sa langit ug sa yuta gihatag kanako**
+ - Kini hubaron nga, “ang Dios gihatag ang tanang gahom sa langit ug yuta.” o, “Gihatagan ko sa Dios ug hingpit nga gahom sa pagdumala sa tanang butang sa langit ug yuta” o “Adunay akoy gahom sa pagdumala sa langit ug sa yuta.”
+  * **pagbuhat ug tinun-an sa tanang grupo sa tawo**  - Nagpasabot nga, “tabangan ang mga tawo nga gikan sa ubang grupo sa tawo nga mahimong tinun-an.”
+  * **Sa ngalan sa** - Kini nga hugpong sa pulong nagpasabot nga, “pinaagi sa awtoridad ni’ ug, “ubos sa awtoridad ni.” Hubara ang pulong nga “ngalan” sa literal nga pamaagi kung kini masabtan bas a inyong pinulongan. Kini nga pulong mahimo usab nga utrohon ug ingon sama niini, “sa ngalan sa Amahan, sa ngalan sa Anak, ug sa ngalan sa Balaang Espiritu.”
 **[[:ceb:obs:notes:frames:42-09|<<]] | [[:ceb:obs:notes:42|Up]] | [[:ceb:obs:notes:frames:42-11|>>]]**
