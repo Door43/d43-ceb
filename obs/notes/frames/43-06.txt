@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
 
 “Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
-===== Important Terms: =====
+===== Mahinungdanon nga mga Pulong: =====
 
-  * **[[:ceb:obe:other:israel]]**
-  * **[[:ceb:obe:kt:jesus]]**
-  * **[[:ceb:obe:kt:miracle]]**
-  * **[[:ceb:obe:kt:power]]**
-  * **[[:ceb:obe:kt:god]]**
-  * **[[:ceb:obe:kt:crucify]]**
-
+  * **[[:ceb:obe:other:israel|Israel, mga Israelita, nasod sa Israel]]**
+  * **[[:ceb:obe:kt:jesus|Jesus, Jesu Cristo, Cristo Jesus]]**
+  * **[[:ceb:obe:kt:miracle|milagro, kahibulongan, ilhanan]]**
+  * **[[:ceb:obe:kt:power|gahom]]**
+  * **[[:ceb:obe:kt:god|Dios]]**
+  * **[[:ceb:obe:kt:crucify|Ilansang, paglansang]]**
 
 ===== Translation Notes: =====
 
