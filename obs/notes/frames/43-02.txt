@@ -1,8 +1,9 @@
-===== The Feast of Pentecost [43-02] =====
+===== Ang Kasaulogan sa Pentecostas [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
+Kada tuig, 50 ka adlaw pagkahuman sa **Pagsaylo**, ang mga **Judio** nagasaulog ug mahinungdanon nga adlaw nga gitawag ug **Pentecostas**. Ang Pentecostas mao ang panahon nga **ginasaulog sa mga Judio ang pag-ani sa trigo. ** Ang mga Judio nga gikan sa nagkalain-laing lugar sa kalibotan moadto sa **Jerusalem ** aron sa pagsaulog sa Pentecostas.** Karon nga tuig, **ang oras sa Pentecostas niabot isa ka semana pagkahuman ni **Jesus** ug balik sa **langit.**
+
 ===== Important Terms: =====
 
   * **[[:ceb:obe:kt:passover]]**
