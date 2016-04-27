@@ -2,8 +2,8 @@
 
 ==== "Mahinungdanong Mga Pulong" Ug "Ubang Mga Pulong" sa Listahan sa OBE: ====
 
-  * Listahan sa mga Mahinungdanong Mga Pulong sa Listahan sa OBE
-  * Listahan sa Ubang Mga Pulong sa Listahan sa OBE
+   * [[:ceb:obe:kt:home|Listahan sa mga Mahinungdanong Mga Pulong sa Listahan sa OBE]]
+   * [[:ceb:obe:other:home|Listahan sa Ubang Mga Pulong sa Listahan sa OBE]]
 
 ==== All Terms in the OBE: ====
 
