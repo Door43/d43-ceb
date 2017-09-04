@@ -1,0 +1,72 @@
+===== Table of Contents - Translation Manual Volume 1 =====
+
+This module answers the question: What is in Volume 1 of the translation manual?\\
+==== Translation Manual Volume 1 ====
+
+=== Introduction ===
+  - [[ceb:ta:vol1:translate:translate_manual]]
+  - [[ceb:ta:vol1:translate:translate_terms]]
+  - [[ceb:ta:vol1:translate:translate_whatis]]
+  - [[ceb:ta:vol1:translate:translate_why]]
+
+=== Defining a Good Translation === 
+  - [[ceb:ta:vol1:translate:guidelines_intro]]
+    - [[ceb:ta:vol1:translate:guidelines_clear]] 
+    - [[ceb:ta:vol1:translate:guidelines_natural]]
+    - [[ceb:ta:vol1:translate:guidelines_accurate]]
+    - [[ceb:ta:vol1:translate:guidelines_church_approved]]
+
+=== Meaning-Based Translation ===
+  - [[ceb:ta:vol1:translate:translate_process]]
+    - [[ceb:ta:vol1:translate:translate_discover]]
+    - [[ceb:ta:vol1:translate:translate_retell]]
+  - [[ceb:ta:vol1:translate:translate_fandm]]
+    - [[ceb:ta:vol1:translate:translate_form]]
+    - [[ceb:ta:vol1:translate:translate_levels]]
+  - [[ceb:ta:vol1:translate:translate_literal]]
+    - [[ceb:ta:vol1:translate:translate_wforw]]
+    - [[ceb:ta:vol1:translate:translate_problem]]
+  - [[ceb:ta:vol1:translate:translate_dynamic]]
+    - [[ceb:ta:vol1:translate:translate_tform]]
+
+=== Before Translating ===
+  - [[ceb:ta:vol1:translate:choose_team]]
+    - [[ceb:ta:vol1:translate:qualifications]]
+  - [[ceb:ta:vol1:translate:translate_source_text]]
+    - [[ceb:ta:vol1:translate:translate_source_licensing]]
+    - [[ceb:ta:vol1:translate:translate_source_version]]
+    - [[ceb:ta:vol1:translate:translate_original]]
+    - [[ceb:ta:vol1:translate:translate_manuscripts]]
+    - [[ceb:ta:vol1:translate:translate_textvariants]]
+  - [[ceb:ta:vol1:translate:translate_alphabet]]
+  - [[ceb:ta:vol1:translate:writing_decisions]]
+
+=== How to Start Translating === 
+  - [[ceb:ta:vol1:translate:translate_what]]
+  - [[ceb:ta:vol1:translate:first_draft]]
+  - [[ceb:ta:vol1:translate:resources_intro]]
+  - [[ceb:ta:vol1:translate:translate_help]]
+    - [[ceb:ta:vol1:translate:resources_types]]
+    - [[ceb:ta:vol1:translate:resources_links]]
+
+=== Just-in-Time Learning Part 1 ===
+  - [[ceb:ta:vol1:translate:translate_unknown]]
+    - [[ceb:ta:vol1:translate:translate_names]]
+  - [[ceb:ta:vol1:translate:figs_intro]]
+    - [[ceb:ta:vol1:translate:figs_metaphor]]
+    - [[ceb:ta:vol1:translate:figs_simile]]
+    - [[ceb:ta:vol1:translate:figs_rquestion]]
+    - [[ceb:ta:vol1:translate:figs_idiom]]
+    - [[ceb:ta:vol1:translate:figs_irony]]
+  - [[ceb:ta:vol1:translate:figs_order]]
+  - [[ceb:ta:vol1:translate:figs_you]]
+    - [[ceb:ta:vol1:translate:figs_youdual]]
+    - [[ceb:ta:vol1:translate:figs_yousingular]]
+  - [[ceb:ta:vol1:translate:figs_explicit]]
+    - [[ceb:ta:vol1:translate:figs_explicitinfo]]
+  - [[ceb:ta:vol1:translate:figs_hypo]]
+  - [[ceb:ta:vol1:translate:figs_events]]
+  - [[ceb:ta:vol1:translate:figs_parables]]
+
+
+
